@@ -1,0 +1,67 @@
+name: Scrape y publicar promociones (Panamá)
+
+on:
+  schedule:
+    # 6:00 AM y 6:00 PM (hora de Panamá) = 11:00 y 23:00 UTC
+    - cron: '0 11,23 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña "Actions"
+
+# Permisos necesarios para hacer commit y desplegar en Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Descargar el código del repositorio
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Configurar Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # 3. Instalar dependencias
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            # Instala las librerías típicas si no tienes requirements.txt
+            pip install requests pandas openpyxl beautifulsoup4 lxml
+          fi
+
+      # 4. Ejecutar el scraper (genera los CSVs)
+      - name: Run scraper
+        run: python scraper_super.py
+
+      # 5. Ejecutar el motor de IA (genera web/data.json)
+      - name: Run AI Engine
+        run: python ai_engine.py
+
+      # 6. Guardar los archivos generados (CSV y JSON) en el repositorio
+      - name: Commit and push generated files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Actualización automática de precios y data.json"
+          file_pattern: "*.csv web/data.json"
+
+      # 7. Configurar GitHub Pages
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # 8. Subir la carpeta "web" como artefacto para Pages
+      - name: Upload artifact (web folder)
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'web'
+
+      # 9. Desplegar en GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
