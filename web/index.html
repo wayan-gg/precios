@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mejores Promociones · Supermercados Panamá</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>🛒 Mejores Promociones</h1>
+      <p class="subtitle">Dónde comprar más barato hoy en Panamá</p>
+      <p class="updated" id="updated">Actualizando…</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="ganador-section" hidden>
+      <div class="champ">
+        <span class="champ-label">🏆 Mejor supermercado hoy</span>
+        <span class="champ-name" id="champ-name"></span>
+        <span class="champ-meta" id="champ-meta"></span>
+      </div>
+      <p class="champ-reason" id="champ-reason"></p>
+    </section>
+
+    <section>
+      <h2>Top promociones</h2>
+      <div class="filtros">
+        <input id="busqueda" type="search" placeholder="Buscar producto…" />
+        <select id="filtro-super"></select>
+        <select id="filtro-cat"></select>
+      </div>
+      <ol id="top-list" class="promo-list"></ol>
+      <p id="vacio" class="vacio" style="display:none;">Sin resultados con esos filtros.</p>
+    </section>
+
+    <section>
+      <h2>Comparativas por producto</h2>
+      <table class="cmp-table">
+        <thead>
+          <tr>
+            <th>Producto</th>
+            <th>Mejor tienda</th>
+            <th>Ahorro</th>
+            <th>Precios</th>
+          </tr>
+        </thead>
+        <tbody id="cmp-body"></tbody>
+      </table>
+      <p id="cmp-vacio" class="vacio" style="display:none;">Aún no hay comparativas suficientes.</p>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

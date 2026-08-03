@@ -1,0 +1,91 @@
+:root {
+  --bg: #0f172a;
+  --card: #1e293b;
+  --border: #334155;
+  --text: #e2e8f0;
+  --muted: #94a3b8;
+  --accent: #22d3ee;
+  --green: #4ade80;
+  --red: #f87171;
+  --amber: #fbbf24;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: "Inter", system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+.wrap { max-width: 1100px; margin: 0 auto; padding: 0 20px 60px; }
+
+header {
+  background: linear-gradient(135deg, #155e75, #1e3a8a);
+  padding: 34px 0 30px;
+  margin-bottom: 26px;
+}
+header h1 { font-size: 30px; font-weight: 800; letter-spacing: -0.5px; }
+.subtitle { color: #bae6fd; margin-top: 4px; }
+.updated { margin-top: 10px; font-size: 13px; color: #e0f2fe; opacity: .85; }
+
+h2 { margin: 34px 0 14px; font-size: 20px; font-weight: 800; }
+
+/* Campeón */
+.champ {
+  display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap;
+  background: var(--card); border: 1px solid var(--accent);
+  border-radius: 16px; padding: 18px 22px;
+}
+.champ-label { font-size: 13px; text-transform: uppercase; letter-spacing: 1px; color: var(--accent); }
+.champ-name { font-size: 26px; font-weight: 800; }
+.champ-meta { color: var(--muted); font-weight: 600; }
+.champ-reason { margin-top: 12px; color: var(--text); font-size: 14px; padding: 0 4px; }
+
+/* Filtros */
+.filtros { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 16px; }
+.filtros input, .filtros select {
+  background: var(--card); border: 1px solid var(--border); color: var(--text);
+  padding: 9px 12px; border-radius: 10px; font-size: 14px; min-width: 180px;
+}
+.filtros input { flex: 1; min-width: 220px; }
+
+/* Lista de promos */
+.promo-list { list-style: none; display: grid; gap: 12px; }
+.promo-list li {
+  display: grid; grid-template-columns: 44px 1fr auto; gap: 14px; align-items: center;
+  background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 14px 16px;
+}
+.rank {
+  width: 38px; height: 38px; border-radius: 10px; display: grid; place-items: center;
+  font-weight: 800; background: var(--accent); color: #083344;
+}
+.p-info h3 { font-size: 15px; font-weight: 600; }
+.p-info .cat { font-size: 12px; color: var(--muted); margin-top: 2px; }
+.p-info .reason { font-size: 12.5px; color: var(--green); margin-top: 6px; }
+.p-precios { text-align: right; }
+.p-precios .oferta { font-size: 18px; font-weight: 800; }
+.p-precios .regular { font-size: 13px; color: var(--muted); text-decoration: line-through; }
+.badge {
+  display: inline-block; background: var(--green); color: #052e16;
+  font-weight: 800; font-size: 12px; padding: 3px 8px; border-radius: 8px; margin-top: 6px;
+}
+a.compra { display: inline-block; margin-top: 8px; font-size: 12px; color: var(--accent); text-decoration: none; }
+a.compra:hover { text-decoration: underline; }
+
+/* Tabla comparativas */
+.cmp-table { width: 100%; border-collapse: collapse; background: var(--card); border-radius: 14px; overflow: hidden; }
+.cmp-table th, .cmp-table td { padding: 11px 14px; text-align: left; border-bottom: 1px solid var(--border); font-size: 14px; }
+.cmp-table th { background: #172033; color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .5px; }
+.cmp-table td.precios { color: var(--red); }
+.cmp-table .ganador { color: var(--green); font-weight: 800; }
+.cmp-table .ahorro { color: var(--amber); font-weight: 700; text-align: right; }
+
+.vacio { color: var(--muted); text-align: center; padding: 30px 0; }
+
+@media (max-width: 640px) {
+  .promo-list li { grid-template-columns: 1fr; }
+  .rank { display: none; }
+  .cmp-table td.precios, .cmp-table th:nth-child(4) { display: none; }
+}
