@@ -91,8 +91,6 @@ ELREY_CATEGORIES = [
 ]
 
 MACHETAZO_URL = "https://www.elmachetazo.com"
-# Categorias del menu. Las rutas '/deportes' y '/bicicletas' son las que expone la API
-# (el enlace del menu '/deportes-y-bicicletas/' no es una categoria de catalogo).
 MACHETAZO_CATEGORIES = [
     ("Supermercado", f"{MACHETAZO_URL}/supermercado"),
     ("Farmacia", f"{MACHETAZO_URL}/farmacia"),
@@ -109,7 +107,6 @@ MACHETAZO_CATEGORIES = [
 ]
 
 SUPERXTRA_URL = "https://www.superxtra.com"
-# Categorias del menu lateral (slugs VTEX)
 SUPERXTRA_CATEGORIES = [
     ("Supermercado", f"{SUPERXTRA_URL}/supermercado"),
     ("Licor, Cerveza y Vino", f"{SUPERXTRA_URL}/licor-cerveza-y-vino"),
