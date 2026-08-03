@@ -1,55 +1,122 @@
+name: Scrape y publicar promociones (Panamá)
+
+on:
+  schedule:
+    # 6:00 AM y 6:00 PM (hora de Panamá) = 11:00 y 23:00 UTC
+    - cron: '0 11,23 * * *'
+  workflow_dispatch: # Permite ejecución manual
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+
     steps:
-      # ------------ PREVENCIÓN DEL ERROR DE POST CHECKOUT ------------
-      - name: Instalar Git LFS (Previene el error de Post Checkout)
+      # ==============================================
+      # 1. PREVENCIÓN DEL ERROR DE POST CHECKOUT (GIT LFS)
+      # ==============================================
+      - name: Instalar Git LFS
         run: |
           sudo apt-get update
-          sudo apt-get install git-lfs
+          sudo apt-get install -y git-lfs
           git lfs install
 
+      # ==============================================
+      # 2. CHECKOUT DEL REPOSITORIO
+      # ==============================================
       - name: Checkout repositorio
         uses: actions/checkout@v4
         with:
           lfs: true
           persist-credentials: true
 
-      # ------------ TUS PASOS DE EJECUCIÓN (YA SIN EL DE DEPENDENCIAS) ------------
-      
+      # ==============================================
+      # 3. CONFIGURAR PYTHON
+      # ==============================================
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # ==============================================
+      # 4. INSTALAR CHROME (NECESARIO PARA SELENIUM)
+      # ==============================================
+      - name: Setup Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget unzip
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+')
+          wget -q "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/${CHROME_VERSION}/linux64/chromedriver-linux64.zip"
+          unzip chromedriver-linux64.zip
+          sudo mv chromedriver-linux64/chromedriver /usr/local/bin/
+          sudo chmod +x /usr/local/bin/chromedriver
+
+      # ==============================================
+      # 5. INSTALAR DEPENDENCIAS DE PYTHON
+      # ==============================================
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests pandas openpyxl beautifulsoup4 lxml selenium webdriver-manager
+          fi
+
+      # ==============================================
+      # 6. EJECUTAR SCRAPER (CORREGIDO: scraper_super.py)
+      # ==============================================
       - name: Ejecutar Scraper
-        run: |
-          # Asegúrate de poner el comando exacto que ejecuta tu scraper
-          # Ejemplo: python scraper.py o node scraper.js
-          python scraper.py 
+        run: python scraper_super.py
 
+      # ==============================================
+      # 7. EJECUTAR MOTOR IA
+      # ==============================================
       - name: Ejecutar Motor AI Engine
-        run: |
-          # Asegúrate de poner el comando exacto que ejecuta tu motor de IA
-          # Ejemplo: python ai_engine.py o node engine.js
-          python ai_engine.py
+        run: python ai_engine.py
 
+      # ==============================================
+      # 8. LISTAR ARCHIVOS GENERADOS (DEPURACIÓN)
+      # ==============================================
       - name: Listar archivos generados
-        run: ls -la
+        run: |
+          echo "=== Archivos en data/ ==="
+          ls -la data/ || echo "data/ no existe"
+          echo "=== Archivos en web/ ==="
+          ls -la web/ || echo "web/ no existe"
 
+      # ==============================================
+      # 9. COMMIT Y PUSH DE ARCHIVOS GENERADOS (SOLO data/ y web/data.json)
+      # ==============================================
       - name: Commit y Push de archivos generados
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
+          git add data/ web/data.json
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Actualización automática de datos"
+            git commit -m "Actualización automática de precios y data.json"
             git push
           else
             echo "No hay cambios nuevos para commitar."
           fi
 
-      # ------------ CONFIGURACIÓN PARA DESPLEGAR ------------
-      
+      # ==============================================
+      # 10. CONFIGURAR Y DESPLEGAR EN GITHUB PAGES
+      # ==============================================
       - name: Configurar Pages
         uses: actions/configure-pages@v5
 
       - name: Subir artefacto (carpeta web)
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './dist' # CAMBIA ESTO POR LA CARPETA QUE SUBES A LA WEB
+          path: './web'   # CORREGIDO: antes decía './dist'
 
       - name: Desplegar a GitHub Pages
         id: deployment
