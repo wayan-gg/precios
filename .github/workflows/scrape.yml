@@ -4,9 +4,8 @@ on:
   schedule:
     # 6:00 AM y 6:00 PM (hora de Panamá) = 11:00 y 23:00 UTC
     - cron: '0 11,23 * * *'
-  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña "Actions"
+  workflow_dispatch:
 
-# Permisos necesarios para hacer commit y desplegar en Pages
 permissions:
   contents: write
   pages: write
@@ -17,51 +16,60 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Descargar el código del repositorio
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Configurar Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      # 3. Instalar dependencias
+      # ===== NUEVO: Instalar Chrome y ChromeDriver =====
+      - name: Setup Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget unzip
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+')
+          wget -q "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/${CHROME_VERSION}/linux64/chromedriver-linux64.zip"
+          unzip chromedriver-linux64.zip
+          sudo mv chromedriver-linux64/chromedriver /usr/local/bin/
+          sudo chmod +x /usr/local/bin/chromedriver
+
+      # ===== INSTALAR DEPENDENCIAS (con selenium) =====
       - name: Install dependencies
         run: |
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           else
-            # Instala las librerías típicas si no tienes requirements.txt
-            pip install requests pandas openpyxl beautifulsoup4 lxml
+            pip install requests pandas openpyxl beautifulsoup4 lxml selenium webdriver-manager
           fi
 
-      # 4. Ejecutar el scraper (genera los CSVs)
+      # ===== EJECUTAR SCRAPER (con headless) =====
       - name: Run scraper
         run: python scraper_super.py
 
-      # 5. Ejecutar el motor de IA (genera web/data.json)
       - name: Run AI Engine
         run: python ai_engine.py
 
-      # 6. Guardar los archivos generados (CSV y JSON) en el repositorio
+      # Guardar archivos generados
       - name: Commit and push generated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Actualización automática de precios y data.json"
           file_pattern: "*.csv web/data.json"
 
-      # 7. Configurar GitHub Pages
+      # Desplegar en Pages
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      # 8. Subir la carpeta "web" como artefacto para Pages
       - name: Upload artifact (web folder)
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'web'
 
-      # 9. Desplegar en GitHub Pages
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
