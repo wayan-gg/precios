@@ -1,23 +1,5 @@
-name: Scraper and Deploy
-
-on:
-  schedule:
-    # Cambia este cron según quieras que se ejecute. 
-    # El ejemplo es todos los días a las 00:00 (UTC)
-    - cron: '0 0 * * *' 
-  workflow_dispatch: # Permite ejecutarlo manualmente desde la web
-
-permissions:
-  contents: write # Necesario para que pueda hacer push de los archivos generados
-  pages: write    # Necesario si haces deploy a GitHub Pages
-  id-token: write
-
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    
     steps:
-      # ------------ INICIO DE LA CORRECCIÓN DEL ERROR ------------
+      # ------------ PREVENCIÓN DEL ERROR DE POST CHECKOUT ------------
       - name: Instalar Git LFS (Previene el error de Post Checkout)
         run: |
           sudo apt-get update
@@ -25,40 +7,30 @@ jobs:
           git lfs install
 
       - name: Checkout repositorio
-        uses: actions/checkout@v4  # ¡Actualizado a la v4 para evitar errores de Node 20!
+        uses: actions/checkout@v4
         with:
           lfs: true
-          persist-credentials: true # Necesario si usarás 'git push' más adelante
-      # ------------ FIN DE LA CORRECCIÓN DEL ERROR ------------
+          persist-credentials: true
 
-
-      # ------------ AQUÍ PEGA TUS PROPIOS PASOS ------------
+      # ------------ TUS PASOS DE EJECUCIÓN (YA SIN EL DE DEPENDENCIAS) ------------
       
-      - name: Instalar dependencias
-        run: |
-          # Ejemplo si usas Python:
-          pip install -r requirements.txt
-          # Ejemplo si usas Node:
-          # npm install
-
       - name: Ejecutar Scraper
         run: |
-          # Aquí debe ir tu comando para ejecutar tu scraper
-          # Ejemplo: python scraper.py
-          echo "Ejecutando scraper..."
+          # Asegúrate de poner el comando exacto que ejecuta tu scraper
+          # Ejemplo: python scraper.py o node scraper.js
+          python scraper.py 
 
       - name: Ejecutar Motor AI Engine
         run: |
-          # Aquí va el comando de tu AI Engine
-          # Ejemplo: python ai_engine.py
-          echo "Ejecutando AI Engine..."
+          # Asegúrate de poner el comando exacto que ejecuta tu motor de IA
+          # Ejemplo: python ai_engine.py o node engine.js
+          python ai_engine.py
 
       - name: Listar archivos generados
         run: ls -la
 
       - name: Commit y Push de archivos generados
         run: |
-          # Este paso permite subir los datos que haya generado tu scraper
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
@@ -69,17 +41,15 @@ jobs:
             echo "No hay cambios nuevos para commitar."
           fi
 
-      # ------------ CONFIGURACIÓN PARA GITHUB PAGES ------------
+      # ------------ CONFIGURACIÓN PARA DESPLEGAR ------------
       
       - name: Configurar Pages
         uses: actions/configure-pages@v5
-        with:
-          static_site_generator: next  # O el que uses (static, hugo, etc)
 
       - name: Subir artefacto (carpeta web)
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './dist' # CAMBIAR POR LA CARPETA QUE SUBES A LA WEB
+          path: './dist' # CAMBIA ESTO POR LA CARPETA QUE SUBES A LA WEB
 
       - name: Desplegar a GitHub Pages
         id: deployment
