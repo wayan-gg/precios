@@ -4,7 +4,7 @@ on:
   schedule:
     # 6:00 AM y 6:00 PM (hora de Panamá) = 11:00 y 23:00 UTC
     - cron: '0 11,23 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Permite ejecución manual
 
 permissions:
   contents: write
@@ -24,7 +24,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      # ===== NUEVO: Instalar Chrome y ChromeDriver =====
+      # ===== INSTALAR CHROME Y CHROMEDRIVER =====
       - name: Setup Chrome
         run: |
           sudo apt-get update
@@ -39,7 +39,7 @@ jobs:
           sudo mv chromedriver-linux64/chromedriver /usr/local/bin/
           sudo chmod +x /usr/local/bin/chromedriver
 
-      # ===== INSTALAR DEPENDENCIAS (con selenium) =====
+      # ===== INSTALAR DEPENDENCIAS =====
       - name: Install dependencies
         run: |
           if [ -f requirements.txt ]; then
@@ -48,21 +48,32 @@ jobs:
             pip install requests pandas openpyxl beautifulsoup4 lxml selenium webdriver-manager
           fi
 
-      # ===== EJECUTAR SCRAPER (con headless) =====
+      # ===== EJECUTAR SCRAPER =====
       - name: Run scraper
         run: python scraper_super.py
 
+      # ===== EJECUTAR MOTOR IA =====
       - name: Run AI Engine
         run: python ai_engine.py
 
-      # Guardar archivos generados
+      # ===== LISTAR ARCHIVOS GENERADOS (depuración) =====
+      - name: List generated files
+        run: |
+          echo "=== Archivos en la raíz ==="
+          ls -la
+          echo "=== Archivos en data/ ==="
+          ls -la data/ || echo "data/ no existe o está vacía"
+          echo "=== Archivos en web/ ==="
+          ls -la web/ || echo "web/ no existe o está vacía"
+
+      # ===== GUARDAR ARCHIVOS EN EL REPOSITORIO =====
       - name: Commit and push generated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Actualización automática de precios y data.json"
-          file_pattern: "*.csv web/data.json"
+          file_pattern: "data/ web/data.json"
 
-      # Desplegar en Pages
+      # ===== DESPLEGAR EN GITHUB PAGES =====
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
