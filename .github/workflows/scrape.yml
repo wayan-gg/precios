@@ -13,38 +13,36 @@ permissions:
 jobs:
   scrape-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 20  # IMPORTANTE: cancela si pasa de 20 minutos
 
     steps:
-      # ==============================================
-      # 1. CHECKOUT (sin LFS para evitar problemas)
-      # ==============================================
+      - name: Instalar Git LFS
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y git-lfs
+          git lfs install
+
       - name: Checkout repositorio
         uses: actions/checkout@v4
         with:
+          lfs: true
           persist-credentials: true
 
-      # ==============================================
-      # 2. INSTALAR CHROME CON LA ACCIÓN OFICIAL
-      # ==============================================
-      - name: Setup Chrome
-        uses: browser-actions/setup-chrome@v1
-        with:
-          chrome-version: 'stable'
-
-      - name: Verificar Chrome
-        run: chrome --version
-
-      # ==============================================
-      # 3. CONFIGURAR PYTHON
-      # ==============================================
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      # ==============================================
-      # 4. INSTALAR DEPENDENCIAS DE PYTHON
-      # ==============================================
+      - name: Instalar Google Chrome (solo el navegador)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          google-chrome --version
+
       - name: Instalar dependencias Python
         run: |
           if [ -f requirements.txt ]; then
@@ -53,21 +51,12 @@ jobs:
             pip install requests pandas openpyxl beautifulsoup4 lxml selenium webdriver-manager
           fi
 
-      # ==============================================
-      # 5. EJECUTAR SCRAPER (CON WEBDRIVER_MANAGER)
-      # ==============================================
       - name: Ejecutar Scraper
         run: python scraper_super.py
 
-      # ==============================================
-      # 6. EJECUTAR MOTOR IA
-      # ==============================================
       - name: Ejecutar Motor AI Engine
         run: python ai_engine.py
 
-      # ==============================================
-      # 7. LISTAR ARCHIVOS GENERADOS
-      # ==============================================
       - name: Listar archivos generados
         run: |
           echo "=== Archivos en data/ ==="
@@ -75,9 +64,6 @@ jobs:
           echo "=== Archivos en web/ ==="
           ls -la web/ || echo "web/ no existe"
 
-      # ==============================================
-      # 8. COMMIT Y PUSH DE ARCHIVOS GENERADOS
-      # ==============================================
       - name: Commit y Push de archivos generados
         run: |
           git config --global user.name 'github-actions[bot]'
@@ -90,9 +76,6 @@ jobs:
             echo "No hay cambios nuevos para commitar."
           fi
 
-      # ==============================================
-      # 9. CONFIGURAR Y DESPLEGAR EN GITHUB PAGES
-      # ==============================================
       - name: Configurar Pages
         uses: actions/configure-pages@v5
 
