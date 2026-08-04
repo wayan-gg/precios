@@ -1,8 +1,8 @@
-name: Scrape y publicar promociones (Panamá)
+name: Scraper diario (solo datos)
 
 on:
   schedule:
-    - cron: '0 11,23 * * *'
+    - cron: "0 6,18 * * *"   # 06:00 y 18:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -10,80 +10,63 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: scraper
+  cancel-in-progress: true
+
 jobs:
-  scrape-and-deploy:
+  scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 20  # IMPORTANTE: cancela si pasa de 20 minutos
-
+    timeout-minutes: 45
     steps:
-      - name: Instalar Git LFS
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y git-lfs
-          git lfs install
-
-      - name: Checkout repositorio
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          lfs: true
-          persist-credentials: true
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: "3.12"
+          cache: "pip"
 
-      - name: Instalar Google Chrome (solo el navegador)
+      - name: Cache ChromeDriver
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/selenium
+          key: chromedriver-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+
+      - name: Install deps
+        run: pip install -q -r requirements.txt
+
+      - name: Install Chrome
         run: |
-          sudo apt-get update
-          sudo apt-get install -y wget
-          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
-          google-chrome --version
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq google-chrome-stable >/dev/null
 
-      - name: Instalar dependencias Python
+      - name: Run scraper (solo CSVs)
+        run: python scraper_super.py --max-pages 20
+
+      - name: Commit CSVs actualizados
         run: |
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          else
-            pip install requests pandas openpyxl beautifulsoup4 lxml selenium webdriver-manager
-          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "📦 Actualización CSVs $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "Sin cambios"
+          git push
 
-      - name: Ejecutar Scraper
-        run: python scraper_super.py
-
-      - name: Ejecutar Motor AI Engine
-        run: python ai_engine.py
-
-      - name: Listar archivos generados
-        run: |
-          echo "=== Archivos en data/ ==="
-          ls -la data/ || echo "data/ no existe"
-          echo "=== Archivos en web/ ==="
-          ls -la web/ || echo "web/ no existe"
-
-      - name: Commit y Push de archivos generados
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add data/ web/data.json
-          if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Actualización automática de precios y data.json"
-            git push
-          else
-            echo "No hay cambios nuevos para commitar."
-          fi
-
-      - name: Configurar Pages
-        uses: actions/configure-pages@v5
-
-      - name: Subir artefacto (carpeta web)
+      - name: Upload Pages artifact (solo web estático, SIN data.json)
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './web'
+          path: web
+          # Nota: data.json NO se sube aquí; se genera en workflow separado "IA manual"
 
-      - name: Desplegar a GitHub Pages
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy a GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
