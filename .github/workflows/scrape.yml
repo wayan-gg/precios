@@ -4,7 +4,7 @@ on:
   schedule:
     # 6:00 AM y 6:00 PM (hora de Panamá) = 11:00 y 23:00 UTC
     - cron: '0 11,23 * * *'
-  workflow_dispatch: # Permite ejecución manual
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,7 +17,7 @@ jobs:
 
     steps:
       # ==============================================
-      # 1. PREVENCIÓN DEL ERROR DE POST CHECKOUT (GIT LFS)
+      # 1. INSTALAR GIT LFS
       # ==============================================
       - name: Instalar Git LFS
         run: |
@@ -43,21 +43,22 @@ jobs:
           python-version: '3.10'
 
       # ==============================================
-      # 4. INSTALAR CHROME (NECESARIO PARA SELENIUM)
+      # 4. INSTALAR CHROME (VERSIÓN ESTABLE Y CONFIABLE)
       # ==============================================
       - name: Setup Chrome
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y wget unzip
-          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
-          CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+')
-          wget -q "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/${CHROME_VERSION}/linux64/chromedriver-linux64.zip"
-          unzip chromedriver-linux64.zip
-          sudo mv chromedriver-linux64/chromedriver /usr/local/bin/
-          sudo chmod +x /usr/local/bin/chromedriver
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: 'stable'
+
+      # Alternativa si lo anterior falla, descomenta esto:
+      # - name: Setup Chrome (alternativo)
+      #   run: |
+      #     sudo apt-get update
+      #     sudo apt-get install -y wget
+      #     wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/google-chrome.gpg
+      #     echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-chrome.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+      #     sudo apt-get update
+      #     sudo apt-get install -y google-chrome-stable
 
       # ==============================================
       # 5. INSTALAR DEPENDENCIAS DE PYTHON
@@ -71,7 +72,7 @@ jobs:
           fi
 
       # ==============================================
-      # 6. EJECUTAR SCRAPER (CORREGIDO: scraper_super.py)
+      # 6. EJECUTAR SCRAPER
       # ==============================================
       - name: Ejecutar Scraper
         run: python scraper_super.py
@@ -83,7 +84,7 @@ jobs:
         run: python ai_engine.py
 
       # ==============================================
-      # 8. LISTAR ARCHIVOS GENERADOS (DEPURACIÓN)
+      # 8. LISTAR ARCHIVOS GENERADOS
       # ==============================================
       - name: Listar archivos generados
         run: |
@@ -93,7 +94,7 @@ jobs:
           ls -la web/ || echo "web/ no existe"
 
       # ==============================================
-      # 9. COMMIT Y PUSH DE ARCHIVOS GENERADOS (SOLO data/ y web/data.json)
+      # 9. COMMIT Y PUSH DE ARCHIVOS GENERADOS
       # ==============================================
       - name: Commit y Push de archivos generados
         run: |
@@ -116,7 +117,7 @@ jobs:
       - name: Subir artefacto (carpeta web)
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './web'   # CORREGIDO: antes decía './dist'
+          path: './web'
 
       - name: Desplegar a GitHub Pages
         id: deployment
