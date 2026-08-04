@@ -1,0 +1,74 @@
+/* ============================================================
+   STATS · resumen general, mejor supermercado, estadísticas
+   ============================================================ */
+
+/* Tarjetas de resumen general */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 14px;
+  margin-bottom: 22px;
+}
+.stat-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px 18px;
+  box-shadow: var(--shadow);
+  transition: transform .15s, border-color .15s;
+}
+.stat-card:hover { transform: translateY(-3px); border-color: var(--accent); }
+.stat-card .stat-label { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .6px; font-weight: 700; }
+.stat-card .stat-value { font-size: 26px; font-weight: 800; margin-top: 4px; }
+.stat-card .stat-sub { font-size: 12px; color: var(--muted); margin-top: 2px; }
+.stat-card.stat-accent { border-color: var(--accent); }
+.stat-card.stat-accent .stat-value { color: var(--accent); }
+.stat-card.stat-green { border-color: var(--green); }
+.stat-card.stat-green .stat-value { color: var(--green); }
+
+/* Campeón (mejor supermercado) */
+.champ {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 18px;
+  align-items: center;
+  background: linear-gradient(135deg, var(--card), #182740);
+  border: 1px solid var(--accent);
+  border-radius: 16px;
+  padding: 20px 24px;
+  box-shadow: var(--shadow);
+}
+.champ-icon {
+  font-size: 42px;
+  width: 64px; height: 64px;
+  display: grid; place-items: center;
+  background: rgba(34, 211, 238, .12);
+  border-radius: 16px;
+}
+.champ-label { font-size: 12px; text-transform: uppercase; letter-spacing: 1px; color: var(--accent); font-weight: 700; }
+.champ-name { font-size: 24px; font-weight: 800; margin-top: 2px; }
+.champ-meta { color: var(--muted); font-weight: 600; font-size: 14px; margin-top: 2px; }
+.champ-razon { max-width: 380px; font-size: 13.5px; color: var(--text); padding: 10px 14px; background: rgba(34, 211, 238, .08); border-radius: 12px; }
+
+/* Estadísticas por tienda */
+.est-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 14px;
+}
+.est-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px 18px;
+}
+.est-card .est-nombre { font-weight: 800; font-size: 16px; }
+.est-card .est-tienda { display: flex; justify-content: space-between; margin-top: 10px; font-size: 13px; color: var(--muted); }
+.est-card .est-tienda b { color: var(--text); }
+.est-bar { height: 8px; background: #0b1120; border-radius: 6px; margin-top: 12px; overflow: hidden; }
+.est-bar > span { display: block; height: 100%; background: linear-gradient(90deg, var(--accent), var(--green)); border-radius: 6px; }
+
+@media (max-width: 720px) {
+  .champ { grid-template-columns: 1fr; gap: 12px; }
+  .champ-razon { max-width: 100%; }
+}

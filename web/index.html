@@ -3,59 +3,156 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mejores Promociones · Supermercados Panamá</title>
-  <link rel="stylesheet" href="style.css" />
+  <title>Precios Panamá · Promociones, Canasta y Comparativas</title>
+  <meta name="description" content="Dashboard con las mejores promociones, canasta básica por supermercado y comparativas de precios en Panamá." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet" />
+
+  <!-- CSS base / global -->
+  <link rel="stylesheet" href="css/base.css" />
+  <!-- CSS por sección -->
+  <link rel="stylesheet" href="css/stats.css" />
+  <link rel="stylesheet" href="css/promos.css" />
+  <link rel="stylesheet" href="css/canasta.css" />
+  <link rel="stylesheet" href="css/comparativas.css" />
+  <link rel="stylesheet" href="css/llm.css" />
 </head>
 <body>
-  <header>
+
+  <!-- Barra de navegación -->
+  <nav class="nav" id="nav">
+    <div class="wrap nav-inner">
+      <a class="nav-brand" href="#top">🛒 Precios Panamá</a>
+      <ul class="nav-links">
+        <li><a href="#resumen">Resumen</a></li>
+        <li><a href="#promos">Promociones</a></li>
+        <li><a href="#canasta">Canasta básica</a></li>
+        <li><a href="#comparativas">Comparativas</a></li>
+        <li><a href="#estadisticas">Estadísticas</a></li>
+        <li><a href="#ia-analisis">IA</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <header class="hero" id="top">
     <div class="wrap">
-      <h1>🛒 Mejores Promociones</h1>
-      <p class="subtitle">Dónde comprar más barato hoy en Panamá</p>
-      <p class="updated" id="updated">Actualizando…</p>
+      <h1>Dónde comprar más barato hoy</h1>
+      <p class="hero-sub">Promociones reales, canasta básica y comparativas de los principales supermercados de Panamá.</p>
+      <p class="updated" id="updated">Cargando datos…</p>
     </div>
   </header>
 
   <main class="wrap">
-    <section id="ganador-section" hidden>
-      <div class="champ">
-        <span class="champ-label">🏆 Mejor supermercado hoy</span>
-        <span class="champ-name" id="champ-name"></span>
-        <span class="champ-meta" id="champ-meta"></span>
+
+    <!-- ============ RESUMEN / MEJOR SUPERMERCADO ============ -->
+    <section id="resumen" class="seccion">
+      <h2>📊 Resumen general</h2>
+      <div class="stats-grid" id="stats-grid"></div>
+
+      <div id="mejor-section" hidden>
+        <div class="champ">
+          <div class="champ-icon">🏆</div>
+          <div class="champ-body">
+            <div class="champ-label">Mejor supermercado hoy</div>
+            <div class="champ-name" id="champ-name"></div>
+            <div class="champ-meta" id="champ-meta"></div>
+          </div>
+          <div class="champ-razon" id="champ-razon"></div>
+        </div>
       </div>
-      <p class="champ-reason" id="champ-reason"></p>
     </section>
 
-    <section>
-      <h2>Top promociones</h2>
+    <!-- ============ PROMOCIONES ============ -->
+    <section id="promos" class="seccion">
+      <h2>🔥 Top promociones</h2>
       <div class="filtros">
-        <input id="busqueda" type="search" placeholder="Buscar producto…" />
-        <select id="filtro-super"></select>
-        <select id="filtro-cat"></select>
+        <input id="busqueda" type="search" placeholder="Buscar producto…" autocomplete="off" />
+        <select id="filtro-super" aria-label="Filtrar por supermercado"></select>
+        <select id="filtro-cat" aria-label="Filtrar por categoría"></select>
       </div>
-      <ol id="top-list" class="promo-list"></ol>
+      <div class="promo-grid" id="promo-grid"></div>
       <p id="vacio" class="vacio" style="display:none;">Sin resultados con esos filtros.</p>
     </section>
 
-    <section>
-      <h2>Comparativas por producto</h2>
-      <table class="cmp-table">
-        <thead>
-          <tr>
-            <th>Producto</th>
-            <th>Mejor tienda</th>
-            <th>Ahorro</th>
-            <th>Precios</th>
-          </tr>
-        </thead>
-        <tbody id="cmp-body"></tbody>
-      </table>
+    <!-- ============ CANASTA BÁSICA (IA) ============ -->
+    <section id="canasta" class="seccion">
+      <h2>🧺 Canasta básica</h2>
+      <p class="seccion-desc">Cuánto cuesta la misma canasta de productos básicos en cada supermercado. Generado por la IA (ia_smart.py).</p>
+
+      <div id="canasta-banner" class="canasta-banner" hidden></div>
+
+      <div id="canasta-barras" class="canasta-barras" hidden></div>
+
+      <div class="canasta-tabla-wrap">
+        <table class="canasta-tabla" id="canasta-tabla">
+          <thead id="canasta-thead"></thead>
+          <tbody id="canasta-tbody"></tbody>
+        </table>
+      </div>
+      <p id="canasta-vacio" class="vacio" style="display:none;">
+        Aún no hay datos de canasta básica. Ejecuta <code>python ia_smart.py</code> para generarlos.
+      </p>
+    </section>
+
+    <!-- ============ COMPARATIVAS ============ -->
+    <section id="comparativas" class="seccion">
+      <h2>⚖️ Comparativas por producto</h2>
+      <p class="seccion-desc">El mismo producto en varias tiendas y dónde está más barato.</p>
+      <div class="cmp-tabla-wrap">
+        <table class="cmp-table">
+          <thead>
+            <tr>
+              <th>Producto</th>
+              <th>Mejor tienda</th>
+              <th>Ahorro</th>
+              <th>Precios</th>
+            </tr>
+          </thead>
+          <tbody id="cmp-body"></tbody>
+        </table>
+      </div>
       <p id="cmp-vacio" class="vacio" style="display:none;">Aún no hay comparativas suficientes.</p>
     </section>
+
+    <!-- ============ ANÁLISIS DE LA IA ============ -->
+    <section id="ia-analisis" class="seccion" hidden>
+      <h2>🤖 Análisis de la IA</h2>
+      <p class="seccion-desc">Resumen generado por el LLM a partir de todos los datos (ia_smart.py --distill).</p>
+      <div id="ia-resumen" class="ia-resumen"></div>
+      <div id="ia-mejor" class="ia-mejor" hidden></div>
+      <div class="ia-grid">
+        <div id="ia-promos" class="ia-card" hidden></div>
+        <div id="ia-insights" class="ia-card" hidden></div>
+      </div>
+      <p id="ia-vacio" class="vacio" style="display:none;">
+        La IA aún no ha analizado los datos. Ejecuta <code>python ia_smart.py --distill</code> (requiere API_KEY).
+      </p>
+    </section>
+
+    <!-- ============ ESTADÍSTICAS ============ -->
+    <section id="estadisticas" class="seccion">
+      <h2>📈 Estadísticas por tienda</h2>
+      <div class="est-grid" id="est-grid"></div>
+    </section>
+
   </main>
 
-  <script src="app.js"></script>
+  <footer class="footer">
+    <div class="wrap">
+      <p>Datos actualizados automáticamente 2 veces al día. Los precios cambian; verifica antes de comprar.</p>
+      <p class="footer-meta">Código abierto · scraping gratuito · sin APIs pagas</p>
+    </div>
+  </footer>
+
+  <!-- JS por sección -->
+  <script src="js/util.js"></script>
+  <script src="js/stats.js"></script>
+  <script src="js/promos.js"></script>
+  <script src="js/canasta.js"></script>
+  <script src="js/comparativas.js"></script>
+  <script src="js/llm.js"></script>
+  <script src="js/app.js"></script>
 </body>
 </html>

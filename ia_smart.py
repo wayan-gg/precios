@@ -50,6 +50,7 @@ log = logging.getLogger(__name__)
 # ================= CONFIG =================
 DATA_JSON = os.path.join("web", "data.json")
 OUT_JSON = os.path.join("web", "data_smart.json")
+OUT_LLM = os.path.join("web", "data_llm.json")
 UPLOADS_DIR = os.path.join("web", "uploads")
 
 NVIDIA_BASE_URL = "https://integrate.api.nvidia.com/v1"
@@ -398,6 +399,56 @@ def _chat(pregunta, resumen, api_key):
     return {"raw": texto}
 
 
+# Prompt fijo y concreto para el modo "distill": la IA genera el análisis final.
+PROMPT_DISTIL = (
+    "Eres el analista jefe de precios de supermercados de Panamá. "
+    "Recibes el siguiente contexto en JSON: toda la información destilada de las tiendas "
+    "(totales, mejor supermercado, top promociones, comparativas, estadísticas) y el "
+    "resultado de la canasta básica por supermercado.\n\n"
+    "Tu tarea es producir UN análisis final. Responde ÚNICAMENTE con un JSON válido, "
+    "sin markdown ni texto adicional, con EXACTAMENTE esta estructura:\n"
+    "{\n"
+    '  "resumen": "párrafo breve de 2-3 frases con el panorama general",\n'
+    '  "mejor_supermercado": {"nombre": "tienda", "razon": "explica por qué en 1-2 frases"},'
+    "\n"
+    '  "mejores_promociones": [{"nombre": "producto", "supermercado": "tienda", '
+    '"precio": 1.23, "precio_regular": 2.5, "descuento_pct": 50.8, "razon": "por qué es buena"},'
+    " ... hasta 15 items del top],\n"
+    '  "canasta_recomendada": {"supermercado": "tienda", "total": 28.66, "ahorro": 10.14, '
+    '"razon": "por qué conviene"},'
+    "\n"
+    '  "insights": ["3 a 5 observaciones concretas en texto, con números cuando sea posible"]\n'
+    "}\n\n"
+    "Reglas: usa SOLO los datos del contexto (no inventes precios); "
+    "el descuento_pct se calcula como (regular - precio)/regular*100; "
+    "escribe siempre en español; precios en balboas (B/.)."
+)
+
+
+def _distill_llm(contexto, api_key):
+    """Envía el contexto completo (resumen + canasta) al LLM con el prompt fijo."""
+    client = _cliente(api_key)
+    try:
+        resp = client.chat.completions.create(
+            model=MODEL_CHAT,
+            messages=[
+                {"role": "system", "content": PROMPT_DISTIL},
+                {"role": "user", "content": json.dumps(contexto, ensure_ascii=False)},
+            ],
+            temperature=0.2,
+            max_tokens=MAX_TOKENS,
+        )
+    except Exception as e:
+        log.error("Error llamando al distill: %s", e)
+        return {"error": str(e)}
+
+    texto = resp.choices[0].message.content or ""
+    data = _extraer_json(texto)
+    if data:
+        return data
+    return {"raw": texto}
+
+
 # ================= MAIN =================
 
 def parse_args():
@@ -407,6 +458,8 @@ def parse_args():
     parser.add_argument("--out-json", default=OUT_JSON, help="JSON de salida")
     parser.add_argument("--imagen", default=None, help="Ruta o URL de una imagen (volante) a analizar")
     parser.add_argument("--chat", default=None, help="Pregunta en lenguaje natural sobre los datos")
+    parser.add_argument("--distill", action="store_true", help="Genera web/data_llm.json con el análisis del LLM (prompt fijo)")
+    parser.add_argument("--out-llm", default=OUT_LLM, help="JSON de salida del modo distill")
     parser.add_argument("--model-chat", default=MODEL_CHAT, help="Modelo de chat")
     parser.add_argument("--model-vision", default=MODEL_VISION, help="Modelo de visión")
     parser.add_argument("--verbose", "-v", action="store_true", help="Logging DEBUG")
@@ -414,15 +467,41 @@ def parse_args():
 
 
 def main():
-    global DATA_DIR, DATA_JSON, OUT_JSON, MODEL_CHAT, MODEL_VISION
+    global DATA_DIR, DATA_JSON, OUT_JSON, OUT_LLM, MODEL_CHAT, MODEL_VISION
     args = parse_args()
     if args.verbose:
         log.setLevel(logging.DEBUG)
     DATA_DIR = args.data_dir
     DATA_JSON = args.data_json
     OUT_JSON = args.out_json
+    OUT_LLM = args.out_llm
     MODEL_CHAT = args.model_chat
     MODEL_VISION = args.model_vision
+
+    api_key = os.environ.get("API_KEY")
+
+    # --- Modo distill: solo pide al LLM el análisis final y lo guarda ---
+    if args.distill:
+        if not api_key:
+            log.error("Se necesita API_KEY para el modo distill")
+            return
+        resumen = _resumen_datos()
+        if not resumen:
+            log.error("No hay data.json; ejecuta primero ai_engine.py")
+            return
+        log.info("Modo distill: enviando contexto al LLM (%s)...", MODEL_CHAT)
+        respuesta = _distill_llm({"informacion_todo": resumen}, api_key)
+        import datetime
+        salida = {
+            "generated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+            "origen": "LLM " + MODEL_CHAT,
+            **respuesta,
+        }
+        os.makedirs(os.path.dirname(OUT_LLM), exist_ok=True)
+        with open(OUT_LLM, "w", encoding="utf-8") as f:
+            json.dump(salida, f, ensure_ascii=False, indent=2)
+        log.info("JSON distill generado -> %s", OUT_LLM)
+        return
 
     log.info("Cargando productos crudos desde %s", DATA_DIR)
     productos = _cargar()
@@ -440,7 +519,6 @@ def main():
         "canasta_basica": canasta,
     }
 
-    api_key = os.environ.get("API_KEY")
     if args.imagen:
         if not api_key:
             log.error("Se necesita API_KEY para analizar la imagen")

@@ -1,0 +1,51 @@
+/* ============================================================
+   LLM · análisis de la IA (web/data_llm.json)
+   ============================================================ */
+
+.ia-resumen {
+  background: var(--card);
+  border: 1px solid var(--purple);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  font-size: 15px;
+  line-height: 1.6;
+  box-shadow: var(--shadow);
+}
+.ia-resumen::before { content: "💡 "; }
+
+.ia-mejor {
+  margin-top: 14px;
+  background: linear-gradient(135deg, #2e1065, #4c1d95);
+  border: 1px solid var(--purple);
+  border-radius: var(--radius);
+  padding: 16px 20px;
+}
+.ia-mejor .l-titulo { font-size: 12px; text-transform: uppercase; letter-spacing: 1px; color: var(--purple); font-weight: 700; }
+.ia-mejor .l-nombre { font-size: 20px; font-weight: 800; margin-top: 2px; }
+.ia-mejor .l-razon { font-size: 13.5px; color: #ddd6fe; margin-top: 4px; }
+
+.ia-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin-top: 14px;
+}
+.ia-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px 18px;
+}
+.ia-card h3 { font-size: 14px; font-weight: 800; margin-bottom: 10px; text-transform: uppercase; letter-spacing: .4px; color: var(--muted); }
+.ia-promo { padding: 8px 0; border-bottom: 1px dashed var(--border); font-size: 13.5px; }
+.ia-promo:last-child { border-bottom: none; }
+.ia-promo .p-nombre { font-weight: 700; }
+.ia-promo .p-tienda { color: var(--muted); font-size: 12px; }
+.ia-promo .p-desc { color: var(--green); font-size: 12px; margin-top: 2px; }
+.ia-insight { padding: 8px 0; border-bottom: 1px dashed var(--border); font-size: 13.5px; }
+.ia-insight:last-child { border-bottom: none; }
+.ia-insight::before { content: "▸ "; color: var(--purple); font-weight: 800; }
+
+@media (max-width: 720px) {
+  .ia-grid { grid-template-columns: 1fr; }
+}

@@ -1,0 +1,28 @@
+/* ============================================================
+   COMPARATIVAS · el mismo producto en varias tiendas
+   ============================================================ */
+
+.cmp-tabla-wrap { overflow-x: auto; border-radius: var(--radius); box-shadow: var(--shadow); }
+.cmp-table { width: 100%; border-collapse: collapse; background: var(--card); min-width: 560px; }
+.cmp-table th, .cmp-table td { padding: 11px 14px; text-align: left; border-bottom: 1px solid var(--border); font-size: 14px; }
+.cmp-table thead th {
+  background: #172033;
+  color: var(--muted);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  font-weight: 700;
+  position: sticky; top: 0;
+}
+.cmp-table .cmp-producto { font-weight: 700; }
+.cmp-table .cmp-cat { font-size: 12px; color: var(--muted); }
+.cmp-table .cmp-ganador { color: var(--green); font-weight: 800; white-space: nowrap; }
+.cmp-table .cmp-ganador::before { content: "🏆 "; font-size: 12px; }
+.cmp-table .cmp-ahorro { color: var(--amber); font-weight: 700; text-align: right; white-space: nowrap; }
+.cmp-table .cmp-precios { font-size: 13px; color: var(--text); }
+.cmp-table .cmp-precios b { color: var(--green); }
+.cmp-table td.cmp-enlace { text-align: right; }
+.cmp-table a { font-size: 12.5px; text-decoration: none; }
+.cmp-table a:hover { text-decoration: underline; }
+.cmp-table tbody tr:hover { background: #23324d; }
+.cmp-table tbody tr:last-child td { border-bottom: none; }
