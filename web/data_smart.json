@@ -1,634 +1,1151 @@
 {
-  "generated_at": "2026-08-04T20:30:13.021114+00:00",
+  "generated_at": "2026-08-04T20:53:54.991112+00:00",
   "informacion_todo": {
-    "generated_at": "2026-08-04T20:22:35.303901+00:00",
+    "generated_at": "2026-08-04T20:53:47.976146+00:00",
     "totales": {
-      "productos": 17106,
-      "con_oferta": 947
+      "productos": 28340,
+      "con_oferta": 4592
     },
     "mejor_supermercado": {
       "nombre": "Super 99",
-      "promedio_descuento": 18.0,
-      "total_ofertas": 823,
-      "razon": "Super 99 tiene el mejor equilibrio: 823 productos en oferta con un promedio de 18.0% de descuento."
+      "promedio_descuento": 26.0,
+      "total_ofertas": 2082,
+      "razon": "Super 99 tiene el mejor equilibrio: 2082 productos en oferta con un promedio de 26.0% de descuento."
     },
     "top_promociones": [
       {
-        "supermercado": "Riba Smith",
-        "categoria": "Promociones",
-        "nombre": "M&M CARAMEL CHOCOLATE",
-        "precio_oferta": 0.95,
-        "precio_regular": 2.0,
-        "descuento_pct": 52.5,
-        "enlace": "https://www.ribasmith.com/index.php/253048-m-m-caramel-chocolate.html",
-        "razon": "52.5% de descuento real (de B/.2.00 a B/.0.95)",
+        "supermercado": "El Machetazo",
+        "categoria": "Jugueteria",
+        "nombre": "Kitty-Cat Camper de Na Na Na Surprise!",
+        "precio_oferta": 1999.0,
+        "precio_regular": 16399.0,
+        "descuento_pct": 87.8,
+        "enlace": "https://www.elmachetazo.com/kitty-cat-camper-de-na-na-na-surprise-10818061/p",
+        "razon": "87.8% de descuento real (de B/.16399.00 a B/.1999.00)",
         "rank": 1
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "Baci Chocolate Leche Trufa 12 Unidades150g",
-        "precio_oferta": 5.0,
-        "precio_regular": 9.99,
-        "descuento_pct": 49.9,
-        "enlace": "https://www.super99.com/40009844-baci-chocolate-leche-trufa-12-unidades150g",
-        "razon": "49.9% de descuento real (de B/.9.99 a B/.5.00)",
+        "supermercado": "El Machetazo",
+        "categoria": "Bebes",
+        "nombre": "Boquilla Rígida Mágica|2 Piezas",
+        "precio_oferta": 49.0,
+        "precio_regular": 399.0,
+        "descuento_pct": 87.7,
+        "enlace": "https://www.elmachetazo.com/boquilla-rigida-magica2-piezas-10315618/p",
+        "razon": "87.7% de descuento real (de B/.399.00 a B/.49.00)",
         "rank": 2
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "BACI CHOCO EXTRA DARK 70% 10/175GR",
-        "precio_oferta": 4.0,
-        "precio_regular": 7.99,
-        "descuento_pct": 49.9,
-        "enlace": "https://www.super99.com/40011114-baci-choco-extra-dark-70-10-175gr",
-        "razon": "49.9% de descuento real (de B/.7.99 a B/.4.00)",
+        "supermercado": "El Machetazo",
+        "categoria": "Bebes",
+        "nombre": "Chupete para Bebé|3-6M",
+        "precio_oferta": 25.0,
+        "precio_regular": 199.0,
+        "descuento_pct": 87.4,
+        "enlace": "https://www.elmachetazo.com/chupete-para-bebe3-6m-10779538/p",
+        "razon": "87.4% de descuento real (de B/.199.00 a B/.25.00)",
         "rank": 3
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "Baci Chocolate Negro Trufa 175g",
-        "precio_oferta": 4.0,
-        "precio_regular": 7.99,
-        "descuento_pct": 49.9,
-        "enlace": "https://www.super99.com/40009841-baci-chocolate-negro-trufa-175g",
-        "razon": "49.9% de descuento real (de B/.7.99 a B/.4.00)",
+        "supermercado": "El Machetazo",
+        "categoria": "Fiestas",
+        "nombre": "Guirnalda Fiesta Feliz Cumpleaños para Niña",
+        "precio_oferta": 25.0,
+        "precio_regular": 199.0,
+        "descuento_pct": 87.4,
+        "enlace": "https://www.elmachetazo.com/guirnalda-fiesta-feliz-cumpleanos-para-nina-10794189/p",
+        "razon": "87.4% de descuento real (de B/.199.00 a B/.25.00)",
         "rank": 4
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "Baci Chocolate Leche Bolsa Trufa 125g",
-        "precio_oferta": 3.0,
-        "precio_regular": 5.99,
-        "descuento_pct": 49.9,
-        "enlace": "https://www.super99.com/40009809-baci-chocolate-leche-bolsa-trufa-125g",
-        "razon": "49.9% de descuento real (de B/.5.99 a B/.3.00)",
+        "supermercado": "El Machetazo",
+        "categoria": "Sederia",
+        "nombre": "Pinturas 3D|Colores Neon|3 oz",
+        "precio_oferta": 49.0,
+        "precio_regular": 379.0,
+        "descuento_pct": 87.1,
+        "enlace": "https://www.elmachetazo.com/pinturas-3dcolores-neon3-oz-10902808/p",
+        "razon": "87.1% de descuento real (de B/.379.00 a B/.49.00)",
         "rank": 5
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "Baci Chocolate Negro Trufa Bolsa 125g",
-        "precio_oferta": 3.0,
-        "precio_regular": 5.99,
-        "descuento_pct": 49.9,
-        "enlace": "https://www.super99.com/40009840-baci-chocolate-negro-trufa-bolsa-125g",
-        "razon": "49.9% de descuento real (de B/.5.99 a B/.3.00)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Figura Navideña|Santa|16cm",
+        "precio_oferta": 49.0,
+        "precio_regular": 349.0,
+        "descuento_pct": 86.0,
+        "enlace": "https://www.elmachetazo.com/figura-navidenasanta16cm-10859598/p",
+        "razon": "86.0% de descuento real (de B/.349.00 a B/.49.00)",
         "rank": 6
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "NERO DARK CHOCO 70% 21/85GR",
-        "precio_oferta": 1.5,
-        "precio_regular": 2.99,
-        "descuento_pct": 49.8,
-        "enlace": "https://www.super99.com/40011115-nero-dark-choco-70-21-85gr",
-        "razon": "49.8% de descuento real (de B/.2.99 a B/.1.50)",
+        "supermercado": "El Machetazo",
+        "categoria": "Jugueteria",
+        "nombre": "Mario Kart Circuito Set de Juego de Lanzador Bullet Bill",
+        "precio_oferta": 499.0,
+        "precio_regular": 3499.0,
+        "descuento_pct": 85.7,
+        "enlace": "https://www.elmachetazo.com/mario-kart-circuito-set-de-juego-de-lanzador-bullet-bill-10776314/p",
+        "razon": "85.7% de descuento real (de B/.3499.00 a B/.499.00)",
         "rank": 7
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "NERO DARK CHOCO 85% 21/85GR",
-        "precio_oferta": 1.5,
-        "precio_regular": 2.99,
-        "descuento_pct": 49.8,
-        "enlace": "https://www.super99.com/40011116-nero-dark-choco-85-21-85gr",
-        "razon": "49.8% de descuento real (de B/.2.99 a B/.1.50)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Ornamento Navideño Colgante|Santa",
+        "precio_oferta": 49.0,
+        "precio_regular": 299.0,
+        "descuento_pct": 83.6,
+        "enlace": "https://www.elmachetazo.com/ornamento-navideno-colgantesanta-10859561/p",
+        "razon": "83.6% de descuento real (de B/.299.00 a B/.49.00)",
         "rank": 8
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "Baci Chocolate Leche Trufa 3 Piezas 37.5g",
-        "precio_oferta": 1.18,
-        "precio_regular": 2.35,
-        "descuento_pct": 49.8,
-        "enlace": "https://www.super99.com/40009807-baci-chocolate-leche-trufa-3-piezas-37-5g",
-        "razon": "49.8% de descuento real (de B/.2.35 a B/.1.18)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Ornamento de Santa para Arbolito",
+        "precio_oferta": 49.0,
+        "precio_regular": 299.0,
+        "descuento_pct": 83.6,
+        "enlace": "https://www.elmachetazo.com/ornamento-de-santa-para-arbolito-10859585/p",
+        "razon": "83.6% de descuento real (de B/.299.00 a B/.49.00)",
         "rank": 9
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "Baci Chocolate Negro Trufa 3 Piezas 37.5z",
-        "precio_oferta": 1.18,
-        "precio_regular": 2.35,
-        "descuento_pct": 49.8,
-        "enlace": "https://www.super99.com/40009808-baci-chocolate-negro-trufa-3-piezas-37-5z",
-        "razon": "49.8% de descuento real (de B/.2.35 a B/.1.18)",
+        "supermercado": "El Machetazo",
+        "categoria": "Fiestas",
+        "nombre": "Cajita para Dulce Niño",
+        "precio_oferta": 49.0,
+        "precio_regular": 299.0,
+        "descuento_pct": 83.6,
+        "enlace": "https://www.elmachetazo.com/cajita-para-dulce-nino-10762520/p",
+        "razon": "83.6% de descuento real (de B/.299.00 a B/.49.00)",
         "rank": 10
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "BACI CHOCO TUBO FONDENTE 70% 21/37.5GR",
-        "precio_oferta": 1.18,
-        "precio_regular": 2.35,
-        "descuento_pct": 49.8,
-        "enlace": "https://www.super99.com/40011112-baci-choco-tubo-fondente-70-21-37-5gr",
-        "razon": "49.8% de descuento real (de B/.2.35 a B/.1.18)",
+        "supermercado": "El Machetazo",
+        "categoria": "Fiestas",
+        "nombre": "Cajita para Dulce Niña",
+        "precio_oferta": 49.0,
+        "precio_regular": 299.0,
+        "descuento_pct": 83.6,
+        "enlace": "https://www.elmachetazo.com/cajita-para-dulce-nina-10762518/p",
+        "razon": "83.6% de descuento real (de B/.299.00 a B/.49.00)",
         "rank": 11
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "BACI CHOCO TUBO CAFFE 21/37.5GR",
-        "precio_oferta": 1.18,
-        "precio_regular": 2.35,
-        "descuento_pct": 49.8,
-        "enlace": "https://www.super99.com/40011113-baci-choco-tubo-caffe-21-37-5gr",
-        "razon": "49.8% de descuento real (de B/.2.35 a B/.1.18)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Figura Navideña Decorativa|Muñeco de Nieve|31cm",
+        "precio_oferta": 99.0,
+        "precio_regular": 599.0,
+        "descuento_pct": 83.5,
+        "enlace": "https://www.elmachetazo.com/figura-navidena-decorativamuneco-de-nieve31cm-10859564/p",
+        "razon": "83.5% de descuento real (de B/.599.00 a B/.99.00)",
         "rank": 12
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "Danish Delights Butter Cookies 114g",
-        "precio_oferta": 0.75,
-        "precio_regular": 1.35,
-        "descuento_pct": 44.4,
-        "enlace": "https://www.super99.com/20145258-danish-delights-butter-cookies-114g",
-        "razon": "44.4% de descuento real (de B/.1.35 a B/.0.75)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Figura Navideña Decorativa|Santa|37cm",
+        "precio_oferta": 99.0,
+        "precio_regular": 599.0,
+        "descuento_pct": 83.5,
+        "enlace": "https://www.elmachetazo.com/figura-navidena-decorativasanta37cm-10859563/p",
+        "razon": "83.5% de descuento real (de B/.599.00 a B/.99.00)",
         "rank": 13
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "Nabisco Oreo Double Stuf 14.03Oz",
-        "precio_oferta": 4.0,
-        "precio_regular": 6.99,
-        "descuento_pct": 42.8,
-        "enlace": "https://www.super99.com/20142771-nabisco-oreo-double-stuf-14-03oz",
-        "razon": "42.8% de descuento real (de B/.6.99 a B/.4.00)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Porta Vela Navideño",
+        "precio_oferta": 99.0,
+        "precio_regular": 599.0,
+        "descuento_pct": 83.5,
+        "enlace": "https://www.elmachetazo.com/porta-vela-navideno-10859459/p",
+        "razon": "83.5% de descuento real (de B/.599.00 a B/.99.00)",
         "rank": 14
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "Nabisco Nilla Mini Wafers 12Oz",
-        "precio_oferta": 4.0,
-        "precio_regular": 6.99,
-        "descuento_pct": 42.8,
-        "enlace": "https://www.super99.com/20083919-nabisco-nilla-mini-wafers-12oz",
-        "razon": "42.8% de descuento real (de B/.6.99 a B/.4.00)",
+        "supermercado": "El Machetazo",
+        "categoria": "Bebes",
+        "nombre": "Set para Bebé Niña|3 Piezas",
+        "precio_oferta": 99.0,
+        "precio_regular": 599.0,
+        "descuento_pct": 83.5,
+        "enlace": "https://www.elmachetazo.com/set-para-bebe-nina3-piezas-10794135/p",
+        "razon": "83.5% de descuento real (de B/.599.00 a B/.99.00)",
         "rank": 15
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Aseo del Hogar",
-        "nombre": "Febreze Air Apple Cider 8.8oz",
-        "precio_oferta": 2.27,
-        "precio_regular": 3.79,
-        "descuento_pct": 40.1,
-        "enlace": "https://www.super99.com/20135805-febreze-air-apple-cider-8-8oz",
-        "razon": "40.1% de descuento real (de B/.3.79 a B/.2.27)",
+        "supermercado": "El Machetazo",
+        "categoria": "Sederia",
+        "nombre": "Círculo de Foam 10cm 4 Piezas",
+        "precio_oferta": 25.0,
+        "precio_regular": 129.0,
+        "descuento_pct": 80.6,
+        "enlace": "https://www.elmachetazo.com/circulo-de-foam-10cm-4-piezas-10792489/p",
+        "razon": "80.6% de descuento real (de B/.129.00 a B/.25.00)",
         "rank": 16
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "Pampers Baby Dry Etapa 4 46 unidades",
-        "precio_oferta": 11.75,
-        "precio_regular": 19.59,
-        "descuento_pct": 40.0,
-        "enlace": "https://www.super99.com/20117930-pampers-baby-dry-etapa-4-46-unidades",
-        "razon": "40.0% de descuento real (de B/.19.59 a B/.11.75)",
+        "supermercado": "El Machetazo",
+        "categoria": "Jugueteria",
+        "nombre": "L.O.L. ¡Sorpresa! Muñeca Baile con Accesorios",
+        "precio_oferta": 499.0,
+        "precio_regular": 2499.0,
+        "descuento_pct": 80.0,
+        "enlace": "https://www.elmachetazo.com/lol-sorpresa-muneca-baile-con-accesorios-10838342/p",
+        "razon": "80.0% de descuento real (de B/.2499.00 a B/.499.00)",
         "rank": 17
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "PAMPERS BABY DRY S5 2/39UN",
-        "precio_oferta": 11.75,
-        "precio_regular": 19.59,
-        "descuento_pct": 40.0,
-        "enlace": "https://www.super99.com/20124024-pampers-baby-dry-s5-2-39un",
-        "razon": "40.0% de descuento real (de B/.19.59 a B/.11.75)",
+        "supermercado": "El Machetazo",
+        "categoria": "Escolar",
+        "nombre": "Acuarela Set 12 colores",
+        "precio_oferta": 99.0,
+        "precio_regular": 495.0,
+        "descuento_pct": 80.0,
+        "enlace": "https://www.elmachetazo.com/acuarela-set-12-colores-10808625/p",
+        "razon": "80.0% de descuento real (de B/.495.00 a B/.99.00)",
         "rank": 18
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "PAMPERS BABY DRY S2 2/56UN",
-        "precio_oferta": 11.75,
-        "precio_regular": 19.59,
-        "descuento_pct": 40.0,
-        "enlace": "https://www.super99.com/20124023-pampers-baby-dry-s2-2-56un",
-        "razon": "40.0% de descuento real (de B/.19.59 a B/.11.75)",
+        "supermercado": "El Machetazo",
+        "categoria": "Sederia",
+        "nombre": "Hilo Pabilo|Negro y Blanco|2 Piezas",
+        "precio_oferta": 25.0,
+        "precio_regular": 125.0,
+        "descuento_pct": 80.0,
+        "enlace": "https://www.elmachetazo.com/hilo-pabilonegro-y-blanco2-piezas-10916441/p",
+        "razon": "80.0% de descuento real (de B/.125.00 a B/.25.00)",
         "rank": 19
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "PAMPERS BABY DRY S3 2/52UN",
-        "precio_oferta": 11.57,
-        "precio_regular": 19.29,
-        "descuento_pct": 40.0,
-        "enlace": "https://www.super99.com/20124006-pampers-baby-dry-s3-2-52un",
-        "razon": "40.0% de descuento real (de B/.19.29 a B/.11.57)",
+        "supermercado": "El Machetazo",
+        "categoria": "Sederia",
+        "nombre": "Hilo Pabilo|Verde y Blanco|2 Piezas",
+        "precio_oferta": 25.0,
+        "precio_regular": 125.0,
+        "descuento_pct": 80.0,
+        "enlace": "https://www.elmachetazo.com/hilo-pabiloverde-y-blanco2-piezas-10916440/p",
+        "razon": "80.0% de descuento real (de B/.125.00 a B/.25.00)",
         "rank": 20
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "PAMPERS BABY DRY S2 JUMBO PACK 4/37UN",
-        "precio_oferta": 8.75,
-        "precio_regular": 14.59,
-        "descuento_pct": 40.0,
-        "enlace": "https://www.super99.com/20121506-pampers-baby-dry-s2-jumbo-pack-4-37un",
-        "razon": "40.0% de descuento real (de B/.14.59 a B/.8.75)",
+        "supermercado": "El Machetazo",
+        "categoria": "Sederia",
+        "nombre": "Hilo Pabilo|Azul y Blanco|2 Piezas",
+        "precio_oferta": 25.0,
+        "precio_regular": 125.0,
+        "descuento_pct": 80.0,
+        "enlace": "https://www.elmachetazo.com/hilo-pabiloazul-y-blanco2-piezas-10916438/p",
+        "razon": "80.0% de descuento real (de B/.125.00 a B/.25.00)",
         "rank": 21
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "Orgran Cereal Arroz Frambuesa 300g",
-        "precio_oferta": 3.09,
-        "precio_regular": 5.15,
-        "descuento_pct": 40.0,
-        "enlace": "https://www.super99.com/20054421-orgran-cereal-arroz-frambuesa-300g",
-        "razon": "40.0% de descuento real (de B/.5.15 a B/.3.09)",
+        "supermercado": "El Machetazo",
+        "categoria": "Sederia",
+        "nombre": "Hilo Pabilo|Rosa y Blanco|2 Piezas",
+        "precio_oferta": 25.0,
+        "precio_regular": 125.0,
+        "descuento_pct": 80.0,
+        "enlace": "https://www.elmachetazo.com/hilo-pabilorosa-y-blanco2-piezas-10916439/p",
+        "razon": "80.0% de descuento real (de B/.125.00 a B/.25.00)",
         "rank": 22
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Aseo del Hogar",
-        "nombre": "Febreze Air Sumberpic 8.80Oz",
-        "precio_oferta": 2.01,
-        "precio_regular": 3.35,
-        "descuento_pct": 40.0,
-        "enlace": "https://www.super99.com/20149559-febreze-air-sumberpic-8-80oz",
-        "razon": "40.0% de descuento real (de B/.3.35 a B/.2.01)",
+        "supermercado": "El Machetazo",
+        "categoria": "Bebes",
+        "nombre": "Set de Alfiler",
+        "precio_oferta": 10.0,
+        "precio_regular": 50.0,
+        "descuento_pct": 80.0,
+        "enlace": "https://www.elmachetazo.com/set-de-alfiler-10735636/p",
+        "razon": "80.0% de descuento real (de B/.50.00 a B/.10.00)",
         "rank": 23
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Aseo del Hogar",
-        "nombre": "Febreze Air Gapeachorc 8.80Oz",
-        "precio_oferta": 2.01,
-        "precio_regular": 3.35,
-        "descuento_pct": 40.0,
-        "enlace": "https://www.super99.com/20149560-febreze-air-gapeachorc-8-80oz",
-        "razon": "40.0% de descuento real (de B/.3.35 a B/.2.01)",
+        "supermercado": "El Machetazo",
+        "categoria": "Jugueteria",
+        "nombre": "Nintendo Mini Coche de Luigi |Radio Control",
+        "precio_oferta": 1999.0,
+        "precio_regular": 8999.0,
+        "descuento_pct": 77.8,
+        "enlace": "https://www.elmachetazo.com/nintendo-mini-coche-de-carreras-antigravedad-de-luigiradio-control08988-4l-10822027/p",
+        "razon": "77.8% de descuento real (de B/.8999.00 a B/.1999.00)",
         "rank": 24
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "Miyata Aceite Arroz Sazonado 150ml",
-        "precio_oferta": 0.75,
-        "precio_regular": 1.25,
-        "descuento_pct": 40.0,
-        "enlace": "https://www.super99.com/20153304-miyata-aceite-arroz-sazonado-150ml",
-        "razon": "40.0% de descuento real (de B/.1.25 a B/.0.75)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Familia de Renos Navideños con Luces |3 Piezas",
+        "precio_oferta": 999.0,
+        "precio_regular": 4499.0,
+        "descuento_pct": 77.8,
+        "enlace": "https://www.elmachetazo.com/familia-de-renos-navidenos3-piezasluces-10903289/p",
+        "razon": "77.8% de descuento real (de B/.4499.00 a B/.999.00)",
         "rank": 25
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "Heinz Colado Frutas Tropicale 113g",
-        "precio_oferta": 0.56,
-        "precio_regular": 0.89,
-        "descuento_pct": 37.1,
-        "enlace": "https://www.super99.com/10090159-heinz-colado-frutas-tropicale-113g",
-        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Planta Artificial|82.5 cm",
+        "precio_oferta": 299.0,
+        "precio_regular": 1299.0,
+        "descuento_pct": 77.0,
+        "enlace": "https://www.elmachetazo.com/planta-artificial-82-5-cm-total-home-design-10881537-machetazo/p",
+        "razon": "77.0% de descuento real (de B/.1299.00 a B/.299.00)",
         "rank": 26
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "Heinz Colado Coctel Frutas 113g",
-        "precio_oferta": 0.56,
-        "precio_regular": 0.89,
-        "descuento_pct": 37.1,
-        "enlace": "https://www.super99.com/10090161-heinz-colado-coctel-frutas-113g",
-        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Planta Artificial|81 cm",
+        "precio_oferta": 299.0,
+        "precio_regular": 1299.0,
+        "descuento_pct": 77.0,
+        "enlace": "https://www.elmachetazo.com/planta-artificial-81-cm-total-home-design-10881539-machetazo/p",
+        "razon": "77.0% de descuento real (de B/.1299.00 a B/.299.00)",
         "rank": 27
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "Heinz Colado Manzana Vidrio 113g",
-        "precio_oferta": 0.56,
-        "precio_regular": 0.89,
-        "descuento_pct": 37.1,
-        "enlace": "https://www.super99.com/10090283-heinz-colado-manzana-vidrio-113g",
-        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Planta Artificial|81 cm",
+        "precio_oferta": 299.0,
+        "precio_regular": 1299.0,
+        "descuento_pct": 77.0,
+        "enlace": "https://www.elmachetazo.com/planta-artificial-81-cm-total-home-design-10881540-machetazo/p",
+        "razon": "77.0% de descuento real (de B/.1299.00 a B/.299.00)",
         "rank": 28
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "Heinz Colado Pera Vidrio 113g",
-        "precio_oferta": 0.56,
-        "precio_regular": 0.89,
-        "descuento_pct": 37.1,
-        "enlace": "https://www.super99.com/10090284-heinz-colado-pera-vidrio-113g",
-        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Planta Artificial|81 cm",
+        "precio_oferta": 299.0,
+        "precio_regular": 1299.0,
+        "descuento_pct": 77.0,
+        "enlace": "https://www.elmachetazo.com/planta-artificial-81-cm-total-home-design-10881544-machetazo/p",
+        "razon": "77.0% de descuento real (de B/.1299.00 a B/.299.00)",
         "rank": 29
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "Heinz Colado Melocoton Vidrio 113g",
-        "precio_oferta": 0.56,
-        "precio_regular": 0.89,
-        "descuento_pct": 37.1,
-        "enlace": "https://www.super99.com/10090285-heinz-colado-melocoton-vidrio-113g",
-        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Planta Artificial|81 cm",
+        "precio_oferta": 299.0,
+        "precio_regular": 1299.0,
+        "descuento_pct": 77.0,
+        "enlace": "https://www.elmachetazo.com/planta-artificial-81-cm-total-home-design-10881545-machetazo/p",
+        "razon": "77.0% de descuento real (de B/.1299.00 a B/.299.00)",
         "rank": 30
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "Heinz Colado Postre Fruta Vidrio 113g",
-        "precio_oferta": 0.56,
-        "precio_regular": 0.89,
-        "descuento_pct": 37.1,
-        "enlace": "https://www.super99.com/10090286-heinz-colado-postre-fruta-vidrio-113g",
-        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Cojin Navideño",
+        "precio_oferta": 299.0,
+        "precio_regular": 1299.0,
+        "descuento_pct": 77.0,
+        "enlace": "https://www.elmachetazo.com/cojin-navideno-10859664/p",
+        "razon": "77.0% de descuento real (de B/.1299.00 a B/.299.00)",
         "rank": 31
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "Heinz Colado Frutas Mixtas 113g",
-        "precio_oferta": 0.56,
-        "precio_regular": 0.89,
-        "descuento_pct": 37.1,
-        "enlace": "https://www.super99.com/10090288-heinz-colado-frutas-mixtas-113g",
-        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Taza Navideña|11oz",
+        "precio_oferta": 49.0,
+        "precio_regular": 199.0,
+        "descuento_pct": 75.4,
+        "enlace": "https://www.elmachetazo.com/taza-navidena11oz-10859665/p",
+        "razon": "75.4% de descuento real (de B/.199.00 a B/.49.00)",
         "rank": 32
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "Heinz Colado Ciruelas Pasas 113g",
-        "precio_oferta": 0.56,
-        "precio_regular": 0.89,
-        "descuento_pct": 37.1,
-        "enlace": "https://www.super99.com/20042990-heinz-colado-ciruelas-pasas-113g",
-        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Taza Navideña|11oz",
+        "precio_oferta": 49.0,
+        "precio_regular": 199.0,
+        "descuento_pct": 75.4,
+        "enlace": "https://www.elmachetazo.com/taza-navidena11oz-10778163/p",
+        "razon": "75.4% de descuento real (de B/.199.00 a B/.49.00)",
         "rank": 33
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "Heinz Colado Banana Vidrio 113g",
-        "precio_oferta": 0.56,
-        "precio_regular": 0.89,
-        "descuento_pct": 37.1,
-        "enlace": "https://www.super99.com/20126706-heinz-colado-banana-vidrio-113g",
-        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "supermercado": "El Machetazo",
+        "categoria": "Sederia",
+        "nombre": "Tambor Plástico para Costura|Numero 8",
+        "precio_oferta": 49.0,
+        "precio_regular": 199.0,
+        "descuento_pct": 75.4,
+        "enlace": "https://www.elmachetazo.com/tambor-plastico--8-10794962/p",
+        "razon": "75.4% de descuento real (de B/.199.00 a B/.49.00)",
         "rank": 34
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "PAMPERS PANTS PC GDE 4/30UN",
-        "precio_oferta": 9.99,
-        "precio_regular": 15.59,
-        "descuento_pct": 35.9,
-        "enlace": "https://www.super99.com/20125654-pampers-pants-pc-gde-4-30un",
-        "razon": "35.9% de descuento real (de B/.15.59 a B/.9.99)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Gorro Navideño y Bufanda de Mascota",
+        "precio_oferta": 99.0,
+        "precio_regular": 399.0,
+        "descuento_pct": 75.2,
+        "enlace": "https://www.elmachetazo.com/gorro-navideno-y-bufanda-de-mascota-10859710/p",
+        "razon": "75.2% de descuento real (de B/.399.00 a B/.99.00)",
         "rank": 35
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "PAMPERS PANTS PC XXG 8/24UN",
-        "precio_oferta": 9.99,
-        "precio_regular": 15.59,
-        "descuento_pct": 35.9,
-        "enlace": "https://www.super99.com/20125656-pampers-pants-pc-xxg-8-24un",
-        "razon": "35.9% de descuento real (de B/.15.59 a B/.9.99)",
+        "supermercado": "El Machetazo",
+        "categoria": "Escolar",
+        "nombre": "Pintura para Vidrio Set 12 Colores",
+        "precio_oferta": 99.0,
+        "precio_regular": 399.0,
+        "descuento_pct": 75.2,
+        "enlace": "https://www.elmachetazo.com/pintura-para-vidrio-set-12-colores-10808620/p",
+        "razon": "75.2% de descuento real (de B/.399.00 a B/.99.00)",
         "rank": 36
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "PAMPERS PANTS PC XGD 6/26UN",
-        "precio_oferta": 9.99,
-        "precio_regular": 15.59,
-        "descuento_pct": 35.9,
-        "enlace": "https://www.super99.com/20125655-pampers-pants-pc-xgd-6-26un",
-        "razon": "35.9% de descuento real (de B/.15.59 a B/.9.99)",
+        "supermercado": "El Machetazo",
+        "categoria": "Escolar",
+        "nombre": "Pintura para Cerámica Set 12 Colores",
+        "precio_oferta": 99.0,
+        "precio_regular": 399.0,
+        "descuento_pct": 75.2,
+        "enlace": "https://www.elmachetazo.com/pintura-para-ceramica-set-12-colores-10808624/p",
+        "razon": "75.2% de descuento real (de B/.399.00 a B/.99.00)",
         "rank": 37
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Cuidado de Bebes",
-        "nombre": "PAMPERS PANTS PC MED 4/34UN",
-        "precio_oferta": 9.99,
-        "precio_regular": 15.59,
-        "descuento_pct": 35.9,
-        "enlace": "https://www.super99.com/20125653-pampers-pants-pc-med-4-34un",
-        "razon": "35.9% de descuento real (de B/.15.59 a B/.9.99)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Porta Vela Navideño",
+        "precio_oferta": 299.0,
+        "precio_regular": 1199.0,
+        "descuento_pct": 75.1,
+        "enlace": "https://www.elmachetazo.com/porta-vela-navideno-10859474/p",
+        "razon": "75.1% de descuento real (de B/.1199.00 a B/.299.00)",
         "rank": 38
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Congelados y Refrigerados",
-        "nombre": "LA SABROSITA AGUACATE HASS CONG 12/1KG",
-        "precio_oferta": 4.5,
-        "precio_regular": 6.99,
-        "descuento_pct": 35.6,
-        "enlace": "https://www.super99.com/40010847-la-sabrosita-aguacate-hass-cong-12-1kg",
-        "razon": "35.6% de descuento real (de B/.6.99 a B/.4.50)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Falda Navideña|116x116cm",
+        "precio_oferta": 499.0,
+        "precio_regular": 1999.0,
+        "descuento_pct": 75.0,
+        "enlace": "https://www.elmachetazo.com/falda-navidena116x116cm-10859651/p",
+        "razon": "75.0% de descuento real (de B/.1999.00 a B/.499.00)",
         "rank": 39
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Congelados y Refrigerados",
-        "nombre": "LA SABROSITA ESPARRAGO CONG BOL 10/1KG",
-        "precio_oferta": 4.5,
-        "precio_regular": 6.99,
-        "descuento_pct": 35.6,
-        "enlace": "https://www.super99.com/40010848-la-sabrosita-esparrago-cong-bol-10-1kg",
-        "razon": "35.6% de descuento real (de B/.6.99 a B/.4.50)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Santa Navideño Musical|40.5cm",
+        "precio_oferta": 499.0,
+        "precio_regular": 1999.0,
+        "descuento_pct": 75.0,
+        "enlace": "https://www.elmachetazo.com/santa-navideno-musical405cm-10859629/p",
+        "razon": "75.0% de descuento real (de B/.1999.00 a B/.499.00)",
         "rank": 40
       },
       {
-        "supermercado": "Riba Smith",
-        "categoria": "Promociones",
-        "nombre": "CEBELLY BARS ORG APPLE KALE",
-        "precio_oferta": 4.2,
-        "precio_regular": 6.5,
-        "descuento_pct": 35.4,
-        "enlace": "https://www.ribasmith.com/index.php/360872-cebelly-bars-org-apple-kale.html",
-        "razon": "35.4% de descuento real (de B/.6.50 a B/.4.20)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Figura Decorativa|Reno Musical|32cm",
+        "precio_oferta": 499.0,
+        "precio_regular": 1999.0,
+        "descuento_pct": 75.0,
+        "enlace": "https://www.elmachetazo.com/figura-decorativareno-musical32cm-10859542/p",
+        "razon": "75.0% de descuento real (de B/.1999.00 a B/.499.00)",
         "rank": 41
       },
       {
-        "supermercado": "Riba Smith",
-        "categoria": "Promociones",
-        "nombre": "DAVID NACHO SNFLOWER 0.8 OZ",
-        "precio_oferta": 0.45,
-        "precio_regular": 0.69,
-        "descuento_pct": 34.8,
-        "enlace": "https://www.ribasmith.com/index.php/330946-david-nacho-snflower-0-8-oz.html",
-        "razon": "34.8% de descuento real (de B/.0.69 a B/.0.45)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Santa Navideño|67cm",
+        "precio_oferta": 499.0,
+        "precio_regular": 1999.0,
+        "descuento_pct": 75.0,
+        "enlace": "https://www.elmachetazo.com/santa-navideno67cm-10859579/p",
+        "razon": "75.0% de descuento real (de B/.1999.00 a B/.499.00)",
         "rank": 42
       },
       {
-        "supermercado": "Riba Smith",
+        "supermercado": "El Rey",
         "categoria": "Promociones",
-        "nombre": "BAGUETTE RUSTICA 120 GR",
-        "precio_oferta": 2.0,
-        "precio_regular": 3.05,
-        "descuento_pct": 34.4,
-        "enlace": "https://www.ribasmith.com/index.php/332059-baguette-rustica-120-gr.html",
-        "razon": "34.4% de descuento real (de B/.3.05 a B/.2.00)",
+        "nombre": "Juego de Pijama Free para Hombre Und",
+        "precio_oferta": 375.0,
+        "precio_regular": 1500.0,
+        "descuento_pct": 75.0,
+        "enlace": "https://www.smrey.com/p/juego-de-pijama-free-hombre-und-7450123005186",
+        "razon": "75.0% de descuento real (de B/.1500.00 a B/.375.00)",
         "rank": 43
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Aseo del Hogar",
-        "nombre": "Bionature Bandeja Desechable 8x8 C D 10 Unidades",
-        "precio_oferta": 2.99,
-        "precio_regular": 4.5,
-        "descuento_pct": 33.6,
-        "enlace": "https://www.super99.com/20123348-bionature-bandeja-desechable-8x8-c-d-10-unidades",
-        "razon": "33.6% de descuento real (de B/.4.50 a B/.2.99)",
+        "supermercado": "El Rey",
+        "categoria": "Promociones",
+        "nombre": "Camiseta para Hombre Sexy Woman Und",
+        "precio_oferta": 200.0,
+        "precio_regular": 800.0,
+        "descuento_pct": 75.0,
+        "enlace": "https://www.smrey.com/p/camiseta-hombre-sexy-woman-und-7450026057541",
+        "razon": "75.0% de descuento real (de B/.800.00 a B/.200.00)",
         "rank": 44
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Aseo del Hogar",
-        "nombre": "PLASTIFAR VASO PLAST CAFE 50/100U",
-        "precio_oferta": 0.99,
-        "precio_regular": 1.49,
-        "descuento_pct": 33.6,
-        "enlace": "https://www.super99.com/20078797-plastifar-vaso-plast-cafe-50-100u",
-        "razon": "33.6% de descuento real (de B/.1.49 a B/.0.99)",
+        "supermercado": "El Machetazo",
+        "categoria": "Jugueteria",
+        "nombre": "Barbie Pop! Reveal",
+        "precio_oferta": 799.0,
+        "precio_regular": 2999.0,
+        "descuento_pct": 73.4,
+        "enlace": "https://www.elmachetazo.com/barbie-pop-reveal-10953339/p",
+        "razon": "73.4% de descuento real (de B/.2999.00 a B/.799.00)",
         "rank": 45
       },
       {
-        "supermercado": "Riba Smith",
-        "categoria": "Promociones",
-        "nombre": "CRAVN CRISPY CRUNCH BARS",
-        "precio_oferta": 5.95,
-        "precio_regular": 8.95,
-        "descuento_pct": 33.5,
-        "enlace": "https://www.ribasmith.com/index.php/358972-cravn-crispy-crunch-bars.html",
-        "razon": "33.5% de descuento real (de B/.8.95 a B/.5.95)",
+        "supermercado": "El Machetazo",
+        "categoria": "Jugueteria",
+        "nombre": "Cocina de Juguete Step2 Best Chef",
+        "precio_oferta": 3999.0,
+        "precio_regular": 14999.0,
+        "descuento_pct": 73.3,
+        "enlace": "https://www.elmachetazo.com/cocina-de-juguete-step2-best-chef-10906195/p",
+        "razon": "73.3% de descuento real (de B/.14999.00 a B/.3999.00)",
         "rank": 46
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Accesorios Hogar",
-        "nombre": "PLASTIFAR TAPA PLAST S/V PL8S1216 10/100",
-        "precio_oferta": 3.99,
-        "precio_regular": 5.99,
-        "descuento_pct": 33.4,
-        "enlace": "https://www.super99.com/20140610-plastifar-tapa-plast-s-v-pl8s1216-10-100",
-        "razon": "33.4% de descuento real (de B/.5.99 a B/.3.99)",
+        "supermercado": "El Machetazo",
+        "categoria": "Jugueteria",
+        "nombre": "Liga de Supermascotas Fisher Price|Krypto con Sonido",
+        "precio_oferta": 1999.0,
+        "precio_regular": 7499.0,
+        "descuento_pct": 73.3,
+        "enlace": "https://www.elmachetazo.com/liga-de-supermascotas-fisher-pricekrypto-con-sonido-10864004/p",
+        "razon": "73.3% de descuento real (de B/.7499.00 a B/.1999.00)",
         "rank": 47
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "Barilla Salsa Sugo Napoletana 400g",
-        "precio_oferta": 1.99,
-        "precio_regular": 2.99,
-        "descuento_pct": 33.4,
-        "enlace": "https://www.super99.com/10091079-barilla-salsa-sugo-napoletana-400g",
-        "razon": "33.4% de descuento real (de B/.2.99 a B/.1.99)",
+        "supermercado": "El Machetazo",
+        "categoria": "Jugueteria",
+        "nombre": "Paw Patrol Build a Bot Marshall",
+        "precio_oferta": 999.0,
+        "precio_regular": 3699.0,
+        "descuento_pct": 73.0,
+        "enlace": "https://www.elmachetazo.com/paw-patrol-build-a-bot-marshall-10821932/p",
+        "razon": "73.0% de descuento real (de B/.3699.00 a B/.999.00)",
         "rank": 48
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "Chips Ahoy Chewy 13Oz",
-        "precio_oferta": 4.0,
-        "precio_regular": 5.99,
-        "descuento_pct": 33.2,
-        "enlace": "https://www.super99.com/10128355-chips-ahoy-chewy-13oz",
-        "razon": "33.2% de descuento real (de B/.5.99 a B/.4.00)",
+        "supermercado": "El Machetazo",
+        "categoria": "Hogar",
+        "nombre": "Figura Reno Navideño|25x51x13cm",
+        "precio_oferta": 699.0,
+        "precio_regular": 2499.0,
+        "descuento_pct": 72.0,
+        "enlace": "https://www.elmachetazo.com/figura-reno-navideno25x51x13cm-11017584/p",
+        "razon": "72.0% de descuento real (de B/.2499.00 a B/.699.00)",
         "rank": 49
       },
       {
-        "supermercado": "Super 99",
-        "categoria": "Despensa",
-        "nombre": "Chips Ahoy Galletas Thins Original 7Oz",
-        "precio_oferta": 4.0,
-        "precio_regular": 5.99,
-        "descuento_pct": 33.2,
-        "enlace": "https://www.super99.com/20139623-chips-ahoy-galletas-thins-original-7oz",
-        "razon": "33.2% de descuento real (de B/.5.99 a B/.4.00)",
+        "supermercado": "El Machetazo",
+        "categoria": "Bebes",
+        "nombre": "Sonajero 7.5 cm",
+        "precio_oferta": 99.0,
+        "precio_regular": 349.0,
+        "descuento_pct": 71.6,
+        "enlace": "https://www.elmachetazo.com/sonajero-75-cm-10879056/p",
+        "razon": "71.6% de descuento real (de B/.349.00 a B/.99.00)",
         "rank": 50
       }
     ],
     "comparativas": [
       {
+        "producto": "Pañales Huggies Natural Care Etapa 6/XXXG 63U",
+        "categoria": "Bebes",
+        "precios": {
+          "Super 99": 2495.0,
+          "Super Xtra": 0.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 2495.0,
+        "enlace": "https://www.superxtra.com/panales-huggies-natural-care-etapa-6-xxxg-63u-7441008101208/p"
+      },
+      {
+        "producto": "Pañales Huggies Natural Care Pants Etapa 5/XXG 54U",
+        "categoria": "Bebes",
+        "precios": {
+          "Super 99": 2099.0,
+          "Super Xtra": 0.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 2099.0,
+        "enlace": "https://www.superxtra.com/panales-huggies-natural-care-pants-etapa-5-xxg-suavidad-insuperable-54u-7702425244214/p"
+      },
+      {
+        "producto": "Pañales Huggies Natural Care Pants Etapa 3/G 68U",
+        "categoria": "Bebes",
+        "precios": {
+          "Super 99": 2099.0,
+          "Super Xtra": 0.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 2099.0,
+        "enlace": "https://www.superxtra.com/panales-huggies-natural-care-pants-etapa-3-g-suavidad-insuperable-68u-7702425581937/p"
+      },
+      {
+        "producto": "Similac neosure hmo 370 g",
+        "categoria": "Bebes",
+        "precios": {
+          "Super 99": 1599.0,
+          "Super Xtra": 0.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 1599.0,
+        "enlace": "https://www.superxtra.com/leche-en-polvo-similac-neosure-370-g-8427030008080/p"
+      },
+      {
+        "producto": "Pañales Huggies Natural Care Pants Etapa 4/XG 56U",
+        "categoria": "Cuidado de Bebes",
+        "precios": {
+          "Super 99": 2099.0,
+          "Super Xtra": 2999.0
+        },
+        "ganador": "Super 99",
+        "ahorro": 900.0,
+        "enlace": "https://www.super99.com/20136982-panales-huggies-natural-care-pants-etapa-4-xg-56u"
+      },
+      {
+        "producto": "MILANESA",
+        "categoria": "Carnes y Embutidos",
+        "precios": {
+          "Riba Smith": 15.96,
+          "Super 99": 899.0
+        },
+        "ganador": "Riba Smith",
+        "ahorro": 883.04,
+        "enlace": "https://www.ribasmith.com/index.php/milanesa-60285.html"
+      },
+      {
+        "producto": "CARNE MOLIDA DE PRIMERA",
+        "categoria": "Carnes y Embutidos",
+        "precios": {
+          "Riba Smith": 4.74,
+          "Super Xtra": 886.0
+        },
+        "ganador": "Riba Smith",
+        "ahorro": 881.26,
+        "enlace": "https://www.ribasmith.com/index.php/carne-molida-de-primera-cp-219321.html"
+      },
+      {
+        "producto": "RINCON",
+        "categoria": "Carnes y Embutidos",
+        "precios": {
+          "Riba Smith": 18.19,
+          "Super 99": 899.0
+        },
+        "ganador": "Riba Smith",
+        "ahorro": 880.81,
+        "enlace": "https://www.ribasmith.com/index.php/rincon-25538.html"
+      },
+      {
+        "producto": "PUNTA DE PALOMILLA",
+        "categoria": "Carnes y Embutidos",
+        "precios": {
+          "Riba Smith": 16.09,
+          "Super 99": 829.0
+        },
+        "ganador": "Riba Smith",
+        "ahorro": 812.91,
+        "enlace": "https://www.ribasmith.com/index.php/punta-de-palomilla-25542.html"
+      },
+      {
+        "producto": "LOMO REDONDO",
+        "categoria": "Carnes y Embutidos",
+        "precios": {
+          "Riba Smith": 15.32,
+          "Super 99": 815.0
+        },
+        "ganador": "Riba Smith",
+        "ahorro": 799.68,
+        "enlace": "https://www.ribasmith.com/index.php/lomo-redondo-25543.html"
+      },
+      {
+        "producto": "Pañales Huggies Active Sec Etapa 4/XG 27U",
+        "categoria": "Bebes",
+        "precios": {
+          "Super 99": 795.0,
+          "Super Xtra": 0.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 795.0,
+        "enlace": "https://www.superxtra.com/pañal-huggies-active-sec-xg-28-un-12-15kg-7441008166788/p"
+      },
+      {
+        "producto": "Pañales Huggies Active Sec Etapa 5/XXG 23U",
+        "categoria": "Bebes",
+        "precios": {
+          "Super 99": 795.0,
+          "Super Xtra": 0.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 795.0,
+        "enlace": "https://www.superxtra.com/panal-desechable-huggies-active-sec-xxg-24-un-7441008166795/p"
+      },
+      {
+        "producto": "PULPA NEGRA",
+        "categoria": "Carnes y Embutidos",
+        "precios": {
+          "Riba Smith": 16.99,
+          "Super 99": 799.0
+        },
+        "ganador": "Riba Smith",
+        "ahorro": 782.01,
+        "enlace": "https://www.ribasmith.com/index.php/pulpa-negra-25539.html"
+      },
+      {
+        "producto": "Aguardiente Blanco Del Valle Fiesta 750Ml",
+        "categoria": "Licor, Cerveza y Vino",
+        "precios": {
+          "El Machetazo": 725.0,
+          "Super Xtra": 0.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 725.0,
+        "enlace": "https://www.superxtra.com/aguardiente-blanco-del-valle-fiesta-750ml-7702055001690/p"
+      },
+      {
+        "producto": "Pañales Huggies Active Sec Etapa 3/G 31U",
+        "categoria": "Cuidado de Bebes",
+        "precios": {
+          "Super 99": 795.0,
+          "Super Xtra": 1298.0
+        },
+        "ganador": "Super 99",
+        "ahorro": 503.0,
+        "enlace": "https://www.super99.com/20087239-panales-huggies-active-sec-etapa-3-g-31u"
+      },
+      {
+        "producto": "Ropa Interior Desechable Goodnites Niña Talla L 11U",
+        "categoria": "Cuidado Personal y Belleza",
+        "precios": {
+          "Super 99": 1499.0,
+          "Super Xtra": 1140.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 359.0,
+        "enlace": "https://www.superxtra.com/ropa-interior-desechable-goodnites-nina-talla-l-11u-36000533637/p"
+      },
+      {
+        "producto": "Ropa Interior Desechable Goodnites Niño Talla L 11U",
+        "categoria": "Bebes",
+        "precios": {
+          "Super 99": 1499.0,
+          "Super Xtra": 1140.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 359.0,
+        "enlace": "https://www.superxtra.com/pañales-desechables-goodnites-boy-lg-xl-jumbo-11-36000533620/p"
+      },
+      {
+        "producto": "AREPAS CON QUESO ANTIOQUENITA",
+        "categoria": "Productos de Maíz",
+        "precios": {
+          "Riba Smith": 3.12,
+          "Super 99": 299.0
+        },
+        "ganador": "Riba Smith",
+        "ahorro": 295.88,
+        "enlace": "https://www.ribasmith.com/index.php/arepas-con-queso-antioquenita-24867.html"
+      },
+      {
+        "producto": "PAN SUNFLOWER SEEDS (girasol)",
+        "categoria": "Panes y Dulces",
+        "precios": {
+          "Riba Smith": 2.86,
+          "Super 99": 269.0
+        },
+        "ganador": "Riba Smith",
+        "ahorro": 266.14,
+        "enlace": "https://www.ribasmith.com/index.php/pan-sunflower-seeds-girasol-24930.html"
+      },
+      {
+        "producto": "Pañales Huggies Natural Care Etapa 2/M 108U",
+        "categoria": "Cuidado de Bebes",
+        "precios": {
+          "Super 99": 2797.0,
+          "Super Xtra": 3032.0
+        },
+        "ganador": "Super 99",
+        "ahorro": 235.0,
+        "enlace": "https://www.super99.com/20144644-panales-huggies-natural-care-etapa-2-m-108u"
+      },
+      {
+        "producto": "LA COSTENA CHIPOTLES ADOBADOS 220 GR",
+        "categoria": "Despensa",
+        "precios": {
+          "Riba Smith": 2.37,
+          "Super 99": 235.0
+        },
+        "ganador": "Riba Smith",
+        "ahorro": 232.63,
+        "enlace": "https://www.ribasmith.com/index.php/11481-chipotles-adobados-precios-especiales.html"
+      },
+      {
+        "producto": "Champiñones Blancos La Lomita 225g",
+        "categoria": "Productos Frescos",
+        "precios": {
+          "Super 99": 28.0,
+          "El Rey": 249.0
+        },
+        "ganador": "Super 99",
+        "ahorro": 221.0,
+        "enlace": "https://www.super99.com/20038433-champinones-blancos-la-lomita-225g"
+      },
+      {
+        "producto": "ASPIRADOR NASAL",
+        "categoria": "Bebé",
+        "precios": {
+          "Riba Smith": 8.27,
+          "Super 99": 219.0
+        },
+        "ganador": "Riba Smith",
+        "ahorro": 210.73,
+        "enlace": "https://www.ribasmith.com/index.php/26201-aspirador-nasal.html"
+      },
+      {
+        "producto": "Pañales Huggies Natural Care Etapa 5/XXG 70U",
+        "categoria": "Cuidado de Bebes",
+        "precios": {
+          "Super 99": 2495.0,
+          "Super Xtra": 2699.0
+        },
+        "ganador": "Super 99",
+        "ahorro": 204.0,
+        "enlace": "https://www.super99.com/20144647-panales-huggies-natural-care-etapa-5-xxg-70u"
+      },
+      {
+        "producto": "Pañales Huggies Active Sec Etapa 2/M 36U",
+        "categoria": "Cuidado de Bebes",
+        "precios": {
+          "Super 99": 795.0,
+          "Super Xtra": 990.0
+        },
+        "ganador": "Super 99",
+        "ahorro": 195.0,
+        "enlace": "https://www.super99.com/20087237-panales-huggies-active-sec-etapa-2-m-36u"
+      },
+      {
         "producto": "TORTILLAS GRANDES 10 UN",
         "categoria": "Productos de Maíz",
         "precios": {
           "Riba Smith": 1.45,
-          "Super 99": 1.69
+          "Super 99": 169.0
         },
         "ganador": "Riba Smith",
-        "ahorro": 0.24,
+        "ahorro": 167.55,
         "enlace": "https://www.ribasmith.com/index.php/9221-tortillas-grandes-10-un.html"
       },
       {
-        "producto": "PAN SUNFLOWER SEEDS GIRASOL",
-        "categoria": "Congelados y Refrigerados",
+        "producto": "Toallas Húmedas Huggies Cuidado 4 en 1 240U",
+        "categoria": "Bebes",
         "precios": {
-          "Riba Smith": 2.86,
-          "Super 99": 2.69
+          "Super 99": 1259.0,
+          "Super Xtra": 1099.0
         },
-        "ganador": "Super 99",
-        "ahorro": 0.17,
-        "enlace": "https://www.super99.com/10121496-pan-sunflower-seeds-girasol"
+        "ganador": "Super Xtra",
+        "ahorro": 160.0,
+        "enlace": "https://www.superxtra.com/toallitas-humedas-huggies-cuidado-en-1-desechables-240u/p"
       },
       {
-        "producto": "Arepas Con Queso La Antioqueñita",
-        "categoria": "Congelados y Refrigerados",
+        "producto": "Sangria De Lata Don Simon 330Ml",
+        "categoria": "Licor, Cerveza y Vino",
         "precios": {
-          "Riba Smith": 3.12,
-          "Super 99": 2.99
+          "Super 99": 139.0,
+          "Super Xtra": 0.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 139.0,
+        "enlace": "https://www.superxtra.com/sangria-de-lata-don-simon-330ml-8410261151717/p"
+      },
+      {
+        "producto": "Zanahoria por Kilo",
+        "categoria": "Productos Frescos",
+        "precios": {
+          "Super 99": 14.0,
+          "Super Xtra": 142.0
         },
         "ganador": "Super 99",
-        "ahorro": 0.13,
-        "enlace": "https://www.super99.com/10076587-arepas-con-queso-la-antioquenita"
+        "ahorro": 128.0,
+        "enlace": "https://www.super99.com/55001415-zanahoria-por-kilo"
+      },
+      {
+        "producto": "Pañales Huggies Natural Care Etapa 1/P 125U",
+        "categoria": "Cuidado de Bebes",
+        "precios": {
+          "Super 99": 2999.0,
+          "Super Xtra": 3119.0
+        },
+        "ganador": "Super 99",
+        "ahorro": 120.0,
+        "enlace": "https://www.super99.com/20144641-panales-huggies-natural-care-etapa-1-p-125u"
+      },
+      {
+        "producto": "Toallas Femeninas Kotex Nocturna Maxi Comfort & Protección 24U",
+        "categoria": "Cuidado Personal y Belleza",
+        "precios": {
+          "Super 99": 679.0,
+          "Super Xtra": 572.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 107.0,
+        "enlace": "https://www.superxtra.com/toallas-femeninas-kotex-nocturna-maxi-comfort-proteccion-24u/p"
+      },
+      {
+        "producto": "Crema Facial Hidratante Gel Rosas Nivea 50ml",
+        "categoria": "Cuidado Personal y Belleza",
+        "precios": {
+          "El Machetazo": 1334.0,
+          "Super Xtra": 1238.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 96.0,
+        "enlace": "https://www.superxtra.com/gel-crema-rosas-1250ml-4005900807441/p"
+      },
+      {
+        "producto": "Ron Botran Añejo 8 Años 750ml",
+        "categoria": "Supermercado",
+        "precios": {
+          "Super 99": 1499.0,
+          "El Machetazo": 1409.0
+        },
+        "ganador": "El Machetazo",
+        "ahorro": 90.0,
+        "enlace": "https://www.elmachetazo.com/ron-botran-anejo-8-anos-750ml-10017304/p"
+      },
+      {
+        "producto": "Toallas Húmedas Huggies Limpieza Efectiva 192U",
+        "categoria": "Bebes",
+        "precios": {
+          "Super 99": 809.0,
+          "Super Xtra": 720.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 89.0,
+        "enlace": "https://www.superxtra.com/toallitas-humedas-huggies-limpieza-efectiva-desechables-192u-7702425809147/p"
+      },
+      {
+        "producto": "Papel Higiénico Scott Rindemax Doble Hoja 12 Rollos",
+        "categoria": "Aseo del Hogar",
+        "precios": {
+          "Super 99": 889.0,
+          "Super Xtra": 973.0
+        },
+        "ganador": "Super 99",
+        "ahorro": 84.0,
+        "enlace": "https://www.super99.com/20083615-papel-higienico-scott-rindemax-doble-hoja-12-rollos"
+      },
+      {
+        "producto": "SILICONA LIQUIDA 100 ML",
+        "categoria": "Ferreteria",
+        "precios": {
+          "Super 99": 145.0,
+          "Super Xtra": 229.0
+        },
+        "ganador": "Super 99",
+        "ahorro": 84.0,
+        "enlace": "https://www.super99.com/10152219-silicona-liquida-100-ml"
+      },
+      {
+        "producto": "Plato con Cuchara Pigeon",
+        "categoria": "Bebes",
+        "precios": {
+          "Super 99": 475.0,
+          "El Machetazo": 399.0
+        },
+        "ganador": "El Machetazo",
+        "ahorro": 76.0,
+        "enlace": "https://www.elmachetazo.com/plato-con-cuchara-pigeon-10170544/p"
+      },
+      {
+        "producto": "Toallas Húmedas Huggies Limpieza Diaria 80U",
+        "categoria": "Bebes",
+        "precios": {
+          "Super 99": 209.0,
+          "Super Xtra": 137.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 72.0,
+        "enlace": "https://www.superxtra.com/toallitas-humedas-huggies-limpieza-diaria-80u/p"
+      },
+      {
+        "producto": "Pañales Huggies Natural Care Etapa 3/G 100U",
+        "categoria": "Bebes",
+        "precios": {
+          "Super 99": 2495.0,
+          "Super Xtra": 2429.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 66.0,
+        "enlace": "https://www.superxtra.com/panales-huggies-natural-care-etapa-3-g-100u-7441008101253/p"
+      },
+      {
+        "producto": "Pañales Huggies Natural Care Etapa 4/XG 80U",
+        "categoria": "Bebes",
+        "precios": {
+          "Super 99": 2495.0,
+          "Super Xtra": 2429.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 66.0,
+        "enlace": "https://www.superxtra.com/panales-huggies-natural-care-etapa-4-xg-80u-7441008101215/p"
+      },
+      {
+        "producto": "Papel Higiénico Scott 2 en 1 Doble Hoja 12 Rollos",
+        "categoria": "Aseo del Hogar",
+        "precios": {
+          "Super 99": 519.0,
+          "Super Xtra": 578.0
+        },
+        "ganador": "Super 99",
+        "ahorro": 59.0,
+        "enlace": "https://www.super99.com/20132346-papel-higienico-scott-2-en-1-doble-hoja-12-rollos"
+      },
+      {
+        "producto": "ISOMIL NG 2 EYE Q PLUS IMMUNIFY 850 g",
+        "categoria": "Cuidado de Bebes",
+        "precios": {
+          "Super 99": 3049.0,
+          "Super Xtra": 3105.0
+        },
+        "ganador": "Super 99",
+        "ahorro": 56.0,
+        "enlace": "https://www.super99.com/10075560-isomil-ng-2-eye-q-plus-immunify-850-g"
+      },
+      {
+        "producto": "Pañales Huggies Natural Care Etapa 5/XXG 27U",
+        "categoria": "Cuidado de Bebes",
+        "precios": {
+          "Super 99": 1699.0,
+          "Super Xtra": 1750.0
+        },
+        "ganador": "Super 99",
+        "ahorro": 51.0,
+        "enlace": "https://www.super99.com/20103330-panales-huggies-natural-care-etapa-5-xxg-27u"
+      },
+      {
+        "producto": "Toallas Húmedas Huggies Limpieza Efectiva 96U",
+        "categoria": "Bebes",
+        "precios": {
+          "Super 99": 459.0,
+          "Super Xtra": 408.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 51.0,
+        "enlace": "https://www.superxtra.com/toallas-humedas-huggies-limpieza-efectiva-96-un/p"
+      },
+      {
+        "producto": "Pañales Huggies Active Sec Pants Etapa 3/G 25U",
+        "categoria": "Cuidado de Bebes",
+        "precios": {
+          "Super 99": 749.0,
+          "Super Xtra": 799.0
+        },
+        "ganador": "Super 99",
+        "ahorro": 50.0,
+        "enlace": "https://www.super99.com/20144636-panales-huggies-active-sec-pants-etapa-3-g-25u"
+      },
+      {
+        "producto": "CIRUELAX JALEA FORTE 150G",
+        "categoria": "Farmacia",
+        "precios": {
+          "Riba Smith": 8.85,
+          "Super 99": 51.0
+        },
+        "ganador": "Riba Smith",
+        "ahorro": 42.15,
+        "enlace": "https://www.ribasmith.com/index.php/ciruelax-jalea-forte-150g-235114.html"
+      },
+      {
+        "producto": "Papel Higiénico Scott Cuidado Completo Triple Hoja 12 Rollos",
+        "categoria": "Aseo del Hogar",
+        "precios": {
+          "Super 99": 799.0,
+          "Super Xtra": 841.0
+        },
+        "ganador": "Super 99",
+        "ahorro": 42.0,
+        "enlace": "https://www.super99.com/20144476-papel-higienico-scott-cuidado-completo-triple-hoja-12-rollos"
+      },
+      {
+        "producto": "Toallas Húmedas Huggies Cuidado 4 en 1 48U",
+        "categoria": "Bebes",
+        "precios": {
+          "Super 99": 329.0,
+          "Super Xtra": 287.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 42.0,
+        "enlace": "https://www.superxtra.com/toallas-humedas-huggies-one-done-48u-7702425800700/p"
+      },
+      {
+        "producto": "LA LECHERA Leche Condensada Lata 397g",
+        "categoria": "Supermercado",
+        "precios": {
+          "Super 99": 269.0,
+          "Super Xtra": 227.0
+        },
+        "ganador": "Super Xtra",
+        "ahorro": 42.0,
+        "enlace": "https://www.superxtra.com/leche-condensada-azucarada-la-lechera-397g-lata/p"
+      },
+      {
+        "producto": "Cepillo de y Peine de Bebe",
+        "categoria": "Bebes",
+        "precios": {
+          "Super 99": 235.0,
+          "El Machetazo": 199.0
+        },
+        "ganador": "El Machetazo",
+        "ahorro": 36.0,
+        "enlace": "https://www.elmachetazo.com/cepillo-de-y-peine-de-bebe-10116153/p"
       }
     ],
     "estadisticas_por_tienda": [
       {
         "supermercado": "Riba Smith",
-        "productos": 2046,
-        "con_oferta": 124,
-        "promedio_descuento": 27.2
+        "productos": 2941,
+        "con_oferta": 140,
+        "promedio_descuento": 26.1
       },
       {
         "supermercado": "Super 99",
-        "productos": 15060,
-        "con_oferta": 823,
-        "promedio_descuento": 18.0
+        "productos": 11567,
+        "con_oferta": 2082,
+        "promedio_descuento": 26.0
       },
       {
         "supermercado": "El Rey",
-        "productos": 0,
-        "con_oferta": 0,
-        "promedio_descuento": 0.0
+        "productos": 636,
+        "con_oferta": 624,
+        "promedio_descuento": 26.6
       },
       {
         "supermercado": "El Machetazo",
-        "productos": 0,
-        "con_oferta": 0,
-        "promedio_descuento": 0.0
+        "productos": 5991,
+        "con_oferta": 1190,
+        "promedio_descuento": 35.2
       },
       {
         "supermercado": "Super Xtra",
-        "productos": 0,
-        "con_oferta": 0,
-        "promedio_descuento": 0.0
+        "productos": 7205,
+        "con_oferta": 556,
+        "promedio_descuento": 19.4
       }
     ]
   },
@@ -637,38 +1154,38 @@
       "Riba Smith": [
         {
           "item": "Arroz",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "ARROZ CON GUANDU SS",
+          "precio": 3.0,
+          "enlace": "https://www.ribasmith.com/index.php/arroz-con-guandu-ss-221167.html"
         },
         {
           "item": "Aceite vegetal",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "SARDINAS EN ACEITE",
+          "precio": 1.6,
+          "enlace": "https://www.ribasmith.com/index.php/sardinas-en-aceite-15139.html"
         },
         {
           "item": "Azúcar",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "BEBIDA MOLECOLA SIN AZUCAR",
+          "precio": 1.08,
+          "enlace": "https://www.ribasmith.com/index.php/364342-bebida-molecola-sin-azucar.html"
         },
         {
           "item": "Huevos",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "HUEVOS MEDIANOS MELO",
+          "precio": 1.19,
+          "enlace": "https://www.ribasmith.com/index.php/huevos-medianos-melo-55798.html"
         },
         {
           "item": "Leche",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "LECHE DESLACTOSADA",
+          "precio": 1.85,
+          "enlace": "https://www.ribasmith.com/index.php/leche-deslactosada-125912.html"
         },
         {
           "item": "Pan",
@@ -679,10 +1196,10 @@
         },
         {
           "item": "Café",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "CAFE SELLO ROJO",
+          "precio": 3.66,
+          "enlace": "https://www.ribasmith.com/index.php/356919-cafe-sello-rojo.html"
         },
         {
           "item": "Frijoles",
@@ -693,80 +1210,80 @@
         },
         {
           "item": "Harina",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "TORTILLAS DE HARINA",
+          "precio": 2.48,
+          "enlace": "https://www.ribasmith.com/index.php/tortillas-de-harina-4479.html"
         },
         {
           "item": "Sal",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "SAZONADOR SAL PIMIENTA MAGGI",
+          "precio": 1.76,
+          "enlace": "https://www.ribasmith.com/index.php/359256-sazonador-sal-pimienta-maggi.html"
         },
         {
           "item": "Atún",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "TUNA CON VEGETALES",
+          "precio": 1.49,
+          "enlace": "https://www.ribasmith.com/index.php/tuna-con-vegetales-193515.html"
         },
         {
           "item": "Pollo",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "TACOS POLLO",
+          "precio": 3.3,
+          "enlace": "https://www.ribasmith.com/index.php/tacos-pollo-174008.html"
         },
         {
           "item": "Carne de res",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "CARNE MOLIDA",
+          "precio": 12.96,
+          "enlace": "https://www.ribasmith.com/index.php/carne-molida-25558.html"
         },
         {
           "item": "Queso",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "QUESO MOLIDO",
+          "precio": 4.35,
+          "enlace": "https://www.ribasmith.com/index.php/queso-molido-119151.html"
         },
         {
           "item": "Pasta",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "PASTA SALSA FUNGI",
+          "precio": 5.3,
+          "enlace": "https://www.ribasmith.com/index.php/pasta-salsa-fungi-231704.html"
         },
         {
           "item": "Tomate",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "TOMATE PERITA ESENCIAL",
+          "precio": 1.65,
+          "enlace": "https://www.ribasmith.com/index.php/49975-tomate-perita-esencial.html"
         },
         {
           "item": "Cebolla",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "MIX PIMENTON CEBOLLA Y ZANAHOR",
+          "precio": 1.95,
+          "enlace": "https://www.ribasmith.com/index.php/358306-mix-pimenton-cebolla-y-zanahor.html"
         },
         {
           "item": "Plátanos",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "PATAKIS TOSTON PLATANO MADURO",
+          "precio": 1.3,
+          "enlace": "https://www.ribasmith.com/index.php/360689-patakis-toston-platano-maduro.html"
         },
         {
           "item": "Jabón",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "DAPZON JABON GRASA",
+          "precio": 10.97,
+          "enlace": "https://www.ribasmith.com/index.php/dapzon-jabon-grasa-209458.html"
         },
         {
           "item": "Detergente",
@@ -779,143 +1296,143 @@
       "Super 99": [
         {
           "item": "Arroz",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Arroz Integral 2Lbs.",
+          "precio": 365.0,
+          "enlace": "https://www.super99.com/10070896-arroz-integral-2lbs"
         },
         {
           "item": "Aceite vegetal",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Aceite De Romero",
+          "precio": 488.0,
+          "enlace": "https://www.super99.com/20092281-aceite-de-romero"
         },
         {
           "item": "Azúcar",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Azucar Doradita 400g",
+          "precio": 67.0,
+          "enlace": "https://www.super99.com/20067053-azucar-doradita-400g"
         },
         {
           "item": "Huevos",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Caribeno Huevos 1/2 Docena",
+          "precio": 125.0,
+          "enlace": "https://www.super99.com/10103741-caribeno-huevos-1-2-docena"
         },
         {
           "item": "Leche",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Amanecer Leche Evaporada 167g",
+          "precio": 6.0,
+          "enlace": "https://www.super99.com/20001218-amanecer-leche-evaporada-167g"
         },
         {
           "item": "Pan",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Rimith Pan De Molde Clásico 397 G",
+          "precio": 92.0,
+          "enlace": "https://www.super99.com/20048128-rimith-pan-de-molde-clasico-397-g"
         },
         {
           "item": "Café",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Durán Café 22g",
+          "precio": 44.0,
+          "enlace": "https://www.super99.com/10088479-duran-cafe-22g"
         },
         {
           "item": "Frijoles",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Habichuela Corta Empacada",
+          "precio": 224.0,
+          "enlace": "https://www.super99.com/75001118-habichuela-corta-empacada"
         },
         {
           "item": "Harina",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "La Preferida Harina 14oz",
+          "precio": 59.0,
+          "enlace": "https://www.super99.com/10148597-la-preferida-harina-14oz"
         },
         {
           "item": "Sal",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "PRO ALMENDRAS SAL 80GR",
+          "precio": 219.0,
+          "enlace": "https://www.super99.com/20135675-pro-almendras-sal-80gr"
         },
         {
           "item": "Atún",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Ensalada Codito Tuna Fria",
+          "precio": 209.0,
+          "enlace": "https://www.super99.com/75001757-ensalada-codito-tuna-fria-ucp"
         },
         {
           "item": "Pollo",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "POLLO AHUMADO BANDEJA",
+          "precio": 36.0,
+          "enlace": "https://www.super99.com/20123367-pollo-ahumado-bandeja"
         },
         {
           "item": "Carne de res",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "TORTELLINI/CARNE 1/2 LB.P/FRESCAS",
+          "precio": 289.0,
+          "enlace": "https://www.super99.com/30002545-tortellini-carne-1-2-lb-p-frescas"
         },
         {
           "item": "Queso",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Chela Queso Ricotta",
+          "precio": 269.0,
+          "enlace": "https://www.super99.com/20138459-chela-queso-ricotta"
         },
         {
           "item": "Pasta",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Oddent Ortho Pasta 75ml",
+          "precio": 1535.0,
+          "enlace": "https://www.super99.com/10029338-oddent-ortho-pasta-75ml"
         },
         {
           "item": "Tomate",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "TOMATE CHERRY PESO",
+          "precio": 22.0,
+          "enlace": "https://www.super99.com/10153670-tomate-cherry-peso"
         },
         {
           "item": "Cebolla",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Cebolla Nacional por Kilo",
+          "precio": 156.0,
+          "enlace": "https://www.super99.com/40006782-cebolla-nacional-por-kilo"
         },
         {
           "item": "Plátanos",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Hero Baby Yogur Platano 100g",
+          "precio": 125.0,
+          "enlace": "https://www.super99.com/20107634-hero-baby-yogur-platano-100g"
         },
         {
           "item": "Jabón",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Castilla Jabón 95g",
+          "precio": 99.0,
+          "enlace": "https://www.super99.com/10148348-castilla-jabon-95g"
         },
         {
           "item": "Detergente",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "ROCIO DETERGENTE 5/2500G",
+          "precio": 479.0,
+          "enlace": "https://www.super99.com/20125739-rocio-detergente-5-2500g"
         }
       ],
       "El Rey": [
@@ -935,10 +1452,10 @@
         },
         {
           "item": "Azúcar",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Bebida de Almendra Natures Heart sin Azúcar 1lt",
+          "precio": 507.0,
+          "enlace": "https://www.smrey.com/p/bebida-de-almendra-natures-heart-sin-azucar-1lt-18871097005"
         },
         {
           "item": "Huevos",
@@ -949,10 +1466,10 @@
         },
         {
           "item": "Leche",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Leche de Almendra Silk de Vainilla 236ml",
+          "precio": 281.0,
+          "enlace": "https://www.smrey.com/p/leche-de-almendra-silk-de-vainilla-236ml-25293003668"
         },
         {
           "item": "Pan",
@@ -963,17 +1480,17 @@
         },
         {
           "item": "Café",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Café Frio Starbucks Frappuccino Mocha 280ml",
+          "precio": 455.0,
+          "enlace": "https://www.smrey.com/p/cafe-frio-starbucks-frappuccino-mocha-280ml-12000006494"
         },
         {
           "item": "Frijoles",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Frijol Nacido Jaime Loo Und",
+          "precio": 208.0,
+          "enlace": "https://www.smrey.com/p/frijol-nacido-jaime-loo-und-7451026000018"
         },
         {
           "item": "Harina",
@@ -984,10 +1501,10 @@
         },
         {
           "item": "Sal",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Sal Rosada Badia del Himalaya 1134gr",
+          "precio": 410.0,
+          "enlace": "https://www.smrey.com/p/sal-rosada-badia-del-himalaya-1134gr-33844005382"
         },
         {
           "item": "Atún",
@@ -998,24 +1515,24 @@
         },
         {
           "item": "Pollo",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Deditos de Pollo Congeladas Melo 454gr",
+          "precio": 767.0,
+          "enlace": "https://www.smrey.com/p/deditos-de-pollo-congeladas-melo-454gr-7451000311390"
         },
         {
           "item": "Carne de res",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Hamburguesa de Carne Premium Choice Und",
+          "precio": 1575.0,
+          "enlace": "https://www.smrey.com/p/hamburguesa-de-carne-premium-choice-und-7453009205373"
         },
         {
           "item": "Queso",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Queso Feta Desmenuzado Odyssey Tradicional 170g",
+          "precio": 734.0,
+          "enlace": "https://www.smrey.com/p/queso-feta-desmenuzado-odyssey-tradicional-170gr-84587009038"
         },
         {
           "item": "Pasta",
@@ -1026,24 +1543,24 @@
         },
         {
           "item": "Tomate",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Tomate 3X3 al Granel",
+          "precio": 67.0,
+          "enlace": "https://www.smrey.com/p/tomate-3x3-al-granel-204664000004"
         },
         {
           "item": "Cebolla",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Cebolla Importada al Granel",
+          "precio": 57.0,
+          "enlace": "https://www.smrey.com/p/cebolla-importada-al-granel-203630000000"
         },
         {
           "item": "Plátanos",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Plátano Verde al Granel",
+          "precio": 31.0,
+          "enlace": "https://www.smrey.com/p/platano-verde-al-granel-204828000000"
         },
         {
           "item": "Jabón",
@@ -1054,47 +1571,47 @@
         },
         {
           "item": "Detergente",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Detergente Líquido Baby Castille Hipoalergénico",
+          "precio": 1268.0,
+          "enlace": "https://www.smrey.com/p/detergente-liquido-baby-castille-hipoalergenico-296lt-7451015606177"
         }
       ],
       "El Machetazo": [
         {
           "item": "Arroz",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Galletas de Arroz|Arándano|Baby Mum-Mum",
+          "precio": 355.0,
+          "enlace": "https://www.elmachetazo.com/galletas-de-arrozarandanobaby-mum-mum-10806519/p"
         },
         {
           "item": "Aceite vegetal",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Quemador de Aceite|Mediano",
+          "precio": 199.0,
+          "enlace": "https://www.elmachetazo.com/quemador-de-aceitemediano-10967002/p"
         },
         {
           "item": "Azúcar",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Azúcar Morena Doradita|400g",
+          "precio": 60.0,
+          "enlace": "https://www.elmachetazo.com/azucar-morena-doradita-400g-10417529/p"
         },
         {
           "item": "Huevos",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Huevos Medianos Emita|12 Unidades",
+          "precio": 215.0,
+          "enlace": "https://www.elmachetazo.com/huevos-medianos-emita12-unidades-10867663/p"
         },
         {
           "item": "Leche",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "ChocoRico Leche Saborizada|200ml",
+          "precio": 47.0,
+          "enlace": "https://www.elmachetazo.com/chocorico-leche-saborizada200ml-10760854/p"
         },
         {
           "item": "Pan",
@@ -1105,278 +1622,316 @@
         },
         {
           "item": "Café",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Ensure Advance Café|220ml",
+          "precio": 417.0,
+          "enlace": "https://www.elmachetazo.com/ensure-advance-cafe220ml-10882563/p"
         },
         {
           "item": "Frijoles",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Ducal Frijol Rojo Chub|1.8 kg",
+          "precio": 385.0,
+          "enlace": "https://www.elmachetazo.com/ducal-frijol-rojo-chub-18kg-10811839/p"
         },
         {
           "item": "Harina",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Harina de Maíz Blanco Maissisimo|1 Kg",
+          "precio": 175.0,
+          "enlace": "https://www.elmachetazo.com/harina-de-maiz-blanco-maissisimo1-kg-10906736/p"
         },
         {
           "item": "Sal",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Sal Andrews Naranja|12 Sobres",
+          "precio": 217.0,
+          "enlace": "https://www.elmachetazo.com/sal-andrews-naranja12-sobres-10912599/p"
         },
         {
           "item": "Atún",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Atún Splash Vegetales 295gr",
+          "precio": 229.0,
+          "enlace": "https://www.elmachetazo.com/atun-splash-vegetales-295gr-10803022/p"
         },
         {
           "item": "Pollo",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Premio Masticable para Perro|Pequeño|Pollo",
+          "precio": 163.0,
+          "enlace": "https://www.elmachetazo.com/premio-masticable-para-perropequenopollo-10852679/p"
         },
         {
           "item": "Carne de res",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Carne de Res Golden Selection|340g",
+          "precio": 249.0,
+          "enlace": "https://www.elmachetazo.com/carne-de-res-golden-selection340g-10779256/p"
         },
         {
           "item": "Queso",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Snacks Kachitos Twist Queso|Bolsaza|80g",
+          "precio": 140.0,
+          "enlace": "https://www.elmachetazo.com/snacks-kachitos-twist-quesobolsaza80g-10899450/p"
         },
         {
           "item": "Pasta",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Kin Pasta Anticaries|125ml",
+          "precio": 561.0,
+          "enlace": "https://www.elmachetazo.com/kin-pasta-anticaries125ml-10583730/p"
         },
         {
           "item": "Tomate",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Pintura Rojo Tomate",
+          "precio": 99.0,
+          "enlace": "https://www.elmachetazo.com/pintura-rojo-tomate-10147707/p"
         },
         {
           "item": "Cebolla",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Snack Papas con Cebolla Golden Selection|45g",
+          "precio": 69.0,
+          "enlace": "https://www.elmachetazo.com/snack-papas-con-cebolla-golden-selection45g-10821387/p"
         },
         {
           "item": "Plátanos",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Plátano Maduro Salado Pro 75g",
+          "precio": 98.0,
+          "enlace": "https://www.elmachetazo.com/platano-maduro-salado-pro-75g-10831654/p"
         },
         {
           "item": "Jabón",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Jabón Antipulgas PPT|100g",
+          "precio": 198.0,
+          "enlace": "https://www.elmachetazo.com/jabon-antipulgas-ppt100g-10019201/p"
         },
         {
           "item": "Detergente",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Detergente Rocío|1000g",
+          "precio": 235.0,
+          "enlace": "https://www.elmachetazo.com/detergente-rocio1000g-10830535/p"
         }
       ],
       "Super Xtra": [
         {
           "item": "Arroz",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Olla Arroz 10Tz Nrc-10Tz",
+          "precio": 0,
+          "enlace": "https://www.superxtra.com/olla-arroz-10tz-nrc-10tz-165018108305/p"
         },
         {
           "item": "Aceite vegetal",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Aceite Castrol 10W/30",
+          "precio": 0,
+          "enlace": "https://www.superxtra.com/aceite-castrol-10w30-79191000922/p"
         },
         {
           "item": "Azúcar",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Azucar Like Morena 800Gr",
+          "precio": 118.0,
+          "enlace": "https://www.superxtra.com/azucar-like-morena-800gr-5575329/p"
         },
         {
           "item": "Huevos",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Huevos Medianos Like Docena",
+          "precio": 198.0,
+          "enlace": "https://www.superxtra.com/huevos-medianos-like-docena/p"
         },
         {
           "item": "Leche",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Leche Nestogeno Nestle 400Gr",
+          "precio": 0,
+          "enlace": "https://www.superxtra.com/leche-nestogeno-nestle-400gr-719665000941/p"
         },
         {
           "item": "Pan",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Pan Blanco Like 515 G",
+          "precio": 100.0,
+          "enlace": "https://www.superxtra.com/pan-blanco-like-515-g/p"
         },
         {
           "item": "Café",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Dorado Cafe Docena",
+          "precio": 213.0,
+          "enlace": "https://www.superxtra.com/dorado-cafe-docena/p"
         },
         {
           "item": "Frijoles",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Frijoles Xtra 454 gr Desayuno",
+          "precio": 78.0,
+          "enlace": "https://www.superxtra.com/frijoles-xtra-454-gr-desayuno/p"
         },
         {
           "item": "Harina",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Harina Gold Mills 2Lb",
+          "precio": 121.0,
+          "enlace": "https://www.superxtra.com/harina-gold-mills-2lb-5581122/p"
         },
         {
           "item": "Sal",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Sal Andrews Tradicional 12 Unds",
+          "precio": 243.0,
+          "enlace": "https://www.superxtra.com/sal-andrews-tradicional-12-unds-74410330/p"
         },
         {
           "item": "Atún",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Alimento P/Gato Tuna En Salsa",
+          "precio": 81.0,
+          "enlace": "https://www.superxtra.com/alimento-pgato-tuna-en-salsa/p"
         },
         {
           "item": "Pollo",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Juguete Maxcotas Pollo",
+          "precio": 0,
+          "enlace": "https://www.superxtra.com/juguete-maxcotas-pollo-10557701-6920140016041/p"
         },
         {
           "item": "Carne de res",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Carne Molida De Primera",
+          "precio": 886.0,
+          "enlace": "https://www.superxtra.com/carne-molida-de-primera/p"
         },
         {
           "item": "Queso",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "La Cholita -Queso Prensado",
+          "precio": 243.0,
+          "enlace": "https://www.superxtra.com/la-cholita--queso-prensado-7452102190012/p"
         },
         {
           "item": "Pasta",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Salsa Lista Para Spaghetti",
+          "precio": 128.0,
+          "enlace": "https://www.superxtra.com/salsa-lista-para-spaghetti/p"
         },
         {
           "item": "Tomate",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Salsa Tomate Panamena 100G Maggi",
+          "precio": 62.0,
+          "enlace": "https://www.superxtra.com/salsa-tomate-panamena-100g-maggi-8445290465535/p"
         },
         {
           "item": "Cebolla",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Cebolla Importada Por Media Libra",
+          "precio": 186.0,
+          "enlace": "https://www.superxtra.com/cebolla-importada-por-media-libra/p"
         },
         {
           "item": "Plátanos",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Platano Verde Por Media Libra",
+          "precio": 104.0,
+          "enlace": "https://www.superxtra.com/platano-verde-por-libra/p"
         },
         {
           "item": "Jabón",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Jabon Class Hidratante 110G",
+          "precio": 90.0,
+          "enlace": "https://www.superxtra.com/jabon-class-hidratante-110g-741176240110/p"
         },
         {
           "item": "Detergente",
-          "encontrado": false,
-          "producto": null,
-          "precio": null,
-          "enlace": null
+          "encontrado": true,
+          "producto": "Detergente Rocio 5/2500gr",
+          "precio": 472.0,
+          "enlace": "https://www.superxtra.com/detergente-rocio-5-2500gr/p"
         }
       ]
     },
     "totales_por_tienda": [
       {
         "supermercado": "Riba Smith",
-        "items_encontrados": 0,
+        "items_encontrados": 17,
         "items_totales": 20,
-        "total": 0
+        "total": 59.89
       },
       {
         "supermercado": "Super 99",
-        "items_encontrados": 0,
+        "items_encontrados": 20,
         "items_totales": 20,
-        "total": 0
+        "total": 4908.0
       },
       {
         "supermercado": "El Rey",
-        "items_encontrados": 0,
+        "items_encontrados": 12,
         "items_totales": 20,
-        "total": 0
+        "total": 6360.0
       },
       {
         "supermercado": "El Machetazo",
-        "items_encontrados": 0,
+        "items_encontrados": 19,
         "items_totales": 20,
-        "total": 0
+        "total": 4111.0
       },
       {
         "supermercado": "Super Xtra",
-        "items_encontrados": 0,
+        "items_encontrados": 20,
         "items_totales": 20,
-        "total": 0
+        "total": 3323.0
       }
     ],
-    "ranking": []
+    "ranking": [
+      {
+        "supermercado": "Riba Smith",
+        "items_encontrados": 17,
+        "items_totales": 20,
+        "total": 59.89
+      },
+      {
+        "supermercado": "Super Xtra",
+        "items_encontrados": 20,
+        "items_totales": 20,
+        "total": 3323.0
+      },
+      {
+        "supermercado": "El Machetazo",
+        "items_encontrados": 19,
+        "items_totales": 20,
+        "total": 4111.0
+      },
+      {
+        "supermercado": "Super 99",
+        "items_encontrados": 20,
+        "items_totales": 20,
+        "total": 4908.0
+      },
+      {
+        "supermercado": "El Rey",
+        "items_encontrados": 12,
+        "items_totales": 20,
+        "total": 6360.0
+      }
+    ],
+    "mejor_tienda_canasta": {
+      "supermercado": "Riba Smith",
+      "total": 59.89,
+      "ahorro_vs_mas_cara": 6300.11,
+      "ahorro_pct": 99.1,
+      "razon": "La canasta más barata es Riba Smith con B/.59.89; ahorras B/.6300.11 (99.1%) respecto a El Rey."
+    }
   }
 }
