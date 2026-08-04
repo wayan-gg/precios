@@ -2,7 +2,6 @@ name: Scrape y publicar promociones (Panamá)
 
 on:
   schedule:
-    # 6:00 AM y 6:00 PM (hora de Panamá) = 11:00 y 23:00 UTC
     - cron: '0 11,23 * * *'
   workflow_dispatch:
 
@@ -14,78 +13,51 @@ permissions:
 jobs:
   scrape-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 15  # Timeout global del job
 
     steps:
-      # ==============================================
-      # 1. INSTALAR GIT LFS
-      # ==============================================
       - name: Instalar Git LFS
         run: |
           sudo apt-get update
           sudo apt-get install -y git-lfs
           git lfs install
 
-      # ==============================================
-      # 2. CHECKOUT DEL REPOSITORIO
-      # ==============================================
       - name: Checkout repositorio
         uses: actions/checkout@v4
         with:
           lfs: true
           persist-credentials: true
 
-      # ==============================================
-      # 3. CONFIGURAR PYTHON
-      # ==============================================
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      # ==============================================
-      # 4. INSTALAR CHROME (VERSIÓN ESTABLE Y CONFIABLE)
-      # ==============================================
       - name: Setup Chrome
-        uses: browser-actions/setup-chrome@v1
-        with:
-          chrome-version: 'stable'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget unzip
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+')
+          wget -q "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/${CHROME_VERSION}/linux64/chromedriver-linux64.zip"
+          unzip chromedriver-linux64.zip
+          sudo mv chromedriver-linux64/chromedriver /usr/local/bin/
+          sudo chmod +x /usr/local/bin/chromedriver
 
-      # Alternativa si lo anterior falla, descomenta esto:
-      # - name: Setup Chrome (alternativo)
-      #   run: |
-      #     sudo apt-get update
-      #     sudo apt-get install -y wget
-      #     wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/google-chrome.gpg
-      #     echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-chrome.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
-      #     sudo apt-get update
-      #     sudo apt-get install -y google-chrome-stable
-
-      # ==============================================
-      # 5. INSTALAR DEPENDENCIAS DE PYTHON
-      # ==============================================
       - name: Install dependencies
         run: |
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          else
-            pip install requests pandas openpyxl beautifulsoup4 lxml selenium webdriver-manager
-          fi
+          pip install --upgrade pip
+          pip install requests pandas openpyxl beautifulsoup4 lxml selenium webdriver-manager
 
-      # ==============================================
-      # 6. EJECUTAR SCRAPER
-      # ==============================================
       - name: Ejecutar Scraper
         run: python scraper_super.py
 
-      # ==============================================
-      # 7. EJECUTAR MOTOR IA
-      # ==============================================
-      - name: Ejecutar Motor AI Engine
+      - name: Ejecutar AI Engine
         run: python ai_engine.py
 
-      # ==============================================
-      # 8. LISTAR ARCHIVOS GENERADOS
-      # ==============================================
       - name: Listar archivos generados
         run: |
           echo "=== Archivos en data/ ==="
@@ -93,10 +65,7 @@ jobs:
           echo "=== Archivos en web/ ==="
           ls -la web/ || echo "web/ no existe"
 
-      # ==============================================
-      # 9. COMMIT Y PUSH DE ARCHIVOS GENERADOS
-      # ==============================================
-      - name: Commit y Push de archivos generados
+      - name: Commit y Push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
@@ -108,17 +77,13 @@ jobs:
             echo "No hay cambios nuevos para commitar."
           fi
 
-      # ==============================================
-      # 10. CONFIGURAR Y DESPLEGAR EN GITHUB PAGES
-      # ==============================================
       - name: Configurar Pages
         uses: actions/configure-pages@v5
 
-      - name: Subir artefacto (carpeta web)
+      - name: Subir artefacto
         uses: actions/upload-pages-artifact@v3
         with:
           path: './web'
 
       - name: Desplegar a GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v4
