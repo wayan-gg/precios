@@ -13,51 +13,61 @@ permissions:
 jobs:
   scrape-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 15  # Timeout global del job
 
     steps:
-      - name: Instalar Git LFS
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y git-lfs
-          git lfs install
-
+      # ==============================================
+      # 1. CHECKOUT (sin LFS para evitar problemas)
+      # ==============================================
       - name: Checkout repositorio
         uses: actions/checkout@v4
         with:
-          lfs: true
           persist-credentials: true
 
+      # ==============================================
+      # 2. INSTALAR CHROME CON LA ACCIÓN OFICIAL
+      # ==============================================
+      - name: Setup Chrome
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: 'stable'
+
+      - name: Verificar Chrome
+        run: chrome --version
+
+      # ==============================================
+      # 3. CONFIGURAR PYTHON
+      # ==============================================
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Setup Chrome
+      # ==============================================
+      # 4. INSTALAR DEPENDENCIAS DE PYTHON
+      # ==============================================
+      - name: Instalar dependencias Python
         run: |
-          sudo apt-get update
-          sudo apt-get install -y wget unzip
-          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
-          CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+')
-          wget -q "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/${CHROME_VERSION}/linux64/chromedriver-linux64.zip"
-          unzip chromedriver-linux64.zip
-          sudo mv chromedriver-linux64/chromedriver /usr/local/bin/
-          sudo chmod +x /usr/local/bin/chromedriver
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests pandas openpyxl beautifulsoup4 lxml selenium webdriver-manager
+          fi
 
-      - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-          pip install requests pandas openpyxl beautifulsoup4 lxml selenium webdriver-manager
-
+      # ==============================================
+      # 5. EJECUTAR SCRAPER (CON WEBDRIVER_MANAGER)
+      # ==============================================
       - name: Ejecutar Scraper
         run: python scraper_super.py
 
-      - name: Ejecutar AI Engine
+      # ==============================================
+      # 6. EJECUTAR MOTOR IA
+      # ==============================================
+      - name: Ejecutar Motor AI Engine
         run: python ai_engine.py
 
+      # ==============================================
+      # 7. LISTAR ARCHIVOS GENERADOS
+      # ==============================================
       - name: Listar archivos generados
         run: |
           echo "=== Archivos en data/ ==="
@@ -65,7 +75,10 @@ jobs:
           echo "=== Archivos en web/ ==="
           ls -la web/ || echo "web/ no existe"
 
-      - name: Commit y Push
+      # ==============================================
+      # 8. COMMIT Y PUSH DE ARCHIVOS GENERADOS
+      # ==============================================
+      - name: Commit y Push de archivos generados
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
@@ -77,13 +90,17 @@ jobs:
             echo "No hay cambios nuevos para commitar."
           fi
 
+      # ==============================================
+      # 9. CONFIGURAR Y DESPLEGAR EN GITHUB PAGES
+      # ==============================================
       - name: Configurar Pages
         uses: actions/configure-pages@v5
 
-      - name: Subir artefacto
+      - name: Subir artefacto (carpeta web)
         uses: actions/upload-pages-artifact@v3
         with:
           path: './web'
 
       - name: Desplegar a GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
