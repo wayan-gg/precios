@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T20:57:40.835479+00:00",
+  "generated_at": "2026-08-04T19:36:35.321248+00:00",
   "totales": {
     "productos": 17106,
     "con_oferta": 947
@@ -564,72 +564,6 @@
   ],
   "comparativas": [
     {
-      "producto": "Cookies Chocolate Chip 80g",
-      "categoria": "Despensa",
-      "precios": {
-        "Riba Smith": 10.67,
-        "Super 99": 0.67
-      },
-      "ganador": "Super 99",
-      "ahorro": 10.0,
-      "enlace": "https://www.super99.com/20149924-cookies-chocolate-chip-80g"
-    },
-    {
-      "producto": "CHIQUITA GOURMET FRUIT BLEND",
-      "categoria": "Frutas y Verduras",
-      "precios": {
-        "Riba Smith": 4.96,
-        "Super 99": 12.99
-      },
-      "ganador": "Riba Smith",
-      "ahorro": 8.03,
-      "enlace": "https://www.ribasmith.com/index.php/261918-chiquita-gourmet-fruit-blend.html"
-    },
-    {
-      "producto": "Luigi Bosca Malbec 750ml",
-      "categoria": "Cervezas, Vinos y Licores",
-      "precios": {
-        "Riba Smith": 19.76,
-        "Super 99": 15.59
-      },
-      "ganador": "Super 99",
-      "ahorro": 4.17,
-      "enlace": "https://www.super99.com/20119978-luigi-bosca-malbec-750ml"
-    },
-    {
-      "producto": "VINO CABERNET SAUVIGNON 750 ML",
-      "categoria": "Licores",
-      "precios": {
-        "Riba Smith": 16.55,
-        "Super 99": 19.79
-      },
-      "ganador": "Riba Smith",
-      "ahorro": 3.24,
-      "enlace": "https://www.ribasmith.com/index.php/176070-vino-cabernet-sauvignon-750-ml.html"
-    },
-    {
-      "producto": "VINO TORRES SANGRE DE TORO BOTELLA.",
-      "categoria": "Cervezas, Vinos y Licores",
-      "precios": {
-        "Riba Smith": 12.4,
-        "Super 99": 9.89
-      },
-      "ganador": "Super 99",
-      "ahorro": 2.51,
-      "enlace": "https://www.super99.com/10105538-vino-torres-sangre-de-toro-botella"
-    },
-    {
-      "producto": "DOLE MIXED BERRIES",
-      "categoria": "Frutas y Verduras",
-      "precios": {
-        "Riba Smith": 6.7,
-        "Super 99": 6.99
-      },
-      "ganador": "Riba Smith",
-      "ahorro": 0.29,
-      "enlace": "https://www.ribasmith.com/index.php/47353-dole-mixed-berries.html"
-    },
-    {
       "producto": "TORTILLAS GRANDES 10 UN",
       "categoria": "Productos de Maíz",
       "precios": {
@@ -661,39 +595,6 @@
       "ganador": "Super 99",
       "ahorro": 0.13,
       "enlace": "https://www.super99.com/10076587-arepas-con-queso-la-antioquenita"
-    },
-    {
-      "producto": "SALMON AHUMADO PIMIENTA 6 OZ",
-      "categoria": "Congelados y Refrigerados",
-      "precios": {
-        "Riba Smith": 8.11,
-        "Super 99": 7.99
-      },
-      "ganador": "Super 99",
-      "ahorro": 0.12,
-      "enlace": "https://www.super99.com/20008813-salmon-ahumado-pimienta-6-oz"
-    },
-    {
-      "producto": "Pringles Original 37 g",
-      "categoria": "Despensa",
-      "precios": {
-        "Riba Smith": 2.6,
-        "Super 99": 2.49
-      },
-      "ganador": "Super 99",
-      "ahorro": 0.11,
-      "enlace": "https://www.super99.com/10083055-pringles-original-37-g"
-    },
-    {
-      "producto": "LA REAL AREPAS CON QUESO",
-      "categoria": "Productos de Maíz",
-      "precios": {
-        "Riba Smith": 3.36,
-        "Super 99": 3.39
-      },
-      "ganador": "Riba Smith",
-      "ahorro": 0.03,
-      "enlace": "https://www.ribasmith.com/index.php/196738-la-real-arepas-con-queso.html"
     }
   ],
   "estadisticas_por_tienda": [

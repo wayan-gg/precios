@@ -1,31 +1,76 @@
 # -*- coding: utf-8 -*-
 """
-Scraper de supermercados de Panamá por categorías.
-Genera un archivo CSV por supermercado con TODOS los productos de cada categoría
-(nombre, precios normalizados, enlace), recorriendo la paginación.
-Optimizado para GitHub Actions (tiempos de espera reducidos, headless).
+Scraper optimizado de supermercados de Panamá.
+- Paraleliza tiendas VTEX (API) y estáticas (requests)
+- Reutiliza sesiones HTTP y driver Selenium
+- Timeouts agresivos, reintentos y skip de categorías fallidas
+- NO ejecuta la IA (ai_engine.py) — esa es un workflow manual aparte
 """
 import os
 import time
 import re
 import csv
 import sys
+import argparse
+import logging
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 import requests
+from requests.adapters import HTTPAdapter
 
 try:
     sys.stdout.reconfigure(encoding="utf-8")
 except Exception:
     pass
 
-# ================= CONFIGURACIÓN =================
-MAX_PAGES = None          # páginas máximas por categoría (None = todas)
-MAX_CATEGORIES = None     # categorías máximas por supermercado (None = todas)
-# Para pruebas rápidas, descomenta la línea de abajo:
-# MAX_CATEGORIES = 3
-DATA_DIR = "data"         # carpeta donde se guardan las CSV
+# ================= LOGGING =================
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%H:%M:%S"
+)
+log = logging.getLogger(__name__)
+
+# ================= CONFIGURACIÓN (defaults, sobreescribibles por CLI) =================
+MAX_PAGES = 20               # límite páginas por categoría (ajusta si quieres más)
+MAX_CATEGORIES = None        # None = todas
+DATA_DIR = "data"
+REQUEST_TIMEOUT = 15         # seg
+SELENIUM_WAIT = 10           # seg max wait for elements
+MAX_RETRIES = 2              # reintentos por categoría
+RATE_LIMIT = 0.5             # seg entre requests (evita 429)
+
+def parse_args():
+    parser = argparse.ArgumentParser(description="Scraper supermercados Panamá")
+    parser.add_argument("--max-pages", type=int, default=MAX_PAGES, help="Páginas máximas por categoría")
+    parser.add_argument("--max-categories", type=int, default=None, help="Categorías máximas por tienda")
+    parser.add_argument("--data-dir", default=DATA_DIR, help="Directorio de salida CSVs")
+    parser.add_argument("--timeout", type=int, default=REQUEST_TIMEOUT, help="Timeout HTTP (seg)")
+    parser.add_argument("--selenium-wait", type=int, default=SELENIUM_WAIT, help="Wait Selenium (seg)")
+    parser.add_argument("--retries", type=int, default=MAX_RETRIES, help="Reintentos por categoría")
+    parser.add_argument("--rate-limit", type=float, default=RATE_LIMIT, help="Delay entre requests (seg)")
+    parser.add_argument("--verbose", "-v", action="store_true", help="Logging DEBUG")
+    return parser.parse_args()
+
+args = parse_args()
+if args.verbose:
+    log.setLevel(logging.DEBUG)
+
+# Override globals from CLI
+MAX_PAGES = args.max_pages
+MAX_CATEGORIES = args.max_categories
+DATA_DIR = args.data_dir
+REQUEST_TIMEOUT = args.timeout
+SELENIUM_WAIT = args.selenium_wait
+MAX_RETRIES = args.retries
+RATE_LIMIT = args.rate_limit
 
 RIBA_URL = "https://www.ribasmith.com/index.php"
 RIBA_CATEGORIES = [
@@ -123,82 +168,99 @@ SUPERXTRA_CATEGORIES = [
     ("Chef Cafe", f"{SUPERXTRA_URL}/chef-cafe"),
 ]
 
-# ================= HELPERS =================
+# ================= HELPERS GLOBALES =================
+
+# Pre-compiled regexes for performance
+_RE_QTY = re.compile(r"^\s*(\d+)\s*[xX]\s+")
+_RE_PRICE = re.compile(r"(\d[\d\.,]*)")
+_RE_CLEAN_NAME = re.compile(r"\s*\.{2,}\s*|\s*\u2026\s*|\s{2,}")
+
+_session_local = threading.local()
+
+def _get_session() -> requests.Session:
+    """Session por hilo con connection pooling."""
+    if not hasattr(_session_local, "session"):
+        s = requests.Session()
+        s.headers.update({"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"})
+        adapter = HTTPAdapter(pool_connections=10, pool_maxsize=10, max_retries=0)
+        s.mount("https://", adapter)
+        s.mount("http://", adapter)
+        _session_local.session = s
+    return _session_local.session
 
 def _chrome_options():
-    options = webdriver.ChromeOptions()
-    options.add_argument('--headless=new')
-    options.add_argument('--no-sandbox')
-    options.add_argument('--disable-dev-shm-usage')
-    options.add_argument('--disable-blink-features=AutomationControlled')
-    options.add_argument('--disable-gpu')
-    options.add_argument('--window-size=1280,2200')
-    options.add_argument('--page-load-strategy=eager')  # Carga más rápida
-    options.add_experimental_option('excludeSwitches', ['enable-automation'])
-    return options
+    opts = webdriver.ChromeOptions()
+    opts.add_argument("--headless=new")
+    opts.add_argument("--no-sandbox")
+    opts.add_argument("--disable-dev-shm-usage")
+    opts.add_argument("--disable-blink-features=AutomationControlled")
+    opts.add_argument("--disable-gpu")
+    opts.add_argument("--window-size=1280,1600")
+    opts.add_argument("--disable-extensions")
+    opts.add_argument("--disable-images")  # no cargar imágenes = más rápido
+    opts.add_experimental_option("excludeSwitches", ["enable-automation"])
+    opts.add_experimental_option("prefs", {"profile.managed_default_content_settings.images": 2})
+    return opts
 
-def _new_driver():
-    # Intenta usar ChromeDriver del sistema (más rápido)
-    try:
-        return webdriver.Chrome(options=_chrome_options())
-    except Exception:
-        # Si falla, usa webdriver_manager
-        from selenium.webdriver.chrome.service import Service
-        from webdriver_manager.chrome import ChromeDriverManager
-        return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=_chrome_options())
+_driver_local = threading.local()
 
-def _clean_nombre(nombre):
+def _get_driver() -> webdriver.Chrome:
+    """Driver Selenium por hilo (reutilizado)."""
+    if not hasattr(_driver_local, "driver"):
+        _driver_local.driver = webdriver.Chrome(
+            service=Service(ChromeDriverManager().install()),
+            options=_chrome_options()
+        )
+    return _driver_local.driver
+
+def _quit_driver():
+    if hasattr(_driver_local, "driver"):
+        try:
+            _driver_local.driver.quit()
+        except Exception:
+            pass
+        del _driver_local.driver
+
+def _clean_nombre(nombre: str) -> str:
     if not nombre:
         return ""
-    nombre = re.sub(r'\s*\.{2,}\s*', '', nombre)
-    nombre = re.sub(r'\s*\u2026\s*', '', nombre)
-    nombre = re.sub(r'\s{2,}', ' ', nombre)
-    return nombre.strip()
+    return _RE_CLEAN_NAME.sub(" ", nombre).strip()
 
-def normalizar_precio(texto):
+def normalizar_precio(texto: str):
     if not texto:
         return None
-    s = str(texto).strip().strip('()')
+    s = str(texto).strip().strip("()")
     cantidad = 1
-    m_qty = re.match(r'^\s*(\d+)\s*[xX]\s+', s)
+    m_qty = _RE_QTY.match(s)
     if m_qty:
         cantidad = int(m_qty.group(1))
         s = s[m_qty.end():]
-    s = re.sub(r'B/\.', '', s)
-    s = re.sub(r'US\$', '', s)
-    s = re.sub(r'\$', '', s)
-    m = re.search(r'(\d[\d\.,]*)', s)
+    s = re.sub(r"[B/\.\sUS$\$]", "", s)
+    m = _RE_PRICE.search(s)
     if not m:
         return None
     monto_str = m.group(1)
-    tiene_punto = '.' in monto_str
-    tiene_coma = ',' in monto_str
-    if tiene_punto and tiene_coma:
-        if monto_str.rfind(',') > monto_str.rfind('.'):
-            monto_str = monto_str.replace('.', '').replace(',', '.')
-        else:
-            monto_str = monto_str.replace(',', '')
-    elif tiene_coma:
-        dec = monto_str.split(',')[-1]
-        monto_str = monto_str.replace(',', '.') if len(dec) <= 2 else monto_str.replace(',', '')
+    if "," in monto_str and "." in monto_str:
+        monto_str = monto_str.replace(".", "").replace(",", ".")
+    elif "," in monto_str:
+        monto_str = monto_str.replace(",", ".")
     try:
-        monto = float(monto_str)
+        return {"monto": float(monto_str), "moneda": "USD", "cantidad": cantidad}
     except ValueError:
         return None
-    return {"monto": monto, "moneda": "USD", "cantidad": cantidad}
 
 def _precio_obj(texto):
     p = normalizar_precio(texto)
     if not p:
         return None
-    return {"texto": str(texto).replace('\u00a0', ' ').strip().strip('()'), "monto": p["monto"],
-            "moneda": p["moneda"], "cantidad": p["cantidad"],
+    return {"texto": str(texto).replace("\u00a0", " ").strip().strip("()"),
+            "monto": p["monto"], "moneda": p["moneda"], "cantidad": p["cantidad"],
             "precio_unit": round(p["monto"] / p["cantidad"], 4) if p["cantidad"] else p["monto"]}
 
 def _precio_csv(p):
     if not p:
         return ""
-    if 'monto' in p:
+    if "monto" in p:
         return f"{p['monto']:.2f} {p['moneda']} (x{p['cantidad']})"
     return p
 
@@ -212,26 +274,21 @@ def _dedupe(items):
             out.append(it)
     return out
 
-def _scroll(driver, veces=2, espera=0.8):
-    for _ in range(veces):
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(espera)
-
-# ================= RIBA SMITH (estático) =================
+# ================= RIBA SMITH (requests + BS4) =================
 
 def _riba_parse(soup):
     out = []
-    for prod in soup.select('.product-item-details'):
-        name_el = prod.select_one('.product-item-link')
+    for prod in soup.select(".product-item-details"):
+        name_el = prod.select_one(".product-item-link")
         nombre = _clean_nombre(name_el.get_text(strip=True)) if name_el else ""
         if not nombre:
             continue
-        enlace = name_el.get('href') if name_el else ""
-        if enlace.startswith('/'):
+        enlace = name_el.get("href") if name_el else ""
+        if enlace.startswith("/"):
             enlace = RIBA_URL + enlace
-        final_el = prod.select_one('.price-wrapper[data-price-type=finalPrice] .price')
-        old_el = prod.select_one('.old-price .price')
-        spec_el = prod.select_one('.special-price .price')
+        final_el = prod.select_one(".price-wrapper[data-price-type=finalPrice] .price")
+        old_el = prod.select_one(".old-price .price")
+        spec_el = prod.select_one(".special-price .price")
         if spec_el:
             oferta = spec_el.get_text(strip=True)
             regular = old_el.get_text(strip=True) if old_el else (final_el.get_text(strip=True) if final_el else "")
@@ -246,130 +303,137 @@ def _riba_parse(soup):
         })
     return out
 
-def _riba_pages(url):
+def _riba_pages(url, session):
     urls = [url]
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-        r = requests.get(url, headers=headers, timeout=20)
+        r = session.get(url, timeout=REQUEST_TIMEOUT)
         r.raise_for_status()
-        soup = BeautifulSoup(r.text, 'html.parser')
-        pg = soup.select_one('.pages')
+        soup = BeautifulSoup(r.text, "html.parser")
+        pg = soup.select_one(".pages")
         if pg:
-            for a in pg.find_all('a', href=True):
-                h = a.get('href')
-                if re.search(r'\?p=\d+', h) and h.startswith('http'):
+            for a in pg.find_all("a", href=True):
+                h = a.get("href")
+                if re.search(r"\?p=\d+", h) and h.startswith("http"):
                     urls.append(h)
-        seen = set(); out = []
-        for u in urls:
-            if u not in seen:
-                seen.add(u); out.append(u)
-        return out[:MAX_PAGES] if MAX_PAGES else out
+        seen = set()
+        return [u for u in urls if not (u in seen or seen.add(u))]
     except Exception:
         return [url]
 
 def scrape_riba(url, nombre_cat):
-    print(f"  [Riba] {url}")
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+    log.info("[Riba] %s", url)
+    session = _get_session()
     resultados = []
-    for page_url in _riba_pages(url):
-        try:
-            r = requests.get(page_url, headers=headers, timeout=20)
-            r.raise_for_status()
-            soup = BeautifulSoup(r.text, 'html.parser')
-            resultados.extend(_riba_parse(soup))
-        except Exception as e:
-            print(f"    error página: {e}")
+    for page_url in _riba_pages(url, session):
+        for attempt in range(MAX_RETRIES + 1):
+            try:
+                r = session.get(page_url, timeout=REQUEST_TIMEOUT)
+                r.raise_for_status()
+                resultados.extend(_riba_parse(BeautifulSoup(r.text, "html.parser")))
+                break
+            except Exception as e:
+                if attempt == MAX_RETRIES:
+                    log.warning("página falló tras reintentos: %s", e)
+                else:
+                    time.sleep(1)
+        time.sleep(RATE_LIMIT)
     return _dedupe(resultados)
 
 # ================= VTEX (Machetazo, Super Xtra) =================
 
+def _vtex_api_path(cat_url):
+    path = cat_url.split(".com", 1)[-1]
+    return "/" + path.strip("/").replace("//", "/")
+
+def _vtex_scrape(base_url, cat_url, nombre_cat):
+    api = f"{base_url}/api/catalog_system/pub/products/search{_vtex_api_path(cat_url)}"
+    session = _get_session()
+    resultados = []
+    from_ = 0
+    total = None
+    while True:
+        if MAX_PAGES and (from_ // 50) >= MAX_PAGES:
+            break
+        for attempt in range(MAX_RETRIES + 1):
+            try:
+                r = session.get(api, params={"_from": from_, "_to": from_ + 49}, timeout=REQUEST_TIMEOUT)
+                if r.status_code not in (200, 206):
+                    if attempt == MAX_RETRIES:
+                        log.warning("API status %s", r.status_code)
+                    break
+                data = r.json() or []
+                if not data:
+                    return _dedupe(resultados)
+                for p in data if isinstance(data, list) else []:
+                    name = _clean_nombre(p.get("productName") or "")
+                    if not name:
+                        continue
+                    link_text = p.get("linkText") or p.get("productReference") or ""
+                    enlace = f"{base_url}/{link_text}/p" if link_text else ""
+                    oferta = regular = None
+                    items = p.get("items") or []
+                    if items:
+                        sellers = items[0].get("sellers") or []
+                        if sellers:
+                            co = sellers[0].get("commertialOffer") or {}
+                            price = co.get("Price")
+                            list_price = co.get("ListPrice")
+                            if price is not None:
+                                oferta = f"B/. {price:.2f}"
+                                if list_price and abs(list_price - price) > 0.001:
+                                    regular = f"B/. {list_price:.2f}"
+                    resultados.append({
+                        "nombre": name,
+                        "precio_oferta": _precio_obj(oferta),
+                        "precio_regular": _precio_obj(regular) or _precio_obj(oferta),
+                        "enlace": enlace,
+                    })
+                res = r.headers.get("resources") or ""
+                if "/" in res:
+                    total = int(res.rsplit("/", 1)[-1])
+                from_ += 50
+                if total and from_ >= total:
+                    return _dedupe(resultados)
+                break
+            except Exception as e:
+                if attempt == MAX_RETRIES:
+                    log.warning("error API: %s", e)
+                    return _dedupe(resultados)
+                time.sleep(1)
+        time.sleep(RATE_LIMIT)
+    return _dedupe(resultados)
+
 def scrape_machetazo(url, nombre_cat):
-    print(f"  [Machetazo] {url}")
+    log.info("[Machetazo] %s", url)
     return _vtex_scrape(MACHETAZO_URL, url, nombre_cat)
 
 def scrape_superxtra(url, nombre_cat):
-    print(f"  [Super Xtra] {url}")
+    log.info("[Super Xtra] %s", url)
     return _vtex_scrape(SUPERXTRA_URL, url, nombre_cat)
 
-def _vtex_scrape(base_url, cat_url, nombre_cat):
-    """Scraper genérico para VTEX (Machetazo, Super Xtra, etc.)."""
-    def api_path(cat_url):
-        path = cat_url.split(".com", 1)[-1]
-        return "/" + path.strip("/").replace("//", "/")
-    api = f"{base_url}/api/catalog_system/pub/products/search{api_path(cat_url)}"
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-    resultados = []
-    try:
-        from_ = 0
-        total = None
-        while True:
-            if MAX_PAGES is not None and (from_ // 50) >= MAX_PAGES:
-                break
-            r = requests.get(api, headers=headers, params={"_from": from_, "_to": from_ + 49}, timeout=30)
-            if r.status_code not in (200, 206):
-                print(f"    API status {r.status_code} (categoria no disponible)")
-                break
-            data = r.json() or []
-            if not data:
-                break
-            for p in data if isinstance(data, list) else []:
-                name = _clean_nombre(p.get("productName") or "")
-                if not name:
-                    continue
-                link_text = p.get("linkText") or p.get("productReference") or ""
-                enlace = f"{base_url}/{link_text}/p" if link_text else ""
-                oferta = regular = None
-                items = p.get("items") or []
-                if items:
-                    sellers = items[0].get("sellers") or []
-                    if sellers:
-                        co = sellers[0].get("commertialOffer") or {}
-                        price = co.get("Price")
-                        list_price = co.get("ListPrice")
-                        if price is not None:
-                            oferta = f"B/. {price:.2f}"
-                            if list_price and abs(list_price - price) > 0.001:
-                                regular = f"B/. {list_price:.2f}"
-                resultados.append({
-                    "nombre": name,
-                    "precio_oferta": _precio_obj(oferta),
-                    "precio_regular": _precio_obj(regular) or _precio_obj(oferta),
-                    "enlace": enlace,
-                })
-            res = r.headers.get("resources") or ""
-            if "/" in res:
-                total = int(res.rsplit("/", 1)[-1])
-            from_ += 50
-            if total and from_ >= total:
-                break
-        return _dedupe(resultados)
-    except Exception as e:
-        print(f"  error: {e}")
-        return []
-
-# ================= SUPER 99 (Selenium) - OPTIMIZADO =================
+# ================= SUPER 99 (Selenium) =================
 
 def _s99_parse(soup):
     out = []
-    for item in soup.select('.ds-sdk-product-item'):
-        name_el = item.select_one('.ds-sdk-product-item__product-name')
+    for item in soup.select(".ds-sdk-product-item"):
+        name_el = item.select_one(".ds-sdk-product-item__product-name")
         nombre = _clean_nombre(name_el.get_text(strip=True)) if name_el else ""
         if not nombre:
             continue
-        link_el = item.select_one('.ds-sdk-product-item__link')
-        enlace = link_el.get('href') if link_el else ""
-        if enlace.startswith('//'):
+        link_el = item.select_one(".ds-sdk-product-item__link")
+        enlace = link_el.get("href") if link_el else ""
+        if enlace.startswith("//"):
             enlace = "https:" + enlace
-        elif enlace.startswith('/'):
+        elif enlace.startswith("/"):
             enlace = S99_URL + enlace
-        badge = item.select_one('.plp-discount-percentage-badge')
+        badge = item.select_one(".plp-discount-percentage-badge")
         if badge:
-            final = badge.get('data-final')
-            regular = badge.get('data-regular')
+            final = badge.get("data-final")
+            regular = badge.get("data-regular")
             texto_o = f"${final}" if final else ""
             texto_r = f"${regular}" if regular else texto_o
         else:
-            price_el = item.select_one('.ds-sdk-product-price')
+            price_el = item.select_one(".ds-sdk-product-price")
             texto_o = price_el.get_text(strip=True) if price_el else ""
             texto_r = ""
         out.append({
@@ -383,7 +447,7 @@ def _s99_parse(soup):
 def _s99_click_page(driver, numero):
     try:
         for li in driver.find_elements(By.CSS_SELECTOR, ".ds-plp-pagination__item"):
-            if (li.get_attribute('textContent') or '').strip() == str(numero):
+            if (li.get_attribute("textContent") or "").strip() == str(numero):
                 driver.execute_script("arguments[0].click();", li)
                 time.sleep(1.5)
                 return True
@@ -392,24 +456,30 @@ def _s99_click_page(driver, numero):
     return False
 
 def scrape_super99(url, nombre_cat):
-    print(f"  [Super99] {url}")
-    driver = _new_driver()
+    log.info("[Super99] %s", url)
+    driver = _get_driver()
     resultados = []
     try:
         driver.get(url)
-        time.sleep(3)  # REDUCIDO de 6 a 3
-        _scroll(driver)  # REDUCIDO a 2 scrolls
-        resultados.extend(_s99_parse(BeautifulSoup(driver.page_source, 'html.parser')))
+        # wait for products to load
+        WebDriverWait(driver, SELENIUM_WAIT).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, ".ds-sdk-product-item"))
+        )
+        time.sleep(1)
+        resultados.extend(_s99_parse(BeautifulSoup(driver.page_source, "html.parser")))
         pagina = 1
         while (not MAX_PAGES or pagina < MAX_PAGES) and _s99_click_page(driver, pagina + 1):
             pagina += 1
             if not MAX_PAGES or pagina <= MAX_PAGES:
-                resultados.extend(_s99_parse(BeautifulSoup(driver.page_source, 'html.parser')))
+                time.sleep(0.8)
+                resultados.extend(_s99_parse(BeautifulSoup(driver.page_source, "html.parser")))
         return _dedupe(resultados)
-    finally:
-        driver.quit()
+    except Exception as e:
+        log.warning("error Super99: %s", e)
+        return []
+    # NO quitamos driver aquí: se reutiliza en la siguiente categoría
 
-# ================= EL REY (Selenium) - OPTIMIZADO =================
+# ================= EL REY (Selenium) =================
 
 def _elrey_parse(soup):
     out = []
@@ -419,36 +489,31 @@ def _elrey_parse(soup):
         if not nombre:
             continue
         enlace = ""
-        a = div.find('a', href=True)
-        if a and isinstance(a['href'], str):
-            enlace = a['href'] if a['href'].startswith('http') else ELREY_URL + a['href']
+        a = div.find("a", href=True)
+        if a and isinstance(a["href"], str):
+            enlace = a["href"] if a["href"].startswith("http") else ELREY_URL + a["href"]
         base_el = div.select_one('p[data-testid="card-base-price"]')
         base_unit = base_el.get_text(strip=True) if base_el else None
         crossed = div.select_one('div[data-testid="crossed-out-price-a"]')
-        oferta_text = None
-        regular_text = None
+        oferta_text = regular_text = None
         if crossed:
-            cur = crossed.select_one('p.base__price')
-            old = crossed.select_one('p.prod-crossed-out__price__old')
-            if cur: oferta_text = cur.get_text(strip=True)
-            if old: regular_text = old.get_text(strip=True).strip('()')
-        promo_el = div.select_one('p.prod__n-per-price__text')
+            cur = crossed.select_one("p.base__price")
+            old = crossed.select_one("p.prod-crossed-out__price__old")
+            if cur:
+                oferta_text = cur.get_text(strip=True)
+            if old:
+                regular_text = old.get_text(strip=True).strip("()")
+        promo_el = div.select_one("p.prod__n-per-price__text")
         promo_text = promo_el.get_text(strip=True) if promo_el else None
-
-        if oferta_text:
-            pass
-        elif promo_text:
+        if not oferta_text and promo_text:
             oferta_text = promo_text
             if base_unit:
                 pb = normalizar_precio(base_unit)
                 pp = normalizar_precio(promo_text)
                 if pb and pp:
                     regular_text = f"B/. {round(pb['monto'] * pp['cantidad'], 2):.2f}"
-        else:
-            oferta_text = base_unit
         if not regular_text:
-            regular_text = base_unit or (oferta_text if oferta_text else "")
-
+            regular_text = base_unit or oferta_text or ""
         out.append({
             "nombre": nombre,
             "precio_oferta": _precio_obj(oferta_text) or ({"texto": oferta_text} if oferta_text else None),
@@ -460,9 +525,7 @@ def _elrey_parse(soup):
 def _elrey_next(driver):
     try:
         els = driver.find_elements(By.CSS_SELECTOR, ".ant-pagination-next")
-        if not els:
-            return False
-        if 'ant-pagination-disabled' in (els[0].get_attribute('class') or ''):
+        if not els or "ant-pagination-disabled" in (els[0].get_attribute("class") or ""):
             return False
         driver.execute_script("arguments[0].click();", els[0])
         time.sleep(1.5)
@@ -471,42 +534,66 @@ def _elrey_next(driver):
         return False
 
 def scrape_elrey(url, nombre_cat):
-    print(f"  [ElRey] {url}")
-    driver = _new_driver()
+    log.info("[ElRey] %s", url)
+    driver = _get_driver()
     resultados = []
     try:
         driver.get(url)
-        time.sleep(4)  # REDUCIDO de 7 a 4
-        _scroll(driver, veces=3, espera=0.8)  # REDUCIDO de 5 a 3 scrolls
-        soup = BeautifulSoup(driver.page_source, 'html.parser')
-        resultados.extend(_elrey_parse(soup))
+        WebDriverWait(driver, SELENIUM_WAIT).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, 'div[data-testid^="product-context-provider-"]'))
+        )
+        time.sleep(1)
+        _scroll_fast(driver)
+        resultados.extend(_elrey_parse(BeautifulSoup(driver.page_source, "html.parser")))
         pagina = 1
         while (not MAX_PAGES or pagina < MAX_PAGES) and _elrey_next(driver):
             pagina += 1
-            resultados.extend(_elrey_parse(BeautifulSoup(driver.page_source, 'html.parser')))
+            if not MAX_PAGES or pagina <= MAX_PAGES:
+                time.sleep(0.8)
+                _scroll_fast(driver)
+                resultados.extend(_elrey_parse(BeautifulSoup(driver.page_source, "html.parser")))
         return _dedupe(resultados)
-    finally:
-        driver.quit()
+    except Exception as e:
+        log.warning("error ElRey: %s", e)
+        return []
+
+def _scroll_fast(driver, veces=3):
+    for _ in range(veces):
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        time.sleep(0.5)
 
 # ================= SALIDA CSV =================
 
 def _init_csv(filename):
     os.makedirs(DATA_DIR, exist_ok=True)
     with open(os.path.join(DATA_DIR, filename), "w", newline="", encoding="utf-8-sig") as f:
-        w = csv.writer(f)
-        w.writerow(["categoria", "nombre", "precio_oferta", "precio_regular", "enlace"])
+        csv.writer(f).writerow(["categoria", "nombre", "precio_oferta", "precio_regular", "enlace"])
 
 def _dump_csv(filename, nombre_cat, rows):
     with open(os.path.join(DATA_DIR, filename), "a", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f)
         for r in rows:
-            w.writerow([
-                nombre_cat,
-                r["nombre"],
-                _precio_csv(r["precio_oferta"]),
-                _precio_csv(r["precio_regular"]),
-                r["enlace"],
-            ])
+            w.writerow([nombre_cat, r["nombre"], _precio_csv(r["precio_oferta"]), _precio_csv(r["precio_regular"]), r["enlace"]])
+
+# ================= MAIN: PARALELIZA TIENDAS INDEPENDIENTES =================
+
+def _scrape_store(args):
+    """Wrapper para ThreadPoolExecutor."""
+    super_name, filename, cats, scraper = args
+    log.info("\n%s\n%s\n%s", "="*50, super_name, "="*50)
+    _init_csv(filename)
+    cats = cats[:MAX_CATEGORIES] if MAX_CATEGORIES else cats
+    total = 0
+    for cat, url in cats:
+        try:
+            data = scraper(url, cat)
+            _dump_csv(filename, cat, data)
+            log.info("  %s: %d productos (total %d)", cat, len(data), total + len(data))
+            total += len(data)
+        except Exception as e:
+            log.warning("  %s falló: %s", cat, e)
+    log.info("-> %s: %d productos -> %s", super_name, total, filename)
+    return super_name, total
 
 def main():
     runs = [
@@ -516,18 +603,31 @@ def main():
         ("El Machetazo", "machetazo.csv", MACHETAZO_CATEGORIES, scrape_machetazo),
         ("Super Xtra", "superxtra.csv", SUPERXTRA_CATEGORIES, scrape_superxtra),
     ]
-    for super_, outname, cats, scraper in runs:
-        print(f"\n{'='*55}\n{super_}\n{'='*55}")
-        _init_csv(outname)
-        cats = cats[:MAX_CATEGORIES] if MAX_CATEGORIES else cats
-        total = 0
-        for cat, url in cats:
-            data = scraper(url, cat)
-            _dump_csv(outname, cat, data)
-            print(f"  {cat}: {len(data)} productos (acumulado {total})")
-            total += len(data)
-        print(f"-> {super_}: {total} productos -> {outname}")
-    print("\n[OK] Terminado.")
+
+    # Grupos que pueden correr en paralelo (no comparten driver)
+    # Grupo 1: requests-only (Riba, Machetazo, Super Xtra) — 3 hilos
+    # Grupo 2: Selenium (Super99, ElRey) — secuencial para reutilizar driver
+    with ThreadPoolExecutor(max_workers=3) as ex:
+        # Grupo requests
+        req_runs = [r for r in runs if r[0] in ("Riba Smith", "El Machetazo", "Super Xtra")]
+        futuros = {ex.submit(_scrape_store, r): r[0] for r in req_runs}
+        for fut in as_completed(futuros):
+            try:
+                fut.result()
+            except Exception as e:
+                log.error("%s error fatal: %s", futuros[fut], e)
+
+    # Grupo Selenium (secuencial, reutiliza driver)
+    for r in runs:
+        if r[0] in ("Super 99", "El Rey"):
+            try:
+                _scrape_store(r)
+            except Exception as e:
+                log.error("%s error fatal: %s", r[0], e)
+
+    # Limpieza drivers
+    _quit_driver()
+    log.info("Scraper terminado. CSVs en %s/", DATA_DIR)
 
 if __name__ == "__main__":
     main()
