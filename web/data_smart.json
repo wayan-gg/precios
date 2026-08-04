@@ -1,0 +1,1382 @@
+{
+  "generated_at": "2026-08-04T20:30:13.021114+00:00",
+  "informacion_todo": {
+    "generated_at": "2026-08-04T20:22:35.303901+00:00",
+    "totales": {
+      "productos": 17106,
+      "con_oferta": 947
+    },
+    "mejor_supermercado": {
+      "nombre": "Super 99",
+      "promedio_descuento": 18.0,
+      "total_ofertas": 823,
+      "razon": "Super 99 tiene el mejor equilibrio: 823 productos en oferta con un promedio de 18.0% de descuento."
+    },
+    "top_promociones": [
+      {
+        "supermercado": "Riba Smith",
+        "categoria": "Promociones",
+        "nombre": "M&M CARAMEL CHOCOLATE",
+        "precio_oferta": 0.95,
+        "precio_regular": 2.0,
+        "descuento_pct": 52.5,
+        "enlace": "https://www.ribasmith.com/index.php/253048-m-m-caramel-chocolate.html",
+        "razon": "52.5% de descuento real (de B/.2.00 a B/.0.95)",
+        "rank": 1
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "Baci Chocolate Leche Trufa 12 Unidades150g",
+        "precio_oferta": 5.0,
+        "precio_regular": 9.99,
+        "descuento_pct": 49.9,
+        "enlace": "https://www.super99.com/40009844-baci-chocolate-leche-trufa-12-unidades150g",
+        "razon": "49.9% de descuento real (de B/.9.99 a B/.5.00)",
+        "rank": 2
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "BACI CHOCO EXTRA DARK 70% 10/175GR",
+        "precio_oferta": 4.0,
+        "precio_regular": 7.99,
+        "descuento_pct": 49.9,
+        "enlace": "https://www.super99.com/40011114-baci-choco-extra-dark-70-10-175gr",
+        "razon": "49.9% de descuento real (de B/.7.99 a B/.4.00)",
+        "rank": 3
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "Baci Chocolate Negro Trufa 175g",
+        "precio_oferta": 4.0,
+        "precio_regular": 7.99,
+        "descuento_pct": 49.9,
+        "enlace": "https://www.super99.com/40009841-baci-chocolate-negro-trufa-175g",
+        "razon": "49.9% de descuento real (de B/.7.99 a B/.4.00)",
+        "rank": 4
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "Baci Chocolate Leche Bolsa Trufa 125g",
+        "precio_oferta": 3.0,
+        "precio_regular": 5.99,
+        "descuento_pct": 49.9,
+        "enlace": "https://www.super99.com/40009809-baci-chocolate-leche-bolsa-trufa-125g",
+        "razon": "49.9% de descuento real (de B/.5.99 a B/.3.00)",
+        "rank": 5
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "Baci Chocolate Negro Trufa Bolsa 125g",
+        "precio_oferta": 3.0,
+        "precio_regular": 5.99,
+        "descuento_pct": 49.9,
+        "enlace": "https://www.super99.com/40009840-baci-chocolate-negro-trufa-bolsa-125g",
+        "razon": "49.9% de descuento real (de B/.5.99 a B/.3.00)",
+        "rank": 6
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "NERO DARK CHOCO 70% 21/85GR",
+        "precio_oferta": 1.5,
+        "precio_regular": 2.99,
+        "descuento_pct": 49.8,
+        "enlace": "https://www.super99.com/40011115-nero-dark-choco-70-21-85gr",
+        "razon": "49.8% de descuento real (de B/.2.99 a B/.1.50)",
+        "rank": 7
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "NERO DARK CHOCO 85% 21/85GR",
+        "precio_oferta": 1.5,
+        "precio_regular": 2.99,
+        "descuento_pct": 49.8,
+        "enlace": "https://www.super99.com/40011116-nero-dark-choco-85-21-85gr",
+        "razon": "49.8% de descuento real (de B/.2.99 a B/.1.50)",
+        "rank": 8
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "Baci Chocolate Leche Trufa 3 Piezas 37.5g",
+        "precio_oferta": 1.18,
+        "precio_regular": 2.35,
+        "descuento_pct": 49.8,
+        "enlace": "https://www.super99.com/40009807-baci-chocolate-leche-trufa-3-piezas-37-5g",
+        "razon": "49.8% de descuento real (de B/.2.35 a B/.1.18)",
+        "rank": 9
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "Baci Chocolate Negro Trufa 3 Piezas 37.5z",
+        "precio_oferta": 1.18,
+        "precio_regular": 2.35,
+        "descuento_pct": 49.8,
+        "enlace": "https://www.super99.com/40009808-baci-chocolate-negro-trufa-3-piezas-37-5z",
+        "razon": "49.8% de descuento real (de B/.2.35 a B/.1.18)",
+        "rank": 10
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "BACI CHOCO TUBO FONDENTE 70% 21/37.5GR",
+        "precio_oferta": 1.18,
+        "precio_regular": 2.35,
+        "descuento_pct": 49.8,
+        "enlace": "https://www.super99.com/40011112-baci-choco-tubo-fondente-70-21-37-5gr",
+        "razon": "49.8% de descuento real (de B/.2.35 a B/.1.18)",
+        "rank": 11
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "BACI CHOCO TUBO CAFFE 21/37.5GR",
+        "precio_oferta": 1.18,
+        "precio_regular": 2.35,
+        "descuento_pct": 49.8,
+        "enlace": "https://www.super99.com/40011113-baci-choco-tubo-caffe-21-37-5gr",
+        "razon": "49.8% de descuento real (de B/.2.35 a B/.1.18)",
+        "rank": 12
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "Danish Delights Butter Cookies 114g",
+        "precio_oferta": 0.75,
+        "precio_regular": 1.35,
+        "descuento_pct": 44.4,
+        "enlace": "https://www.super99.com/20145258-danish-delights-butter-cookies-114g",
+        "razon": "44.4% de descuento real (de B/.1.35 a B/.0.75)",
+        "rank": 13
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "Nabisco Oreo Double Stuf 14.03Oz",
+        "precio_oferta": 4.0,
+        "precio_regular": 6.99,
+        "descuento_pct": 42.8,
+        "enlace": "https://www.super99.com/20142771-nabisco-oreo-double-stuf-14-03oz",
+        "razon": "42.8% de descuento real (de B/.6.99 a B/.4.00)",
+        "rank": 14
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "Nabisco Nilla Mini Wafers 12Oz",
+        "precio_oferta": 4.0,
+        "precio_regular": 6.99,
+        "descuento_pct": 42.8,
+        "enlace": "https://www.super99.com/20083919-nabisco-nilla-mini-wafers-12oz",
+        "razon": "42.8% de descuento real (de B/.6.99 a B/.4.00)",
+        "rank": 15
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Aseo del Hogar",
+        "nombre": "Febreze Air Apple Cider 8.8oz",
+        "precio_oferta": 2.27,
+        "precio_regular": 3.79,
+        "descuento_pct": 40.1,
+        "enlace": "https://www.super99.com/20135805-febreze-air-apple-cider-8-8oz",
+        "razon": "40.1% de descuento real (de B/.3.79 a B/.2.27)",
+        "rank": 16
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "Pampers Baby Dry Etapa 4 46 unidades",
+        "precio_oferta": 11.75,
+        "precio_regular": 19.59,
+        "descuento_pct": 40.0,
+        "enlace": "https://www.super99.com/20117930-pampers-baby-dry-etapa-4-46-unidades",
+        "razon": "40.0% de descuento real (de B/.19.59 a B/.11.75)",
+        "rank": 17
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "PAMPERS BABY DRY S5 2/39UN",
+        "precio_oferta": 11.75,
+        "precio_regular": 19.59,
+        "descuento_pct": 40.0,
+        "enlace": "https://www.super99.com/20124024-pampers-baby-dry-s5-2-39un",
+        "razon": "40.0% de descuento real (de B/.19.59 a B/.11.75)",
+        "rank": 18
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "PAMPERS BABY DRY S2 2/56UN",
+        "precio_oferta": 11.75,
+        "precio_regular": 19.59,
+        "descuento_pct": 40.0,
+        "enlace": "https://www.super99.com/20124023-pampers-baby-dry-s2-2-56un",
+        "razon": "40.0% de descuento real (de B/.19.59 a B/.11.75)",
+        "rank": 19
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "PAMPERS BABY DRY S3 2/52UN",
+        "precio_oferta": 11.57,
+        "precio_regular": 19.29,
+        "descuento_pct": 40.0,
+        "enlace": "https://www.super99.com/20124006-pampers-baby-dry-s3-2-52un",
+        "razon": "40.0% de descuento real (de B/.19.29 a B/.11.57)",
+        "rank": 20
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "PAMPERS BABY DRY S2 JUMBO PACK 4/37UN",
+        "precio_oferta": 8.75,
+        "precio_regular": 14.59,
+        "descuento_pct": 40.0,
+        "enlace": "https://www.super99.com/20121506-pampers-baby-dry-s2-jumbo-pack-4-37un",
+        "razon": "40.0% de descuento real (de B/.14.59 a B/.8.75)",
+        "rank": 21
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "Orgran Cereal Arroz Frambuesa 300g",
+        "precio_oferta": 3.09,
+        "precio_regular": 5.15,
+        "descuento_pct": 40.0,
+        "enlace": "https://www.super99.com/20054421-orgran-cereal-arroz-frambuesa-300g",
+        "razon": "40.0% de descuento real (de B/.5.15 a B/.3.09)",
+        "rank": 22
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Aseo del Hogar",
+        "nombre": "Febreze Air Sumberpic 8.80Oz",
+        "precio_oferta": 2.01,
+        "precio_regular": 3.35,
+        "descuento_pct": 40.0,
+        "enlace": "https://www.super99.com/20149559-febreze-air-sumberpic-8-80oz",
+        "razon": "40.0% de descuento real (de B/.3.35 a B/.2.01)",
+        "rank": 23
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Aseo del Hogar",
+        "nombre": "Febreze Air Gapeachorc 8.80Oz",
+        "precio_oferta": 2.01,
+        "precio_regular": 3.35,
+        "descuento_pct": 40.0,
+        "enlace": "https://www.super99.com/20149560-febreze-air-gapeachorc-8-80oz",
+        "razon": "40.0% de descuento real (de B/.3.35 a B/.2.01)",
+        "rank": 24
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "Miyata Aceite Arroz Sazonado 150ml",
+        "precio_oferta": 0.75,
+        "precio_regular": 1.25,
+        "descuento_pct": 40.0,
+        "enlace": "https://www.super99.com/20153304-miyata-aceite-arroz-sazonado-150ml",
+        "razon": "40.0% de descuento real (de B/.1.25 a B/.0.75)",
+        "rank": 25
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "Heinz Colado Frutas Tropicale 113g",
+        "precio_oferta": 0.56,
+        "precio_regular": 0.89,
+        "descuento_pct": 37.1,
+        "enlace": "https://www.super99.com/10090159-heinz-colado-frutas-tropicale-113g",
+        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "rank": 26
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "Heinz Colado Coctel Frutas 113g",
+        "precio_oferta": 0.56,
+        "precio_regular": 0.89,
+        "descuento_pct": 37.1,
+        "enlace": "https://www.super99.com/10090161-heinz-colado-coctel-frutas-113g",
+        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "rank": 27
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "Heinz Colado Manzana Vidrio 113g",
+        "precio_oferta": 0.56,
+        "precio_regular": 0.89,
+        "descuento_pct": 37.1,
+        "enlace": "https://www.super99.com/10090283-heinz-colado-manzana-vidrio-113g",
+        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "rank": 28
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "Heinz Colado Pera Vidrio 113g",
+        "precio_oferta": 0.56,
+        "precio_regular": 0.89,
+        "descuento_pct": 37.1,
+        "enlace": "https://www.super99.com/10090284-heinz-colado-pera-vidrio-113g",
+        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "rank": 29
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "Heinz Colado Melocoton Vidrio 113g",
+        "precio_oferta": 0.56,
+        "precio_regular": 0.89,
+        "descuento_pct": 37.1,
+        "enlace": "https://www.super99.com/10090285-heinz-colado-melocoton-vidrio-113g",
+        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "rank": 30
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "Heinz Colado Postre Fruta Vidrio 113g",
+        "precio_oferta": 0.56,
+        "precio_regular": 0.89,
+        "descuento_pct": 37.1,
+        "enlace": "https://www.super99.com/10090286-heinz-colado-postre-fruta-vidrio-113g",
+        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "rank": 31
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "Heinz Colado Frutas Mixtas 113g",
+        "precio_oferta": 0.56,
+        "precio_regular": 0.89,
+        "descuento_pct": 37.1,
+        "enlace": "https://www.super99.com/10090288-heinz-colado-frutas-mixtas-113g",
+        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "rank": 32
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "Heinz Colado Ciruelas Pasas 113g",
+        "precio_oferta": 0.56,
+        "precio_regular": 0.89,
+        "descuento_pct": 37.1,
+        "enlace": "https://www.super99.com/20042990-heinz-colado-ciruelas-pasas-113g",
+        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "rank": 33
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "Heinz Colado Banana Vidrio 113g",
+        "precio_oferta": 0.56,
+        "precio_regular": 0.89,
+        "descuento_pct": 37.1,
+        "enlace": "https://www.super99.com/20126706-heinz-colado-banana-vidrio-113g",
+        "razon": "37.1% de descuento real (de B/.0.89 a B/.0.56)",
+        "rank": 34
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "PAMPERS PANTS PC GDE 4/30UN",
+        "precio_oferta": 9.99,
+        "precio_regular": 15.59,
+        "descuento_pct": 35.9,
+        "enlace": "https://www.super99.com/20125654-pampers-pants-pc-gde-4-30un",
+        "razon": "35.9% de descuento real (de B/.15.59 a B/.9.99)",
+        "rank": 35
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "PAMPERS PANTS PC XXG 8/24UN",
+        "precio_oferta": 9.99,
+        "precio_regular": 15.59,
+        "descuento_pct": 35.9,
+        "enlace": "https://www.super99.com/20125656-pampers-pants-pc-xxg-8-24un",
+        "razon": "35.9% de descuento real (de B/.15.59 a B/.9.99)",
+        "rank": 36
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "PAMPERS PANTS PC XGD 6/26UN",
+        "precio_oferta": 9.99,
+        "precio_regular": 15.59,
+        "descuento_pct": 35.9,
+        "enlace": "https://www.super99.com/20125655-pampers-pants-pc-xgd-6-26un",
+        "razon": "35.9% de descuento real (de B/.15.59 a B/.9.99)",
+        "rank": 37
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Cuidado de Bebes",
+        "nombre": "PAMPERS PANTS PC MED 4/34UN",
+        "precio_oferta": 9.99,
+        "precio_regular": 15.59,
+        "descuento_pct": 35.9,
+        "enlace": "https://www.super99.com/20125653-pampers-pants-pc-med-4-34un",
+        "razon": "35.9% de descuento real (de B/.15.59 a B/.9.99)",
+        "rank": 38
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Congelados y Refrigerados",
+        "nombre": "LA SABROSITA AGUACATE HASS CONG 12/1KG",
+        "precio_oferta": 4.5,
+        "precio_regular": 6.99,
+        "descuento_pct": 35.6,
+        "enlace": "https://www.super99.com/40010847-la-sabrosita-aguacate-hass-cong-12-1kg",
+        "razon": "35.6% de descuento real (de B/.6.99 a B/.4.50)",
+        "rank": 39
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Congelados y Refrigerados",
+        "nombre": "LA SABROSITA ESPARRAGO CONG BOL 10/1KG",
+        "precio_oferta": 4.5,
+        "precio_regular": 6.99,
+        "descuento_pct": 35.6,
+        "enlace": "https://www.super99.com/40010848-la-sabrosita-esparrago-cong-bol-10-1kg",
+        "razon": "35.6% de descuento real (de B/.6.99 a B/.4.50)",
+        "rank": 40
+      },
+      {
+        "supermercado": "Riba Smith",
+        "categoria": "Promociones",
+        "nombre": "CEBELLY BARS ORG APPLE KALE",
+        "precio_oferta": 4.2,
+        "precio_regular": 6.5,
+        "descuento_pct": 35.4,
+        "enlace": "https://www.ribasmith.com/index.php/360872-cebelly-bars-org-apple-kale.html",
+        "razon": "35.4% de descuento real (de B/.6.50 a B/.4.20)",
+        "rank": 41
+      },
+      {
+        "supermercado": "Riba Smith",
+        "categoria": "Promociones",
+        "nombre": "DAVID NACHO SNFLOWER 0.8 OZ",
+        "precio_oferta": 0.45,
+        "precio_regular": 0.69,
+        "descuento_pct": 34.8,
+        "enlace": "https://www.ribasmith.com/index.php/330946-david-nacho-snflower-0-8-oz.html",
+        "razon": "34.8% de descuento real (de B/.0.69 a B/.0.45)",
+        "rank": 42
+      },
+      {
+        "supermercado": "Riba Smith",
+        "categoria": "Promociones",
+        "nombre": "BAGUETTE RUSTICA 120 GR",
+        "precio_oferta": 2.0,
+        "precio_regular": 3.05,
+        "descuento_pct": 34.4,
+        "enlace": "https://www.ribasmith.com/index.php/332059-baguette-rustica-120-gr.html",
+        "razon": "34.4% de descuento real (de B/.3.05 a B/.2.00)",
+        "rank": 43
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Aseo del Hogar",
+        "nombre": "Bionature Bandeja Desechable 8x8 C D 10 Unidades",
+        "precio_oferta": 2.99,
+        "precio_regular": 4.5,
+        "descuento_pct": 33.6,
+        "enlace": "https://www.super99.com/20123348-bionature-bandeja-desechable-8x8-c-d-10-unidades",
+        "razon": "33.6% de descuento real (de B/.4.50 a B/.2.99)",
+        "rank": 44
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Aseo del Hogar",
+        "nombre": "PLASTIFAR VASO PLAST CAFE 50/100U",
+        "precio_oferta": 0.99,
+        "precio_regular": 1.49,
+        "descuento_pct": 33.6,
+        "enlace": "https://www.super99.com/20078797-plastifar-vaso-plast-cafe-50-100u",
+        "razon": "33.6% de descuento real (de B/.1.49 a B/.0.99)",
+        "rank": 45
+      },
+      {
+        "supermercado": "Riba Smith",
+        "categoria": "Promociones",
+        "nombre": "CRAVN CRISPY CRUNCH BARS",
+        "precio_oferta": 5.95,
+        "precio_regular": 8.95,
+        "descuento_pct": 33.5,
+        "enlace": "https://www.ribasmith.com/index.php/358972-cravn-crispy-crunch-bars.html",
+        "razon": "33.5% de descuento real (de B/.8.95 a B/.5.95)",
+        "rank": 46
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Accesorios Hogar",
+        "nombre": "PLASTIFAR TAPA PLAST S/V PL8S1216 10/100",
+        "precio_oferta": 3.99,
+        "precio_regular": 5.99,
+        "descuento_pct": 33.4,
+        "enlace": "https://www.super99.com/20140610-plastifar-tapa-plast-s-v-pl8s1216-10-100",
+        "razon": "33.4% de descuento real (de B/.5.99 a B/.3.99)",
+        "rank": 47
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "Barilla Salsa Sugo Napoletana 400g",
+        "precio_oferta": 1.99,
+        "precio_regular": 2.99,
+        "descuento_pct": 33.4,
+        "enlace": "https://www.super99.com/10091079-barilla-salsa-sugo-napoletana-400g",
+        "razon": "33.4% de descuento real (de B/.2.99 a B/.1.99)",
+        "rank": 48
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "Chips Ahoy Chewy 13Oz",
+        "precio_oferta": 4.0,
+        "precio_regular": 5.99,
+        "descuento_pct": 33.2,
+        "enlace": "https://www.super99.com/10128355-chips-ahoy-chewy-13oz",
+        "razon": "33.2% de descuento real (de B/.5.99 a B/.4.00)",
+        "rank": 49
+      },
+      {
+        "supermercado": "Super 99",
+        "categoria": "Despensa",
+        "nombre": "Chips Ahoy Galletas Thins Original 7Oz",
+        "precio_oferta": 4.0,
+        "precio_regular": 5.99,
+        "descuento_pct": 33.2,
+        "enlace": "https://www.super99.com/20139623-chips-ahoy-galletas-thins-original-7oz",
+        "razon": "33.2% de descuento real (de B/.5.99 a B/.4.00)",
+        "rank": 50
+      }
+    ],
+    "comparativas": [
+      {
+        "producto": "TORTILLAS GRANDES 10 UN",
+        "categoria": "Productos de Maíz",
+        "precios": {
+          "Riba Smith": 1.45,
+          "Super 99": 1.69
+        },
+        "ganador": "Riba Smith",
+        "ahorro": 0.24,
+        "enlace": "https://www.ribasmith.com/index.php/9221-tortillas-grandes-10-un.html"
+      },
+      {
+        "producto": "PAN SUNFLOWER SEEDS GIRASOL",
+        "categoria": "Congelados y Refrigerados",
+        "precios": {
+          "Riba Smith": 2.86,
+          "Super 99": 2.69
+        },
+        "ganador": "Super 99",
+        "ahorro": 0.17,
+        "enlace": "https://www.super99.com/10121496-pan-sunflower-seeds-girasol"
+      },
+      {
+        "producto": "Arepas Con Queso La Antioqueñita",
+        "categoria": "Congelados y Refrigerados",
+        "precios": {
+          "Riba Smith": 3.12,
+          "Super 99": 2.99
+        },
+        "ganador": "Super 99",
+        "ahorro": 0.13,
+        "enlace": "https://www.super99.com/10076587-arepas-con-queso-la-antioquenita"
+      }
+    ],
+    "estadisticas_por_tienda": [
+      {
+        "supermercado": "Riba Smith",
+        "productos": 2046,
+        "con_oferta": 124,
+        "promedio_descuento": 27.2
+      },
+      {
+        "supermercado": "Super 99",
+        "productos": 15060,
+        "con_oferta": 823,
+        "promedio_descuento": 18.0
+      },
+      {
+        "supermercado": "El Rey",
+        "productos": 0,
+        "con_oferta": 0,
+        "promedio_descuento": 0.0
+      },
+      {
+        "supermercado": "El Machetazo",
+        "productos": 0,
+        "con_oferta": 0,
+        "promedio_descuento": 0.0
+      },
+      {
+        "supermercado": "Super Xtra",
+        "productos": 0,
+        "con_oferta": 0,
+        "promedio_descuento": 0.0
+      }
+    ]
+  },
+  "canasta_basica": {
+    "item_por_tienda": {
+      "Riba Smith": [
+        {
+          "item": "Arroz",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Aceite vegetal",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Azúcar",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Huevos",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Leche",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Pan",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Café",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Frijoles",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Harina",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Sal",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Atún",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Pollo",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Carne de res",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Queso",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Pasta",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Tomate",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Cebolla",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Plátanos",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Jabón",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Detergente",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        }
+      ],
+      "Super 99": [
+        {
+          "item": "Arroz",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Aceite vegetal",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Azúcar",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Huevos",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Leche",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Pan",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Café",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Frijoles",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Harina",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Sal",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Atún",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Pollo",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Carne de res",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Queso",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Pasta",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Tomate",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Cebolla",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Plátanos",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Jabón",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Detergente",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        }
+      ],
+      "El Rey": [
+        {
+          "item": "Arroz",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Aceite vegetal",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Azúcar",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Huevos",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Leche",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Pan",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Café",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Frijoles",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Harina",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Sal",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Atún",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Pollo",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Carne de res",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Queso",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Pasta",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Tomate",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Cebolla",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Plátanos",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Jabón",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Detergente",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        }
+      ],
+      "El Machetazo": [
+        {
+          "item": "Arroz",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Aceite vegetal",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Azúcar",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Huevos",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Leche",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Pan",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Café",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Frijoles",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Harina",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Sal",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Atún",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Pollo",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Carne de res",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Queso",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Pasta",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Tomate",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Cebolla",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Plátanos",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Jabón",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Detergente",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        }
+      ],
+      "Super Xtra": [
+        {
+          "item": "Arroz",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Aceite vegetal",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Azúcar",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Huevos",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Leche",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Pan",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Café",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Frijoles",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Harina",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Sal",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Atún",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Pollo",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Carne de res",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Queso",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Pasta",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Tomate",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Cebolla",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Plátanos",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Jabón",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        },
+        {
+          "item": "Detergente",
+          "encontrado": false,
+          "producto": null,
+          "precio": null,
+          "enlace": null
+        }
+      ]
+    },
+    "totales_por_tienda": [
+      {
+        "supermercado": "Riba Smith",
+        "items_encontrados": 0,
+        "items_totales": 20,
+        "total": 0
+      },
+      {
+        "supermercado": "Super 99",
+        "items_encontrados": 0,
+        "items_totales": 20,
+        "total": 0
+      },
+      {
+        "supermercado": "El Rey",
+        "items_encontrados": 0,
+        "items_totales": 20,
+        "total": 0
+      },
+      {
+        "supermercado": "El Machetazo",
+        "items_encontrados": 0,
+        "items_totales": 20,
+        "total": 0
+      },
+      {
+        "supermercado": "Super Xtra",
+        "items_encontrados": 0,
+        "items_totales": 20,
+        "total": 0
+      }
+    ],
+    "ranking": []
+  }
+}

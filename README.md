@@ -10,6 +10,7 @@ Pipeline 100% **gratis** (sin APIs pagas) para encontrar las **mejores promocion
 |------------|-------------|
 | `scraper_super.py` | 5 CSV en `data/` con **todos los productos** (nombre, precio_oferta, precio_regular, enlace, categoría) |
 | `ai_engine.py` | Un solo JSON `web/data.json` destilado: **mejor supermercado**, **top 50 promociones**, **comparativas multi-tienda**, estadísticas |
+| `ia_smart.py` | `web/data_smart.json`: **canasta básica** por tienda, análisis de **imágenes** (volantes) y chat con LLM (opcional, gratis) |
 | `web/` | Dashboard estático (HTML/CSS/JS) que lee `data.json` → funciona en GitHub Pages sin backend |
 
 ---
@@ -161,3 +162,34 @@ MIT — úsalo, modifícalo, compártelo. Si mejora tus compras, ¡cuéntame!
 ---
 
 > **Nota**: Los precios y disponibilidad cambian; el dashboard refleja el último scrape (2×/día). Verifica en el enlace antes de comprar.
+
+---
+
+## 🛒 IA Smart (`ia_smart.py`) — canasta, imagen y chat
+
+Genera `web/data_smart.json` combinando **todo** el `data.json` con funcionalidades extra. Sin API key, la canasta básica funciona igual (100% gratis):
+
+```bash
+# 1. Canasta básica por supermercado + resumen de todo (sin API, gratis)
+python ia_smart.py
+
+# 2. Analizar un volante/imagen y comparar precios con las tiendas (requiere API_KEY)
+set API_KEY=tu_clave      # PowerShell: $env:API_KEY="tu_clave"
+python ia_smart.py --imagen volante.jpg
+
+# 3. Preguntar en lenguaje natural; devuelve JSON (requiere API_KEY)
+python ia_smart.py --chat "¿Dónde está más barato el arroz?"
+```
+
+**Qué incluye el JSON:**
+
+| Sección | Descripción |
+|---------|-------------|
+| `informacion_todo` | Copia del `data.json`: totales, mejor supermercado, top promociones, comparativas, estadísticas |
+| `canasta_basica` | 20 productos básicos (arroz, leche, huevos…) buscados en cada tienda → total por tienda, **ranking**, tienda más barata y **cuánto ahorras** |
+| `analisis_imagen` | Productos y precios extraídos de la imagen (modelo de visión) + comparación con el precio en cada supermercado |
+| `chat` | Respuesta del LLM en JSON a tu pregunta, con el contexto de todos los datos |
+
+**Modelos (gratuitos, sin costo):** visión `meta/llama-3.2-90b-vision-instruct`, chat `nvidia/nemotron-3-ultra-550b-a55b`. La clave gratuita se obtiene en [build.nvidia.com](https://build.nvidia.com). Requiere `pip install openai`.
+
+**La canasta básica** usa matching por palabras clave con límite de palabra: prioriza el producto genérico (rechaza compuestos como "empanadas de pollo" o "atún en aceite vegetal") y, entre empates, el más barato. Si una tienda tiene pocos productos en sus CSVs, verás `items_encontrados < items_totales`.

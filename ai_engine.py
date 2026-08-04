@@ -49,14 +49,6 @@ def parse_args():
     parser.add_argument("--verbose", "-v", action="store_true", help="Logging DEBUG")
     return parser.parse_args()
 
-args = parse_args()
-if args.verbose:
-    log.setLevel(logging.DEBUG)
-
-# Override globals from CLI
-DATA_DIR = args.data_dir
-OUT_JSON = args.out_json
-
 # Palabras repetidas que no distinguen productos entre tiendas.
 _STOP = {"de", "la", "el", "del", "los", "las", "y", "con", "para", "en", "por", "x",
          "und", "un", "unid", "uds", "unidad", "unidades", "pack", "paq", "oferta", "promo"}
@@ -261,6 +253,13 @@ def _distilar(productos):
 
 
 def main():
+    global DATA_DIR, OUT_JSON
+    args = parse_args()
+    if args.verbose:
+        log.setLevel(logging.DEBUG)
+    DATA_DIR = args.data_dir
+    OUT_JSON = args.out_json
+
     log.info("Cargando datos crudos desde %s", DATA_DIR)
     productos = _cargar()
     log.info("%d productos cargados", len(productos))
