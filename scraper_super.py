@@ -3,19 +3,15 @@
 Scraper de supermercados de Panamá por categorías.
 Genera un archivo CSV por supermercado con TODOS los productos de cada categoría
 (nombre, precios normalizados, enlace), recorriendo la paginación.
-VERSIÓN MEJORADA PARA GITHUB ACTIONS CON TIMEOUTS
+Optimizado para GitHub Actions (tiempos de espera reducidos, headless).
 """
 import os
 import time
 import re
 import csv
 import sys
-import signal
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import TimeoutException, WebDriverException
-from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 import requests
 
@@ -27,10 +23,9 @@ except Exception:
 # ================= CONFIGURACIÓN =================
 MAX_PAGES = None          # páginas máximas por categoría (None = todas)
 MAX_CATEGORIES = None     # categorías máximas por supermercado (None = todas)
+# Para pruebas rápidas, descomenta la línea de abajo:
+# MAX_CATEGORIES = 3
 DATA_DIR = "data"         # carpeta donde se guardan las CSV
-TIMEOUT_PER_SUPER = 120   # tiempo máximo en segundos por supermercado
-PAGE_LOAD_WAIT = 5        # tiempo de espera para carga de página
-SCROLL_WAIT = 0.8         # tiempo entre scrolls
 
 RIBA_URL = "https://www.ribasmith.com/index.php"
 RIBA_CATEGORIES = [
@@ -138,19 +133,19 @@ def _chrome_options():
     options.add_argument('--disable-blink-features=AutomationControlled')
     options.add_argument('--disable-gpu')
     options.add_argument('--window-size=1280,2200')
-    options.add_argument('--disable-extensions')
-    options.add_argument('--disable-setuid-sandbox')
-    options.add_argument('--remote-debugging-port=9222')
+    options.add_argument('--page-load-strategy=eager')  # Carga más rápida
     options.add_experimental_option('excludeSwitches', ['enable-automation'])
-    options.add_experimental_option('useAutomationExtension', False)
     return options
 
 def _new_driver():
+    # Intenta usar ChromeDriver del sistema (más rápido)
     try:
+        return webdriver.Chrome(options=_chrome_options())
+    except Exception:
+        # Si falla, usa webdriver_manager
+        from selenium.webdriver.chrome.service import Service
+        from webdriver_manager.chrome import ChromeDriverManager
         return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=_chrome_options())
-    except Exception as e:
-        print(f"  Error al crear driver: {e}")
-        return None
 
 def _clean_nombre(nombre):
     if not nombre:
@@ -217,13 +212,10 @@ def _dedupe(items):
             out.append(it)
     return out
 
-def _scroll(driver, veces=3, espera=0.8):
+def _scroll(driver, veces=2, espera=0.8):
     for _ in range(veces):
-        try:
-            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(espera)
-        except Exception:
-            break
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        time.sleep(espera)
 
 # ================= RIBA SMITH (estático) =================
 
@@ -235,7 +227,7 @@ def _riba_parse(soup):
         if not nombre:
             continue
         enlace = name_el.get('href') if name_el else ""
-        if enlace and enlace.startswith('/'):
+        if enlace.startswith('/'):
             enlace = RIBA_URL + enlace
         final_el = prod.select_one('.price-wrapper[data-price-type=finalPrice] .price')
         old_el = prod.select_one('.old-price .price')
@@ -250,7 +242,7 @@ def _riba_parse(soup):
             "nombre": nombre,
             "precio_oferta": _precio_obj(oferta),
             "precio_regular": _precio_obj(regular) or _precio_obj(oferta),
-            "enlace": enlace or "",
+            "enlace": enlace,
         })
     return out
 
@@ -258,22 +250,21 @@ def _riba_pages(url):
     urls = [url]
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-        r = requests.get(url, headers=headers, timeout=15)
+        r = requests.get(url, headers=headers, timeout=20)
         r.raise_for_status()
         soup = BeautifulSoup(r.text, 'html.parser')
         pg = soup.select_one('.pages')
         if pg:
             for a in pg.find_all('a', href=True):
                 h = a.get('href')
-                if h and re.search(r'\?p=\d+', h) and h.startswith('http'):
+                if re.search(r'\?p=\d+', h) and h.startswith('http'):
                     urls.append(h)
         seen = set(); out = []
         for u in urls:
             if u not in seen:
                 seen.add(u); out.append(u)
         return out[:MAX_PAGES] if MAX_PAGES else out
-    except Exception as e:
-        print(f"    error obteniendo páginas: {e}")
+    except Exception:
         return [url]
 
 def scrape_riba(url, nombre_cat):
@@ -282,13 +273,12 @@ def scrape_riba(url, nombre_cat):
     resultados = []
     for page_url in _riba_pages(url):
         try:
-            r = requests.get(page_url, headers=headers, timeout=15)
+            r = requests.get(page_url, headers=headers, timeout=20)
             r.raise_for_status()
             soup = BeautifulSoup(r.text, 'html.parser')
             resultados.extend(_riba_parse(soup))
         except Exception as e:
-            print(f"    error página {page_url}: {e}")
-            break
+            print(f"    error página: {e}")
     return _dedupe(resultados)
 
 # ================= VTEX (Machetazo, Super Xtra) =================
@@ -315,7 +305,7 @@ def _vtex_scrape(base_url, cat_url, nombre_cat):
         while True:
             if MAX_PAGES is not None and (from_ // 50) >= MAX_PAGES:
                 break
-            r = requests.get(api, headers=headers, params={"_from": from_, "_to": from_ + 49}, timeout=20)
+            r = requests.get(api, headers=headers, params={"_from": from_, "_to": from_ + 49}, timeout=30)
             if r.status_code not in (200, 206):
                 print(f"    API status {r.status_code} (categoria no disponible)")
                 break
@@ -354,10 +344,10 @@ def _vtex_scrape(base_url, cat_url, nombre_cat):
                 break
         return _dedupe(resultados)
     except Exception as e:
-        print(f"  error en VTEX: {e}")
+        print(f"  error: {e}")
         return []
 
-# ================= SUPER 99 (Selenium) =================
+# ================= SUPER 99 (Selenium) - OPTIMIZADO =================
 
 def _s99_parse(soup):
     out = []
@@ -391,7 +381,6 @@ def _s99_parse(soup):
     return out
 
 def _s99_click_page(driver, numero):
-    """Hace clic en el <li> de paginación cuyo texto es el número dado."""
     try:
         for li in driver.find_elements(By.CSS_SELECTOR, ".ds-plp-pagination__item"):
             if (li.get_attribute('textContent') or '').strip() == str(numero):
@@ -405,14 +394,11 @@ def _s99_click_page(driver, numero):
 def scrape_super99(url, nombre_cat):
     print(f"  [Super99] {url}")
     driver = _new_driver()
-    if driver is None:
-        return []
     resultados = []
     try:
-        driver.set_page_load_timeout(30)
         driver.get(url)
-        time.sleep(PAGE_LOAD_WAIT)
-        _scroll(driver, veces=3)
+        time.sleep(3)  # REDUCIDO de 6 a 3
+        _scroll(driver)  # REDUCIDO a 2 scrolls
         resultados.extend(_s99_parse(BeautifulSoup(driver.page_source, 'html.parser')))
         pagina = 1
         while (not MAX_PAGES or pagina < MAX_PAGES) and _s99_click_page(driver, pagina + 1):
@@ -420,19 +406,10 @@ def scrape_super99(url, nombre_cat):
             if not MAX_PAGES or pagina <= MAX_PAGES:
                 resultados.extend(_s99_parse(BeautifulSoup(driver.page_source, 'html.parser')))
         return _dedupe(resultados)
-    except TimeoutException:
-        print(f"  [Super99] Timeout cargando {url}")
-        return resultados
-    except Exception as e:
-        print(f"  [Super99] Error: {e}")
-        return resultados
     finally:
-        try:
-            driver.quit()
-        except:
-            pass
+        driver.quit()
 
-# ================= EL REY (Selenium) =================
+# ================= EL REY (Selenium) - OPTIMIZADO =================
 
 def _elrey_parse(soup):
     out = []
@@ -496,14 +473,11 @@ def _elrey_next(driver):
 def scrape_elrey(url, nombre_cat):
     print(f"  [ElRey] {url}")
     driver = _new_driver()
-    if driver is None:
-        return []
     resultados = []
     try:
-        driver.set_page_load_timeout(30)
         driver.get(url)
-        time.sleep(PAGE_LOAD_WAIT)
-        _scroll(driver, veces=4)
+        time.sleep(4)  # REDUCIDO de 7 a 4
+        _scroll(driver, veces=3, espera=0.8)  # REDUCIDO de 5 a 3 scrolls
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         resultados.extend(_elrey_parse(soup))
         pagina = 1
@@ -511,17 +485,8 @@ def scrape_elrey(url, nombre_cat):
             pagina += 1
             resultados.extend(_elrey_parse(BeautifulSoup(driver.page_source, 'html.parser')))
         return _dedupe(resultados)
-    except TimeoutException:
-        print(f"  [ElRey] Timeout cargando {url}")
-        return resultados
-    except Exception as e:
-        print(f"  [ElRey] Error: {e}")
-        return resultados
     finally:
-        try:
-            driver.quit()
-        except:
-            pass
+        driver.quit()
 
 # ================= SALIDA CSV =================
 
@@ -543,31 +508,6 @@ def _dump_csv(filename, nombre_cat, rows):
                 r["enlace"],
             ])
 
-def scrape_with_timeout(super_name, scraper_func, url, cat):
-    """Ejecuta un scraper con timeout usando signal."""
-    import signal
-    import functools
-    
-    class TimeoutError(Exception):
-        pass
-    
-    def timeout_handler(signum, frame):
-        raise TimeoutError(f"Timeout en {super_name} - {cat}")
-    
-    # Configurar el timeout
-    old_handler = signal.signal(signal.SIGALRM, timeout_handler)
-    signal.alarm(TIMEOUT_PER_SUPER)
-    
-    try:
-        result = scraper_func(url, cat)
-        signal.alarm(0)  # Cancelar timeout
-        return result
-    except TimeoutError as e:
-        print(f"  ⚠️ {e}")
-        return []
-    finally:
-        signal.signal(signal.SIGALRM, old_handler)
-
 def main():
     runs = [
         ("Riba Smith", "riba_smith.csv", RIBA_CATEGORIES, scrape_riba),
@@ -576,38 +516,18 @@ def main():
         ("El Machetazo", "machetazo.csv", MACHETAZO_CATEGORIES, scrape_machetazo),
         ("Super Xtra", "superxtra.csv", SUPERXTRA_CATEGORIES, scrape_superxtra),
     ]
-    
-    total_global = 0
-    
     for super_, outname, cats, scraper in runs:
-        print(f"\n{'='*55}")
-        print(f"{super_}")
-        print(f"{'='*55}")
-        
+        print(f"\n{'='*55}\n{super_}\n{'='*55}")
         _init_csv(outname)
         cats = cats[:MAX_CATEGORIES] if MAX_CATEGORIES else cats
         total = 0
-        
         for cat, url in cats:
-            print(f"\n  Categoría: {cat}")
-            print(f"  URL: {url}")
-            
-            try:
-                # Ejecutar con timeout
-                data = scrape_with_timeout(super_, scraper, url, cat)
-                _dump_csv(outname, cat, data)
-                print(f"  ✅ {cat}: {len(data)} productos")
-                total += len(data)
-                total_global += len(data)
-            except Exception as e:
-                print(f"  ❌ Error en {cat}: {e}")
-                # Continuar con la siguiente categoría
-        
-        print(f"\n  📊 {super_}: {total} productos totales -> {outname}")
-    
-    print(f"\n{'='*55}")
-    print(f"✅ SCRAPING COMPLETADO: {total_global} productos totales")
-    print(f"{'='*55}")
+            data = scraper(url, cat)
+            _dump_csv(outname, cat, data)
+            print(f"  {cat}: {len(data)} productos (acumulado {total})")
+            total += len(data)
+        print(f"-> {super_}: {total} productos -> {outname}")
+    print("\n[OK] Terminado.")
 
 if __name__ == "__main__":
     main()
