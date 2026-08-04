@@ -58,7 +58,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: web
-          # Nota: data.json NO se sube aquí; se genera en workflow separado "IA manual"
+          # Nota: data.json y data_smart.json NO se suben aquí; se generan en workflow separado "IA manual"
 
   deploy:
     needs: scrape
