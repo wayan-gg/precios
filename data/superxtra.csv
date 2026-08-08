@@ -2,6 +2,7 @@
 Supermercado,Tomate Perita Por Media Libra,249.00 USD (x1),249.00 USD (x1),https://www.superxtra.com/tomate-perita-por-libra/p
 Supermercado,Pollo Panamá Por Media Libra,186.00 USD (x1),186.00 USD (x1),https://www.superxtra.com/pollo-panama-por-libra/p
 Supermercado,Papas Nacional Por Media Libra,129.00 USD (x1),129.00 USD (x1),https://www.superxtra.com/papas-nacional-por-libra/p
+Supermercado,Cebolla Amarilla Nacional Por Media Libra,144.00 USD (x1),144.00 USD (x1),https://www.superxtra.com/cebolla-amarilla-nacional-por-libra/p
 Supermercado,Caldo Rika 50 gr De Pollo,48.00 USD (x1),48.00 USD (x1),https://www.superxtra.com/caldo-rika-50-gr-de-pollo/p
 Supermercado,Leche Pura Uht Suelta La Chiricana 946 Ml Entera,171.00 USD (x1),171.00 USD (x1),https://www.superxtra.com/leche-pura-uht-suelta-la-chiricana-946-ml-entera/p
 Supermercado,Leche evaporada ideal 314 G,98.00 USD (x1),98.00 USD (x1),https://www.superxtra.com/leche-evaporada-ideal-314-g/p
@@ -17,7 +18,6 @@ Supermercado,Puerco Liso Por Media Libra,473.00 USD (x1),473.00 USD (x1),https:/
 Supermercado,Pechuga de Pollo Por Media Libra,218.00 USD (x1),218.00 USD (x1),https://www.superxtra.com/pechuga-de-pollo-por-libra/p
 Supermercado,Chuleta Fresca Por Media Libra,483.00 USD (x1),483.00 USD (x1),https://www.superxtra.com/chuleta-fresca-por-libra/p
 Supermercado,Chuleta Especial Por Media Libra,567.00 USD (x1),567.00 USD (x1),https://www.superxtra.com/chuleta-especial-por-libra/p
-Supermercado,Cebolla Amarilla Nacional Por Media Libra,144.00 USD (x1),144.00 USD (x1),https://www.superxtra.com/cebolla-amarilla-nacional-por-libra/p
 Supermercado,Bistec Picado Por Libra,803.00 USD (x1),803.00 USD (x1),https://www.superxtra.com/bistec-picado-por-libra/p
 Supermercado,Bisctec de Cinta Por Libra,613.00 USD (x1),613.00 USD (x1),https://www.superxtra.com/bisctec-de-cinta-por-libra/p
 Supermercado,Babilla Por Libra,867.00 USD (x1),867.00 USD (x1),https://www.superxtra.com/babilla-por-libra/p
@@ -153,6 +153,7 @@ Supermercado,Yogurt Bongurt Variado Bonlac Sabores Variados 200 Ml,448.00 USD (x
 Supermercado,Yogurt Bonlac Fresa 120 G,74.00 USD (x1),74.00 USD (x1),https://www.superxtra.com/yogurt-bonlac-fresa-120-g/p
 Supermercado,Té De Canela Rika 25 Un 37.5G,109.00 USD (x1),109.00 USD (x1),https://www.superxtra.com/te-de-canela-rika-25-un-375g/p
 Supermercado,Té Cajeta Durán Canela 24 Un,112.00 USD (x1),112.00 USD (x1),https://www.superxtra.com/te-cajeta-duran-24-un-canela/p
+Supermercado,Soda Big Cola Pet 3030 Ml,177.00 USD (x1),177.00 USD (x1),https://www.superxtra.com/soda-pet-big-cola-3030-ml-cola/p
 Supermercado,Soda Lata Squirt 355 Ml Toronja,59.00 USD (x1),63.00 USD (x1),https://www.superxtra.com/soda-lata-squirt-355-ml-toronja/p
 Supermercado,Soda Coca Cola Regular Lata 355 Ml,85.00 USD (x1),85.00 USD (x1),https://www.superxtra.com/soda-lata-coca-cola-355-ml-regular/p
 Supermercado,Pasta De Tomate La Doña 227 gr Tradicional,109.00 USD (x1),109.00 USD (x1),https://www.superxtra.com/pasta-de-tomate-la-dona-227-gr-tradicional/p
@@ -326,11 +327,11 @@ Supermercado,Yogurt Batido Bonlac 130 Ml Tuti Fruti,78.00 USD (x1),78.00 USD (x1
 Supermercado,Yogurt Bonlac Guanabana 120 G,77.00 USD (x1),77.00 USD (x1),https://www.superxtra.com/yogurt-bonlac-guanabana-120-g/p
 Supermercado,Té Cajeta Durán Surtido 20 Un,115.00 USD (x1),115.00 USD (x1),https://www.superxtra.com/te-cajeta-duran-20-un-surtido/p
 Supermercado,Soda Coca Cola + Ginger Ale 2500 Ml 2 Pack,418.00 USD (x1),418.00 USD (x1),https://www.superxtra.com/soda-pet-coca-cola-2500-ml-cola-mas-ginger-ale-2-pack/p
-Supermercado,Soda Big Cola Pet 3030 Ml,138.00 USD (x1),177.00 USD (x1),https://www.superxtra.com/soda-pet-big-cola-3030-ml-cola/p
 Supermercado,Soda Pepsi Lata 355 Ml,59.00 USD (x1),63.00 USD (x1),https://www.superxtra.com/soda-lata-pepsi-355-ml-cola/p
 Supermercado,Soda Lata Crush Orange 355 Ml,59.00 USD (x1),63.00 USD (x1),https://www.superxtra.com/soda-lata-crush-355-ml-orange/p
 Supermercado,2 Pack 2500 Ml Soda Coca Cola + Fresca,443.00 USD (x1),443.00 USD (x1),https://www.superxtra.com/2-pack--2500-ml--soda--coca-cola---fresca/p
 Supermercado,Ketchup La Doña 250 gr Doypack,99.00 USD (x1),99.00 USD (x1),https://www.superxtra.com/ketchup-la-dona-250-gr-salsa-de-tomate/p
+Supermercado,Queso Mozarella Light Superior Por Media Libra,1565.00 USD (x1),1565.00 USD (x1),https://www.superxtra.com/queso-mozarella-light-superior-por-libra/p
 Supermercado,Queso Crema Bonlac 200 gr,289.00 USD (x1),289.00 USD (x1),https://www.superxtra.com/queso-crema-bonlac-200-gr/p
 Supermercado,Queso Blanco Prensado Superior 283 gr En Paquete Resellable,397.00 USD (x1),397.00 USD (x1),https://www.superxtra.com/queso-blanco-prensado-superior-283-gr-en-paquete-resellable/p
 Supermercado,Queso Americano Cremoso Amarillo 24 UN/426 G,587.00 USD (x1),587.00 USD (x1),https://www.superxtra.com/queso-amarillo-cremoso-426gr-24-reb/p
@@ -483,6 +484,7 @@ Supermercado,Jamon Cocido Rimith 4Oz,138.00 USD (x1),138.00 USD (x1),https://www
 Supermercado,Arroz Especial Blanquito 2Kg,330.00 USD (x1),330.00 USD (x1),https://www.superxtra.com/arroz-especial-blanquito-2kg-7451072101783/p
 Supermercado,Nuggets del Dia 340 gr,313.00 USD (x1),313.00 USD (x1),https://www.superxtra.com/nuggets-del-dia-340-gr-7451080800555/p
 Supermercado,Tortilla grande 10 Und,89.00 USD (x1),89.00 USD (x1),https://www.superxtra.com/tortilla-grande-10-und-7451105940013/p
+Supermercado,Leche Estrella Azul 946ml Deslact Descre,178.00 USD (x1),178.00 USD (x1),https://www.superxtra.com/leche-estrella-azul-946ml-deslact-descre-88209972267/p
 Supermercado,Pancake Comp La Parmigiana 454G Ziploc,182.00 USD (x1),216.00 USD (x1),https://www.superxtra.com/pancake-comp-la-parmigiana-454g-ziploc-7451022511662/p
 Supermercado,Pancake Completo La Dona 453G,194.00 USD (x1),194.00 USD (x1),https://www.superxtra.com/pancake-completo-la-dona-453g-7451001222435/p
 Supermercado,Galletas Maria Like 360 gr docena,126.00 USD (x1),126.00 USD (x1),https://www.superxtra.com/galletas-maria-like-360-gr-docena/p
@@ -618,6 +620,7 @@ Supermercado,Maíz Super Xtra 226 gr Dulces,75.00 USD (x1),75.00 USD (x1),https:
 Supermercado,Maíz Rubi 425 gr En grano,110.00 USD (x1),110.00 USD (x1),https://www.superxtra.com/maiz-rubi-425-gr-en-grano/p
 Supermercado,Hongo Nhs 425 gr En Rebanadas,169.00 USD (x1),169.00 USD (x1),https://www.superxtra.com/hongo-nhs-425-gr-en-rebanadas/p
 Supermercado,Jamonilla Tulip 200 gr De Cerdo,205.00 USD (x1),205.00 USD (x1),https://www.superxtra.com/jamonilla-tulip-200-gr-de-cerdo/p
+Supermercado,Aceitunas Sasson Rellenas 100 gr,101.00 USD (x1),101.00 USD (x1),https://www.superxtra.com/aceitunas-sasson-100-gr-rellenas/p
 Supermercado,Atún Monarch 142 gr En Agua 3Pack,493.00 USD (x1),493.00 USD (x1),https://www.superxtra.com/atun-monarch-142-gr-en-agua-3pack/p
 Supermercado,Pork And Beans Van Camps 425 gr Habré Fácil,155.00 USD (x1),155.00 USD (x1),https://www.superxtra.com/pork-and-beans-van-camps-425-gr-habre-facil/p
 Supermercado,Sardina Picante La Sirena 156 gr Salsa De Tomate,77.00 USD (x1),77.00 USD (x1),https://www.superxtra.com/sardina-picante-la-sirena-156-gr-salsa-de-tomate/p
@@ -642,7 +645,6 @@ Supermercado,Soda Coca Cola Tamaño Regular 3000 Ml,348.00 USD (x1),348.00 USD (
 Supermercado,Raspadura El Gran Gusto Colombiano 454 Gr Panela,175.00 USD (x1),175.00 USD (x1),https://www.superxtra.com/raspadura-el-gran-gusto-colombiano-454-gr-panela/p
 Supermercado,Mayonesa La Doña 3628 gr Original,1185.00 USD (x1),1185.00 USD (x1),https://www.superxtra.com/mayonesa-la-dona-3628-gr-original/p
 Supermercado,Queso Mozzarella Nestlé Por Media Libra,1589.00 USD (x1),1589.00 USD (x1),https://www.superxtra.com/queso-mozzarella-nestle-por-libra/p
-Supermercado,Queso Mozarella Light Superior Por Media Libra,1565.00 USD (x1),1565.00 USD (x1),https://www.superxtra.com/queso-mozarella-light-superior-por-libra/p
 Supermercado,Salsa De Tomate La Doña 114 gr Italiana,65.00 USD (x1),65.00 USD (x1),https://www.superxtra.com/salsa-de-tomate-la-dona-114-gr-italiana/p
 Supermercado,Queso Procesado Tipo Americano por Media Libra,1367.00 USD (x1),1367.00 USD (x1),https://www.superxtra.com/queso-procesado-amarillo-superior-140-reb-/p
 Supermercado,Queso Americano Cremoso Amarillo 8 UN/142 G,203.00 USD (x1),203.00 USD (x1),https://www.superxtra.com/queso-amarillo-cremoso-142-gr-8-rebanadas/p
@@ -693,6 +695,7 @@ Supermercado,Frijoles Monterrico 454 gr Chiricano Rojo,110.00 USD (x1),110.00 US
 Supermercado,Frijoles Don Henry 454 gr Desayuno,104.00 USD (x1),104.00 USD (x1),https://www.superxtra.com/frijoles-don-henry-454-gr-desayuno/p
 Supermercado,Frijoles Camelia 454 gr Chiricano,145.00 USD (x1),145.00 USD (x1),https://www.superxtra.com/frijoles-camelia-454-gr-chiricano/p
 Supermercado,Fresquito Bonlac Duo Pack 1892 Ml,164.00 USD (x1),164.00 USD (x1),https://www.superxtra.com/fresquito-bonlac-1892-ml-duo-pack/p
+Supermercado,Filete Especias Mixta Melo 454 gr De Pollo,588.00 USD (x1),588.00 USD (x1),https://www.superxtra.com/filete-especias-mixta-melo-454-gr-de-pollo/p
 Supermercado,Cremora Borden Original 16 Oz,431.00 USD (x1),431.00 USD (x1),https://www.superxtra.com/cremora-borden-16-oz-original/p
 Supermercado,Cafe Palo Alto Bolsa 212 gr,409.00 USD (x1),409.00 USD (x1),https://www.superxtra.com/cafe-palo-alto-212-gr-bolsa/p
 Supermercado,Café Amistad 212 gr,385.00 USD (x1),385.00 USD (x1),https://www.superxtra.com/cafe-amistad-212-gr/p
@@ -922,7 +925,6 @@ Supermercado,Red Bull Sugarfree 24/250ml,210.00 USD (x1),228.00 USD (x1),https:/
 Supermercado,Salchichas Toledano de Pollo Jumbo 454 G,187.00 USD (x1),187.00 USD (x1),https://www.superxtra.com/salchicha-jumbo-bolsa-1-1-lb-pt833-7452000201247/p
 Supermercado,Yogurt Natural 125 gr/Oz,75.00 USD (x1),79.00 USD (x1),https://www.superxtra.com/yogurt-natural-125-gr-oz-88209751336/p
 Supermercado,Leche Entera 237 ml,52.00 USD (x1),52.00 USD (x1),https://www.superxtra.com/leche-entera-237-ml-12157111393/p
-Supermercado,Leche Estrella Azul 946ml Deslact Descre,178.00 USD (x1),178.00 USD (x1),https://www.superxtra.com/leche-estrella-azul-946ml-deslact-descre-88209972267/p
 Supermercado,Azucar Levapan 252 Sob Turbin Para Cafe,369.00 USD (x1),369.00 USD (x1),https://www.superxtra.com/azucar-levapan-252-sob-turbin-para-cafe-7451004111255/p
 Supermercado,Cafe Instantaneo Colcafe Granulado,385.00 USD (x1),385.00 USD (x1),https://www.superxtra.com/cafe-instantaneo-colcafe-granulado-7702032104369/p
 Supermercado,Jamón de Pavo 4x4 San Angel Por Media Libra,897.00 USD (x1),897.00 USD (x1),https://www.superxtra.com/jamon-de-pavo-4x4-san-angel-por-libra/p
@@ -997,8 +999,6 @@ Supermercado,Huevo Empacados Caribeños 12 Und Docena Pequeños,192.00 USD (x1),
 Supermercado,Maicena Levapan 50 gr De Naranja,35.00 USD (x1),35.00 USD (x1),https://www.superxtra.com/maicena-levapan-50-gr-de-naranja/p
 Supermercado,Maicena Levapan 50 gr De Canela,35.00 USD (x1),35.00 USD (x1),https://www.superxtra.com/maicena-levapan-50-gr-de-canela/p
 Supermercado,Maicena Gold Mills 50 gr De Vainilla,28.00 USD (x1),28.00 USD (x1),https://www.superxtra.com/maicena-gold-mills-50-gr-de-vainilla/p
-Supermercado,Maicena Gold Mills 50 gr De Fresa,28.00 USD (x1),28.00 USD (x1),https://www.superxtra.com/maicena-gold-mills-50-gr-de-fresa/p
-Supermercado,Crema De Avena Quaker 350 gr,145.00 USD (x1),145.00 USD (x1),https://www.superxtra.com/crema-quaker-350-gr-de-avena/p
 "Licor, Cerveza y Vino",Cerveza De Lata Balboa 12 Pack 355ML,1079.00 USD (x1),1079.00 USD (x1),https://www.superxtra.com/cerveza-de-lata-balboa-12-pack-355ml-89646131804/p
 "Licor, Cerveza y Vino",Whisky Buchanans Master x 750 Ml,6218.00 USD (x1),6218.00 USD (x1),https://www.superxtra.com/whisky-buchanans-master-x-750-ml-5000196003774/p
 "Licor, Cerveza y Vino",Cerveza Panamá Light 12 Pack Lata 355 ML,737.00 USD (x1),737.00 USD (x1),https://www.superxtra.com/cerveza-panama-light-12-pack-lata-355-ml/p
@@ -1954,7 +1954,7 @@ Cuidado Personal y Belleza,Cepillo Dental Zigzag Colgate Antibacterial 2 UN,245.
 Cuidado Personal y Belleza,Crema Dental Colgate Carbón Activado 100 ML,450.00 USD (x1),450.00 USD (x1),https://www.superxtra.com/crema-dental-colgate-carbon-activado-100-ml-10592583-7509546683812/p
 Cuidado Personal y Belleza,Toallitas Desmaquillantes Nivea Piel Seca 25 UN,725.00 USD (x1),725.00 USD (x1),https://www.superxtra.com/toallitas-desmaquillantes-nivea-piel-seca-25-un-10596894-4005900977274/p
 Cuidado Personal y Belleza,Toallitas Desmaquillantes Nivea Piel Normal 25 UN,725.00 USD (x1),725.00 USD (x1),https://www.superxtra.com/toallitas-desmaquillantes-nivea-piel-normal-25-un-10596893-4005900977267/p
-Cuidado Personal y Belleza,Jabón Líquido Nivea Diamond 500 ML,961.00 USD (x1),961.00 USD (x1),https://www.superxtra.com/jabon-liquido-nivea-diamond-500-ml-10431955-7501054526933/p
+Cuidado Personal y Belleza,Jabón Líquido Nivea Diamond & Argan Oil 500 ML,961.00 USD (x1),961.00 USD (x1),https://www.superxtra.com/jabon-liquido-nivea-diamond-500-ml-10431955-7501054526933/p
 Cuidado Personal y Belleza,Desodorante Roll On Nivea Tono Natural Clinical 50 ML,305.00 USD (x1),347.00 USD (x1),https://www.superxtra.com/roll-on-antitranspirante-nivea-tono-natural-clinical-50-ml-10596892-4005900951519/p
 Cuidado Personal y Belleza,Barra Antitranspirante Nivea Tono Natural Clinical 50 G,448.00 USD (x1),448.00 USD (x1),https://www.superxtra.com/barra-antitranspirante-nivea-tono-natural-clinical-50-g-10596891-4006000035635/p
 Cuidado Personal y Belleza,Crema Para Peinar Pantene Keratina Repara Y Protege 300 ML,839.00 USD (x1),839.00 USD (x1),https://www.superxtra.com/crema-para-peinar-pantene-keratina-repara-y-protege-300-ml-10596494-7500435241076/p
@@ -2015,13 +2015,13 @@ Cuidado Personal y Belleza,Diademas Elasticas Negras Scunci 58323-Au 4 PCS,277.0
 Cuidado Personal y Belleza,Spirales Ponytailer Scunci 21599-A 12 PCS,375.00 USD (x1),375.00 USD (x1),https://www.superxtra.com/spirales-ponytailer-scunci-21599-a-12-pcs-43194215997/p
 Cuidado Personal y Belleza,Tinte Para Cabello 2 Tubos Staybeautiful Rubio Dorado 50 ML,298.00 USD (x1),298.00 USD (x1),https://www.superxtra.com/tinte-para-cabello-2-tubos-staybeautiful-rubio-dorado-50-ml-7592701104703/p
 Cuidado Personal y Belleza,Tinte P/ Cabello Stay Beautiful Rubio Platino,167.00 USD (x1),167.00 USD (x1),https://www.superxtra.com/tinte-para-cabello-staybeautiful-rubio-platino-50-ml-6912033931012/p
-Cuidado Personal y Belleza,Micellair Agua Micelar De Rosas Nivea Frasco 100 ML,400.00 USD (x1),400.00 USD (x1),https://www.superxtra.com/micellair-agua-micelar-de-rosas-nivea-frasco-100-ml-4005900915795/p
-Cuidado Personal y Belleza,Nivea Men Deep Smooth Shave Nivea 200 ML,764.00 USD (x1),764.00 USD (x1),https://www.superxtra.com/nivea-men-deep-smooth-shave-nivea-200-ml-4005900496447/p
+Cuidado Personal y Belleza,Agua Micelar Nivea Agua de Rosas 100 ML,400.00 USD (x1),400.00 USD (x1),https://www.superxtra.com/micellair-agua-micelar-de-rosas-nivea-frasco-100-ml-4005900915795/p
+Cuidado Personal y Belleza,Espuma Nivea Men de Afeitar Carbón Activado 200 ML,764.00 USD (x1),764.00 USD (x1),https://www.superxtra.com/nivea-men-deep-smooth-shave-nivea-200-ml-4005900496447/p
 Cuidado Personal y Belleza,Celular Antiedad Expert Filler Crema Noche Nivea Pote 50 ML,1616.00 USD (x1),1616.00 USD (x1),https://www.superxtra.com/celular-antiedad-expert-filler-crema-noche-nivea-pote-50-ml-4005900966292/p
 Cuidado Personal y Belleza,Crema Facia Atiedad Reafirmante Nivea Pote 50 ML,2125.00 USD (x1),2125.00 USD (x1),https://www.superxtra.com/crema-facia-atiedad-reafirmante-nivea-pote-50-ml-4005801118844/p
 Cuidado Personal y Belleza,Antitranspirante Clinical Strength Ph Balanceado Secret Frasco 45 G,699.00 USD (x1),699.00 USD (x1),https://www.superxtra.com/antitranspirante-clinical-strength-ph-balanceado-secret-frasco-45-g-7500435144636/p
 Cuidado Personal y Belleza,Garnier Anti Acné Agua Micelar 400 ML,1032.00 USD (x1),1032.00 USD (x1),https://www.superxtra.com/agua-micelar-acido-salicilico-garnier-frasco-400-ml-7509552875416/p
-Cuidado Personal y Belleza,Face Foam Rosas Nivea Frasco 150 ML,961.00 USD (x1),961.00 USD (x1),https://www.superxtra.com/face-foam-rosas-nivea-frasco-150-ml-4005900915801/p
+Cuidado Personal y Belleza,Espuma Limpiadora Nivea Facial Agua de Rosas 150 ML,961.00 USD (x1),961.00 USD (x1),https://www.superxtra.com/face-foam-rosas-nivea-frasco-150-ml-4005900915801/p
 Cuidado Personal y Belleza,Toallas Micelar Desmaquillantes Nivea Pack 25 UN,900.00 USD (x1),900.00 USD (x1),https://www.superxtra.com/toallas-micelar-desmaquillantes-nivea-pack-25-un-4005900977281/p
 Cuidado Personal y Belleza,Esmalte Gel Nail Colour 13 Bingo Flamingo Essence Frasco 8 ML,279.00 USD (x1),279.00 USD (x1),https://www.superxtra.com/esmalte-gel-nail-colour-13-bingo-flamingo-essence-frasco-8-ml-4059729348845/p
 Cuidado Personal y Belleza,Lapiz De Cejas Kajal 29 Rain Forest Essence 1 UN,169.00 USD (x1),169.00 USD (x1),https://www.superxtra.com/lapiz-de-cejas-kajal-29-rain-forest-essence-1-un-4059729307576/p
@@ -2104,14 +2104,14 @@ Cuidado Personal y Belleza,Gel Hidratante Garnier Skin Vitamina C 50 ML,1052.00 
 Cuidado Personal y Belleza,Protector Solar Facial Nivea Anti Edad 50 ML,830.00 USD (x1),1188.00 USD (x1),https://www.superxtra.com/protector-solar-facial-nivea-anti-edad-50-ml-4005900935847/p
 Cuidado Personal y Belleza,Bloqueador Solar En Spray Nivea Protect And Refresh 200 ML,2332.00 USD (x1),2332.00 USD (x1),https://www.superxtra.com/bloqueador-solar-en-spray-nivea-protect-and-refresh-200-ml-4005900734129/p
 Cuidado Personal y Belleza,Bloqueador Solar Kids Swim And Play Nivea Resistente Al Agua 150 ML,1477.00 USD (x1),1477.00 USD (x1),https://www.superxtra.com/bloqueador-solar-kids-swim-and-play-nivea-resistente-al-agua-150-ml-4005808944385/p
-Cuidado Personal y Belleza,Gel de Ducha Nivea Waterlily And Oil 250 G,523.00 USD (x1),523.00 USD (x1),https://www.superxtra.com/gel-de-ducha-nivea-waterlily-and-oil-250-g-4005808313167/p
-Cuidado Personal y Belleza,Jabon Intimo Nivea Frescura Diaria 250 G,954.00 USD (x1),954.00 USD (x1),https://www.superxtra.com/jabon-intimo-nivea-frescura-diaria-250-g-4005900228802/p
+Cuidado Personal y Belleza,Gel de Ducha Nivea Waterlily And Oil 250 ML,523.00 USD (x1),523.00 USD (x1),https://www.superxtra.com/gel-de-ducha-nivea-waterlily-and-oil-250-g-4005808313167/p
+Cuidado Personal y Belleza,Jabón Íntimo Nivea Frescura Diaria 250 ML,954.00 USD (x1),954.00 USD (x1),https://www.superxtra.com/jabon-intimo-nivea-frescura-diaria-250-g-4005900228802/p
 Cuidado Personal y Belleza,Acondicionador Equilibrio Raiz Y Puntas 250 ML,455.00 USD (x1),909.00 USD (x1),https://www.superxtra.com/acondicionador-equilibrio-raiz-y-puntas-250-ml/p
 Cuidado Personal y Belleza,Tinte Para Cabello Igoravital Rubio Extra Claro Cenizo 50 ML,1199.00 USD (x1),1199.00 USD (x1),https://www.superxtra.com/tinte-para-cabello-igoravital-rubio-extra-claro-cenizo-50-ml-7702045990874/p
 Cuidado Personal y Belleza,Balsamo Labial Original Labello 24H De Humectacion 8 G,271.00 USD (x1),271.00 USD (x1),https://www.superxtra.com/balsamo-labial-original-labello-24h-de-humectacion-8-g-7501054504870/p
 Cuidado Personal y Belleza,Esmalte Fantastic Vogue Maximo Brillo,194.00 USD (x1),194.00 USD (x1),https://www.superxtra.com/esmalte-fantastic-vogue-maximo-brillo-7702433291958/p
 Cuidado Personal y Belleza,Hojas Para Afeitar Gillette Super Thin Mejorada 5 UN,57.00 USD (x1),57.00 USD (x1),https://www.superxtra.com/hojas-para-afeitar-gillette-super-thin-mejorada-5-un-7500435170932/p
-Cuidado Personal y Belleza,Jabon Liquido Nivea Active Clean Cuerpo Cara Y Cabello,989.00 USD (x1),989.00 USD (x1),https://www.superxtra.com/jabon-liquido-nivea-active-clean-cuerpo-cara-y-cabello-72140018023/p
+Cuidado Personal y Belleza,Jabón Líquido Nivea Men Carbón Activo 500 ML,989.00 USD (x1),989.00 USD (x1),https://www.superxtra.com/jabon-liquido-nivea-active-clean-cuerpo-cara-y-cabello-72140018023/p
 Cuidado Personal y Belleza,Desodorante Roll On Anti Transpirante Adidas Power Booster,321.00 USD (x1),321.00 USD (x1),https://www.superxtra.com/desodorante-roll-on-anti-transpirante-adidas-power-booster-3616303842147/p
 Cuidado Personal y Belleza,Desodorante Oldspice Clear Gel Sudor Defense 80 G,478.00 USD (x1),597.00 USD (x1),https://www.superxtra.com/desodorante-oldspice-clear-gel-sudor-defense-80-g-7500435202848/p
 Cuidado Personal y Belleza,Shampoo Con Ultra Cera Ebullient Wash And Wax 32 OZ,298.00 USD (x1),298.00 USD (x1),https://www.superxtra.com/shampoo-con-ultra-cera-ebullient-wash-and-wax-32-oz-7401174501691/p
@@ -2124,7 +2124,7 @@ Cuidado Personal y Belleza,Perfilador De Cejas Cala 2 Piezas,249.00 USD (x1),249
 Cuidado Personal y Belleza,Tratamiento De Reconstruccion Intensivo Aquavera De Romero 500 G,399.00 USD (x1),399.00 USD (x1),https://www.superxtra.com/tratamiento-de-reconstruccion-intensivo-aquavera-de-romero-500-g-7453100303701/p
 Cuidado Personal y Belleza,Perfume Men Aquavera True 100 ML,498.00 USD (x1),498.00 USD (x1),https://www.superxtra.com/perfume-men-aquavera-true-100-ml-7453100304050/p
 Cuidado Personal y Belleza,Jabón Facil Asepxia Azufre 100 G,589.00 USD (x1),589.00 USD (x1),https://www.superxtra.com/jabon-facil-asepxia--azufre-100-g-650240007828/p
-Cuidado Personal y Belleza,Desodorante En Barra Nivea Black Carbon 50 ML,394.00 USD (x1),448.00 USD (x1),https://www.superxtra.com/desodorante-en-barra-nivea-black-carbon-50-ml-42438694/p
+Cuidado Personal y Belleza,Desodorante Nivea Men Black Carbón 50 G,394.00 USD (x1),448.00 USD (x1),https://www.superxtra.com/desodorante-en-barra-nivea-black-carbon-50-ml-42438694/p
 Cuidado Personal y Belleza,Tinte Para El Cabello Nevada Rubio Oscuro 6,199.00 USD (x1),199.00 USD (x1),https://www.superxtra.com/tinte-para-el-cabello-nevada-rubio-oscuro-6-847610010407/p
 Cuidado Personal y Belleza,Locion De Coco Institutoespañol 500 ML,569.00 USD (x1),569.00 USD (x1),https://www.superxtra.com/locion-de-coco-institutoespañol-500-ml-8411047144121/p
 Cuidado Personal y Belleza,Perfume Aquavera Olymphiq 50 ML,351.00 USD (x1),351.00 USD (x1),https://www.superxtra.com/perfume-aquavera-olymphiq-50-ml-7453100304432/p
@@ -2143,7 +2143,7 @@ Cuidado Personal y Belleza,Esmalte Darosa 300De-24,154.00 USD (x1),154.00 USD (x
 Cuidado Personal y Belleza,Spray Fijador Nutrine Extra Fijacion,254.00 USD (x1),254.00 USD (x1),https://www.superxtra.com/spray-fijador-nutrine-extra-fijacion-95298003574/p
 Cuidado Personal y Belleza,Perfume Aquavera One Billion 100 ML,598.00 USD (x1),598.00 USD (x1),https://www.superxtra.com/perfume-aquavera-one-million-100-ml-7453100303831/p
 Cuidado Personal y Belleza,Matizante Scjohnson Para Rubios 100 ML,472.00 USD (x1),472.00 USD (x1),https://www.superxtra.com/matizante-scjohnson-para-rubios-100-ml-7702045976274/p
-Cuidado Personal y Belleza,Espuma De Afeitar Hidratante Nivea Protect And Care 200 ML,802.00 USD (x1),802.00 USD (x1),https://www.superxtra.com/espuma-de-afeitar-hidratante-nivea-protect-and-care-200-ml-8412300817028/p
+Cuidado Personal y Belleza,Espuma De Afeitar Nivea Men Care Effect 200 ML,802.00 USD (x1),802.00 USD (x1),https://www.superxtra.com/espuma-de-afeitar-hidratante-nivea-protect-and-care-200-ml-8412300817028/p
 Cuidado Personal y Belleza,Pañuelos Faciales Kleenex 80U,274.00 USD (x1),274.00 USD (x1),https://www.superxtra.com/panuelos-faciales-kleenex-80u-7702425524965/p
 Cuidado Personal y Belleza,Esmalte Fantastic Vogue Palo Rosa 24,177.00 USD (x1),177.00 USD (x1),https://www.superxtra.com/esmalte-fantastic-vogue-palo-rosa-24-7702433298759/p
 Cuidado Personal y Belleza,Aceite Nutritivo Naturals Rizos Definidos 60 ML,428.00 USD (x1),428.00 USD (x1),https://www.superxtra.com/aceite-nutritivo-naturals-rizos-definidos-60-ml-95298007350/p
@@ -2259,7 +2259,7 @@ Cuidado Personal y Belleza,Desodorante Obao Mujer Fresquissima Roll On,191.00 US
 Cuidado Personal y Belleza,Formula Coccoa Butter Con Vitmina E Palmers,744.00 USD (x1),744.00 USD (x1),https://www.superxtra.com/formula-coccoa-butter-con-vitmina-e-palmers-10181040009/p
 Cuidado Personal y Belleza,Gel Antibacterial Chicle Fresh Hands 4Oz,179.00 USD (x1),179.00 USD (x1),https://www.superxtra.com/gel-antibacterial-chicle-fresh-hands-4oz-95298005202/p
 Cuidado Personal y Belleza,Jabon Liquido Perlado Ocean Breeze 15Oz,178.00 USD (x1),178.00 USD (x1),https://www.superxtra.com/jabon-liquido-perlado-ocean-breeze-15oz-808829030037/p
-Cuidado Personal y Belleza,Crema Men Facial Y Corporal Nivea 75 Ml,435.00 USD (x1),435.00 USD (x1),https://www.superxtra.com/crema-men-facial-y-corporal-nivea-75-ml-7501054526483/p
+Cuidado Personal y Belleza,Crema Nivea Men Lata 75 ML,435.00 USD (x1),435.00 USD (x1),https://www.superxtra.com/crema-men-facial-y-corporal-nivea-75-ml-7501054526483/p
 Cuidado Personal y Belleza,Desodorante Instituto Español Roll On Avena 75 ML,347.00 USD (x1),347.00 USD (x1),https://www.superxtra.com/desodorante-instituto-espanol-roll-on-avena-75-ml-8411047145074/p
 Cuidado Personal y Belleza,Jabon Liquido Corporal Aloe Vera Instituto Español 1250 Ml,572.00 USD (x1),572.00 USD (x1),https://www.superxtra.com/jabon-liquido-corporal-aloe-vera-instituto-español-1250-ml-8411047143162/p
 Cuidado Personal y Belleza,Locion Piel Vitamina E 20Oz Personal Care,215.00 USD (x1),215.00 USD (x1),https://www.superxtra.com/locion-piel-vitamina-e-20oz-personal-care-48155921528/p
@@ -2311,7 +2311,7 @@ Cuidado Personal y Belleza,Pañales Desechables Para Adultos Tena Slip Comfort M
 Cuidado Personal y Belleza,Esmalte Blanco Darosa,144.00 USD (x1),144.00 USD (x1),https://www.superxtra.com/esmalte-blanco-darosa-7401005490354/p
 Cuidado Personal y Belleza,Limpiador Fruity Facial Hidratante Aloe Vera Fresco 200 Ml Ponds,1199.00 USD (x1),1199.00 USD (x1),https://www.superxtra.com/limpiador-fruity-facial-hidratante-aloe-vera-fresco-200-ml-ponds-7506306217683/p
 Cuidado Personal y Belleza,Espuma Moldeadora Cabello Rizo 2 Pack Herbal Essences,939.00 USD (x1),939.00 USD (x1),https://www.superxtra.com/espuma-moldeadora-cabello-rizo-2-pack-herbal-essences-7500435182041/p
-Cuidado Personal y Belleza,Jabon Intimo Intimo Natural 250Ml Nivea,954.00 USD (x1),954.00 USD (x1),https://www.superxtra.com/jabon-intimo-intimo-natural-250ml-nivea-4005808538560/p
+Cuidado Personal y Belleza,Jabón Íntimo Nivea Confort Natural 250 ML,954.00 USD (x1),954.00 USD (x1),https://www.superxtra.com/jabon-intimo-intimo-natural-250ml-nivea-4005808538560/p
 Cuidado Personal y Belleza,Contorno Ojo 15 G Cicatricure,1466.00 USD (x1),1803.00 USD (x1),https://www.superxtra.com/contorno-ojo-15-g-cicatricure-7798140258230/p
 Cuidado Personal y Belleza,desodorante Barra Derma Control Exp 45G Yodora,414.00 USD (x1),414.00 USD (x1),https://www.superxtra.com/desodorante-barra-derma-control-exp-45g-yodora-7702057086770/p
 Cuidado Personal y Belleza,Protect Solar Banana Boat Dry Balance Sport C Spray 220ml,1131.00 USD (x1),1131.00 USD (x1),https://www.superxtra.com/protect-solar-banana-boat-dry-balance-sport-c-spray-220ml/p
@@ -2319,7 +2319,7 @@ Cuidado Personal y Belleza,Pinzas De Cejas Slant Tip Blister,151.00 USD (x1),151
 Cuidado Personal y Belleza,Lactovit Gel Intimo Lactourea 250Ml,519.00 USD (x1),519.00 USD (x1),https://www.superxtra.com/lactovit-gel-intimo-lactourea-250ml-8411135005594/p
 Cuidado Personal y Belleza,Acondicionador Aloe 12 Un X 415Ml Tio Nacho,930.00 USD (x1),1159.00 USD (x1),https://www.superxtra.com/acondicionador-aloe-12-un-x-415ml-tio-nacho-7798140259916/p
 Cuidado Personal y Belleza,Acondicionador Tropical Coconut Suave,239.00 USD (x1),239.00 USD (x1),https://www.superxtra.com/acondicionador-tropical-coconut-suave-809219700042/p
-Cuidado Personal y Belleza,Desodorante Roll On Dry Impact 50 Ml Nivea,310.00 USD (x1),310.00 USD (x1),https://www.superxtra.com/desodorante-roll-on-dry-impact-50-ml-nivea-4005808293834/p
+Cuidado Personal y Belleza,Desodorante Roll On Nivea Men Dry Impact 50 ML,310.00 USD (x1),310.00 USD (x1),https://www.superxtra.com/desodorante-roll-on-dry-impact-50-ml-nivea-4005808293834/p
 Cuidado Personal y Belleza,Shampoo Apple Blossom White Rain,239.00 USD (x1),239.00 USD (x1),https://www.superxtra.com/shampoo-apple-blossom-white-rain-809219600267/p
 Cuidado Personal y Belleza,Corta Unas De Pies Blister,149.00 USD (x1),149.00 USD (x1),https://www.superxtra.com/corta-unas-de-pies-blister-616513700773/p
 Cuidado Personal y Belleza,Jabón Facial Asepxia Forte 100 G,576.00 USD (x1),576.00 USD (x1),https://www.superxtra.com/jabon-facial-asepxia-forte-100-g-650240004292/p
@@ -2383,7 +2383,7 @@ Cuidado Personal y Belleza,Gel Antibacterial Fresh Hands Original 8 Oz,231.00 US
 Cuidado Personal y Belleza,Tampones Saba Super Con Aplicador Largo 10,379.00 USD (x1),379.00 USD (x1),https://www.superxtra.com/tampones-saba-super-con-aplicador-largo-10-7501019034558/p
 Cuidado Personal y Belleza,Tinte Palette Tone Cream Negro 113,573.00 USD (x1),573.00 USD (x1),https://www.superxtra.com/tinte-palette-tone-cream-negro-113-7702045513042/p
 Cuidado Personal y Belleza,Gel Facial Hyaluron Refrescante Hidratante Nivea 100 Ml,623.00 USD (x1),829.00 USD (x1),https://www.superxtra.com/gel-facial-hyaluron-refrescante-hidratante-nivea-100-ml-42398011/p
-Cuidado Personal y Belleza,Agua Micellar Efecto Mate Nivea 400 Ml,798.00 USD (x1),834.00 USD (x1),https://www.superxtra.com/agua-micellar-efecto-mate-nivea-400-ml-4005900629746/p
+Cuidado Personal y Belleza,Agua Micelar Nivea Efecto Mate 400 ML,798.00 USD (x1),834.00 USD (x1),https://www.superxtra.com/agua-micellar-efecto-mate-nivea-400-ml-4005900629746/p
 Cuidado Personal y Belleza,Pasta Oral-B Dental Extra Blancura Con Bicarbonato 58 Ml,294.00 USD (x1),294.00 USD (x1),https://www.superxtra.com/pasta-oral-b-dental-extra-blancura-con-bicarbonato-58-ml-7500435176972/p
 Cuidado Personal y Belleza,Shampoo + Acondicionador Beautdrop 250 Ml Aceite De Argan,399.00 USD (x1),399.00 USD (x1),https://www.superxtra.com/shampoo--acondicionador-beautdrop-250-ml-aceite-de-argan-7451108050337/p
 Cuidado Personal y Belleza,Hilo Dental Essential Floss 50 M Oral B,561.00 USD (x1),561.00 USD (x1),https://www.superxtra.com/hilo-dental-essential-floss-50-m-oral-b-7800005082024/p
@@ -2456,8 +2456,8 @@ Cuidado Personal y Belleza,Protector Solar Nivea Sun Piel Sensitive Fps60 125 Ml
 Cuidado Personal y Belleza,Bloqueador Solar Proteccion Hidratante Fps 50 125ml,1537.00 USD (x1),1537.00 USD (x1),https://www.superxtra.com/bloqueador-solar-hidratante-f-50-6125ml-4005800101205/p
 Cuidado Personal y Belleza,Nivea Cuidado Antiarrugas 100ml,648.00 USD (x1),648.00 USD (x1),https://www.superxtra.com/cuidado-antiarrugas-9100ml-42277095/p
 Cuidado Personal y Belleza,Crema Facial Hidratante Gel Rosas Nivea 50ml,1238.00 USD (x1),1238.00 USD (x1),https://www.superxtra.com/gel-crema-rosas-1250ml-4005900807441/p
-Cuidado Personal y Belleza,Agua Micellar De Rosas 400ml,828.00 USD (x1),828.00 USD (x1),https://www.superxtra.com/agua-micellar-rosas-12400ml-4005900645265/p
-Cuidado Personal y Belleza,Gel Facial Nivea Limpiador Todo Tipo De Piel Con Agua De Rosas 150ml,1032.00 USD (x1),1032.00 USD (x1),https://www.superxtra.com/gel-limpiador-rosas12150ml-4005900645289/p
+Cuidado Personal y Belleza,Agua Micelar Nivea Agua de Rosas 400 ML,828.00 USD (x1),828.00 USD (x1),https://www.superxtra.com/agua-micellar-rosas-12400ml-4005900645265/p
+Cuidado Personal y Belleza,Gel Facial Limpiador Nivea Agua de Rosas 150 ML,1032.00 USD (x1),1032.00 USD (x1),https://www.superxtra.com/gel-limpiador-rosas12150ml-4005900645289/p
 Cuidado Personal y Belleza,Crema Corporal Nivea Tono Natural 220 ML,671.00 USD (x1),896.00 USD (x1),https://www.superxtra.com/body-aclarado-natural-12220ml-7501054549864/p
 Cuidado Personal y Belleza,Crema Nivea Tono Natural Todo Tipo Piel 100 ML,426.00 USD (x1),599.00 USD (x1),https://www.superxtra.com/body-aclaradora-facial-y-corporal-24100ml-4005808818587/p
 Cuidado Personal y Belleza,Crema Corporal Nivea Men Revitalizante Piel Normal 250 ML,824.00 USD (x1),824.00 USD (x1),https://www.superxtra.com/body-milk-for-men-15250ml-4005808802555/p
@@ -3068,7 +3068,6 @@ Limpieza del Hogar y Ropa,Quita Manchas Blanco Supremo Ropa Clorox,341.00 USD (x
 Limpieza del Hogar y Ropa,Pastilla Desinfectante Brisa De Mar De 40G Para Inodoro Pato,383.00 USD (x1),383.00 USD (x1),https://www.superxtra.com/pastilla-desinfectante-brisa-de-mar-de-40g-para-inodoro-pato-7501032914134/p
 Limpieza del Hogar y Ropa,Autan Family Repelente Líquido de Insectos con Atomizador 177ml,469.00 USD (x1),469.00 USD (x1),https://www.superxtra.com/autan-family-repelente-liquido-de-insectos-con-atomizador-177ml-7501032929664/p
 Limpieza del Hogar y Ropa,Limpiador Para La Cocina Antibacterial Multi Cleaner 585 Ml,274.00 USD (x1),274.00 USD (x1),https://www.superxtra.com/limpiador-para-la-cocina-antibacterial-multi-cleaner-585-ml-25433070208/p
-Limpieza del Hogar y Ropa,Desmanchador Para Ropa De Color Aroma Floral 2000 Ml Blancox,767.00 USD (x1),767.00 USD (x1),https://www.superxtra.com/desmanchador-para-ropa-de-color-aroma-floral-2000-ml-blancox-7703812010870/p
 Limpieza del Hogar y Ropa,Esponja Anatómica Superficies Delicadas Contraste Naranja 1 UN,123.00 USD (x1),123.00 USD (x1),https://www.superxtra.com/esponja-fibra-anatomica-contraste-757962009236/p
 Limpieza del Hogar y Ropa,"Mr. Músculo Baño, Sarro y Mugre, Gatillo 500ml",792.00 USD (x1),792.00 USD (x1),https://www.superxtra.com/mr-musculo-bano-sarro-y-mugre-gatillo-500ml-7706800643258/p
 Limpieza del Hogar y Ropa,Glade Aromatizante en Gel Sensations Deleite Floral y Frutos Rojos 8 g c/u 2 Repuestos,948.00 USD (x1),948.00 USD (x1),https://www.superxtra.com/glade-aromatizante-en-gel-sensations-deleite-floral-y-frutos-rojos-8-g-c-u2-repuestos-7501032913205/p
@@ -3593,6 +3592,7 @@ Limpieza del Hogar y Ropa,Limpiador Liquido Quitamanchas Clorox Ropa De Color 93
 Limpieza del Hogar y Ropa,Prelavador Para Ropa Vanish Quita Manchas 650 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/prelavador-para-ropa-vanish-quita-manchas-650-ml-7501058757630/p
 Limpieza del Hogar y Ropa,Plastimar Fiambrera Division Plastimar Con Division,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/plastimar-fiambrera-division-plastimar-con-division-7452100950908/p
 Limpieza del Hogar y Ropa,Betun Nugget Negro,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/betun-nugget-negro-7441001300035/p
+Limpieza del Hogar y Ropa,Aerosol Niagara Original Lavender 20 OZ,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/aerosol-niagara-original-lavender-20-oz-885967081251/p
 Mascotas,Felix Paté Salmón 156g (5.5oz),144.00 USD (x1),144.00 USD (x1),https://www.superxtra.com/felix-pate-salmon-156g-5-5oz-10367718-50000290482/p
 Mascotas,Alimento Para Mascotas Rufo Cachorro 8/8 LB,788.00 USD (x1),788.00 USD (x1),https://www.superxtra.com/alimento-para-mascotas-rufo-cachorro-88-lb-781974000684/p
 Mascotas,Alimento Para Perros Razas Pequeñas Pedigree 4 Pack Mix 100 G,300.00 USD (x1),300.00 USD (x1),https://www.superxtra.com/alimento-para-perros-razas-pequenas-pedigree-4-pack-mix-100-g-10601919-7452026417318/p
@@ -4605,7 +4605,7 @@ Linea Blanca y Electrodomesticos,Porotos Like Rojos 1 LB,96.00 USD (x1),96.00 US
 Linea Blanca y Electrodomesticos,Cafetera Home Power 6 Tazas WJ-9008,1298.00 USD (x1),1298.00 USD (x1),https://www.superxtra.com/cafetera-home-power-6-tazas-wj-9008/p
 Linea Blanca y Electrodomesticos,"Abanico De Techo 20"" Carbone Socket Con Luz Led Ajustable 520X185 MM",1348.00 USD (x1),1348.00 USD (x1),https://www.superxtra.com/abanico-de-techo-20-carbone-socket-con-luz-led-ajustable-520x185-mm-10605782-7452999796281/p
 Linea Blanca y Electrodomesticos,Sandwichera Premier ED 8509B,1298.00 USD (x1),1298.00 USD (x1),https://www.superxtra.com/sandwichera-premier-ed-8509b/p
-Linea Blanca y Electrodomesticos,"Abanico Premier 18"" Pedestal AB-94305BP",1998.00 USD (x1),1998.00 USD (x1),https://www.superxtra.com/abanico-premier-18-pedestal-ab-94305bp/p
+Linea Blanca y Electrodomesticos,"Abanico Premier 18"" Pedestal AB-94305BP",1098.00 USD (x1),1998.00 USD (x1),https://www.superxtra.com/abanico-premier-18-pedestal-ab-94305bp/p
 Linea Blanca y Electrodomesticos,Sandwichera Home Power Sj-22,999.00 USD (x1),999.00 USD (x1),https://www.superxtra.com/sandwichera-home-power-sj-22/p
 Linea Blanca y Electrodomesticos,Olla De Presión Home Power Ck-02-24 7 LTS,2799.00 USD (x1),2799.00 USD (x1),https://www.superxtra.com/olla-de-presion-home-power-ck-02-24-7-lts/p
 Linea Blanca y Electrodomesticos,Impresora Canon Ts3610 Wifi,5598.00 USD (x1),5598.00 USD (x1),https://www.superxtra.com/impresora-canon-ts3610-wifi-10601517-13803377606/p
