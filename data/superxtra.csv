@@ -11,11 +11,11 @@ Supermercado,Leche Uht Estrella Azul 946 ML Entera,167.00 USD (x1),174.00 USD (x
 Supermercado,Muslo Encuentro de Pollo Por Media Libra,214.00 USD (x1),214.00 USD (x1),https://www.superxtra.com/muslo-encuentro-de-pollo-por-libra/p
 Supermercado,Zanahoria Por Kilo,149.00 USD (x1),149.00 USD (x1),https://www.superxtra.com/zanahoria-por-libra/p
 Supermercado,Puerco Liso Por Media Libra,517.00 USD (x1),517.00 USD (x1),https://www.superxtra.com/puerco-liso-por-libra/p
+Supermercado,Pepino Por Media Libra,71.00 USD (x1),71.00 USD (x1),https://www.superxtra.com/pepino-por-libra/p
 Supermercado,Pechuga de Pollo Por Media Libra,218.00 USD (x1),218.00 USD (x1),https://www.superxtra.com/pechuga-de-pollo-por-libra/p
 Supermercado,Chuleta Fresca Por Media Libra,483.00 USD (x1),483.00 USD (x1),https://www.superxtra.com/chuleta-fresca-por-libra/p
 Supermercado,Chuleta Especial Por Media Libra,582.00 USD (x1),582.00 USD (x1),https://www.superxtra.com/chuleta-especial-por-libra/p
 Supermercado,Cebolla Amarilla Nacional Por Media Libra,144.00 USD (x1),144.00 USD (x1),https://www.superxtra.com/cebolla-amarilla-nacional-por-libra/p
-Supermercado,Bistec Picado Por Libra,703.00 USD (x1),703.00 USD (x1),https://www.superxtra.com/bistec-picado-por-libra/p
 Supermercado,Bisctec de Cinta Por Libra,593.00 USD (x1),593.00 USD (x1),https://www.superxtra.com/bisctec-de-cinta-por-libra/p
 Supermercado,Babilla Por Libra,793.00 USD (x1),793.00 USD (x1),https://www.superxtra.com/babilla-por-libra/p
 Supermercado,Ajo Suelto en Libra,317.00 USD (x1),317.00 USD (x1),https://www.superxtra.com/ajo-suelto-en-libra/p
@@ -42,7 +42,6 @@ Supermercado,Rincón Por Libra,796.00 USD (x1),796.00 USD (x1),https://www.super
 Supermercado,Repollo Cosechas De Mi Tierra Por Media Libra,208.00 USD (x1),208.00 USD (x1),https://www.superxtra.com/repollo-cosechas-de-mi-tierra-por-libra/p
 Supermercado,Pulpa Negra Por Libra,773.00 USD (x1),773.00 USD (x1),https://www.superxtra.com/pulpa-negra-por-libra/p
 Supermercado,Platano Verde Por Media Libra,87.00 USD (x1),87.00 USD (x1),https://www.superxtra.com/platano-verde-por-libra/p
-Supermercado,Pepino Por Media Libra,71.00 USD (x1),71.00 USD (x1),https://www.superxtra.com/pepino-por-libra/p
 Supermercado,Pecho Especial Por Media Libra,426.00 USD (x1),426.00 USD (x1),https://www.superxtra.com/pecho-especial-por-libra/p
 Supermercado,Culantro Cerro Punta En Mazo,85.00 USD (x1),85.00 USD (x1),https://www.superxtra.com/culantro-cerro-punta-otros-en-mazo/p
 Supermercado,Costilla de Res Por Libra,568.00 USD (x1),568.00 USD (x1),https://www.superxtra.com/costilla-de-res-por-libra/p
@@ -50,6 +49,7 @@ Supermercado,Costilla de Cerdo Por Media Libra,646.00 USD (x1),646.00 USD (x1),h
 Supermercado,Carne para Guisar Por Libra,657.00 USD (x1),657.00 USD (x1),https://www.superxtra.com/carne-para-guisar-por-libra/p
 Supermercado,Carne Molida Especial Por Libra,850.00 USD (x1),850.00 USD (x1),https://www.superxtra.com/carne-molida-especial-por-libra/p
 Supermercado,Carne Molida Baja en Grasa Por Libra,757.00 USD (x1),757.00 USD (x1),https://www.superxtra.com/carne-molida-baja-en-grasa-por-libra/p
+Supermercado,Bistec Picado Por Libra,703.00 USD (x1),703.00 USD (x1),https://www.superxtra.com/bistec-picado-por-libra/p
 Supermercado,Apio Cosechas De Mi Tierra Por Media Libra,250.00 USD (x1),250.00 USD (x1),https://www.superxtra.com/apio-cosechas-de-mi-tierra-por-libra/p
 Supermercado,Empanada Rimith 454 gr De Pollo Congelada,285.00 USD (x1),285.00 USD (x1),https://www.superxtra.com/empanada-rimith-454-gr-de-pollo-congelada/p
 Supermercado,Codito La Parmigiana 454 gr Pastas Cortas,88.00 USD (x1),88.00 USD (x1),https://www.superxtra.com/codito-la-parmigiana-454-gr-pastas-cortas/p
@@ -80,7 +80,7 @@ Supermercado,Lentejas Like 1 LB,62.00 USD (x1),62.00 USD (x1),https://www.superx
 Supermercado,Arroz Especial Like 2 KG,310.00 USD (x1),310.00 USD (x1),https://www.superxtra.com/arroz-especial-like-2-kg-5557516/p
 Supermercado,Malta vigor pet six pack 200 ML,264.00 USD (x1),264.00 USD (x1),https://www.superxtra.com/malta-vigor-pet-six-pack-200-ml/p
 Supermercado,Arroz Especial Supersabroso 4 LB,314.00 USD (x1),314.00 USD (x1),https://www.superxtra.com/arroz-especial-supersabroso-4-lb-7451017000164/p
-Supermercado,Patita Picada Por Media Libra,208.00 USD (x1),219.00 USD (x1),https://www.superxtra.com/patita-picada-por-media-libra-2705529000002/p
+Supermercado,Patita Picada Por Media Libra,285.00 USD (x1),285.00 USD (x1),https://www.superxtra.com/patita-picada-por-media-libra-2705529000002/p
 Supermercado,Platano Verde Cerro Punta En Malla,205.00 USD (x1),205.00 USD (x1),https://www.superxtra.com/platano-verde-cerro-punta-en-malla-2705446000000/p
 Supermercado,Galleta Club Social 24Gr,121.00 USD (x1),180.00 USD (x1),https://www.superxtra.com/galleta-club-social-24gr-7622201717537/p
 Supermercado,Azúcar Like Morena 1820 GR,265.00 USD (x1),265.00 USD (x1),https://www.superxtra.com/azucar-like-morena-1820-gr/p
@@ -114,6 +114,7 @@ Supermercado,Culantro Cosecha De Mi Tierra Por Media Libra,833.00 USD (x1),833.0
 Supermercado,Costillon Por Libra,878.00 USD (x1),878.00 USD (x1),https://www.superxtra.com/costillon-por-libra/p
 Supermercado,Chuleta Ahumada Especial American Star Por Media Libra,812.00 USD (x1),812.00 USD (x1),https://www.superxtra.com/chuleta-ahumada-especial-american-star-por-libra/p
 Supermercado,Chayote Por Media Libra,72.00 USD (x1),72.00 USD (x1),https://www.superxtra.com/chayote-por-libra/p
+Supermercado,Cebolla Morada Por Media Libra,310.00 USD (x1),310.00 USD (x1),https://www.superxtra.com/cebolla-morada-por-libra/p
 Supermercado,Brocolí Xtra Por Media Libra,413.00 USD (x1),413.00 USD (x1),https://www.superxtra.com/brocoli-por-libra/p
 Supermercado,Bofe Por Libra,371.00 USD (x1),371.00 USD (x1),https://www.superxtra.com/bofe-por-libra/p
 Supermercado,Bacon Ahumado American Star Por Media Libra,859.00 USD (x1),859.00 USD (x1),https://www.superxtra.com/bacon-ahumado-american-star-por-libra/p
@@ -122,6 +123,7 @@ Supermercado,Bollo American Star 454 gr Maiz,109.00 USD (x1),109.00 USD (x1),htt
 Supermercado,Tortilla Grande Tortimasa 580 gr Maiz 10 Un,167.00 USD (x1),167.00 USD (x1),https://www.superxtra.com/tortilla-grande-tortimasa-580-gr-maiz-10-un/p
 Supermercado,Bollo Originales Melo 454 gr Maiz,157.00 USD (x1),157.00 USD (x1),https://www.superxtra.com/bollo-originales-melo-454-gr-maiz/p
 Supermercado,Tornillo La Parmigiana 454 gr Pastas Cortas Con Vegetal,109.00 USD (x1),109.00 USD (x1),https://www.superxtra.com/tornillo-la-parmigiana-454-gr-pastas-cortas-con-vegetal/p
+Supermercado,Salchicha El Compa 411 gr En Paquete,137.00 USD (x1),137.00 USD (x1),https://www.superxtra.com/salchicha-el-compa-411-gr-en-paquete/p
 Supermercado,Salchicha Ahumada American Star 454 gr En Paquete,128.00 USD (x1),128.00 USD (x1),https://www.superxtra.com/salchicha-ahumada-american-star-454-gr-en-paquete/p
 Supermercado,Chorizo Puerco Ahumado American Star 454 gr Napolitano,189.00 USD (x1),189.00 USD (x1),https://www.superxtra.com/chorizo-puerco-ahumado-american-star-454-gr-napolitano/p
 Supermercado,Chorizo Parrillero Ahumado First Choice 454 gr En Paquete,219.00 USD (x1),219.00 USD (x1),https://www.superxtra.com/chorizo-parrillero-ahumado-first-choice-454-gr-en-paquete/p
@@ -149,6 +151,7 @@ Supermercado,Maíz Del Monte 432 gr En grano,117.00 USD (x1),117.00 USD (x1),htt
 Supermercado,Trocitos De Atún Like 140 gr En Aceite,104.00 USD (x1),104.00 USD (x1),https://www.superxtra.com/trocitos-de-atun-like-140-gr-en-aceite/p
 Supermercado,Vegetales Mixtos Rubi 425 gr Enlatados,96.00 USD (x1),96.00 USD (x1),https://www.superxtra.com/vegetales-mixtos-rubi-425-gr-enlatados/p
 Supermercado,Yogurt Bongurt Variado Bonlac Sabores Variados 200 Ml,448.00 USD (x1),448.00 USD (x1),https://www.superxtra.com/yogurt-bongurt-variado-bonlac-sabores-variados-200-ml/p
+Supermercado,Yogurt Bonlac Guanabana 120 G,71.00 USD (x1),76.00 USD (x1),https://www.superxtra.com/yogurt-bonlac-guanabana-120-g/p
 Supermercado,Yogurt Bonlac Fresa 120 G,69.00 USD (x1),74.00 USD (x1),https://www.superxtra.com/yogurt-bonlac-fresa-120-g/p
 Supermercado,Té De Canela Rika 25 Un 37.5G,114.00 USD (x1),114.00 USD (x1),https://www.superxtra.com/te-de-canela-rika-25-un-375g/p
 Supermercado,Té Cajeta Durán Canela 24 Un,112.00 USD (x1),112.00 USD (x1),https://www.superxtra.com/te-cajeta-duran-24-un-canela/p
@@ -260,9 +263,8 @@ Supermercado,Repollo Por Media Libra,198.00 USD (x1),198.00 USD (x1),https://www
 Supermercado,Recao Verde Cosecha de Mi Tierra Por Media Libra,867.00 USD (x1),867.00 USD (x1),https://www.superxtra.com/recao-verde-cosecha-de-mi-tierra-por-libra/p
 Supermercado,Rabito de Puerco Por Media Libra,597.00 USD (x1),597.00 USD (x1),https://www.superxtra.com/rabito-de-puerco-por-libra/p
 Supermercado,Pimenton Verde Por Media Libra,624.00 USD (x1),624.00 USD (x1),https://www.superxtra.com/pimenton-verde-por-libra/p
-Supermercado,Costillas Baby Ribs Por Media Libra,616.00 USD (x1),725.00 USD (x1),https://www.superxtra.com/costillas-baby-ribs-por-libra/p
+Supermercado,Costillas Baby Ribs Por Media Libra,558.00 USD (x1),558.00 USD (x1),https://www.superxtra.com/costillas-baby-ribs-por-libra/p
 Supermercado,Coditos Like 400 gr,67.00 USD (x1),67.00 USD (x1),https://www.superxtra.com/coditos-like-400-gr/p
-Supermercado,Cebolla Morada Por Media Libra,310.00 USD (x1),310.00 USD (x1),https://www.superxtra.com/cebolla-morada-por-libra/p
 Supermercado,Cebolla Importada Por Media Libra,186.00 USD (x1),186.00 USD (x1),https://www.superxtra.com/cebolla-importada-por-media-libra/p
 Supermercado,Aguacate Importado Por Media Libra,467.00 USD (x1),467.00 USD (x1),https://www.superxtra.com/aguacate-importado-por-libra/p
 Supermercado,Sirope Jarabe Para Pancake Gold Mills 177 Ml Original,133.00 USD (x1),133.00 USD (x1),https://www.superxtra.com/sirope-jarabe-pancake-gold-mills-177-ml-original-734414111150/p
@@ -281,7 +283,6 @@ Supermercado,Tasajo Ahumado American Star 320 gr En Paquete,273.00 USD (x1),273.
 Supermercado,Salchichas Kiener Jumbo 454 G,229.00 USD (x1),229.00 USD (x1),https://www.superxtra.com/salchichas-kiener-jumbo-454-g/p
 Supermercado,Salchicha Frankfurter Rimith 454 gr En Paquete,272.00 USD (x1),272.00 USD (x1),https://www.superxtra.com/salchicha-frankfurter-rimith-454-gr-en-paquete/p
 Supermercado,Salchicha Frankfurter 16O Rimith 454 gr En Paquete,381.00 USD (x1),381.00 USD (x1),https://www.superxtra.com/salchicha-frankfurter-16o-rimith-454-gr-en-paquete/p
-Supermercado,Salchicha El Compa 411 gr En Paquete,137.00 USD (x1),137.00 USD (x1),https://www.superxtra.com/salchicha-el-compa-411-gr-en-paquete/p
 Supermercado,Salchicha De Pollo American Star 454 gr En Paquete,119.00 USD (x1),155.00 USD (x1),https://www.superxtra.com/salchicha-de-pollo-american-star-454-gr-en-paquete/p
 Supermercado,Mortadela Rimith 170 gr En Paquete,170.00 USD (x1),188.00 USD (x1),https://www.superxtra.com/mortadela-rimith-170-gr-en-paquete/p
 Supermercado,Jamón De Pollo Del Dia 227 gr En Paquete,150.00 USD (x1),150.00 USD (x1),https://www.superxtra.com/jamon-de-pollo-del-dia-227-gr-en-paquete/p
@@ -316,6 +317,7 @@ Supermercado,Sazonador Completo La Doña 30 gr En Sobre,40.00 USD (x1),40.00 USD
 Supermercado,Pasta Nhs 2721 gr De Tomate,948.00 USD (x1),1044.00 USD (x1),https://www.superxtra.com/pasta-nhs-2721-gr-de-tomate/p
 Supermercado,MAGGI Pasta de Tomate Doypack 1kg,457.00 USD (x1),457.00 USD (x1),https://www.superxtra.com/pasta-doy-pack-maggi-1000-gr-de-tomate/p
 Supermercado,Salsa De Tomate Doy Pack Del Monte 397 gr Tradicional,134.00 USD (x1),134.00 USD (x1),https://www.superxtra.com/salsa-de-tomate-doy-pack-del-monte-397-gr-tradicional/p
+Supermercado,Pimienta La Doña 13 gr Molida,28.00 USD (x1),28.00 USD (x1),https://www.superxtra.com/pimienta-la-dona-13-gr-molida/p
 Supermercado,Culantro La Doña 25 gr En Sobre,38.00 USD (x1),38.00 USD (x1),https://www.superxtra.com/culantro-la-dona-25-gr-en-sobre/p
 Supermercado,Canela La Doña 15 gr En Raja,29.00 USD (x1),29.00 USD (x1),https://www.superxtra.com/canela-la-dona-15-gr-en-raja/p
 Supermercado,Curry La Doña 25 gr En Sobre,38.00 USD (x1),38.00 USD (x1),https://www.superxtra.com/curry-la-dona-25-gr-en-sobre/p
@@ -332,7 +334,6 @@ Supermercado,Yogurt Bonlac 495 Ml Natural,234.00 USD (x1),234.00 USD (x1),https:
 Supermercado,Yogurt Bonlac Melocotón 120 G,71.00 USD (x1),76.00 USD (x1),https://www.superxtra.com/yogurt-bonlac-melocoton-120-g/p
 Supermercado,Yogurt Bonlac Natural 120 G,72.00 USD (x1),77.00 USD (x1),https://www.superxtra.com/yogurt-bonlac-natural-120-g/p
 Supermercado,Yogurt Batido Bonlac 130 Ml Tuti Fruti,73.00 USD (x1),78.00 USD (x1),https://www.superxtra.com/yogurt-batido-bonlac-130-ml-tuti-fruti/p
-Supermercado,Yogurt Bonlac Guanabana 120 G,71.00 USD (x1),76.00 USD (x1),https://www.superxtra.com/yogurt-bonlac-guanabana-120-g/p
 Supermercado,Tenders Toledano Apanados 340 G,410.00 USD (x1),410.00 USD (x1),https://www.superxtra.com/tender-12-oz-toledano-340-gr-apanados/p
 Supermercado,Soda Coca Cola + Ginger Ale 2500 Ml 2 Pack,518.00 USD (x1),518.00 USD (x1),https://www.superxtra.com/soda-pet-coca-cola-2500-ml-cola-mas-ginger-ale-2-pack/p
 Supermercado,Soda Coca Cola Fresa Pet 2500 Ml 2 Pack,491.00 USD (x1),491.00 USD (x1),https://www.superxtra.com/soda-pet-coca-cola-2500-ml-cola-mas-fresa-2-pack/p
@@ -499,6 +500,7 @@ Supermercado,Espinaca Por Media Libra,480.00 USD (x1),480.00 USD (x1),https://ww
 Supermercado,Leche Nevada Entera 946 ML,148.00 USD (x1),148.00 USD (x1),https://www.superxtra.com/leche-uht-nevada-946-ml-entera/p
 Supermercado,Jengibre Suelto Por Media Libra,250.00 USD (x1),250.00 USD (x1),https://www.superxtra.com/jengibre-suelto/p
 Supermercado,Jamon Cocido 4X4 Por Media Libra,436.00 USD (x1),436.00 USD (x1),https://www.superxtra.com/jamon-cocido-4x4-por-media-libra/p
+Supermercado,Huevos Medianos LIKE 18/2,338.00 USD (x1),338.00 USD (x1),https://www.superxtra.com/huevos-medianos-like-182/p
 Supermercado,Gelatina Surtida Bonlac 120g 4pk,133.00 USD (x1),133.00 USD (x1),https://www.superxtra.com/gelatina-surtida-bonlac-120g-4pk/p
 Supermercado,Naranja Navel Por Media Libra,309.00 USD (x1),309.00 USD (x1),https://www.superxtra.com/naranja-navel-por-libra/p
 Supermercado,Naranja De Jugo Nacional Por Media Libra,167.00 USD (x1),167.00 USD (x1),https://www.superxtra.com/naranja-de-jugo-nacional-por-libra/p
@@ -601,7 +603,6 @@ Supermercado,Salsa De Tomate Nhs 113 gr Estilo Panameño,44.00 USD (x1),54.00 US
 Supermercado,Salsa De Tomate Nhs 70 gr Con Hongo,36.00 USD (x1),36.00 USD (x1),https://www.superxtra.com/salsa-de-tomate-nhs-70-gr-con-hongo/p
 Supermercado,Pasta Doy Pack Nhs 70 gr De Tomate,36.00 USD (x1),36.00 USD (x1),https://www.superxtra.com/pasta-doy-pack-nhs-70-gr-de-tomate/p
 Supermercado,Vinagre Proluxsa 3785 Ml Blanco,331.00 USD (x1),331.00 USD (x1),https://www.superxtra.com/vinagre-proluxsa-3785-ml-blanco/p
-Supermercado,Pimienta La Doña 13 gr Molida,28.00 USD (x1),28.00 USD (x1),https://www.superxtra.com/pimienta-la-dona-13-gr-molida/p
 Supermercado,Mayonesa Xtra 500 gr Doy Pack,162.00 USD (x1),162.00 USD (x1),https://www.superxtra.com/mayonesa-xtra-500-gr-doy-pack/p
 Supermercado,Canela La Doña 115 gr En Raja,153.00 USD (x1),153.00 USD (x1),https://www.superxtra.com/canela-la-dona-115-gr-en-raja/p
 Supermercado,Oregano La Doña 120 gr En Sobre,165.00 USD (x1),165.00 USD (x1),https://www.superxtra.com/oregano-la-dona-120-gr-en-sobre/p
@@ -787,7 +788,9 @@ Supermercado,Bebida Instantánea Zuko Sabor A Naranja & Fresa 13 G,29.00 USD (x1
 Supermercado,Bebida Instantánea Zuko Sabor A Melón 13 G,19.00 USD (x1),19.00 USD (x1),https://www.superxtra.com/bebida-instantanea-zuko-sabor-a-melon-13-g-10596405-7503037746215/p
 Supermercado,Barras De Cereal Enlinea Colágeno 100 G,288.00 USD (x1),288.00 USD (x1),https://www.superxtra.com/barras-de-cereal-enlinea-colageno-100-g-10594309-7804000003046/p
 Supermercado,Aceite Cocinero De Soya 1400 ML,316.00 USD (x1),316.00 USD (x1),https://www.superxtra.com/aceite-cocinero-de-soya-1400-ml/p
+Supermercado,Bebida Fresh Fruit Punch 1.5 L DEL VALLE,115.00 USD (x1),115.00 USD (x1),https://www.superxtra.com/bebida-fresh-fruit-punch-1-5-l-del-valle-4504399707/p
 Supermercado,Frijol Kiura Xtra 340 G,85.00 USD (x1),85.00 USD (x1),https://www.superxtra.com/frijol-kiura-xtra-340-g-10000487-0000000046190/p
+Supermercado,Salsa Bbq Like 200 G,110.00 USD (x1),110.00 USD (x1),https://www.superxtra.com/salsa-bbq-like-200-g-10567793-7451001223340/p
 Supermercado,Agua Saborizada Like Frutos Rojos 600 ML,85.00 USD (x1),85.00 USD (x1),https://www.superxtra.com/agua-saborizada-like-frutos-rojos-600-ml-5565375/p
 Supermercado,Pack De 6 Unidades De Soda Cocacola 600 ML,625.00 USD (x1),625.00 USD (x1),https://www.superxtra.com/pack-de-6-unidades-de-soda-cocacola-600-ml-4504399400/p
 Supermercado,Lechuga Hidropónica Xtra Crespa Verde,211.00 USD (x1),211.00 USD (x1),https://www.superxtra.com/lechuga-hidroponica-xtra-crespa-verde-7452103300540/p
@@ -910,6 +913,7 @@ Supermercado,Mr Musculo Pato Pastilla Azul Twin Pack,318.00 USD (x1),318.00 USD 
 Supermercado,Sanissimo Salmas Clasicas 144gr - 100% horneadas,310.00 USD (x1),310.00 USD (x1),https://www.superxtra.com/sanissimo-salmas-clasicas-144gr---100--horneadas/p
 Supermercado,Galleta Artesana De Coco 330g,128.00 USD (x1),151.00 USD (x1),https://www.superxtra.com/galleta-artesana-de-coco-330g/p
 Supermercado,Fosforos Gato Negro 100x10,53.00 USD (x1),53.00 USD (x1),https://www.superxtra.com/fosforos-gato-negro-100x10/p
+Supermercado,Galletas Artesanas Casera 330g,151.00 USD (x1),151.00 USD (x1),https://www.superxtra.com/galletas-artesanas-casera-330g/p
 Supermercado,Pan De Hamburguesa Jumbo Panama Bakery 420g C/A,210.00 USD (x1),215.00 USD (x1),https://www.superxtra.com/hamburguesa-jumbo-panama-bakery-420g-ca-7451109550515/p
 Supermercado,Guisantes Dulces del Monte 15 oz,192.00 USD (x1),192.00 USD (x1),https://www.superxtra.com/guisantes-dulces-del-monte-15-oz-7452017665728/p
 Supermercado,Papas Pringles BBQ 203 g,341.00 USD (x1),341.00 USD (x1),https://www.superxtra.com/prg-us-bbq-crisps-14x203g-mega-can-38000175930/p
@@ -988,17 +992,13 @@ Supermercado,Filete de cerdo American Star en bandeja 12 OZ,310.00 USD (x1),310.
 Supermercado,Limón Criollo Por Media Libra,283.00 USD (x1),283.00 USD (x1),https://www.superxtra.com/limon-criollo-por-libra/p
 Supermercado,Jamón de Pavo 4x4 San Angel Por Media Libra,897.00 USD (x1),897.00 USD (x1),https://www.superxtra.com/jamon-de-pavo-4x4-san-angel-por-libra/p
 Supermercado,Jamón Cocido del Pollo del Dia Por Media Libra,438.00 USD (x1),438.00 USD (x1),https://www.superxtra.com/jamon-cocido-del-pollo-del-dia-por-libra/p
-Supermercado,Huevos Medianos LIKE 18/2,338.00 USD (x1),338.00 USD (x1),https://www.superxtra.com/huevos-medianos-like-182/p
 Supermercado,Hojuelas like 320 gr,78.00 USD (x1),78.00 USD (x1),https://www.superxtra.com/hojuelas-like-320-gr/p
 Supermercado,Ñampi Por Media Libra,315.00 USD (x1),315.00 USD (x1),https://www.superxtra.com/nampi-por-libra/p
 Supermercado,Mortadela Kiener Gruesa Por Media Libra,510.00 USD (x1),510.00 USD (x1),https://www.superxtra.com/mortadela-kiener-gruesa-por-media-libra/p
+Supermercado,Molleja de Pollo Por Media Libra,208.00 USD (x1),208.00 USD (x1),https://www.superxtra.com/molleja-de-pollo-por-libra/p
 Supermercado,Malta Vigor 355 ML Pet,58.00 USD (x1),68.00 USD (x1),https://www.superxtra.com/malta-vigor-355-ml-pet/p
 Supermercado,MAGGI Sopa de Pollo con Fideos Libre de Gluten Sobre 57g,71.00 USD (x1),71.00 USD (x1),https://www.superxtra.com/maggi-sopa-de-pollo-con-fideos-libre-de-gluten-sobre-57g/p
 Supermercado,MAGGI Gallinita Sabor y Color Sazonador Tabletas 88g 8 Unidades,138.00 USD (x1),138.00 USD (x1),https://www.superxtra.com/maggi-gallinita-sabor-y-color-sazonador-tabletas-88g-8-unidades/p
-Supermercado,Lomo Redondo Por Libra,813.00 USD (x1),813.00 USD (x1),https://www.superxtra.com/lomo-redondo-por-libra/p
-Supermercado,Uva Negra Sin Semilla Por Media Libra,613.00 USD (x1),613.00 USD (x1),https://www.superxtra.com/uva-negra-sin-semilla-por-libra/p
-Supermercado,Tocino Kiener Ahumado en Pieza Por Media Libra,1499.00 USD (x1),1499.00 USD (x1),https://www.superxtra.com/tocino-kiener-ahumado-en-pieza-por-media-libra/p
-Supermercado,Tasajo de Res Ahumado Por Libra,777.00 USD (x1),777.00 USD (x1),https://www.superxtra.com/tasajo-de-res-ahumado-por-libra/p
 "Licor, Cerveza y Vino",Cerveza De Lata Balboa 12 Pack 355ML,1079.00 USD (x1),1079.00 USD (x1),https://www.superxtra.com/cerveza-de-lata-balboa-12-pack-355ml-89646131804/p
 "Licor, Cerveza y Vino",Cerveza Panamá Light 12 Pack Lata 355 ML,777.00 USD (x1),777.00 USD (x1),https://www.superxtra.com/cerveza-panama-light-12-pack-lata-355-ml/p
 "Licor, Cerveza y Vino",Cerveza De Lata Atlas Sw12X2 355ML,583.00 USD (x1),583.00 USD (x1),https://www.superxtra.com/cerveza-de-lata-atlas-sw12x2-355ml-89646132672/p
@@ -1064,7 +1064,6 @@ Supermercado,Tasajo de Res Ahumado Por Libra,777.00 USD (x1),777.00 USD (x1),htt
 "Licor, Cerveza y Vino",Bacardi Coca Cola Mixed Rum 355 ML,128.00 USD (x1),128.00 USD (x1),https://www.superxtra.com/bacardi-coca-cola-mixed-rum-355-ml-10605506-7501055387854/p
 "Licor, Cerveza y Vino",Cerveza Heineken Silver Lata 310 ML,105.00 USD (x1),105.00 USD (x1),https://www.superxtra.com/cerveza-heineken-silver-lata-310-ml/p
 "Licor, Cerveza y Vino",Sangria Sintonia Tinto 750 ML,1015.00 USD (x1),1015.00 USD (x1),https://www.superxtra.com/sangria-sintonia-tinto-750-ml-10586554-8437005886285/p
-"Licor, Cerveza y Vino",Ron Carta Blanca Bacardi 750 ML,922.00 USD (x1),1085.00 USD (x1),https://www.superxtra.com/ron-carta-blanca-bacardi-750-ml-10598237-7610113024416/p
 "Licor, Cerveza y Vino",Vino Blanco Devil'S Carnaval Casillerodeldiablo Phenomenal Sauvignon 750 ML,904.00 USD (x1),904.00 USD (x1),https://www.superxtra.com/vino-blanco-devils-carnaval-casillerodeldiablo-phenomenal-sauvignon-750-ml-10595867-7804320760148/p
 "Licor, Cerveza y Vino",Vino Tinto Devil'S Carnaval Casillerodeldiablo Fantastic Sweet 750 ML,904.00 USD (x1),904.00 USD (x1),https://www.superxtra.com/vino-tinto-devils-carnaval-casillerodeldiablo-fantastic-sweet-750-ml-10595866-7804320760131/p
 "Licor, Cerveza y Vino",Vino Tinto Devil'S Carnaval Casillerodeldiablo Fabulous Red 750 ML,904.00 USD (x1),904.00 USD (x1),https://www.superxtra.com/vino-tinto-devils-carnaval-casillerodeldiablo-fabulous-red-750-ml-10595865-7804320760117/p
@@ -1116,7 +1115,7 @@ Supermercado,Tasajo de Res Ahumado Por Libra,777.00 USD (x1),777.00 USD (x1),htt
 "Licor, Cerveza y Vino",Botella De Vino Blanco Mionetto Prosecco 750 Ml,1450.00 USD (x1),1450.00 USD (x1),https://www.superxtra.com/botella-de-vino-blanco-mionetto-prosecco-750-ml-727760501638/p
 "Licor, Cerveza y Vino",Vino Strawberry White Arbor Mist 750Ml,480.00 USD (x1),480.00 USD (x1),https://www.superxtra.com/vino-strawberry-white-arbor-mist-750ml-82100179039/p
 "Licor, Cerveza y Vino",Botella De Vino Marques De Leon Tempranillo 750 Ml,488.00 USD (x1),488.00 USD (x1),https://www.superxtra.com/botella-de-vino-marques-de-leon-tempranillo-750-ml-8410702044882/p
-"Licor, Cerveza y Vino",Vino Riunite Spumante 750 ML,614.00 USD (x1),714.00 USD (x1),https://www.superxtra.com/vino-spumante-riunite-80516136240/p
+"Licor, Cerveza y Vino",Vino Riunite Spumante 750 ML,695.00 USD (x1),695.00 USD (x1),https://www.superxtra.com/vino-spumante-riunite-80516136240/p
 "Licor, Cerveza y Vino",Cerveza Panamá Light 6 Pack Lata 355 ML,430.00 USD (x1),430.00 USD (x1),https://www.superxtra.com/cerveza-panama-light-6-pack-lata-355-ml-751752100592/p
 "Licor, Cerveza y Vino",Cerveza Cristal Extra Fina Lata 355 ML,540.00 USD (x1),540.00 USD (x1),https://www.superxtra.com/cerveza-cristal-extra-fina-lata-355-ml/p
 "Licor, Cerveza y Vino",Vino Artañan,130.00 USD (x1),130.00 USD (x1),https://www.superxtra.com/vino-artanan-88291100128/p
@@ -1152,16 +1151,16 @@ Supermercado,Tasajo de Res Ahumado Por Libra,777.00 USD (x1),777.00 USD (x1),htt
 "Licor, Cerveza y Vino",Ron Plata Añejo Suave 750 Ml,583.00 USD (x1),583.00 USD (x1),https://www.superxtra.com/ron-plata-anejo-suave-750-ml-26964853438/p
 "Licor, Cerveza y Vino",Licor Amaretto Di Sarono 700 Ml,2293.00 USD (x1),2293.00 USD (x1),https://www.superxtra.com/licor-amaretto-di-sarono-700-ml-8001110016303/p
 "Licor, Cerveza y Vino",Tequila Reposado 750 ML,2706.00 USD (x1),2706.00 USD (x1),https://www.superxtra.com/tequila-reposado-750-ml-7501035010192/p
-"Licor, Cerveza y Vino",Ron Bacardi Oro - 1750 Ml,2098.00 USD (x1),2468.00 USD (x1),https://www.superxtra.com/ron-bacardi-oro---1750-ml-7501008612163/p
+"Licor, Cerveza y Vino",Ron Bacardi Oro - 1750 Ml,2119.00 USD (x1),2119.00 USD (x1),https://www.superxtra.com/ron-bacardi-oro---1750-ml-7501008612163/p
 "Licor, Cerveza y Vino",Sirope Goma Camelia 1000 Ml,283.00 USD (x1),283.00 USD (x1),https://www.superxtra.com/sirope-goma-camelia-1000-ml-7451017900136/p
 "Licor, Cerveza y Vino",Finest Call Mango Puree 1 L,715.00 USD (x1),715.00 USD (x1),https://www.superxtra.com/finest-call-mango-puree-1-l-70491112209/p
 "Licor, Cerveza y Vino","Vodka Absolut 1,75 Ml",3875.00 USD (x1),3875.00 USD (x1),https://www.superxtra.com/vodka-absolut-175-ml-7312040017171/p
 "Licor, Cerveza y Vino",Tequila Los Corrales 930 Ml Silver,1581.00 USD (x1),1581.00 USD (x1),https://www.superxtra.com/tequila-los-corrales-930-ml-silver-7501233709430/p
-"Licor, Cerveza y Vino",Ron Bacardi Oro 930 Ml,1205.00 USD (x1),1418.00 USD (x1),https://www.superxtra.com/ron-bacardi-oro-930-ml-7501008604021/p
+"Licor, Cerveza y Vino",Ron Bacardi Oro 930 Ml,1299.00 USD (x1),1299.00 USD (x1),https://www.superxtra.com/ron-bacardi-oro-930-ml-7501008604021/p
 "Licor, Cerveza y Vino",Whisky Jagermeister,1104.00 USD (x1),1104.00 USD (x1),https://www.superxtra.com/whisky-jagermeister-4067700014573/p
 "Licor, Cerveza y Vino",Whisky Jack Daniel’s Tennessee Whisky 750 ml,3054.00 USD (x1),3054.00 USD (x1),https://www.superxtra.com/whisky-jack-daniels-tennessee-whisky-750-ml-82184090466/p
 "Licor, Cerveza y Vino",Vino Tinto Red Carlo Rossí 750 Ml,595.00 USD (x1),595.00 USD (x1),https://www.superxtra.com/vino-tinto-red-carlo-rossi-750-ml-85000001882/p
-"Licor, Cerveza y Vino",Ron Bacardi Oro 375ml,518.00 USD (x1),610.00 USD (x1),https://www.superxtra.com/ron-bacardi-oro-375ml-7501008612071/p
+"Licor, Cerveza y Vino",Ron Bacardi Oro 375ml,574.00 USD (x1),574.00 USD (x1),https://www.superxtra.com/ron-bacardi-oro-375ml-7501008612071/p
 "Licor, Cerveza y Vino",Piña Colada De Kuyper 700 Ml,818.00 USD (x1),818.00 USD (x1),https://www.superxtra.com/pina-colada-de-kuyper-700-ml-8713427000073/p
 "Licor, Cerveza y Vino",Chivas Regal Extra 750Ml 13 Años,3939.00 USD (x1),3939.00 USD (x1),https://www.superxtra.com/chivas-regal-extra-750ml-13-anos-5000299611197/p
 "Licor, Cerveza y Vino",Finest Call Passion Fruit Puree 1L,715.00 USD (x1),715.00 USD (x1),https://www.superxtra.com/finest-call-passion-fruit-puree-1l-70491121133/p
@@ -1182,7 +1181,7 @@ Supermercado,Tasajo de Res Ahumado Por Libra,777.00 USD (x1),777.00 USD (x1),htt
 "Licor, Cerveza y Vino",Chivas Regal 500 Ml 12 Años,2291.00 USD (x1),2291.00 USD (x1),https://www.superxtra.com/chivas-regal-500-ml-12-anos-80432402733/p
 "Licor, Cerveza y Vino",Ron Flor De Caña 750 Ml Ultra Lite,835.00 USD (x1),835.00 USD (x1),https://www.superxtra.com/ron-flor-de-cana-750-ml-ultra-lite-26964860184/p
 "Licor, Cerveza y Vino",Ron Carta Vieja 375 Ml Extra Claro Botella,469.00 USD (x1),469.00 USD (x1),https://www.superxtra.com/ron-carta-vieja-375-ml-extra-claro-botella-38681003973/p
-"Licor, Cerveza y Vino",Whisky Chivas Regal 375 Ml 12 Años,1653.00 USD (x1),1945.00 USD (x1),https://www.superxtra.com/whisky-chivas-regal-375-ml-12-anos-80432400388/p
+"Licor, Cerveza y Vino",Whisky Chivas Regal 375 Ml 12 Años,2095.00 USD (x1),2095.00 USD (x1),https://www.superxtra.com/whisky-chivas-regal-375-ml-12-anos-80432400388/p
 "Licor, Cerveza y Vino",Aguardiente Antioqueno 375 Ml Tapa Roja,739.00 USD (x1),739.00 USD (x1),https://www.superxtra.com/aguardiente-antioqueno-375-ml-tapa-roja-7702049000449/p
 "Licor, Cerveza y Vino",Vodka New Amsterdam 750 Ml,1025.00 USD (x1),1025.00 USD (x1),https://www.superxtra.com/vodka-new-amsterdam-750-ml-85000019498/p
 "Licor, Cerveza y Vino",Ron Flor de Caña 7 Años Gran Reserva 750 Ml,1880.00 USD (x1),1880.00 USD (x1),https://www.superxtra.com/ron-flor-de-cana-7-anos-gran-reserva-750-ml-26964852745/p
@@ -1215,7 +1214,7 @@ Supermercado,Tasajo de Res Ahumado Por Libra,777.00 USD (x1),777.00 USD (x1),htt
 "Licor, Cerveza y Vino",Ron Flor De Cana Centenario 12 Años 750ml,2605.00 USD (x1),3065.00 USD (x1),https://www.superxtra.com/ron-flor-de-cana-centenario-12-anos-750ml-26964823967/p
 "Licor, Cerveza y Vino",Ron Flor De Cana Centenario 12 Años 375 ml,1430.00 USD (x1),1682.00 USD (x1),https://www.superxtra.com/ron-flor-de-cana-centenario-12-anos-375-ml-26964212211/p
 "Licor, Cerveza y Vino",Ginebra White Monkey 750 Ml,837.00 USD (x1),837.00 USD (x1),https://www.superxtra.com/ginebra-white-monkey-750-ml/p
-"Licor, Cerveza y Vino",Apothic Red,1609.00 USD (x1),1709.00 USD (x1),https://www.superxtra.com/apothic-red-85000017746/p
+"Licor, Cerveza y Vino",Apothic Red,1350.00 USD (x1),1350.00 USD (x1),https://www.superxtra.com/apothic-red-85000017746/p
 "Licor, Cerveza y Vino",Boones Strawberry Hill 750ml,495.00 USD (x1),495.00 USD (x1),https://www.superxtra.com/boone-s-strawberry-hill-12750-85000007303/p
 "Licor, Cerveza y Vino",Boones Sangria 750ml,495.00 USD (x1),495.00 USD (x1),https://www.superxtra.com/boone-s-sangria-12750-ml-bot-85000009147/p
 "Licor, Cerveza y Vino",Ron Abuelo Anejo 7 Años 40 Grados,1750.00 USD (x1),1750.00 USD (x1),https://www.superxtra.com/ron-abuelo-anejo-7-anos-40-grados-88291110356/p
@@ -1225,12 +1224,12 @@ Supermercado,Tasajo de Res Ahumado Por Libra,777.00 USD (x1),777.00 USD (x1),htt
 "Licor, Cerveza y Vino",Ron Carta Vieja 8 Años 750ml,2250.00 USD (x1),2250.00 USD (x1),https://www.superxtra.com/ron-carta-vieja-750ml-8-anos-816305010336/p
 "Licor, Cerveza y Vino",Vino Blanco Sauvignon Reserva Morande Pionero 750ml,628.00 USD (x1),698.00 USD (x1),https://www.superxtra.com/vino-blanco-sauvignon-reserva-morande-pionero-750ml-7804449104038/p
 "Licor, Cerveza y Vino",Ron Barcelo Añejo 750 Ml,1129.00 USD (x1),1129.00 USD (x1),https://www.superxtra.com/ron-barcelo-anejo-750-ml-7461323129244/p
-"Licor, Cerveza y Vino",Whisky 18 Años King Of Queens 1000ml,1016.00 USD (x1),1195.00 USD (x1),https://www.superxtra.com/whisky-18-anos-king-of-queens-1000ml-5010327920634/p
+"Licor, Cerveza y Vino",Whisky 18 Años King Of Queens 1000ml,994.00 USD (x1),994.00 USD (x1),https://www.superxtra.com/whisky-18-anos-king-of-queens-1000ml-5010327920634/p
 "Licor, Cerveza y Vino",Vino Blanco Sauvignon Frontera Concha Y Toro 1.5 Lt,1292.00 USD (x1),1292.00 USD (x1),https://www.superxtra.com/vino-blanco-sauvignon-frontera-concha-y-toro-1-5-lt-7804320509006/p
 "Licor, Cerveza y Vino",Dolce Vita Strawberry 750ml,500.00 USD (x1),500.00 USD (x1),https://www.superxtra.com/dolce-vita-strawberry-750ml-85901100028/p
 "Licor, Cerveza y Vino",Vino Blanco Sauvignon Sarmientos 750 Ml,495.00 USD (x1),495.00 USD (x1),https://www.superxtra.com/vino-blanco-sauvignon-sarmientos-750-ml-7804340600103/p
 "Licor, Cerveza y Vino",Vino Tinto Penasol 750ml,394.00 USD (x1),394.00 USD (x1),https://www.superxtra.com/vino-tinto-penasol-750ml-8410702004541/p
-"Licor, Cerveza y Vino",Vino Bianco Riunite 750 Ml,900.00 USD (x1),1000.00 USD (x1),https://www.superxtra.com/vino-bianco-riunite-750-ml-89744765628/p
+"Licor, Cerveza y Vino",Vino Bianco Riunite 750 Ml,1050.00 USD (x1),1050.00 USD (x1),https://www.superxtra.com/vino-bianco-riunite-750-ml-89744765628/p
 "Licor, Cerveza y Vino",Dolce Vita Apple 750 Ml,500.00 USD (x1),500.00 USD (x1),https://www.superxtra.com/dolce-vita-apple-750-ml-85901100035/p
 "Licor, Cerveza y Vino",Vino 19 Crimes Red Wine 750ml,1195.00 USD (x1),1450.00 USD (x1),https://www.superxtra.com/vino-19-crimes-red-wine-750ml-12354000995/p
 "Licor, Cerveza y Vino",Vino Arbor Mist Blackberry Merlot 750ml,562.00 USD (x1),562.00 USD (x1),https://www.superxtra.com/vino-arbor-mist-blackberry-merlot-750ml-82100179237/p
@@ -1244,7 +1243,7 @@ Supermercado,Tasajo de Res Ahumado Por Libra,777.00 USD (x1),777.00 USD (x1),htt
 "Licor, Cerveza y Vino",Vino Reserva Privada Casillero Del Diablo 750ml,1413.00 USD (x1),1413.00 USD (x1),https://www.superxtra.com/vino-reserva-privada-casillero-del-diablo-750ml-7804320272252/p
 "Licor, Cerveza y Vino",Vino Tinto Carmenere Gato Negro 750ml,538.00 USD (x1),598.00 USD (x1),https://www.superxtra.com/vino-tinto-carmenere-gato-negro-750ml-7804300122805/p
 "Licor, Cerveza y Vino",Vino Tinto Tarapaca Sarmie Cabern 750ml,437.00 USD (x1),437.00 USD (x1),https://www.superxtra.com/vino-tinto-tarapaca-sarmie-cabern-750ml-7804340600202/p
-"Licor, Cerveza y Vino",Sangría Barefoot 755ml,676.00 USD (x1),795.00 USD (x1),https://www.superxtra.com/sangria-barefoot-755ml-85000025055/p
+"Licor, Cerveza y Vino",Sangría Barefoot 755ml,675.00 USD (x1),675.00 USD (x1),https://www.superxtra.com/sangria-barefoot-755ml-85000025055/p
 "Licor, Cerveza y Vino",Vino Tinto Cabernet Sauvignon Gato Negro 750ml,538.00 USD (x1),598.00 USD (x1),https://www.superxtra.com/vino-tinto-cabernet-sauvignon-gato-negro-750ml-7804300010638/p
 "Licor, Cerveza y Vino",Vino Espumoso Dolce Vita Uva Rojas Sin Alcohol 750ml,500.00 USD (x1),500.00 USD (x1),https://www.superxtra.com/vino-espumoso-dolce-vita-uva-rojas-sin-alcohol-750ml-85901100011/p
 "Licor, Cerveza y Vino",Vino Tinto De Mesa Don Símon -1000 Ml,388.00 USD (x1),388.00 USD (x1),https://www.superxtra.com/vino-tinto-de-mesa-don-simon--1000-ml-8410261271101/p
@@ -1285,10 +1284,10 @@ Supermercado,Tasajo de Res Ahumado Por Libra,777.00 USD (x1),777.00 USD (x1),htt
 "Licor, Cerveza y Vino",Clos De Pirque Vino Tinto 2lt,540.00 USD (x1),640.00 USD (x1),https://www.superxtra.com/clos-de-pirque-vino-tinto-2lt/p
 "Licor, Cerveza y Vino",Cerveza Modelo Botella 355ml,123.00 USD (x1),123.00 USD (x1),https://www.superxtra.com/cerveza-modelo-botella-355ml-75031602/p
 "Licor, Cerveza y Vino",Jagermeister 6X700ml. 35%,2101.00 USD (x1),2101.00 USD (x1),https://www.superxtra.com/jagermeister-6x700ml-35-4067700014559/p
-"Licor, Cerveza y Vino",Ron Zacapa Centenario 23 Años,3429.00 USD (x1),4034.00 USD (x1),https://www.superxtra.com/ron-zacapa-centenario-23-anos-750-7401005008597/p
+"Licor, Cerveza y Vino",Ron Zacapa Centenario 23 Años,3958.00 USD (x1),3958.00 USD (x1),https://www.superxtra.com/ron-zacapa-centenario-23-anos-750-7401005008597/p
 "Licor, Cerveza y Vino",Vino Marquez De Caceres Tinto Crianza,1470.00 USD (x1),1470.00 USD (x1),https://www.superxtra.com/vino-marquez-de-caceres-tinto-crianza-8410406311006/p
 "Licor, Cerveza y Vino",Vino Freixenet Carta Nevada Bot 750 ml,1435.00 USD (x1),1435.00 USD (x1),https://www.superxtra.com/freixenet-carta-nevada-bot-750-ml-8410036002015/p
-"Licor, Cerveza y Vino",Absolut Blue 375ml,819.00 USD (x1),963.00 USD (x1),https://www.superxtra.com/absolut-blue-x375ml-7312040017591/p
+"Licor, Cerveza y Vino",Absolut Blue 375ml,868.00 USD (x1),868.00 USD (x1),https://www.superxtra.com/absolut-blue-x375ml-7312040017591/p
 "Licor, Cerveza y Vino",Absolut 12 1000Cc,2393.00 USD (x1),2393.00 USD (x1),https://www.superxtra.com/absolut-12-1000cc--lt-7312040017034/p
 "Licor, Cerveza y Vino",Budweiser Lata 355 ml,109.00 USD (x1),109.00 USD (x1),https://www.superxtra.com/budweiser-lata-355-ml-x-18200001819/p
 "Licor, Cerveza y Vino",Vino Riunite 750 ML Blackberry Merlot,575.00 USD (x1),575.00 USD (x1),https://www.superxtra.com/vino-riunite-750-ml-blackberry-merlot-89744765819/p
@@ -1318,7 +1317,7 @@ Supermercado,Tasajo de Res Ahumado Por Libra,777.00 USD (x1),777.00 USD (x1),htt
 "Licor, Cerveza y Vino",Whisky Old Parr 500 Ml Botella De Vidrio,2288.00 USD (x1),2288.00 USD (x1),https://www.superxtra.com/whisky-old-parr-500-ml-botella-de-vidrio/p
 "Licor, Cerveza y Vino",Whisky Old Parr 18 Años 750 Ml,8000.00 USD (x1),8000.00 USD (x1),https://www.superxtra.com/whisky-old-parr-18-anos-750-ml/p
 "Licor, Cerveza y Vino",Whisky Old Parr 1000 Ml Botella De Vidrio,4374.00 USD (x1),4374.00 USD (x1),https://www.superxtra.com/whisky-old-parr-1000-ml-botella-de-vidrio/p
-"Licor, Cerveza y Vino",Whisky Chivas Regal 750 Ml,2965.00 USD (x1),3488.00 USD (x1),https://www.superxtra.com/whisky-chivas-regal-750-ml/p
+"Licor, Cerveza y Vino",Whisky Chivas Regal 750 Ml,3492.00 USD (x1),3492.00 USD (x1),https://www.superxtra.com/whisky-chivas-regal-750-ml/p
 "Licor, Cerveza y Vino",Whisky Chanceler 1 Lt,1134.00 USD (x1),1134.00 USD (x1),https://www.superxtra.com/whisky-chanceler-1-lt/p
 "Licor, Cerveza y Vino",Whisky Buchanans 750 Ml Botella De Vidrio,3500.00 USD (x1),3800.00 USD (x1),https://www.superxtra.com/whisky-buchanans-750-ml-botella-de-vidrio/p
 "Licor, Cerveza y Vino",Whisky Black & White 750 Ml Botella De Vidrio,1056.00 USD (x1),1056.00 USD (x1),https://www.superxtra.com/whisky-black-white-750-ml-botella-de-vidrio/p
@@ -1329,15 +1328,15 @@ Supermercado,Tasajo de Res Ahumado Por Libra,777.00 USD (x1),777.00 USD (x1),htt
 "Licor, Cerveza y Vino",Vodka Smirnoff 1750 Ml Botella De Vidrio,2107.00 USD (x1),2107.00 USD (x1),https://www.superxtra.com/vodka-smirnoff-1750-ml-botella-de-vidrio/p
 "Licor, Cerveza y Vino",Vodka Smirnoff 1000 Ml Botella De Vidrio,1274.00 USD (x1),1274.00 USD (x1),https://www.superxtra.com/vodka-smirnoff-1000-ml-botella-de-vidrio/p
 "Licor, Cerveza y Vino",Vodka Green Apple Smirnoff 350 Ml Lata,92.00 USD (x1),98.00 USD (x1),https://www.superxtra.com/vodka-green-apple-smirnoff-350-ml-lata/p
-"Licor, Cerveza y Vino",Vodka Absolut 750 Ml Botella,1484.00 USD (x1),1746.00 USD (x1),https://www.superxtra.com/vodka-absolut-750-ml-botella/p
+"Licor, Cerveza y Vino",Vodka Absolut 750 Ml Botella,1637.00 USD (x1),1637.00 USD (x1),https://www.superxtra.com/vodka-absolut-750-ml-botella/p
 "Licor, Cerveza y Vino",Vinos Riunite 750 Ml Lambrusco Botella,575.00 USD (x1),575.00 USD (x1),https://www.superxtra.com/vinos-riunite-750-ml-lambrusco-botella/p
 "Licor, Cerveza y Vino",Vino Riunite 750 Ml Strawberry,575.00 USD (x1),575.00 USD (x1),https://www.superxtra.com/vino-riunite-750-ml-strawberry/p
 "Licor, Cerveza y Vino",Vino Riunite 750 Ml Rosado,575.00 USD (x1),575.00 USD (x1),https://www.superxtra.com/vino-riunite-750-ml-rosado/p
 "Licor, Cerveza y Vino",Vino Riunite 750 Ml Raspberry,575.00 USD (x1),575.00 USD (x1),https://www.superxtra.com/vino-riunite-750-ml-raspberry/p
-"Licor, Cerveza y Vino",Vino Riunite 750 Ml Peach,475.00 USD (x1),575.00 USD (x1),https://www.superxtra.com/vino-riunite-750-ml-peach/p
-"Licor, Cerveza y Vino",Vino Riunite 750 Ml Moscato,475.00 USD (x1),575.00 USD (x1),https://www.superxtra.com/vino-riunite-750-ml-moscato/p
+"Licor, Cerveza y Vino",Vino Riunite 750 Ml Peach,515.00 USD (x1),515.00 USD (x1),https://www.superxtra.com/vino-riunite-750-ml-peach/p
+"Licor, Cerveza y Vino",Vino Riunite 750 Ml Moscato,515.00 USD (x1),515.00 USD (x1),https://www.superxtra.com/vino-riunite-750-ml-moscato/p
 "Licor, Cerveza y Vino",Vino Riunite 750 Ml Lancellota,575.00 USD (x1),575.00 USD (x1),https://www.superxtra.com/vino-riunite-750-ml-lancellota/p
-"Licor, Cerveza y Vino",Vino Riunite 750 Ml Blanco,475.00 USD (x1),575.00 USD (x1),https://www.superxtra.com/vino-riunite-750-ml-blanco/p
+"Licor, Cerveza y Vino",Vino Riunite 750 Ml Blanco,515.00 USD (x1),515.00 USD (x1),https://www.superxtra.com/vino-riunite-750-ml-blanco/p
 "Licor, Cerveza y Vino",Vino Reconstituyente Sanson 750 Ml Botella,787.00 USD (x1),787.00 USD (x1),https://www.superxtra.com/vino-reconstituyente-sanson-750-ml-botella/p
 "Licor, Cerveza y Vino",Vino Reconstituyente Sanson 375 Ml Botella,440.00 USD (x1),440.00 USD (x1),https://www.superxtra.com/vino-reconstituyente-sanson-375-ml-botella/p
 "Licor, Cerveza y Vino",Vino Reconstituyente Sanson 1000 Ml Botella,906.00 USD (x1),906.00 USD (x1),https://www.superxtra.com/vino-reconstituyente-sanson-1000-ml-botella/p
@@ -1417,8 +1416,8 @@ Supermercado,Tasajo de Res Ahumado Por Libra,777.00 USD (x1),777.00 USD (x1),htt
 "Licor, Cerveza y Vino",Cerveza Heineken Mini Original Botella 250 ML,100.00 USD (x1),100.00 USD (x1),https://www.superxtra.com/cerveza-heineken-mini-original-botella-250-ml/p
 "Licor, Cerveza y Vino",Cerveza Coors Light Lata 10 Oz,75.00 USD (x1),75.00 USD (x1),https://www.superxtra.com/cerveza-coors-light-lata-10-oz/p
 "Licor, Cerveza y Vino",Cerveza Old Milwaukee Light 355ml,114.00 USD (x1),114.00 USD (x1),https://www.superxtra.com/cerveza-old-milwaukee-light-355ml/p
-"Licor, Cerveza y Vino",Vino Barefoot 750 Ml Pink Moscato,676.00 USD (x1),795.00 USD (x1),https://www.superxtra.com/vino-barefoot-750-ml-pink-moscato/p
-"Licor, Cerveza y Vino",Vino Barefoot 750 Ml Moscato,676.00 USD (x1),795.00 USD (x1),https://www.superxtra.com/vino-barefoot-750-ml-moscato/p
+"Licor, Cerveza y Vino",Vino Barefoot 750 Ml Pink Moscato,675.00 USD (x1),675.00 USD (x1),https://www.superxtra.com/vino-barefoot-750-ml-pink-moscato/p
+"Licor, Cerveza y Vino",Vino Barefoot 750 Ml Moscato,675.00 USD (x1),675.00 USD (x1),https://www.superxtra.com/vino-barefoot-750-ml-moscato/p
 "Licor, Cerveza y Vino",Cerveza Bavaria Sin Alcohol 330 ML,71.00 USD (x1),71.00 USD (x1),https://www.superxtra.com/cerveza-bavaria-sin-alcohol-330-ml/p
 "Licor, Cerveza y Vino",Cerveza Balboa Ice 355 Ml Lata,75.00 USD (x1),75.00 USD (x1),https://www.superxtra.com/cerveza-balboa-ice-355-ml-lata/p
 "Licor, Cerveza y Vino",Bebida De Vodka Mezclada Lata Smirnoff 350 Ml Raspberry,109.00 USD (x1),109.00 USD (x1),https://www.superxtra.com/bebida-de-vodka-mezclada-lata-smirnoff-350-ml-raspberry/p
@@ -1428,6 +1427,7 @@ Supermercado,Tasajo de Res Ahumado Por Libra,777.00 USD (x1),777.00 USD (x1),htt
 "Licor, Cerveza y Vino",Cerveza Paulaner Weissbier En Lata 500 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/cerveza-paulaner-weissbier-en-lata-500-ml-10599265-4066600292326/p
 "Licor, Cerveza y Vino",Cerveza 3 Horses Xtra Imported Lager 330 ml,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/cerveza-3-horses-xtra-imported-lager-330-ml-10468274-87250602/p
 "Licor, Cerveza y Vino",Licor Anisado Refinado Anisdelmono Seco 700 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/licor-anisado-refinado-anisdelmono-seco-700-ml-10571630-8410337220088/p
+"Licor, Cerveza y Vino",Ron Carta Blanca Bacardi 750 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/ron-carta-blanca-bacardi-750-ml-10598237-7610113024416/p
 "Licor, Cerveza y Vino",Vino Sparkling Cosmopolitan Diva 750 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/vino-sparkling-cosmopolitan-diva-750-ml-10481485-4750012029853/p
 "Licor, Cerveza y Vino",Sidra Angry Orchard Crisp Apple 355 ml,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/angry-orchard-cerveza-de-manzana-samueladams-botella-355-ml-87692821007/p
 "Licor, Cerveza y Vino",Cerveza Boston Lager Samueladams Botella 355 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/cerveza-boston-lager-samueladams-botella-355-ml-87692000051/p
@@ -4604,8 +4604,9 @@ Bebes,Cereal Infantil Nutribom 230 Gr Arroz,193.00 USD (x1),193.00 USD (x1),http
 Linea Blanca y Electrodomesticos,Porotos Like Rojos 1 LB,96.00 USD (x1),96.00 USD (x1),https://www.superxtra.com/porotos-like-rojos-1-lb-10545171-5557547/p
 Linea Blanca y Electrodomesticos,Cafetera Home Power 6 Tazas WJ-9008,598.00 USD (x1),598.00 USD (x1),https://www.superxtra.com/cafetera-home-power-6-tazas-wj-9008/p
 Linea Blanca y Electrodomesticos,"Abanico De Techo 20"" Carbone Socket Con Luz Led Ajustable 520X185 MM",1348.00 USD (x1),1348.00 USD (x1),https://www.superxtra.com/abanico-de-techo-20-carbone-socket-con-luz-led-ajustable-520x185-mm-10605782-7452999796281/p
+Linea Blanca y Electrodomesticos,Bocina Sankey Recargable PA-8DC505,1798.00 USD (x1),1798.00 USD (x1),https://www.superxtra.com/bocinasankey-recargable-pa-8dc505/p
 Linea Blanca y Electrodomesticos,Sandwichera Premier ED 8509B,598.00 USD (x1),598.00 USD (x1),https://www.superxtra.com/sandwichera-premier-ed-8509b/p
-Linea Blanca y Electrodomesticos,Bocina Sankey Recargable PA-8DC505,1198.00 USD (x1),1798.00 USD (x1),https://www.superxtra.com/bocinasankey-recargable-pa-8dc505/p
+Linea Blanca y Electrodomesticos,Abanico 10 Pulgadas Plástico Colores Surtidos,998.00 USD (x1),998.00 USD (x1),https://www.superxtra.com/abanico-10-pulgadas-plastico-colores-surtidos/p
 Linea Blanca y Electrodomesticos,Sandwichera Premier ED-8508B,598.00 USD (x1),598.00 USD (x1),https://www.superxtra.com/sandwichera-premier-ed-8508b/p
 Linea Blanca y Electrodomesticos,Arrocera Home Power Vaporizador 1.5 L HT15A,2198.00 USD (x1),2198.00 USD (x1),https://www.superxtra.com/arrocera-home-power-vaporizador-1-5-l-ht15a/p
 Linea Blanca y Electrodomesticos,Cafetera Home Power Wj-9009,1499.00 USD (x1),1499.00 USD (x1),https://www.superxtra.com/cafetera-home-power-wj-9009/p
@@ -4695,7 +4696,6 @@ Linea Blanca y Electrodomesticos,Regulador de presión de gas para estufas | F-4
 Linea Blanca y Electrodomesticos,Picatodo Sankey Mx-157G,1999.00 USD (x1),1999.00 USD (x1),https://www.superxtra.com/picatodo-sankey-mx-157g/p
 Linea Blanca y Electrodomesticos,Cafetera Eléctrica Premier Modelo ED-6979C,1298.00 USD (x1),1298.00 USD (x1),https://www.superxtra.com/cafetera-electrica-premier-modelo-ed-6979c/p
 Linea Blanca y Electrodomesticos,Abanico De Plástico - Colores Surtidos,2198.00 USD (x1),2198.00 USD (x1),https://www.superxtra.com/abanico-de-plastico-colores-surtidos/p
-Linea Blanca y Electrodomesticos,Abanico 10 Pulgadas Plástico Colores Surtidos,998.00 USD (x1),998.00 USD (x1),https://www.superxtra.com/abanico-10-pulgadas-plastico-colores-surtidos/p
 Linea Blanca y Electrodomesticos,ESTUFA DE 20″ CON 4 QUEMADORES | STE-2501RBPHFSG,7999.00 USD (x1),7999.00 USD (x1),https://www.superxtra.com/estufa-nst-blanca-4-quemadores-con-horno-20/p
 Linea Blanca y Electrodomesticos,ESTUFA DE 20″ CON 4 QUEMADORES | STE-1522SG,6999.00 USD (x1),6999.00 USD (x1),https://www.superxtra.com/estufa-blanca-nst-4-quemadores-con-horno-20/p
 Linea Blanca y Electrodomesticos,Baterías Tipo D Duracell,607.00 USD (x1),607.00 USD (x1),https://www.superxtra.com/baterias-tipo-d-duracell/p
