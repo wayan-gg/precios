@@ -234,6 +234,7 @@ Supermercado,Ñame Diamante Por Media Libra,209.00 USD (x1),209.00 USD (x1),http
 Supermercado,Mazorca Cerro Punta Empacada 1 Und,150.00 USD (x1),150.00 USD (x1),https://www.superxtra.com/mazorca-cerro-punta-1-un-empacada/p
 Supermercado,Manzana Roja Por Media Libra,188.00 USD (x1),188.00 USD (x1),https://www.superxtra.com/manzana-roja-por-libra-3-unidades-aproximadas-por-libra/p
 Supermercado,Mango Por Media Libra,229.00 USD (x1),229.00 USD (x1),https://www.superxtra.com/mango-por-libra/p
+Supermercado,Malta Vigor 1000 ML Pet,112.00 USD (x1),149.00 USD (x1),https://www.superxtra.com/malta-vigor-1000-ml-pet/p
 Supermercado,Zanahoria 5Lb Por Media Libra,395.00 USD (x1),395.00 USD (x1),https://www.superxtra.com/zanahoria-10x5lb50lb-vza010-por-media-libra/p
 Supermercado,Uvas Rojas Con Semilla Por Media Libra,457.00 USD (x1),457.00 USD (x1),https://www.superxtra.com/uvas-rojas-con-semilla-por-libra/p
 Supermercado,Tomate Perita Cosechas De Mi Tierra Por Media Libra,493.00 USD (x1),493.00 USD (x1),https://www.superxtra.com/tomate-perita-cosechas-de-mi-tierra/p
@@ -479,7 +480,6 @@ Supermercado,Muslos de Pollo Melo en Bandeja Por Libra,325.00 USD (x1),382.00 US
 Supermercado,Mortadela America Star Por Media Libra,272.00 USD (x1),272.00 USD (x1),https://www.superxtra.com/mortadela-america-star-por-libra/p
 Supermercado,Mondongo Por Libra,274.00 USD (x1),274.00 USD (x1),https://www.superxtra.com/mondongo-por-libra/p
 Supermercado,Malta Vigor 1400 ML Pet,164.00 USD (x1),184.00 USD (x1),https://www.superxtra.com/malta-vigor-1400-ml-pet/p
-Supermercado,Malta Vigor 1000 ML Pet,112.00 USD (x1),149.00 USD (x1),https://www.superxtra.com/malta-vigor-1000-ml-pet/p
 Supermercado,Lomo Redondo Por Libra,783.00 USD (x1),783.00 USD (x1),https://www.superxtra.com/lomo-redondo-por-libra/p
 Supermercado,Yogurt Bonie Beb Fruit Punch Jelly 100Ml,47.00 USD (x1),47.00 USD (x1),https://www.superxtra.com/yogurt-bonie-beb-fruit-punch-jelly-100ml/p
 Supermercado,Tocino Kiener Ahumado en Pieza Por Media Libra,1499.00 USD (x1),1499.00 USD (x1),https://www.superxtra.com/tocino-kiener-ahumado-en-pieza-por-media-libra/p
@@ -575,7 +575,7 @@ Supermercado,Oregano La Doña 120 gr En Sobre,165.00 USD (x1),165.00 USD (x1),ht
 Supermercado,Pimienta La Doña 200 gr Molida,295.00 USD (x1),295.00 USD (x1),https://www.superxtra.com/pimienta-la-dona-200-gr-molida/p
 Supermercado,Curry La Doña 25 gr En Sobre,38.00 USD (x1),38.00 USD (x1),https://www.superxtra.com/curry-la-dona-25-gr-en-sobre/p
 Supermercado,Pimienta La Doña 50 gr Molida En Bolsa,64.00 USD (x1),64.00 USD (x1),https://www.superxtra.com/pimienta-la-dona-50-gr-molida-en-bolsa/p
-Supermercado,Salsa de Tomate Naturas Ranchera 106 g,93.00 USD (x1),93.00 USD (x1),https://www.superxtra.com/salsa-de-tomate-naturas-106-gr-ranchera/p
+Supermercado,Salsa de Tomate Naturas Ranchera 106 g,81.00 USD (x1),81.00 USD (x1),https://www.superxtra.com/salsa-de-tomate-naturas-106-gr-ranchera/p
 Supermercado,Salsa de Tomate Naturas Con Hongo 106 g,88.00 USD (x1),88.00 USD (x1),https://www.superxtra.com/salsa-de-tomate-naturas-106-gr-con-hongo/p
 Supermercado,Salsa De Tomate Naturas 210 gr Ranchera,144.00 USD (x1),144.00 USD (x1),https://www.superxtra.com/salsa-de-tomate-naturas-210-gr-ranchera/p
 Supermercado,Ketchup Heinz 397 gr Salsa De Tomate,200.00 USD (x1),200.00 USD (x1),https://www.superxtra.com/ketchup-heinz-397-gr-salsa-de-tomate/p
@@ -2635,7 +2635,7 @@ Limpieza del Hogar y Ropa,Bolsa de Basura Zesta Gigante 32X40 6 Un Negra,192.00 
 Limpieza del Hogar y Ropa,Papel Higiénico Unico 4 ROLLOS Rendimiento Máximo 4000 Hojas,247.00 USD (x1),247.00 USD (x1),https://www.superxtra.com/papel-higienico-unico-4-rollos-rendimiento-ma-imo-4000-hojas/p
 Limpieza del Hogar y Ropa,Servilleta Delux 100 UND Con Dispensador,68.00 USD (x1),68.00 USD (x1),https://www.superxtra.com/servilleta-delu--100-und-con-dispensador/p
 Limpieza del Hogar y Ropa,Papel Toalla Delux 3 ROLLOS Blanco,300.00 USD (x1),300.00 USD (x1),https://www.superxtra.com/papel-toalla-delu--3-rollos-blanco/p
-Limpieza del Hogar y Ropa,Papel Toalla Delux 2 Rollos Natural 140 Hojas Dobles,170.00 USD (x1),190.00 USD (x1),https://www.superxtra.com/papel-toalla-delu--2-rollos-natural-140-hojas-dobles/p
+Limpieza del Hogar y Ropa,Papel Toalla Delux 2 Rollos Natural 140 Hojas Dobles,185.00 USD (x1),185.00 USD (x1),https://www.superxtra.com/papel-toalla-delu--2-rollos-natural-140-hojas-dobles/p
 Limpieza del Hogar y Ropa,Papel Higiénico Unico 2 ROLLOS Rendimiento Máximo 2000 Hojas,161.00 USD (x1),161.00 USD (x1),https://www.superxtra.com/papel-higienico-unico-2-rollos-rendimiento-ma-imo-2000-hojas/p
 Limpieza del Hogar y Ropa,Crema Lavaplatos Spum Verde 800 gr,225.00 USD (x1),225.00 USD (x1),https://www.superxtra.com/crema-lavaplatos-spum-verde-800-gr/p
 Limpieza del Hogar y Ropa,Limpiador Para Baño Otros 3 UN Pastilla Azul,116.00 USD (x1),116.00 USD (x1),https://www.superxtra.com/limpiador-bano-otros-3-un-pastilla-azul/p
@@ -2742,6 +2742,7 @@ Limpieza del Hogar y Ropa,Quita Manchas Poder O2 Crystal White 450Gr Vanish,381.
 Limpieza del Hogar y Ropa,Liquido Verde 500Ml Pato Advance,370.00 USD (x1),370.00 USD (x1),https://www.superxtra.com/liquido-verde-500ml-pato-advance-7501032902742/p
 Limpieza del Hogar y Ropa,Mr. Músculo Baños Repuesto 500ml,257.00 USD (x1),257.00 USD (x1),https://www.superxtra.com/mr-musculo-banos-repuesto-500ml-7501032906863/p
 Limpieza del Hogar y Ropa,Mota Algodón Para Trapeador Multiplast 500 G,349.00 USD (x1),349.00 USD (x1),https://www.superxtra.com/mota-algodon-para-trapeador-multiplast-500-g-85907301115/p
+Limpieza del Hogar y Ropa,Sip Liq Limp Para Biberones Sachet 800G,299.00 USD (x1),299.00 USD (x1),https://www.superxtra.com/sip-liq-limp-para-biberones-sachet-800g-18718402740/p
 Limpieza del Hogar y Ropa,Motas Para Trapeador Nylon Multiplast 400 G,309.00 USD (x1),309.00 USD (x1),https://www.superxtra.com/motas-para-trapeador-nylon-multiplast-400-g-85907301528/p
 Limpieza del Hogar y Ropa,Pastilla Terror Bouquet 50 G,50.00 USD (x1),50.00 USD (x1),https://www.superxtra.com/pastilla-terror-bouquet-50-g-748928000190/p
 Limpieza del Hogar y Ropa,Ambientador Bonaire Varitas Bambu 40 Ml,339.00 USD (x1),339.00 USD (x1),https://www.superxtra.com/ambientador-bonaire-varitas-bambu-40-ml-7702532476836/p
@@ -2779,6 +2780,7 @@ Limpieza del Hogar y Ropa,Detergente en Polvo 4D 2800 GR Bicarbonato y Aloe Vera
 Limpieza del Hogar y Ropa,Pastilla Aromatizante Prolat 55 GR Fruti Mix,50.00 USD (x1),50.00 USD (x1),https://www.superxtra.com/pastilla-aromatizante-prolat-55-gr-fruti-mi/p
 Limpieza del Hogar y Ropa,Esponja Eterna 2 UN Multiuso,153.00 USD (x1),153.00 USD (x1),https://www.superxtra.com/esponja-eterna-2-un-multiuso/p
 Limpieza del Hogar y Ropa,Esponja Scotch Brite Limpieza Delicada Cero Rayas Cocina 2 und,202.00 USD (x1),238.00 USD (x1),https://www.superxtra.com/esponja-scotch-brite-limpieza-delicada-cero-rayas-cocina-2-und/p
+Limpieza del Hogar y Ropa,Escoba Kika 1 UND Bimba,143.00 USD (x1),143.00 USD (x1),https://www.superxtra.com/escoba-kika-1-und-bimba/p
 Limpieza del Hogar y Ropa,Escoba Super Lola 1 UND Super Lola,310.00 USD (x1),310.00 USD (x1),https://www.superxtra.com/escoba-super-lola-1-und-super-lola/p
 Limpieza del Hogar y Ropa,Esponja para Fregar Aureola 1 unidad,79.00 USD (x1),79.00 USD (x1),https://www.superxtra.com/esponja-fregar-aureola-1-unidad/p
 Limpieza del Hogar y Ropa,Crema Lavaplatos Super Xtra Limón 425 gr,112.00 USD (x1),112.00 USD (x1),https://www.superxtra.com/crema-lavaplatos-super--tra-limon-425-gr/p
@@ -2856,7 +2858,6 @@ Limpieza del Hogar y Ropa,Bolsas Flat Like 7X12 100U,103.00 USD (x1),103.00 USD 
 Limpieza del Hogar y Ropa,Quita Manchas Blanco Supremo Ropa Clorox,383.00 USD (x1),449.00 USD (x1),https://www.superxtra.com/quita-manchas-blanco-supremo-ropa-clorox-7441000372040/p
 Limpieza del Hogar y Ropa,Mr. Músculo Vidrios Limpiador Líquido 500 ml,216.00 USD (x1),362.00 USD (x1),https://www.superxtra.com/mr-musculo-vidrios-limpiador-liquido-500-ml-7706800148203/p
 Limpieza del Hogar y Ropa,Glade Aceites Naturales Aromatizante Líquido Eléctrico Mora Radiante 21 ml c/u 3 Repuestos,1035.00 USD (x1),1035.00 USD (x1),https://www.superxtra.com/glade-aceites-naturales-aromatizante-liquido-electrico-mora-radiante-21-ml-c-u-3-repuestos-7501032930882/p
-Limpieza del Hogar y Ropa,Sip Liq Limp Para Biberones Sachet 800G,299.00 USD (x1),299.00 USD (x1),https://www.superxtra.com/sip-liq-limp-para-biberones-sachet-800g-18718402740/p
 Limpieza del Hogar y Ropa,Vaso Foam Convermex 6 OZ 25 Un,73.00 USD (x1),73.00 USD (x1),https://www.superxtra.com/vaso-foam-convermex-6-oz-25-un-7501431201064/p
 Limpieza del Hogar y Ropa,Papel Toalla Delux 6 Rollos Natural 70 Dobles Hojas,424.00 USD (x1),424.00 USD (x1),https://www.superxtra.com/toalla-delux-natural-70-hojas-88689003055/p
 Limpieza del Hogar y Ropa,Esponja Anatómica Superficies Delicadas Contraste Naranja 2 Pack,234.00 USD (x1),234.00 USD (x1),https://www.superxtra.com/esponja-evita-fibra-anatomica-no-raya-757962048372/p
@@ -2887,7 +2888,6 @@ Limpieza del Hogar y Ropa,Papel Higiénico Super Xtra 2 UND 2000 Hoja Sencilla,1
 Limpieza del Hogar y Ropa,Esponja Scotch Brite Limpieza Profa más Rápida Extrema 1 und,124.00 USD (x1),124.00 USD (x1),https://www.superxtra.com/esponja-scotch-brite-limpieza-profa-mas-rapida-e-trema-1-und/p
 Limpieza del Hogar y Ropa,Esponja Scotch Brite Limpieza Pesada Cuadrada Gigante 1 und,147.00 USD (x1),147.00 USD (x1),https://www.superxtra.com/esponja-scotch-brite-limpieza-pesada-cuadrada-gigante-1-und/p
 Limpieza del Hogar y Ropa,Esponja Scotch Brite Limpieza Delicada Cero Rayas Baño 2 und,357.00 USD (x1),357.00 USD (x1),https://www.superxtra.com/esponja-scotch-brite-limpieza-delicada-cero-rayas-bano-2-und/p
-Limpieza del Hogar y Ropa,Escoba Kika 1 UND Bimba,143.00 USD (x1),143.00 USD (x1),https://www.superxtra.com/escoba-kika-1-und-bimba/p
 Limpieza del Hogar y Ropa,Escoba Super Florencia 1 UN Utensilios de Limpieza,352.00 USD (x1),352.00 USD (x1),https://www.superxtra.com/escoba-super-florencia-1-un-utensilios-limpieza/p
 Limpieza del Hogar y Ropa,Crema Lavaplatos Super Xtra Rosa 425 gr,108.00 USD (x1),108.00 USD (x1),https://www.superxtra.com/crema-lavaplatos-super--tra-rosa-425-gr/p
 Limpieza del Hogar y Ropa,Glade Aromatizante en Aerosol Campos de Lavanda 275 ml,229.00 USD (x1),229.00 USD (x1),https://www.superxtra.com/glade-aromatizante-en-aerosol-campos-de-lavanda-275-ml/p
@@ -4598,11 +4598,11 @@ Bebes,Cereal Infantil Nutribom 230 Gr Multigranos,193.00 USD (x1),193.00 USD (x1
 Bebes,Cereal Infantil Nutribom 230 Gr Banana,194.00 USD (x1),194.00 USD (x1),https://www.superxtra.com/cereal-infantil-nutribom-230-gr-banana/p
 Bebes,Cereal Infantil Nutribom 230 Gr Avena,194.00 USD (x1),194.00 USD (x1),https://www.superxtra.com/cereal-infantil-nutribom-230-gr-avena/p
 Bebes,Cereal Infantil Nutribom 230 Gr Arroz,193.00 USD (x1),193.00 USD (x1),https://www.superxtra.com/cereal-infantil-nutribom-230-gr-arroz/p
+Linea Blanca y Electrodomesticos,Licuadora Premier ED-9353GL,1098.00 USD (x1),1098.00 USD (x1),https://www.superxtra.com/licuadora-premier-ed-9353gl/p
 Linea Blanca y Electrodomesticos,Porotos Like Rojos 1 LB,112.00 USD (x1),112.00 USD (x1),https://www.superxtra.com/porotos-like-rojos-1-lb-10545171-5557547/p
 Linea Blanca y Electrodomesticos,Cafetera Home Power 6 Tazas WJ-9008,598.00 USD (x1),598.00 USD (x1),https://www.superxtra.com/cafetera-home-power-6-tazas-wj-9008/p
 Linea Blanca y Electrodomesticos,Bocina Sankey Recargable PA-8DC505,1798.00 USD (x1),1798.00 USD (x1),https://www.superxtra.com/bocinasankey-recargable-pa-8dc505/p
 Linea Blanca y Electrodomesticos,Sandwichera Premier ED 8509B,598.00 USD (x1),598.00 USD (x1),https://www.superxtra.com/sandwichera-premier-ed-8509b/p
-Linea Blanca y Electrodomesticos,Licuadora Premier ED-9353GL,1098.00 USD (x1),1098.00 USD (x1),https://www.superxtra.com/licuadora-premier-ed-9353gl/p
 Linea Blanca y Electrodomesticos,"Abanico 18"" de Pedestal | AB-8124-5BP",1698.00 USD (x1),1698.00 USD (x1),https://www.superxtra.com/abanico-premier-de-pedestal-18-7453064736027/p
 Linea Blanca y Electrodomesticos,Abanico 10 Pulgadas Plástico Colores Surtidos,998.00 USD (x1),998.00 USD (x1),https://www.superxtra.com/abanico-10-pulgadas-plastico-colores-surtidos/p
 Linea Blanca y Electrodomesticos,"Abanico De Techo 20"" Carbone Socket Con Luz Led Ajustable 520X185 MM",1298.00 USD (x1),1298.00 USD (x1),https://www.superxtra.com/abanico-de-techo-20-carbone-socket-con-luz-led-ajustable-520x185-mm-10605782-7452999796281/p
@@ -5850,6 +5850,7 @@ Xtra Farmacia,Toallitas Húmedas Like Para Bebés 30 UN,61.00 USD (x1),61.00 USD
 Xtra Farmacia,Panadol Ultra Glaxo-Gskotc X 16 UN,247.00 USD (x1),353.00 USD (x1),https://www.superxtra.com/panadol-ultra-glaxo-gskotc-x-16-un-10349589-7451079003660/p
 Xtra Farmacia,Clotrimazol 1% Crema Topica Calox Holding Tubo 20 G,364.00 USD (x1),364.00 USD (x1),https://www.superxtra.com/clotrimazol-1-crema-topica-calox-holding-tubo-20-g-769229032710/p
 Xtra Farmacia,Lisinopril Cinfa 20Mg X Un,42.00 USD (x1),53.00 USD (x1),https://www.superxtra.com/lisinopril-cinfa-20mg-x-un-1030469000197/p
+Xtra Farmacia,Zorritone Ancalmo Barra Miel Limon X Un,59.00 USD (x1),59.00 USD (x1),https://www.superxtra.com/zorritone-ancalmo-barra-miel-limon-x-un-765446073987/p
 Xtra Farmacia,Cremoquinona 4 Crema 30 G,1807.00 USD (x1),1807.00 USD (x1),https://www.superxtra.com/cremoquinona-4-crema-30-g-7702195104572/p
 Xtra Farmacia,Canesten Clotrimazol Triple Accion 15 Gr,831.00 USD (x1),1108.00 USD (x1),https://www.superxtra.com/canesten-clotrimazol-triple-accion-15-gr-11418850781/p
 Xtra Farmacia,Acetaminofen 500Mg 20 Tabletas,153.00 USD (x1),204.00 USD (x1),https://www.superxtra.com/acetaminofen-500mg-20-tabletas-11418955561/p
@@ -5865,7 +5866,6 @@ Xtra Farmacia,Alcohol Al 95° Lux Con Atomizador 16 OZ,205.00 USD (x1),205.00 US
 Xtra Farmacia,Toallitas Húmedas Para Bebé Water Wipes 180 UN,1043.00 USD (x1),1043.00 USD (x1),https://www.superxtra.com/toallitas-humedas-waterwipes-para-bebe-180-un-10584410-5099514001660/p
 Xtra Farmacia,Albendazol Mk 200 Mg X Un,60.00 USD (x1),75.00 USD (x1),https://www.superxtra.com/albendazol-mk-200-mg-x-un-1030002801861/p
 Xtra Farmacia,Metronidazol Leman Pharma 500Mg X Un,76.00 USD (x1),95.00 USD (x1),https://www.superxtra.com/metronidazol-leman-pharma-500mg-x-un-1032100590036/p
-Xtra Farmacia,Zorritone Ancalmo Barra Miel Limon X Un,59.00 USD (x1),59.00 USD (x1),https://www.superxtra.com/zorritone-ancalmo-barra-miel-limon-x-un-765446073987/p
 Xtra Farmacia,Tabcin Efervecente Gripe Y Tos 60 Tabletas,1836.00 USD (x1),2448.00 USD (x1),https://www.superxtra.com/tabcin-efervecente-gripe-y-tos-60-tabletas-11418218604/p
 Xtra Farmacia,PeptoBismol 473Ml 16Onz,993.00 USD (x1),1324.00 USD (x1),https://www.superxtra.com/peptobismol-473ml-16onz-301490039373/p
 Xtra Farmacia,Fosfocil G.U Granulado X 1 Dos,1302.00 USD (x1),1628.00 USD (x1),https://www.superxtra.com/fosfocil-g-u-granulado-x-1-dos-7501314701773/p
