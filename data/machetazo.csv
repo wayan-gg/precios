@@ -21,7 +21,6 @@ Supermercado,Aceite de Oliva Bertolli Suave Clásico|500ml,659.00 USD (x1),659.0
 Supermercado,Desinfectante Clorox Anti Splash|473ml,87.00 USD (x1),87.00 USD (x1),https://www.elmachetazo.com/desinfectante-clorox-anti-splash473ml-10767858/p
 Supermercado,Frijol Chiricano Camelia|1 lb,149.00 USD (x1),149.00 USD (x1),https://www.elmachetazo.com/frijol-chiricano-camelia-1-lb-10731975/p
 Supermercado,Bebida Polvo Pera Livean 9g,35.00 USD (x1),35.00 USD (x1),https://www.elmachetazo.com/bebida-polvo-pera-livean-9g-10029872/p
-Supermercado,Alas de Pollo Caribeño Bandeja,515.00 USD (x1),515.00 USD (x1),https://www.elmachetazo.com/alas-de-pollo-caribeno-bandeja-10797410/p
 Supermercado,Galleta Soda Pascual 27g Caja 18 Paquetes,273.00 USD (x1),273.00 USD (x1),https://www.elmachetazo.com/galleta-soda-pascual-27g-caja-18-paquetes-10013616/p
 Supermercado,Coditos Familiar La Parmigiana 850g,174.00 USD (x1),174.00 USD (x1),https://www.elmachetazo.com/coditos-familiar-la-parmigiana-850g-10744362/p
 Supermercado,Coditos La Parmigiana 227g,64.00 USD (x1),64.00 USD (x1),https://www.elmachetazo.com/coditos-la-parmigiana-227g-10013107/p
@@ -49,6 +48,7 @@ Supermercado,Galleta Sandwich Vainilla Pascual 30g 12 paquetes,225.00 USD (x1),2
 Supermercado,Lavaplatos Líquido Vel 900 ml,435.00 USD (x1),533.00 USD (x1),https://www.elmachetazo.com/lavaplatos-liquido-vel-900-ml-10032375/p
 Supermercado,Jabon Corporal Antibacterial Protex Avena |110g |6 Pack,525.00 USD (x1),655.00 USD (x1),https://www.elmachetazo.com/jabon-corporal-antibacterial-protex-avena-110g-6-pack-10305071/p
 Supermercado,Jabón Tocador Avena Protex|110g|3 Pack,290.00 USD (x1),345.00 USD (x1),https://www.elmachetazo.com/jabon-tocador-avena-protex110g3-pack-10029881/p
+Supermercado,Alas de Pollo Caribeño Bandeja,515.00 USD (x1),515.00 USD (x1),https://www.elmachetazo.com/alas-de-pollo-caribeno-bandeja-10797410/p
 Supermercado,Vino Sansón 1 Litro,799.00 USD (x1),954.00 USD (x1),https://www.elmachetazo.com/vino-sanson-1-litro-10006630/p
 Supermercado,Azúcar Morena Santa Rosa|2 kg,275.00 USD (x1),275.00 USD (x1),https://www.elmachetazo.com/azucar-morena-santa-rosa-2kg-10610094/p
 Supermercado,Azúcar Blanca La Estrella|2 lb,162.00 USD (x1),162.00 USD (x1),https://www.elmachetazo.com/azucar-blanca-la-estrella-2lb-10037205/p
@@ -208,7 +208,7 @@ Supermercado,Sidra Coctel de Frutas Valentino Sin Alcohol|750ml,269.00 USD (x1),
 Supermercado,Sidra Melocoton Sin Alcohol|750ml,269.00 USD (x1),269.00 USD (x1),https://www.elmachetazo.com/sidra-melocoton-sin-alcohol750ml-10864425/p
 Supermercado,Sidra Cramberry Uva Sin Alcohol|750ml,269.00 USD (x1),269.00 USD (x1),https://www.elmachetazo.com/sidra-cramberry-uva-sin-alcohol750ml-10864424/p
 Supermercado,Nueces Mixtas con Cáscara|400g,389.00 USD (x1),389.00 USD (x1),https://www.elmachetazo.com/nueces-mixtas-con-cascara400-g-10867442/p
-Supermercado,Galletas de Chocolate con Vainilla Treat|12 Unidades,189.00 USD (x1),189.00 USD (x1),https://www.elmachetazo.com/galletas-de-chocolate-con-vainilla-treat12-unidades-10935869/p
+Supermercado,Galletas de Chocolate con Vainilla Treat|12 Unidades,175.00 USD (x1),189.00 USD (x1),https://www.elmachetazo.com/galletas-de-chocolate-con-vainilla-treat12-unidades-10935869/p
 Supermercado,Maretti Bruschette Snack Surtido|3 Unidades,250.00 USD (x1),250.00 USD (x1),https://www.elmachetazo.com/maretti-bruschette-snack-surtido3-unidades-10937378/p
 Supermercado,Nuez con Cáscara Golden Selection|250g,289.00 USD (x1),289.00 USD (x1),https://www.elmachetazo.com/nuez-con-cascara-golden-selection250g-10867436/p
 Supermercado,Champaña Manzana Sin Alcohol Tommy|750ml,319.00 USD (x1),319.00 USD (x1),https://www.elmachetazo.com/champana-manzana-sin-alcohol--tommy750ml-10864420/p
@@ -859,7 +859,7 @@ Supermercado,Agua Aquaviva 1.5 litros,111.00 USD (x1),111.00 USD (x1),https://ww
 Supermercado,Collar para Perro Mediano 3x54cm,369.00 USD (x1),369.00 USD (x1),https://www.elmachetazo.com/collar-para-perro-mediano-3x54cm-10820273/p
 Supermercado,Collar para Perro,169.00 USD (x1),169.00 USD (x1),https://www.elmachetazo.com/collar-para-perro-10820269/p
 Supermercado,Accesorio para Perro 45cm,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/accesorio-para-perro-45cm-10820267/p
-Supermercado,Papas Fritas Cebolla|110g,129.00 USD (x1),129.00 USD (x1),https://www.elmachetazo.com/papas-fritas-sour-cream--onion-110gr-10821400/p
+Supermercado,Papas Fritas Cebolla|110g,99.00 USD (x1),129.00 USD (x1),https://www.elmachetazo.com/papas-fritas-sour-cream--onion-110gr-10821400/p
 Supermercado,Papas Fritas Sabor Queso 110gr,99.00 USD (x1),129.00 USD (x1),https://www.elmachetazo.com/papas-fritas-sabor-queso-110gr-10821397/p
 Supermercado,Snack Papas Original Golden Selection|110g,129.00 USD (x1),129.00 USD (x1),https://www.elmachetazo.com/snack-papas-original-golden-selection-110g-10821391-machetazo/p
 Supermercado,Té de Jengibre Miel y Limón Caja 20 Bolsitas,130.00 USD (x1),130.00 USD (x1),https://www.elmachetazo.com/te-de-jengibre-miel-y-limon-caja-20-bolsitas-10804501/p
@@ -999,6 +999,7 @@ Supermercado,Enjuague Bucal Total 12 Anti Sarro Colgate|500ml,838.00 USD (x1),83
 Supermercado,Enjuague Bucal Total 12 Anti Sarro Colgate|250ml,508.00 USD (x1),508.00 USD (x1),https://www.elmachetazo.com/enjuague-bucal-total-12-anti-sarro-colgate250ml-10798725/p
 Supermercado,Crema Dental Total 12 Encías Reforzadas Colgate|150ml,650.00 USD (x1),650.00 USD (x1),https://www.elmachetazo.com/crema-dental-total-12-encias-reforzadas-colgate150ml-10810405/p
 Supermercado,Crema Dental Total 12 Encías Reforzadas Colgate|75ml,289.00 USD (x1),373.00 USD (x1),https://www.elmachetazo.com/crema-dental-total-12-encias-reforzadas-colgate75ml-10357212/p
+Farmacia,Tylex|750 mg|40 Tabletas,2225.00 USD (x1),2967.00 USD (x1),https://www.elmachetazo.com/tylex750-mg40-tabletas-10248001/p
 Farmacia,Pedialyte Polvo Strawberry|3.5 g|5 Sobres,925.00 USD (x1),925.00 USD (x1),https://www.elmachetazo.com/pedialyte-polvo-strawberry35-g5-sobres-10969596/p
 Farmacia,Protector Solar SPF|10 Ml,1075.00 USD (x1),1433.00 USD (x1),https://www.elmachetazo.com/protector-solar-spf10-ml-10978203/p
 Farmacia,Vantal Spray Bucal|30ml,1035.00 USD (x1),1380.00 USD (x1),https://www.elmachetazo.com/vantal-spray-bucal30ml-10248066/p
@@ -1049,7 +1050,7 @@ Farmacia,Super Antioxidante|60 Gelcaps,988.00 USD (x1),1318.00 USD (x1),https://
 Farmacia,Magnesio Citrato|100 Tabletas|200 mg,1603.00 USD (x1),2138.00 USD (x1),https://www.elmachetazo.com/magnesio-citrato100-tabletas200-mg-10902048/p
 Farmacia,Biotina + Multivitaminas|10 Gomitas,341.00 USD (x1),455.00 USD (x1),https://www.elmachetazo.com/biotina--multivitaminas10-gomitas-10955445/p
 Farmacia,Melatonina|10 Gomitas|5 mg,364.00 USD (x1),520.00 USD (x1),https://www.elmachetazo.com/melatonina10-gomitas5-mg-10955447/p
-Farmacia,Sweet Dreams Melatonina|60 Cápsulas|5 mg,1492.00 USD (x1),1990.00 USD (x1),https://www.elmachetazo.com/sweet-dreams-melatonina60-capsulas5-mg-10877365/p
+Farmacia,Sweet Dreams Melatonina|60 Cápsulas|5 mg,1393.00 USD (x1),1990.00 USD (x1),https://www.elmachetazo.com/sweet-dreams-melatonina60-capsulas5-mg-10877365/p
 Farmacia,Suplemento Valeriana|100 Cápsulas Veganas|1590 mg,1101.00 USD (x1),1468.00 USD (x1),https://www.elmachetazo.com/suplemento-valeriana100-capsulas-veganas1590-mg-10248472/p
 Farmacia,Suplemento Saw Palmetto|100 Cápsulas|100 palmetto,1657.00 USD (x1),2210.00 USD (x1),https://www.elmachetazo.com/suplemento-saw-palmetto100-capsulas100-palmetto-10249670/p
 Farmacia,Suplemento Maca|100 Cápsulas Veganas|525 mg,1233.00 USD (x1),1644.00 USD (x1),https://www.elmachetazo.com/suplemento-maca100-capsulas-veganas525-mg-10300140/p
@@ -1095,6 +1096,7 @@ Farmacia,GumiVit C|84g|12 Sobres,670.00 USD (x1),894.00 USD (x1),https://www.elm
 Farmacia,Cepillo Dental Colgate Periogard Extra Suave,330.00 USD (x1),330.00 USD (x1),https://www.elmachetazo.com/cepillo-dental-colgate-periogard-extra-suave-10852441/p
 Farmacia,Enjuague Bucal Colgate Periogard|250ml,1312.00 USD (x1),1312.00 USD (x1),https://www.elmachetazo.com/enjuague-bucal-colgate-periogard250ml-10300096/p
 Farmacia,Crema Dental Colgate Periogard|90g,1766.00 USD (x1),1766.00 USD (x1),https://www.elmachetazo.com/crema-dental-colgate-periogard90g-10852438/p
+Farmacia,Flamydol Retard|48 Capsulas,6576.00 USD (x1),8768.00 USD (x1),https://www.elmachetazo.com/flamydol-retard48-capsulas-10250145/p
 Farmacia,Gel Lubricante More|Efecto Refrescante|100ml,549.00 USD (x1),549.00 USD (x1),https://www.elmachetazo.com/gel-lubricante-moreefecto-refrescante100ml-10866480/p
 Farmacia,Gel Lubricante Clásico More|100ml,519.00 USD (x1),519.00 USD (x1),https://www.elmachetazo.com/gel-lubricante-clasico-more100ml-10866477/p
 Farmacia,Sal Andrews Naranja|12 Sobres,217.00 USD (x1),334.00 USD (x1),https://www.elmachetazo.com/sal-andrews-naranja12-sobres-10912599/p
@@ -1153,6 +1155,7 @@ Farmacia,Fit Estrogen|90 Capsulas,1606.00 USD (x1),2142.00 USD (x1),https://www.
 Farmacia,"Hair, Sking & Nails|100mg|90 Capsulas",1539.00 USD (x1),2052.00 USD (x1),https://www.elmachetazo.com/hair-sking--nails100mg90-capsulas-10252535/p
 Farmacia,Maca 69|100 Tabletas,1136.00 USD (x1),1515.00 USD (x1),https://www.elmachetazo.com/maca-69100-tabletas-10356108/p
 Farmacia,Ginkgo Biloba|90 Tabletas,1147.00 USD (x1),1530.00 USD (x1),https://www.elmachetazo.com/ginkgo-biloba90-tabletas-10252537/p
+Farmacia,Lomotil 2mg |40 Tabletas,1900.00 USD (x1),2533.00 USD (x1),https://www.elmachetazo.com/lomotil-2mg-40-tabletas-10249312/p
 Farmacia,Suplemento Melatonin|1mg|180 Tabletas,703.00 USD (x1),938.00 USD (x1),https://www.elmachetazo.com/suplemento-melatonin1mg180-tabletas-10250999/p
 Farmacia,Suplemento Zinc 50mg|100 Caplets,902.00 USD (x1),1203.00 USD (x1),https://www.elmachetazo.com/suplemento-zinc-50mg100-caplets-10309190/p
 Farmacia,Suplemento Melatonin|10mg|60 Capsulas,1420.00 USD (x1),1893.00 USD (x1),https://www.elmachetazo.com/suplemento-melatonin10mg60-capsulas-10571165/p
@@ -1296,9 +1299,6 @@ Farmacia,Panadol Gripe Noche|16 Capletas,403.00 USD (x1),538.00 USD (x1),https:/
 Farmacia,Aspirina Infantil|100mg|20 Tabletas,277.00 USD (x1),370.00 USD (x1),https://www.elmachetazo.com/aspirina-infantil100mg20-tabletas-10253459/p
 Farmacia,Panadol Gripe Día|16 Tabletas,403.00 USD (x1),538.00 USD (x1),https://www.elmachetazo.com/panadol-gripe-dia16-tabletas-10728219/p
 Farmacia,Gelicart 10g|Caja 30 Sobres,3687.00 USD (x1),5267.00 USD (x1),https://www.elmachetazo.com/gelicart-10gcaja-30-sobres-10432712/p
-Farmacia,Eucalipsina Jarabe 120ml,257.00 USD (x1),343.00 USD (x1),https://www.elmachetazo.com/eucalipsina-jarabe-120ml-10252432/p
-Farmacia,Collagen Vit C|60 Cápsulas,982.00 USD (x1),1310.00 USD (x1),https://www.elmachetazo.com/collagen-vit-c60-capsulas-10250080/p
-Farmacia,Panadol Congestión Sinus|16 Tabletas,356.00 USD (x1),594.00 USD (x1),https://www.elmachetazo.com/panadol-congestion-sinus16-tabletas-10729566/p
 Farmacia,Protan Dextrometorfano Jarabe 120ml,380.00 USD (x1),507.00 USD (x1),https://www.elmachetazo.com/protan-dextrometorfano-jarabe-120ml-10253088/p
 Farmacia,Omega 3-6-9-|100 Soft Gelcaps,1112.00 USD (x1),1483.00 USD (x1),https://www.elmachetazo.com/omega-3-6-9-100-soft-gelcaps-10249767/p
 Farmacia,Agua Oxigenada Rigar|8 oz,145.00 USD (x1),193.00 USD (x1),https://www.elmachetazo.com/agua-oxigenada-rigar8-oz-10271332/p
