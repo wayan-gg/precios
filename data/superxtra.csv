@@ -17,7 +17,6 @@ Supermercado,Caldo Rika 50 gr De Pollo,49.00 USD (x1),49.00 USD (x1),https://www
 Supermercado,Lentejas Don Henry 454 gr Original,78.00 USD (x1),78.00 USD (x1),https://www.superxtra.com/lentejas-don-henry-454-gr-original/p
 Supermercado,Arroz Arrosisimo Especial 2000 gr,331.00 USD (x1),331.00 USD (x1),https://www.superxtra.com/arroz-arrosisimo-2000-gr-especial/p
 Supermercado,Aceite De Cocina Trovattore Vegetal 1500 Ml,298.00 USD (x1),298.00 USD (x1),https://www.superxtra.com/aceite-de-cocina-trovattore-1500-ml-vegetal/p
-Supermercado,Huevos Caribeño Medianos 30 UN,523.00 USD (x1),543.00 USD (x1),https://www.superxtra.com/huevos-caribeno-medianos-30-un-10596203-7451104940489/p
 Supermercado,Salchicha First Choice De Pollo 408 g,186.00 USD (x1),186.00 USD (x1),https://www.superxtra.com/salchicha-first-choice-de-pollo-408-g-7451072405799/p
 Supermercado,Galleta Club Social 24Gr,183.00 USD (x1),183.00 USD (x1),https://www.superxtra.com/galleta-club-social-24gr-7622201717537/p
 Supermercado,Queso Nestle Americano 24 UN,594.00 USD (x1),594.00 USD (x1),https://www.superxtra.com/queso-nestle-americano-24-un/p
@@ -49,6 +48,7 @@ Supermercado,MAGGI Salsa de Tomate Ketchup Botella 397g,183.00 USD (x1),183.00 U
 Supermercado,Harina Gold Mills 454 gr De Trigo,56.00 USD (x1),73.00 USD (x1),https://www.superxtra.com/harina-gold-mills-454-gr-de-trigo/p
 Supermercado,Jamonilla Tulip 340 gr De Cerdo,216.00 USD (x1),216.00 USD (x1),https://www.superxtra.com/jamonilla-tulip-340-gr-de-cerdo/p
 Supermercado,Queso Procesado Cremoso Americano Por Media Libra,1473.00 USD (x1),1473.00 USD (x1),https://www.superxtra.com/queso-amarillo-cremoso-por-libra/p
+Supermercado,Huevos Caribeño Medianos 30 UN,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/huevos-caribeno-medianos-30-un-10596203-7451104940489/p
 Supermercado,Porotos Don Henry 454 gr Rojos,103.00 USD (x1),103.00 USD (x1),https://www.superxtra.com/porotos-don-henry-454-gr-rojos/p
 Supermercado,Mayonesa La Doña 350 gr En Bolsa,140.00 USD (x1),140.00 USD (x1),https://www.superxtra.com/mayonesa-la-dona-350-gr-en-bolsa/p
 Supermercado,Pan Specialty Otros Pullman,91.00 USD (x1),91.00 USD (x1),https://www.superxtra.com/pan-specialty-otros-pullman/p
@@ -624,6 +624,7 @@ Supermercado,Queso Procesado Tipo Americano por Media Libra,1367.00 USD (x1),136
 Supermercado,Queso Americano Cremoso Amarillo Individual,1594.00 USD (x1),1594.00 USD (x1),https://www.superxtra.com/queso-amarillo-individual-cremoso-por-libra/p
 Supermercado,Queso Americano Cremoso Amarillo 8 UN/142 G,203.00 USD (x1),203.00 USD (x1),https://www.superxtra.com/queso-amarillo-cremoso-142-gr-8-rebanadas/p
 Supermercado,Salsa De Tomate La Doña 114 gr Ranchera,65.00 USD (x1),65.00 USD (x1),https://www.superxtra.com/salsa-de-tomate-la-dona-114-gr-ranchera/p
+Supermercado,Porotos Nutritos 454 gr Chilenos,157.00 USD (x1),157.00 USD (x1),https://www.superxtra.com/porotos-nutritos-454-gr-chilenos/p
 Supermercado,Papas Fritas McCain Savoury Wedges 650 G,384.00 USD (x1),384.00 USD (x1),https://www.superxtra.com/papas-fritas-rebanadas-sazonadas-mccain-750-gr/p
 Supermercado,Papas Fritas Congeladas Straight Cut Aviko 2500 gr,773.00 USD (x1),773.00 USD (x1),https://www.superxtra.com/papas-fritas-congeladas-straight-cut-aviko-2500-gr/p
 Supermercado,Panecillo Bun Rimith 615 Gr,194.00 USD (x1),194.00 USD (x1),https://www.superxtra.com/panecillo-bun-rimith-615-gr/p
@@ -998,14 +999,13 @@ Supermercado,Jamonada Encurtido Rimith 170 gr En Paquete,175.00 USD (x1),175.00 
 Supermercado,Jamón Rimith 8 O Rimith 227 gr En Paquete,215.00 USD (x1),215.00 USD (x1),https://www.superxtra.com/jamon-rimith-8-o-rimith-227-gr-en-paquete/p
 Supermercado,Jamón Blue Ribbon Cocido 454 G,402.00 USD (x1),402.00 USD (x1),https://www.superxtra.com/jamon-blue-ribbon-cocido-454-g/p
 Supermercado,Salchichas El Granjero de Pollo 400 GR,149.00 USD (x1),149.00 USD (x1),https://www.superxtra.com/salchichas-el-granjero-de-pollo-400-gr/p
-Supermercado,Bologna El Compa 454 gr En Paquete,243.00 USD (x1),243.00 USD (x1),https://www.superxtra.com/bologna-el-compa-454-gr-en-paquete/p
 "Licor, Cerveza y Vino",Cerveza De Lata Balboa 12 Pack 355ML,1079.00 USD (x1),1079.00 USD (x1),https://www.superxtra.com/cerveza-de-lata-balboa-12-pack-355ml-89646131804/p
 "Licor, Cerveza y Vino",Cerveza Panamá Light 12 Pack Lata 355 ML,736.00 USD (x1),736.00 USD (x1),https://www.superxtra.com/cerveza-panama-light-12-pack-lata-355-ml/p
 "Licor, Cerveza y Vino",Cerveza Soberana 6 Pack Lata 355 ML,444.00 USD (x1),444.00 USD (x1),https://www.superxtra.com/cerveza-soberana-6-pack-lata-355-ml/p
 "Licor, Cerveza y Vino",Sirope Granadina Mezclador Para Licores Camelia 946 Ml,312.00 USD (x1),312.00 USD (x1),https://www.superxtra.com/sirope-granadina-mezclador-para-licores-camelia-946-ml-7451017900112/p
 "Licor, Cerveza y Vino",Ron Flor De Caña 750 Ml Ultra Lite,835.00 USD (x1),835.00 USD (x1),https://www.superxtra.com/ron-flor-de-cana-750-ml-ultra-lite-26964860184/p
 "Licor, Cerveza y Vino",Cerveza Botella CORONA 355Ml (six pack),672.00 USD (x1),672.00 USD (x1),https://www.superxtra.com/cerveza-botella-corona-355ml-six-pack/p
-"Licor, Cerveza y Vino",Cerveza Pack Balboa Ice 4260 Ml Lata,779.00 USD (x1),837.00 USD (x1),https://www.superxtra.com/cerveza-pack-balboa-ice-4260-ml-lata/p
+"Licor, Cerveza y Vino",Cerveza Pack Balboa Ice 4260 Ml Lata,822.00 USD (x1),822.00 USD (x1),https://www.superxtra.com/cerveza-pack-balboa-ice-4260-ml-lata/p
 "Licor, Cerveza y Vino",Bebida Smirnoff Ice 350 ml,98.00 USD (x1),98.00 USD (x1),https://www.superxtra.com/bebida-de-vodka-mezclada-lata-smirnoff-350-ml-ice/p
 "Licor, Cerveza y Vino",Cerveza Heineken Silver 4 Pack Botella 330 ML,460.00 USD (x1),460.00 USD (x1),https://www.superxtra.com/cerveza-heineken-silver-4-pack-botella-330-ml/p
 "Licor, Cerveza y Vino",Vino Riunite Raspberry 1.5lt,1000.00 USD (x1),1000.00 USD (x1),https://www.superxtra.com/vino-riunite-raspberry-1-5lt-89744765796/p
@@ -1615,6 +1615,7 @@ Cuidado Personal y Belleza,Jabón De Tocador Ambar 60 gr En Barra,43.00 USD (x1)
 Cuidado Personal y Belleza,Jabón De Aseo Corporal En Barra Deval 125 gr Avena Antibacterial 3 Pack,235.00 USD (x1),235.00 USD (x1),https://www.superxtra.com/jabon-de-aseo-corporal-en-barra-deval-125-gr-avena-antibacterial-3-pack/p
 Cuidado Personal y Belleza,Jabón De Aseo Corporal En Barra Coral 100 gr Azul Antibacterial 3 Pack,180.00 USD (x1),180.00 USD (x1),https://www.superxtra.com/jabon-de-aseo-corporal-en-barra-coral-100-gr-azul-antibacterial-3-pack/p
 Cuidado Personal y Belleza,Jabón De Aseo Corporal En Barra Carey 125 gr Avena Exfoliante 3 Pack,247.00 USD (x1),247.00 USD (x1),https://www.superxtra.com/jabon-de-aseo-corporal-en-barra-carey-125-gr-avena-exfoliante-3-pack/p
+Cuidado Personal y Belleza,Desodorante En Roll On Obao 65 Gr Audaz,188.00 USD (x1),188.00 USD (x1),https://www.superxtra.com/desodorante-en-roll-on-obao-65-gr-audaz/p
 Cuidado Personal y Belleza,Jabón De Tocador Lilac Dulce Amanecer 3 Pack 330 G,190.00 USD (x1),190.00 USD (x1),https://www.superxtra.com/jabon-de-tocador-lilac-dulce-amanecer-3-pack-330-g-10601105-7401001688328/p
 Cuidado Personal y Belleza,Jabón En Barra Menta & Eucalipto Palmolive 3 Pack 100 g,282.00 USD (x1),282.00 USD (x1),https://www.superxtra.com/jabon-en-barra-menta-eucalipto-palmolive-3-pack-100-g-10597964-7509546695242/p
 Cuidado Personal y Belleza,Shampoo Head&Shoulder Anti Comezón 180 ML,432.00 USD (x1),432.00 USD (x1),https://www.superxtra.com/shampoo-headshoulder-anti-comezon-180-ml-10595169-7500435231244/p
@@ -2854,7 +2855,6 @@ Limpieza del Hogar y Ropa,Cartucho Transparente LDPE 6x12,95.00 USD (x1),95.00 U
 Limpieza del Hogar y Ropa,Ziploc Sandwich Bags 50Un,201.00 USD (x1),201.00 USD (x1),https://www.superxtra.com/ziploc-sandwich-bags-50un/p
 Limpieza del Hogar y Ropa,Limpiador de Inodoro Tergo 50 ML Pastilla,211.00 USD (x1),211.00 USD (x1),https://www.superxtra.com/limpiador-inodoro-tergo-50-ml-pastilla-7702532720434/p
 Limpieza del Hogar y Ropa,Quitamanchas En Polvo Vanish 450 Gr Quitamanchas Y Blanqueador,906.00 USD (x1),906.00 USD (x1),https://www.superxtra.com/quitamanchas-en-polvo-vanish-450-gr-quitamanchas-y-blanqueador/p
-Limpieza del Hogar y Ropa,Suavizante Suavitel 1300 Ml En Botella Momentos Magicos Abrazo De Amor,464.00 USD (x1),464.00 USD (x1),https://www.superxtra.com/suavizante-suavitel-1300-ml-en-botella-momentos-magicos-abrazo-de-amor/p
 Limpieza del Hogar y Ropa,Detergente Líquido Mas Color Efecto Renovador 450 Ml,255.00 USD (x1),255.00 USD (x1),https://www.superxtra.com/detergente-liquido-mas-color-efecto-renovador-450-ml/p
 Limpieza del Hogar y Ropa,Detergente Líquido Baby Castille Con Suavizante 2958 Ml,730.00 USD (x1),730.00 USD (x1),https://www.superxtra.com/detergente-liquido-baby-castille-con-suavizante-2958-ml/p
 Limpieza del Hogar y Ropa,Blanqueador Magia Blanca Regular 2 lt,189.00 USD (x1),189.00 USD (x1),https://www.superxtra.com/blanqueador-magia-blanca-regular-2-lt/p
@@ -3220,6 +3220,7 @@ Limpieza del Hogar y Ropa,Blanqueador Desinfectante Blancox Limón Fusión 2000 
 Limpieza del Hogar y Ropa,Blanqueador Desinfectante Blancox Poder Natural 2000 ML,226.00 USD (x1),226.00 USD (x1),https://www.superxtra.com/blanqueador-desinfectante-blancox-regular-2000-ml/p
 Limpieza del Hogar y Ropa,Blanqueador Desinfectante Blancox Poder Natural 1000 ML,147.00 USD (x1),147.00 USD (x1),https://www.superxtra.com/blanqueador-desinfectante-blancox-regular-1000-ml/p
 Limpieza del Hogar y Ropa,Quitamanchas En Polvo Clorox 90 Gr Ropa Blanca,129.00 USD (x1),129.00 USD (x1),https://www.superxtra.com/quitamanchas-en-polvo-clorox-90-gr-ropa-blanca/p
+Limpieza del Hogar y Ropa,Suavizante Suavitel 1300 Ml En Botella Momentos Magicos Abrazo De Amor,464.00 USD (x1),464.00 USD (x1),https://www.superxtra.com/suavizante-suavitel-1300-ml-en-botella-momentos-magicos-abrazo-de-amor/p
 Limpieza del Hogar y Ropa,Quitamanchas Líquido Vanish 925 Ml Quitamanchas Y Blanqueador,635.00 USD (x1),635.00 USD (x1),https://www.superxtra.com/quitamanchas-liquido-vanish-925-ml-quitamanchas-y-blanqueador/p
 Limpieza del Hogar y Ropa,Jabón En Barra Zote Rosado 3 Pack 600 Gr,282.00 USD (x1),282.00 USD (x1),https://www.superxtra.com/jabon-en-barra-zote-rosado-3-pack-600-gr/p
 Limpieza del Hogar y Ropa,Jabón En Barra Zote Rosado 200 Gr,95.00 USD (x1),95.00 USD (x1),https://www.superxtra.com/jabon-en-barra-zote-rosado-200-gr/p
