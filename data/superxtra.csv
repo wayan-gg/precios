@@ -1,12 +1,12 @@
 ﻿categoria,nombre,precio_oferta,precio_regular,enlace
 Supermercado,Papas Nacional Por Media Libra,98.00 USD (x1),98.00 USD (x1),https://www.superxtra.com/papas-nacional-por-libra/p
-Supermercado,Leche evaporada ideal 314 G,124.00 USD (x1),124.00 USD (x1),https://www.superxtra.com/leche-evaporada-ideal-314-g/p
 Supermercado,Azucar Like Morena 800Gr,118.00 USD (x1),118.00 USD (x1),https://www.superxtra.com/azucar-like-morena-800gr-5575329/p
 Supermercado,Guineo Por Media Libra,98.00 USD (x1),98.00 USD (x1),https://www.superxtra.com/guineo-por-libra-3-unidades-aproximada-por-libra/p
 Supermercado,Leche Uht Estrella Azul 946 ML Entera,163.00 USD (x1),163.00 USD (x1),https://www.superxtra.com/leche-uht-estrella-azul-946-ml-entera-88209970164/p
 Supermercado,Muslo Encuentro de Pollo Por Media Libra,239.00 USD (x1),239.00 USD (x1),https://www.superxtra.com/muslo-encuentro-de-pollo-por-libra/p
 Supermercado,Zanahoria Por Kilo,148.00 USD (x1),148.00 USD (x1),https://www.superxtra.com/zanahoria-por-libra/p
 Supermercado,Tomate Perita Por Media Libra,194.00 USD (x1),194.00 USD (x1),https://www.superxtra.com/tomate-perita-por-libra/p
+Supermercado,Puerco Liso Por Media Libra,458.00 USD (x1),458.00 USD (x1),https://www.superxtra.com/puerco-liso-por-libra/p
 Supermercado,Pollo Panamá Por Media Libra,199.00 USD (x1),199.00 USD (x1),https://www.superxtra.com/pollo-panama-por-libra/p
 Supermercado,Pechuga de Pollo Por Media Libra,250.00 USD (x1),250.00 USD (x1),https://www.superxtra.com/pechuga-de-pollo-por-libra/p
 Supermercado,Cebolla Amarilla Nacional Por Media Libra,197.00 USD (x1),197.00 USD (x1),https://www.superxtra.com/cebolla-amarilla-nacional-por-libra/p
@@ -16,13 +16,13 @@ Supermercado,Leche Pura Uht Suelta La Chiricana 946 Ml Entera,168.00 USD (x1),16
 Supermercado,Arroz Arrosisimo Especial 2000 gr,350.00 USD (x1),350.00 USD (x1),https://www.superxtra.com/arroz-arrosisimo-2000-gr-especial/p
 Supermercado,Aceite De Cocina Trovattore Vegetal 1500 Ml,298.00 USD (x1),298.00 USD (x1),https://www.superxtra.com/aceite-de-cocina-trovattore-1500-ml-vegetal/p
 Supermercado,Huevos Caribeño Medianos 30 UN,543.00 USD (x1),543.00 USD (x1),https://www.superxtra.com/huevos-caribeno-medianos-30-un-10596203-7451104940489/p
+Supermercado,Leche evaporada ideal 314 G,124.00 USD (x1),124.00 USD (x1),https://www.superxtra.com/leche-evaporada-ideal-314-g/p
 Supermercado,Queso Nestle Americano 24 UN,660.00 USD (x1),660.00 USD (x1),https://www.superxtra.com/queso-nestle-americano-24-un/p
 Supermercado,Salchicha Frankfurter First Choice,184.00 USD (x1),184.00 USD (x1),https://www.superxtra.com/salchicha-frankfurter-first-choice-7451072405690/p
 Supermercado,Pimenton Largo Por Media Libra,250.00 USD (x1),250.00 USD (x1),https://www.superxtra.com/pimenton-largo-2701141000000/p
 Supermercado,Muslo de Pollo Por Media Libra,275.00 USD (x1),275.00 USD (x1),https://www.superxtra.com/muslo-de-pollo-por-libra/p
 Supermercado,Manzana Gala Por Media Libra,209.00 USD (x1),209.00 USD (x1),https://www.superxtra.com/manzana-gala-por-libra-3-unidades-aproximadas-por-libra/p
 Supermercado,Mandarina Importada Por Media Libra,197.00 USD (x1),197.00 USD (x1),https://www.superxtra.com/mandarina-importada-por-libra/p
-Supermercado,Puerco Liso Por Media Libra,458.00 USD (x1),458.00 USD (x1),https://www.superxtra.com/puerco-liso-por-libra/p
 Supermercado,Platano Verde Por Media Libra,98.00 USD (x1),98.00 USD (x1),https://www.superxtra.com/platano-verde-por-libra/p
 Supermercado,Pepino Por Media Libra,94.00 USD (x1),94.00 USD (x1),https://www.superxtra.com/pepino-por-libra/p
 Supermercado,Culantro Cerro Punta En Mazo,85.00 USD (x1),85.00 USD (x1),https://www.superxtra.com/culantro-cerro-punta-otros-en-mazo/p
@@ -48,36 +48,29 @@ Supermercado,Leche Uht Estrella Azul 946 Ml Deslactosada Siempre Cae Bien,163.00
 Supermercado,KLIM FORTICRECE Leche Entera Instantánea Lata 360g,360.00 USD (x1),360.00 USD (x1),https://www.superxtra.com/leche-entera-instantanea-klim-forticrece-ninos-lata-360g/p
 Supermercado,Azúcar La Estrella Turbinada 1816 gr,268.00 USD (x1),268.00 USD (x1),https://www.superxtra.com/azucar-la-estrella-1816-gr-turbinada/p
 Supermercado,Malta vigor pet six pack 200 ML,222.00 USD (x1),264.00 USD (x1),https://www.superxtra.com/malta-vigor-pet-six-pack-200-ml/p
-Supermercado,Patita Picada Por Media Libra,219.00 USD (x1),219.00 USD (x1),https://www.superxtra.com/patita-picada-por-media-libra-2705529000002/p
 Supermercado,Salchicha First Choice De Pollo 408 g,186.00 USD (x1),186.00 USD (x1),https://www.superxtra.com/salchicha-first-choice-de-pollo-408-g-7451072405799/p
 Supermercado,Platano Verde Cerro Punta En Malla,205.00 USD (x1),205.00 USD (x1),https://www.superxtra.com/platano-verde-cerro-punta-en-malla-2705446000000/p
 Supermercado,Galleta Club Social 24Gr,180.00 USD (x1),180.00 USD (x1),https://www.superxtra.com/galleta-club-social-24gr-7622201717537/p
 Supermercado,Azúcar Like Morena 1820 GR,265.00 USD (x1),265.00 USD (x1),https://www.superxtra.com/azucar-like-morena-1820-gr/p
 Supermercado,SAL DE MESA LIKE YODADA 1Lb,24.00 USD (x1),24.00 USD (x1),https://www.superxtra.com/sal-de-mesa-like-yodada-1lb-10562064/p
 Supermercado,Salsa Tomate Panamena 100G Maggi,64.00 USD (x1),64.00 USD (x1),https://www.superxtra.com/salsa-tomate-panamena-100g-maggi-8445290465535/p
-Supermercado,Camote Por Media Libra,297.00 USD (x1),297.00 USD (x1),https://www.superxtra.com/camote-por-media-libra-2702927000009/p
 Supermercado,Azucar Santa Rosa 1820G Turbinada,260.00 USD (x1),260.00 USD (x1),https://www.superxtra.com/azucar-santa-rosa-1820g-turbinada-7451078501136/p
-Supermercado,Ala Del Dia Bandeja Deli Pollo Por Libra,457.00 USD (x1),457.00 USD (x1),https://www.superxtra.com/ala-del-dia-bandeja-deli-pollo-209048000007/p
 Supermercado,Jamon Cocido De Cerdo First Choice 204 G,164.00 USD (x1),164.00 USD (x1),https://www.superxtra.com/jamon-cocido-de-cerdo-first-choice-204g-7451072405515/p
 Supermercado,Tortillas De Maiz American Star 580gr,54.00 USD (x1),54.00 USD (x1),https://www.superxtra.com/tortillas-de-maiz-american-star-580gr-7451072405485/p
-Supermercado,Lechuga Romana Cosechas De Mi Tierra Por Media Libra,381.00 USD (x1),381.00 USD (x1),https://www.superxtra.com/lechuga-romana-cosechas-de-mi-tierra-2704030000006/p
 Supermercado,Queso Mozarella AmericanHeritage Rayado 200 G,360.00 USD (x1),360.00 USD (x1),https://www.superxtra.com/queso-mozarella-americanheritage-rayado-200-g-71505018821/p
 Supermercado,Jugo Petit Fruta Fresca 6 pack 200ml,156.00 USD (x1),156.00 USD (x1),https://www.superxtra.com/jugo-petit-fruta-fresca-6-pack-200ml-7411204805491/p
 Supermercado,Queso Crema Superior 220 GR,273.00 USD (x1),273.00 USD (x1),https://www.superxtra.com/queso-crema-superior-220-gr-7451010672757/p
 Supermercado,Filete de Pechuga Por Media Libra,698.00 USD (x1),698.00 USD (x1),https://www.superxtra.com/filete-de-pechuga-por-libra/p
 Supermercado,Limón Persa Por Media Libra,253.00 USD (x1),253.00 USD (x1),https://www.superxtra.com/limon-persa-por-libra/p
-Supermercado,Lechuga Cosechas De Mi Tierra Por Media Libra,373.00 USD (x1),373.00 USD (x1),https://www.superxtra.com/lechuga-cosechas-de-mi-tierra-por-libra/p
 Supermercado,Jarrete Sin Hueso Por Libra,568.00 USD (x1),568.00 USD (x1),https://www.superxtra.com/jarrete-sin-hueso-por-libra/p
 Supermercado,Jamon Cocido Blue Ribbon 4X4 Pullman Por Media Libra,697.00 USD (x1),697.00 USD (x1),https://www.superxtra.com/jamon-cocido-blue-ribbon-4x4-pullman-por-media-libra/p
 Supermercado,Manzana Verde Por Libra (3 Unidades Aproximadas),265.00 USD (x1),265.00 USD (x1),https://www.superxtra.com/manzana-verde-por-libra-3-unidades-aproximadas-por-libra/p
-Supermercado,Manzana Roja Por Media Libra,218.00 USD (x1),218.00 USD (x1),https://www.superxtra.com/manzana-roja-por-libra-3-unidades-aproximadas-por-libra/p
 Supermercado,Zapallo Por Media Libra,88.00 USD (x1),88.00 USD (x1),https://www.superxtra.com/zapallo-por-libra/p
 Supermercado,Yuca Fresca Por Media Libra,55.00 USD (x1),55.00 USD (x1),https://www.superxtra.com/yuca-fresca-por-libra/p
 Supermercado,Uvas Verdes Sin Semilla Por Media Libra,583.00 USD (x1),583.00 USD (x1),https://www.superxtra.com/uvas-verdes-sin-semilla-por-libra/p
 Supermercado,Tortillas Ruby 10 Unidades,94.00 USD (x1),94.00 USD (x1),https://www.superxtra.com/tortillas-ruby-10-unidades/p
 Supermercado,Tomate 3X3 Por Media Libra,204.00 USD (x1),204.00 USD (x1),https://www.superxtra.com/tomate-3x3-por-libra/p
 Supermercado,Rapiditas Bimbo Clásicas Talla M 12 UN,240.00 USD (x1),240.00 USD (x1),https://www.superxtra.com/rapiditas-clasicas-12-un-bimbo-250-gr-tamano-m/p
-Supermercado,Rabito de Puerco Por Media Libra,597.00 USD (x1),597.00 USD (x1),https://www.superxtra.com/rabito-de-puerco-por-libra/p
 Supermercado,Pulpa Negra Por Libra,753.00 USD (x1),753.00 USD (x1),https://www.superxtra.com/pulpa-negra-por-libra/p
 Supermercado,Papaya Por Media Libra,87.00 USD (x1),87.00 USD (x1),https://www.superxtra.com/papaya-por-libra/p
 Supermercado,Encuentro de Pollo Por Media Libra,234.00 USD (x1),234.00 USD (x1),https://www.superxtra.com/encuentro-de-pollo-por-libra/p
@@ -93,6 +86,7 @@ Supermercado,Bollo American Star 454 gr Maiz,109.00 USD (x1),109.00 USD (x1),htt
 Supermercado,Empanada Rimith 454 gr De Pollo Congelada,297.00 USD (x1),297.00 USD (x1),https://www.superxtra.com/empanada-rimith-454-gr-de-pollo-congelada/p
 Supermercado,Codito La Parmigiana 454 gr Pastas Cortas,84.00 USD (x1),84.00 USD (x1),https://www.superxtra.com/codito-la-parmigiana-454-gr-pastas-cortas/p
 Supermercado,Spaghetti Delgado La Parmigiana 454 gr Pasta Larga,93.00 USD (x1),93.00 USD (x1),https://www.superxtra.com/spaghetti-delgado-la-parmigiana-454-gr-pasta-larga/p
+Supermercado,Macarrones La Parmigiana 200 gr Enriquecido,53.00 USD (x1),53.00 USD (x1),https://www.superxtra.com/macarrones-la-parmigiana-200-gr-enriquecido/p
 Supermercado,Spaghetti grueso La Parmigiana 425 gr Pasta Larga,68.00 USD (x1),92.00 USD (x1),https://www.superxtra.com/spaghetti-grueso-la-parmigiana-425-gr-pasta-larga/p
 Supermercado,Salchicha El Compa 411 gr En Paquete,137.00 USD (x1),137.00 USD (x1),https://www.superxtra.com/salchicha-el-compa-411-gr-en-paquete/p
 Supermercado,Salchicha Ahumada American Star 454 gr En Paquete,127.00 USD (x1),127.00 USD (x1),https://www.superxtra.com/salchicha-ahumada-american-star-454-gr-en-paquete/p
@@ -106,6 +100,7 @@ Supermercado,Galleta Dulce Docena Pascual 360 G Maria,208.00 USD (x1),208.00 USD
 Supermercado,Galleta Salada Docena Pascual 312 G Crisp,209.00 USD (x1),209.00 USD (x1),https://www.superxtra.com/galleta-salada-docena-pascual-312-g-crisp/p
 Supermercado,Sal Crisal 454 gr De Mesa,26.00 USD (x1),26.00 USD (x1),https://www.superxtra.com/sal-crisal-454-gr-de-mesa/p
 Supermercado,Sal Crisal 2270 gr De Mesa,143.00 USD (x1),143.00 USD (x1),https://www.superxtra.com/sal-crisal-2270-gr-de-mesa/p
+Supermercado,Pasta Nhs 113 gr De Tomate,42.00 USD (x1),52.00 USD (x1),https://www.superxtra.com/pasta-nhs-113-gr-de-tomate/p
 Supermercado,Salsa Nhs 70 gr De Tomate,36.00 USD (x1),36.00 USD (x1),https://www.superxtra.com/salsa-nhs-70-gr-de-tomate/p
 Supermercado,Vinagre Proluxsa 946 Ml Blanco,92.00 USD (x1),92.00 USD (x1),https://www.superxtra.com/vinagre-proluxsa-946-ml-blanco/p
 Supermercado,Oregano La Doña 15 gr Entero,44.00 USD (x1),44.00 USD (x1),https://www.superxtra.com/oregano-la-dona-15-gr-entero/p
@@ -125,8 +120,8 @@ Supermercado,Porotos Camelia Rojos 1 LB,138.00 USD (x1),138.00 USD (x1),https://
 Supermercado,Mayonesa La Doña 200 gr En Bolsa,96.00 USD (x1),96.00 USD (x1),https://www.superxtra.com/mayonesa-la-dona-200-gr-en-bolsa/p
 Supermercado,Pancake Gold Mills 454 gr Solo Agregue Agua,225.00 USD (x1),225.00 USD (x1),https://www.superxtra.com/pancake-gold-mills-454-gr-solo-agregue-agua/p
 Supermercado,Mantequilla Blue River 113 gr En Barra,135.00 USD (x1),135.00 USD (x1),https://www.superxtra.com/mantequilla-blue-river-113-gr-en-barra/p
-Supermercado,Lentejas Camelia 454 gr Original,122.00 USD (x1),122.00 USD (x1),https://www.superxtra.com/lentejas-camelia-454-gr-original/p
 Supermercado,Leche Uht Bonlac 946 Ml Entera,173.00 USD (x1),173.00 USD (x1),https://www.superxtra.com/leche-uht-bonlac-946-ml-entera/p
+Supermercado,IDEAL Leche Evaporada Entera Lata 167g,64.00 USD (x1),64.00 USD (x1),https://www.superxtra.com/leche-evaporada-ideal-entera-lata-167g/p
 Supermercado,Leche De Oro 946 Ml Entera Fresca,151.00 USD (x1),151.00 USD (x1),https://www.superxtra.com/leche-de-oro-946-ml-entera-fresca/p
 Supermercado,Lomo De Atún First & Best 170 gr En Agua,120.00 USD (x1),120.00 USD (x1),https://www.superxtra.com/lomo-de-atun-first-best-170-gr-en-agua/p
 Supermercado,Jugo Estrella Azul Uht 6 Un Manzana Peranectar Y Melonectar 1200 Ml,146.00 USD (x1),158.00 USD (x1),https://www.superxtra.com/jugo-uht-6-un-estrella-azul-1200-ml-manzana-peranectar-y-melonectar/p
@@ -140,6 +135,7 @@ Supermercado,Hamburguesas Condimentadas American Star 680 gr Empacadas,393.00 US
 Supermercado,Café Tradicional Durán Molido Regular 425 G,636.00 USD (x1),636.00 USD (x1),https://www.superxtra.com/cafe-tradicional-duran-425-g-molido-regular/p
 Supermercado,Café Tradicional Durán Molido Regular 212 G,332.00 USD (x1),332.00 USD (x1),https://www.superxtra.com/cafe-tradicional-duran-212-g-molido-regular/p
 Supermercado,Cafe Tradicional 288 Un Durán 22 G Bulto,39.00 USD (x1),39.00 USD (x1),https://www.superxtra.com/cafe-tradicional-288-un-duran-22-g-bulto/p
+Supermercado,Azúcar Doradita Morena 454 gr,59.00 USD (x1),59.00 USD (x1),https://www.superxtra.com/azucar-doradita-454-gr-morena/p
 Supermercado,Arroz Pelín Especial 5 Lb,386.00 USD (x1),386.00 USD (x1),https://www.superxtra.com/arroz-especial-pelin-5-lb/p
 Supermercado,Aceite Pabo Vegetal 1.5 LT,323.00 USD (x1),323.00 USD (x1),https://www.superxtra.com/aceite-pabo-vegetal-1-5-lt/p
 Supermercado,Aceite De Cocina Trovattore Vegetal 900 Ml,182.00 USD (x1),182.00 USD (x1),https://www.superxtra.com/aceite-de-cocina-trovattore-900-ml-vegetal/p
@@ -148,7 +144,6 @@ Supermercado,Pan Molde Ideal Integral 570 G,195.00 USD (x1),195.00 USD (x1),http
 Supermercado,Arroz Like Especial 1.81 KG,276.00 USD (x1),276.00 USD (x1),https://www.superxtra.com/arroz-like-especial-1-81-kg-10593414-5641086/p
 Supermercado,Mantequilla Estrella Azul 1/4,132.00 USD (x1),132.00 USD (x1),https://www.superxtra.com/mantequilla-estrella-azul-14-10593882-88209707531/p
 Supermercado,Lentejas Like 1 LB,72.00 USD (x1),72.00 USD (x1),https://www.superxtra.com/lentejas-like-1-lb-10545170-5557530/p
-Supermercado,IDEAL Leche Evaporada Entera Lata 167g,62.00 USD (x1),62.00 USD (x1),https://www.superxtra.com/leche-evaporada-ideal-entera-lata-167g/p
 Supermercado,Arroz Especial Like 2 KG,310.00 USD (x1),310.00 USD (x1),https://www.superxtra.com/arroz-especial-like-2-kg-5557516/p
 Supermercado,Mantequilla En Pote Blueriver La Buena 300 G,406.00 USD (x1),406.00 USD (x1),https://www.superxtra.com/mantequilla-en-pote-blueriver-la-buena-300-g-7451015608119/p
 Supermercado,Harina Pan Maíz Blanco 1 kg,239.00 USD (x1),239.00 USD (x1),https://www.superxtra.com/harina-precocida-pan-de-maiz-blanco-1-kg-7702084137520/p
@@ -158,16 +153,19 @@ Supermercado,Salchichas Kiener 11 Unidades,196.00 USD (x1),196.00 USD (x1),https
 Supermercado,Cereal Corn Flake Gran Dia Hojuelas De Maiz 510 G,218.00 USD (x1),218.00 USD (x1),https://www.superxtra.com/cereal-corn-flake-grandia-hojuelas-de-maiz-510-g-5348060/p
 Supermercado,Galleta Clubsocial Integral 24 G,154.00 USD (x1),182.00 USD (x1),https://www.superxtra.com/galleta-clubsocial-integral-24-g-7622201720025/p
 Supermercado,Arroz Especial Supersabroso 4 LB,310.00 USD (x1),310.00 USD (x1),https://www.superxtra.com/arroz-especial-supersabroso-4-lb-7451017000164/p
+Supermercado,Patita Picada Por Media Libra,219.00 USD (x1),219.00 USD (x1),https://www.superxtra.com/patita-picada-por-media-libra-2705529000002/p
 Supermercado,Pina Grande Por Media Libra,76.00 USD (x1),76.00 USD (x1),https://www.superxtra.com/pina-grande-por-media-libra-2701017000004/p
 Supermercado,Spaguetti Napoles 400GR,68.00 USD (x1),73.00 USD (x1),https://www.superxtra.com/spaguetti-napoles-400gr-7767360175832/p
 Supermercado,Bolsa Escolar con peras y manzanas Xtra,150.00 USD (x1),150.00 USD (x1),https://www.superxtra.com/bolsa-escolar-manzanapera-7452502989896/p
 Supermercado,Bebidas Nevada Surtido 6 Pack Disfruta 180 Ml,154.00 USD (x1),154.00 USD (x1),https://www.superxtra.com/bebidas-nevada-surtido-6-pack-disfruta-180-ml-7452096902929/p
 Supermercado,Pasta Maggi Tomate 90G,68.00 USD (x1),68.00 USD (x1),https://www.superxtra.com/pasta-maggi-tomate-90g-8445290497390/p
 Supermercado,Leche Nevada Avena 6 Pack 200 ML,276.00 USD (x1),330.00 USD (x1),https://www.superxtra.com/6-pack-nevada-leche-avena-nevada-200-ml-7452096902912/p
+Supermercado,Galleta Leche 12 Un 343G Pascual,167.00 USD (x1),167.00 USD (x1),https://www.superxtra.com/galleta-leche-12-un-343g-pascual-5546503/p
 Supermercado,Superior Queso Blanco Molido Homenaje 12,125.00 USD (x1),125.00 USD (x1),https://www.superxtra.com/superior-queso-blanco-molido-homenaje-12-7451010673112/p
 Supermercado,Yogurt Arandanos 120 G Bonlac,77.00 USD (x1),77.00 USD (x1),https://www.superxtra.com/yogurt-arandanos-120-g-bonlac-12157221016/p
 Supermercado,Arepa De Yuca Rellena De Mozzarella,444.00 USD (x1),444.00 USD (x1),https://www.superxtra.com/arepa-de-yuca-rellena-de-mozzarella-7451101100244/p
 Supermercado,Galletas Muuu Mantequilla,130.00 USD (x1),145.00 USD (x1),https://www.superxtra.com/muuu-mantequilla-7702011201829/p
+Supermercado,Camote Por Media Libra,297.00 USD (x1),297.00 USD (x1),https://www.superxtra.com/camote-por-media-libra-2702927000009/p
 Supermercado,Boli Yogurt,154.00 USD (x1),154.00 USD (x1),https://www.superxtra.com/boli-yogurt-7451106280019/p
 Supermercado,Arroz Especial Super Sabroso 15Lb,1152.00 USD (x1),1152.00 USD (x1),https://www.superxtra.com/arroz-especial-super-sabroso-15lb-7451017000157/p
 Supermercado,Tuna Calvo atún Trozos de Agua 142g,465.00 USD (x1),465.00 USD (x1),https://www.superxtra.com/tuna-calvo-atun-trozos-de-agua-142g/p
@@ -180,8 +178,11 @@ Supermercado,Carne Molida De Primera,886.00 USD (x1),886.00 USD (x1),https://www
 Supermercado,CAFE MOLIDO LIKE 212gr,285.00 USD (x1),285.00 USD (x1),https://www.superxtra.com/cafe-molido-like-212gr/p
 Supermercado,CAFE MOLIDO LIKE 425gr,412.00 USD (x1),412.00 USD (x1),https://www.superxtra.com/cafe-molido-like-425gr/p
 Supermercado,Bandeja Molleja Deli Por Libra,378.00 USD (x1),378.00 USD (x1),https://www.superxtra.com/bandeja-molleja-deli-209449000002/p
+Supermercado,Ala Del Dia Bandeja Deli Pollo Por Libra,457.00 USD (x1),457.00 USD (x1),https://www.superxtra.com/ala-del-dia-bandeja-deli-pollo-209048000007/p
+Supermercado,La Cholita -Queso Prensado,267.00 USD (x1),267.00 USD (x1),https://www.superxtra.com/la-cholita--queso-prensado-7452102190012/p
 Supermercado,Salchicha Frankfurter Esencial Rimith,194.00 USD (x1),194.00 USD (x1),https://www.superxtra.com/salchicha-frankfurter-esencial-7451015103560/p
 Supermercado,Queso Muester Por Media Libra,1505.00 USD (x1),1505.00 USD (x1),https://www.superxtra.com/queso-muester-vc-2704689000006/p
+Supermercado,Lechuga Romana Cosechas De Mi Tierra Por Media Libra,381.00 USD (x1),381.00 USD (x1),https://www.superxtra.com/lechuga-romana-cosechas-de-mi-tierra-2704030000006/p
 Supermercado,Cebolla Cosecha De Mi Tierra Por Media Libra,227.00 USD (x1),227.00 USD (x1),https://www.superxtra.com/cebolla-cosecha-de-mi-tierra-2703977000001/p
 Supermercado,Pimenton Amarillo Por Media Libra,606.00 USD (x1),606.00 USD (x1),https://www.superxtra.com/pimenton-amarillo-2701150000008/p
 Supermercado,Name Baboso Por Media Libra,194.00 USD (x1),194.00 USD (x1),https://www.superxtra.com/name-baboso-por-media-libra2701108000005/p
@@ -190,20 +191,22 @@ Supermercado,Yogurt Fresa Bonie Bonlac 100g,46.00 USD (x1),46.00 USD (x1),https:
 Supermercado,Te De Manzanilla Duran 20 Sobres,140.00 USD (x1),140.00 USD (x1),https://www.superxtra.com/te-de-manzanilla-duran-20-sobres-7702746030275/p
 Supermercado,Jugo Del Monte Nectar 6 Pack Goodliving 160 ML,193.00 USD (x1),193.00 USD (x1),https://www.superxtra.com/jugo-del-monte-nectar-6-pack-goodliving-160-ml/p
 Supermercado,2 Pack Jugo Del Valle Fresh Naranja 3L,348.00 USD (x1),348.00 USD (x1),https://www.superxtra.com/2-pack-jugo-del-valle-fresh-naranja-3l-4504313413/p
+Supermercado,Lechuga Cosechas De Mi Tierra Por Media Libra,373.00 USD (x1),373.00 USD (x1),https://www.superxtra.com/lechuga-cosechas-de-mi-tierra-por-libra/p
 Supermercado,Jamón Ahumado American Star Por Media Libra,968.00 USD (x1),968.00 USD (x1),https://www.superxtra.com/jamon-ahumado-american-star-por-libra/p
 Supermercado,Higado de Res Por Libra,624.00 USD (x1),624.00 USD (x1),https://www.superxtra.com/higado-de-res-por-libra/p
 Supermercado,Higado de Pollo Por Media Libra,250.00 USD (x1),250.00 USD (x1),https://www.superxtra.com/higado-de-pollo-por-libra/p
 Supermercado,Ñame Diamante Por Media Libra,209.00 USD (x1),209.00 USD (x1),https://www.superxtra.com/name-diamante-por-libra/p
+Supermercado,Manzana Roja Por Media Libra,218.00 USD (x1),218.00 USD (x1),https://www.superxtra.com/manzana-roja-por-libra-3-unidades-aproximadas-por-libra/p
 Supermercado,Mango Por Media Libra,234.00 USD (x1),234.00 USD (x1),https://www.superxtra.com/mango-por-libra/p
 Supermercado,Malta Vigor 1000 ML Pet,112.00 USD (x1),149.00 USD (x1),https://www.superxtra.com/malta-vigor-1000-ml-pet/p
 Supermercado,Zanahoria Cosechas De Mi Tierra Por Media Libra,208.00 USD (x1),208.00 USD (x1),https://www.superxtra.com/zanahoria-cosechas-de-mi-tierra-por-media-libra/p
 Supermercado,Zanahoria 5Lb Por Media Libra,395.00 USD (x1),395.00 USD (x1),https://www.superxtra.com/zanahoria-10x5lb50lb-vza010-por-media-libra/p
-Supermercado,Uvas Rojas Con Semilla Por Media Libra,388.00 USD (x1),388.00 USD (x1),https://www.superxtra.com/uvas-rojas-con-semilla-por-libra/p
 Supermercado,Tortillas De Maiz Grande Congeladas,152.00 USD (x1),152.00 USD (x1),https://www.superxtra.com/tortillas-de-maiz-grande-congeladas/p
 Supermercado,Tomate Perita Cosechas De Mi Tierra Por Media Libra,263.00 USD (x1),263.00 USD (x1),https://www.superxtra.com/tomate-perita-cosechas-de-mi-tierra/p
 Supermercado,Spagueti Like 400 gr,57.00 USD (x1),57.00 USD (x1),https://www.superxtra.com/spagueti-like-400-gr/p
 Supermercado,Rincón Por Libra,857.00 USD (x1),857.00 USD (x1),https://www.superxtra.com/rincon-por-libra/p
 Supermercado,Remolacha Por Media Libra,149.00 USD (x1),149.00 USD (x1),https://www.superxtra.com/remolacha-por-libra/p
+Supermercado,Rabito de Puerco Por Media Libra,597.00 USD (x1),597.00 USD (x1),https://www.superxtra.com/rabito-de-puerco-por-libra/p
 Supermercado,Pulpa Blanca Por Libra,878.00 USD (x1),878.00 USD (x1),https://www.superxtra.com/pulpa-blanca-por-libra/p
 Supermercado,Pimenton Verde Por Media Libra,584.00 USD (x1),584.00 USD (x1),https://www.superxtra.com/pimenton-verde-por-libra/p
 Supermercado,Pera Verde Por Media Libra,218.00 USD (x1),218.00 USD (x1),https://www.superxtra.com/pera-verde-por-libra/p
@@ -218,9 +221,7 @@ Supermercado,Tortilla grande Rimith 765 gr Maiz 10 Un,155.00 USD (x1),155.00 USD
 Supermercado,Carimañola Chica Rimith 357 gr De Carne 6 Un,189.00 USD (x1),189.00 USD (x1),https://www.superxtra.com/carimanola-chica-rimith-357-gr-de-carne-6-un/p
 Supermercado,Bollo Originales Melo 454 gr Maiz,157.00 USD (x1),157.00 USD (x1),https://www.superxtra.com/bollo-originales-melo-454-gr-maiz/p
 Supermercado,Tornillo La Parmigiana 454 gr Pastas Cortas Con Vegetal,107.00 USD (x1),107.00 USD (x1),https://www.superxtra.com/tornillo-la-parmigiana-454-gr-pastas-cortas-con-vegetal/p
-Supermercado,Macarrones La Parmigiana 200 gr Enriquecido,53.00 USD (x1),53.00 USD (x1),https://www.superxtra.com/macarrones-la-parmigiana-200-gr-enriquecido/p
 Supermercado,Chow Mein La Doña 454 gr Pasta Especializada,138.00 USD (x1),138.00 USD (x1),https://www.superxtra.com/chow-mein-la-dona-454-gr-pasta-especializada/p
-Supermercado,Spaguetti Pastas Roma 400 gr Pasta Larga,106.00 USD (x1),106.00 USD (x1),https://www.superxtra.com/spaguetti-pastas-roma-400-gr-pasta-larga/p
 Supermercado,Tasajo Ahumado American Star 320 gr En Paquete,273.00 USD (x1),273.00 USD (x1),https://www.superxtra.com/tasajo-ahumado-american-star-320-gr-en-paquete/p
 Supermercado,Salchichas Kiener Jumbo 454 G,229.00 USD (x1),229.00 USD (x1),https://www.superxtra.com/salchichas-kiener-jumbo-454-g/p
 Supermercado,Salchichas Toledano de Pollo 411 G,175.00 USD (x1),175.00 USD (x1),https://www.superxtra.com/salchicha-regular-toledano-411-gr-en-paquete/p
@@ -229,11 +230,9 @@ Supermercado,Jamón Del Día de Pollo 454 G,261.00 USD (x1),261.00 USD (x1),http
 Supermercado,Chorizos Kiener de Cerdo 454 G,343.00 USD (x1),343.00 USD (x1),https://www.superxtra.com/chorizos-kiener-de-cerdo-454-g/p
 Supermercado,Chorizo Parrillero Ahumado First Choice 454 gr En Paquete,214.00 USD (x1),214.00 USD (x1),https://www.superxtra.com/chorizo-parrillero-ahumado-first-choice-454-gr-en-paquete/p
 Supermercado,Huevos Empacados Toledano Medianos 30 UN,564.00 USD (x1),564.00 USD (x1),https://www.superxtra.com/huevos-claripack-medianos-toledano-30-unidades/p
-Supermercado,Huevos Empacados Toledano Medianos 12 UN,245.00 USD (x1),245.00 USD (x1),https://www.superxtra.com/huevo-empacados-toledano-12-un-medianos/p
 Supermercado,Huevo Empacados Melo 12 Un Mediano,229.00 USD (x1),229.00 USD (x1),https://www.superxtra.com/huevo-empacados-melo-12-un-mediano/p
 Supermercado,Huevos Medianos Empacados - Caribeño 12 Unidades,208.00 USD (x1),208.00 USD (x1),https://www.superxtra.com/huevo-empacados-caribenos-12-un-mediano/p
 Supermercado,Maicena Levapan 50 gr De Fresa,31.00 USD (x1),31.00 USD (x1),https://www.superxtra.com/maicena-levapan-50-gr-de-fresa/p
-Supermercado,Crema Molino Criollo 300 gr De Maiz,72.00 USD (x1),86.00 USD (x1),https://www.superxtra.com/crema-molino-criollo-300-gr-de-maiz/p
 Supermercado,Cereal Xtra 510 gr Corn Flakes Azucarado,227.00 USD (x1),227.00 USD (x1),https://www.superxtra.com/cereal-xtra-510-gr-corn-flakes-azucarado/p
 Supermercado,MAGGI Sopa Criolla de Costilla de Res Sobre 58 g,54.00 USD (x1),54.00 USD (x1),https://www.superxtra.com/maggi-sopa-criolla-de-costilla-de-res-sobre-58-g/p
 Supermercado,Galletas Oreo Original 432 g,298.00 USD (x1),393.00 USD (x1),https://www.superxtra.com/galleta-dulce-docena-nabisco-432-gr-oreo/p
@@ -251,7 +250,6 @@ Supermercado,Polvo Para Hornear Levapan 28 Gr 50 Un,20.00 USD (x1),20.00 USD (x1
 Supermercado,Sazonador Completo La Doña 50 gr 5 Sobres,68.00 USD (x1),68.00 USD (x1),https://www.superxtra.com/sazonador-completo-la-dona-50-gr-5-sobres/p
 Supermercado,Sazonador Completo La Doña 30 gr En Sobre,45.00 USD (x1),45.00 USD (x1),https://www.superxtra.com/sazonador-completo-la-dona-30-gr-en-sobre/p
 Supermercado,Salsa De Tomate Nhs 113 gr Estilo Panameño,44.00 USD (x1),54.00 USD (x1),https://www.superxtra.com/salsa-de-tomate-nhs-113-gr-estilo-panameno/p
-Supermercado,Pasta Nhs 113 gr De Tomate,42.00 USD (x1),52.00 USD (x1),https://www.superxtra.com/pasta-nhs-113-gr-de-tomate/p
 Supermercado,Salsa De Tomate Nhs 70 gr Con Hongo,36.00 USD (x1),36.00 USD (x1),https://www.superxtra.com/salsa-de-tomate-nhs-70-gr-con-hongo/p
 Supermercado,Salsa De Tomate Doy Pack Del Monte 397 gr Tradicional,134.00 USD (x1),134.00 USD (x1),https://www.superxtra.com/salsa-de-tomate-doy-pack-del-monte-397-gr-tradicional/p
 Supermercado,MAGGI Salsa de Tomate Ketchup Botella 794g,242.00 USD (x1),323.00 USD (x1),https://www.superxtra.com/salsa-de-tomate-maggi-ketchup-botella-794g/p
@@ -259,8 +257,10 @@ Supermercado,Paprika La Doña 15 gr En Sobre,24.00 USD (x1),24.00 USD (x1),https
 Supermercado,Atun En Trozos Two Ocean 170 gr En Agua,129.00 USD (x1),129.00 USD (x1),https://www.superxtra.com/atun-en-trozos-two-ocean-170-gr-en-agua/p
 Supermercado,Salchicha 1 Lb El Compa 454 gr En Paquete,159.00 USD (x1),159.00 USD (x1),https://www.superxtra.com/salchicha-1-lb-el-compa-454-gr-en-paquete/p
 Supermercado,Trocitos De Atún Like 140 gr En Agua,101.00 USD (x1),101.00 USD (x1),https://www.superxtra.com/trocitos-de-atun-like-140-gr-en-agua/p
+Supermercado,Atún En Trozos Calvo 142 gr En Agua,142.00 USD (x1),142.00 USD (x1),https://www.superxtra.com/atun-en-trozos-calvo-142-gr-en-agua/p
 Supermercado,Maíz Super Xtra 226 gr Dulces,75.00 USD (x1),75.00 USD (x1),https://www.superxtra.com/maiz-super-xtra-226-gr-dulces/p
 Supermercado,Vegetales Mixtos Rubi 425 gr Enlatados,96.00 USD (x1),96.00 USD (x1),https://www.superxtra.com/vegetales-mixtos-rubi-425-gr-enlatados/p
+Supermercado,Trocitos De Atún Xtra 140 gr En Agua,79.00 USD (x1),79.00 USD (x1),https://www.superxtra.com/trocitos-de-atun-xtra-140-gr-en-agua/p
 Supermercado,Yogurt Bonlac 495 Ml Natural,228.00 USD (x1),228.00 USD (x1),https://www.superxtra.com/yogurt-bonlac-495-ml-natural/p
 Supermercado,Yogurt Bonlac Melocotón 120 G,77.00 USD (x1),77.00 USD (x1),https://www.superxtra.com/yogurt-bonlac-melocoton-120-g/p
 Supermercado,Yogurt Bonlac Natural 120 G,77.00 USD (x1),77.00 USD (x1),https://www.superxtra.com/yogurt-bonlac-natural-120-g/p
@@ -278,10 +278,13 @@ Supermercado,Queso Americano Cremoso Amarillo 24 UN/426 G,594.00 USD (x1),594.00
 Supermercado,Papas Fritas 500 gr Aviko 500 gr Congeladas,180.00 USD (x1),180.00 USD (x1),https://www.superxtra.com/papas-fritas-500-gr-aviko-500-gr-congeladas/p
 Supermercado,Papas Fritas 1000 gr Aviko 1000 gr Congeladas,379.00 USD (x1),379.00 USD (x1),https://www.superxtra.com/papas-fritas-1000-gr-aviko-1000-gr-congeladas/p
 Supermercado,Papas Corte Fino Aviko 750 gr Congeladas,333.00 USD (x1),333.00 USD (x1),https://www.superxtra.com/papas-corte-fino-aviko-750-gr-congeladas/p
+Supermercado,Panecillo Bun Rimith 615 Gr,194.00 USD (x1),194.00 USD (x1),https://www.superxtra.com/panecillo-bun-rimith-615-gr/p
 Supermercado,Pan de Molde Bimbo Artesano 535 g,224.00 USD (x1),224.00 USD (x1),https://www.superxtra.com/pan-bimbo-535-gr-artesano/p
 Supermercado,Nuggets Toledano de Pollo 340 G,319.00 USD (x1),319.00 USD (x1),https://www.superxtra.com/nuggets-12-oz-toledano-340-gr-pechugas-de-pollo/p
 Supermercado,Margarina Helmet 454 gr Vegetal,200.00 USD (x1),200.00 USD (x1),https://www.superxtra.com/margarina-helmet-454-gr-vegetal/p
+Supermercado,Gelatina Cajeta Gel Hada 170 G Fresa,138.00 USD (x1),138.00 USD (x1),https://www.superxtra.com/gelatina-cajeta-gel-hada-170-g-fresa/p
 Supermercado,Lentejas Xtra 1816 gr Original,61.00 USD (x1),61.00 USD (x1),https://www.superxtra.com/lentejas-xtra-1816-gr-original/p
+Supermercado,Lentejas Camelia 454 gr Original,122.00 USD (x1),122.00 USD (x1),https://www.superxtra.com/lentejas-camelia-454-gr-original/p
 Supermercado,Leche Uht Nevada 946 Ml Deslactosada,189.00 USD (x1),189.00 USD (x1),https://www.superxtra.com/leche-uht-nevada-946-ml-deslactosada/p
 Supermercado,Jugo Estrella Azul Naranja 946 Ml,141.00 USD (x1),141.00 USD (x1),https://www.superxtra.com/jugo-estrella-azul-946-ml-naranja/p
 Supermercado,Jugo Bonlac De Naranja Cartón 946 Ml,140.00 USD (x1),140.00 USD (x1),https://www.superxtra.com/jugo-de-naranja-bonlac-946-ml-carton/p
@@ -290,13 +293,13 @@ Supermercado,Frijoles Xtra Chiricano Rojo 12 OZ,80.00 USD (x1),80.00 USD (x1),ht
 Supermercado,Deditos 1 Lb Melo 454 gr De Pollo,547.00 USD (x1),547.00 USD (x1),https://www.superxtra.com/deditos-1-lb-melo-454-gr-de-pollo/p
 Supermercado,Bebida V8 De Jugos 6 Un Tetra Pack Variados 1200 Ml,297.00 USD (x1),297.00 USD (x1),https://www.superxtra.com/bebida-de-jugos-6-un-tetra-pack-v8-1200-ml-variados/p
 Supermercado,Azúcar Doradita Turbinada 800 gr,114.00 USD (x1),114.00 USD (x1),https://www.superxtra.com/azucar-doradita-800-gr-turbinada/p
-Supermercado,Azúcar Doradita Morena 454 gr,59.00 USD (x1),59.00 USD (x1),https://www.superxtra.com/azucar-doradita-454-gr-morena/p
 Supermercado,Arroz Extra Nutrientes Especial 2270 gr,345.00 USD (x1),345.00 USD (x1),https://www.superxtra.com/arroz-extra-nutrientes-2270-gr-especial/p
 Supermercado,Arroz Arrosisimo Especial 9000 gr,1560.00 USD (x1),1560.00 USD (x1),https://www.superxtra.com/arroz-arrosisimo-9000-gr-especial/p
 Supermercado,Arroz Arrosisimo Especial 900 gr,158.00 USD (x1),158.00 USD (x1),https://www.superxtra.com/arroz-arrosisimo-900-gr-especial/p
 Supermercado,Arroz Arrosisimo Especial 4500 gr,755.00 USD (x1),755.00 USD (x1),https://www.superxtra.com/arroz-arrosisimo-4500-gr-especial/p
 Supermercado,Agua Like Purificada Pack de 24 unidades de 500 ML,351.00 USD (x1),351.00 USD (x1),https://www.superxtra.com/agua-embotellada-like-500-ml-purificada-pack-de-24-unidades/p
 Supermercado,Aceite De Cocina Trovattore Vegetal 5000 Ml,993.00 USD (x1),993.00 USD (x1),https://www.superxtra.com/aceite-de-cocina-trovattore-5000-ml-vegetal/p
+Supermercado,Aceite De Cocina Super Fry Vegetal 1420 Ml,372.00 USD (x1),372.00 USD (x1),https://www.superxtra.com/aceite-de-cocina-super-fry-1420-ml-vegetal/p
 Supermercado,Bebida Bonlac De Naranja 1892 Ml,269.00 USD (x1),269.00 USD (x1),https://www.superxtra.com/bebida-bonlac-1892-ml-de-naranja/p
 Supermercado,Leche Marigold Condensada 380 G,142.00 USD (x1),142.00 USD (x1),https://www.superxtra.com/leche-marigold-condensada-380-g-10591605-8888026303068/p
 Supermercado,Pan Blanco Like 515 G,105.00 USD (x1),105.00 USD (x1),https://www.superxtra.com/pan-blanco-like-515-g/p
@@ -306,64 +309,51 @@ Supermercado,Pan Rimith Mantequilla 550 G,191.00 USD (x1),191.00 USD (x1),https:
 Supermercado,Margarina La Perfecta Original 250 G,250.00 USD (x1),250.00 USD (x1),https://www.superxtra.com/margarina-la-perfecta-original-250-g-8719200228788/p
 Supermercado,Kachitos FritoLayS Clasicos 105 GR,148.00 USD (x1),148.00 USD (x1),https://www.superxtra.com/kachitos-fritolays-clasicos-105-gr-721282408734/p
 Supermercado,Malta Vigor Mini Pet 200Ml - Six Pack,262.00 USD (x1),262.00 USD (x1),https://www.superxtra.com/malta-vigor-mini-pet-200ml-six-pack-89646130883/p
-Supermercado,Galleta Leche 12 Un 343G Pascual,167.00 USD (x1),167.00 USD (x1),https://www.superxtra.com/galleta-leche-12-un-343g-pascual-5546503/p
 Supermercado,Pan Pullman Calidad 515gr Ideal,173.00 USD (x1),173.00 USD (x1),https://www.superxtra.com/pullman-calidad-535-gr-ideal-0085742100102/p
 Supermercado,Pollo Empacado Caribeno Por Libra,295.00 USD (x1),295.00 USD (x1),https://www.superxtra.com/pollo-empacado-caribeno-2704894000006/p
-Supermercado,La Cholita -Queso Prensado,267.00 USD (x1),267.00 USD (x1),https://www.superxtra.com/la-cholita--queso-prensado-7452102190012/p
 Supermercado,Melo Huevos Jumbo 12 unidades,238.00 USD (x1),238.00 USD (x1),https://www.superxtra.com/melo-huevos-jumbo-12-unidades-7451001402578/p
-Supermercado,Pancake Comp La Parmigiana 454G Ziploc,177.00 USD (x1),216.00 USD (x1),https://www.superxtra.com/pancake-comp-la-parmigiana-454g-ziploc-7451022511662/p
-Supermercado,Jengibre Suelto Por Media Libra,242.00 USD (x1),242.00 USD (x1),https://www.superxtra.com/jengibre-suelto/p
 Supermercado,Huevos Medianos LIKE 18/2,345.00 USD (x1),345.00 USD (x1),https://www.superxtra.com/huevos-medianos-like-182/p
 Supermercado,Naranja De Jugo Nacional Por Media Libra,114.00 USD (x1),114.00 USD (x1),https://www.superxtra.com/naranja-de-jugo-nacional-por-libra/p
 Supermercado,Malta Vigor 1400 ML Pet,164.00 USD (x1),184.00 USD (x1),https://www.superxtra.com/malta-vigor-1400-ml-pet/p
-Supermercado,Yogurt Bonie Beb Fruit Punch Jelly 100Ml,47.00 USD (x1),47.00 USD (x1),https://www.superxtra.com/yogurt-bonie-beb-fruit-punch-jelly-100ml/p
+Supermercado,Uvas Rojas Con Semilla Por Media Libra,388.00 USD (x1),388.00 USD (x1),https://www.superxtra.com/uvas-rojas-con-semilla-por-libra/p
 Supermercado,Uva Rojas Sin Semilla Por Media Libra,591.00 USD (x1),591.00 USD (x1),https://www.superxtra.com/uva-rojas-sin-semilla-por-libra/p
 Supermercado,Recao Verde Cosecha de Mi Tierra Por Media Libra,867.00 USD (x1),867.00 USD (x1),https://www.superxtra.com/recao-verde-cosecha-de-mi-tierra-por-libra/p
 Supermercado,Porotos Nutritos 454 GR Rojos,126.00 USD (x1),126.00 USD (x1),https://www.superxtra.com/porotos-nutritos-454-gr-rojos/p
-Supermercado,Combinados Multipac Rimith 708 gr En Paquete,280.00 USD (x1),280.00 USD (x1),https://www.superxtra.com/combinados-multipac-rimith-708-gr-en-paquete-7451015161119/p
 Supermercado,Bollo Melo 454 gr Maiz Con Queso 5 Un,214.00 USD (x1),214.00 USD (x1),https://www.superxtra.com/bollo-melo-454-gr-maiz-con-queso-5-un/p
+Supermercado,Spaguetti Pastas Roma 400 gr Pasta Larga,106.00 USD (x1),106.00 USD (x1),https://www.superxtra.com/spaguetti-pastas-roma-400-gr-pasta-larga/p
 Supermercado,Coditos La Suprema 227 gr Pastas Cortas,56.00 USD (x1),56.00 USD (x1),https://www.superxtra.com/coditos-la-suprema-227-gr-pastas-cortas/p
 Supermercado,Mortadela Rimith 170 gr En Paquete,170.00 USD (x1),188.00 USD (x1),https://www.superxtra.com/mortadela-rimith-170-gr-en-paquete/p
 Supermercado,Huevos Grandes - Caribeño Familiar 18 Unidades,357.00 USD (x1),357.00 USD (x1),https://www.superxtra.com/huevos-caribeno-familiar-18-unidades/p
-Supermercado,Cereal Kelloggs 300 gr Basico,377.00 USD (x1),377.00 USD (x1),https://www.superxtra.com/cereal-kelloggs-300-gr-basico/p
+Supermercado,Huevos Empacados Toledano Medianos 12 UN,245.00 USD (x1),245.00 USD (x1),https://www.superxtra.com/huevo-empacados-toledano-12-un-medianos/p
+Supermercado,Crema Molino Criollo 300 gr De Maiz,72.00 USD (x1),86.00 USD (x1),https://www.superxtra.com/crema-molino-criollo-300-gr-de-maiz/p
 Supermercado,Galleta Salada 3 Paquetes Pascual 181 G Saltines,91.00 USD (x1),91.00 USD (x1),https://www.superxtra.com/galleta-salada-3-paquetes-pascual-181-g-saltines/p
-Supermercado,Sazonador Arrocero La Doña Sobre 10 gr.,55.00 USD (x1),55.00 USD (x1),https://www.superxtra.com/sazonador-arrocero-la-dona-sobre-10-gr/p
 Supermercado,Ajo Don Don 50 gr Molido,45.00 USD (x1),45.00 USD (x1),https://www.superxtra.com/ajo-don-don-50-gr-molido/p
-Supermercado,Cebolla La Doña 30 gr En Polvo,47.00 USD (x1),47.00 USD (x1),https://www.superxtra.com/cebolla-la-dona-30-gr-en-polvo/p
 Supermercado,Curcuma La Doña 30 gr En Sobre,49.00 USD (x1),49.00 USD (x1),https://www.superxtra.com/curcuma-la-dona-30-gr-en-sobre/p
 Supermercado,Salsa La Doña 487 Ml Salsas Negras 3 Pack,459.00 USD (x1),459.00 USD (x1),https://www.superxtra.com/salsa-la-dona-487-ml-salsas-negras-3-pack/p
-Supermercado,MAGGI Consomé de Pollo Sobre 10g 4 Unidades,73.00 USD (x1),73.00 USD (x1),https://www.superxtra.com/consome-de-pollo-maggi-sobre-10g-4-unidades/p
 Supermercado,Ajo La Doña 28 gr En Polvo,54.00 USD (x1),54.00 USD (x1),https://www.superxtra.com/ajo-la-dona-28-gr-en-polvo/p
 Supermercado,Trocitos De Atún Like 140 gr En Aceite,104.00 USD (x1),104.00 USD (x1),https://www.superxtra.com/trocitos-de-atun-like-140-gr-en-aceite/p
 Supermercado,Trocitos De Atún Like 140 gr Con Vegetales,106.00 USD (x1),106.00 USD (x1),https://www.superxtra.com/trocitos-de-atun-like-140-gr-con-vegetales/p
-Supermercado,Comino La Doña 15 gr En Sobre,24.00 USD (x1),24.00 USD (x1),https://www.superxtra.com/comino-la-dona-15-gr-en-sobre/p
-Supermercado,Atún En Trozos Calvo 142 gr En Agua,142.00 USD (x1),142.00 USD (x1),https://www.superxtra.com/atun-en-trozos-calvo-142-gr-en-agua/p
 Supermercado,Lomo De Atún Royal Prince 170 gr En Aceite,144.00 USD (x1),144.00 USD (x1),https://www.superxtra.com/lomo-de-atun-royal-prince-170-gr-en-aceite/p
 Supermercado,Maíz Rubi 425 gr En grano,110.00 USD (x1),110.00 USD (x1),https://www.superxtra.com/maiz-rubi-425-gr-en-grano/p
-Supermercado,Trocitos De Atún Xtra 140 gr En Agua,79.00 USD (x1),79.00 USD (x1),https://www.superxtra.com/trocitos-de-atun-xtra-140-gr-en-agua/p
 Supermercado,Soda Coca Cola Regular 1500 Ml Pet,210.00 USD (x1),210.00 USD (x1),https://www.superxtra.com/soda-pet-coca-cola-1500-ml-regular/p
 Supermercado,Queso Americano Borden Sandwich 12 Rebanadas,159.00 USD (x1),159.00 USD (x1),https://www.superxtra.com/queso-americano-borden-sandwich-12-rebanadas/p
 Supermercado,Pipotitos Rimith 312 Gr pancito 12 Un,191.00 USD (x1),191.00 USD (x1),https://www.superxtra.com/pipotitos-rimith-312-gr-pancito-12-un/p
-Supermercado,Panecillo Bun Rimith 615 Gr,194.00 USD (x1),194.00 USD (x1),https://www.superxtra.com/panecillo-bun-rimith-615-gr/p
 Supermercado,Pancake Gold Mills 454 gr Original,203.00 USD (x1),203.00 USD (x1),https://www.superxtra.com/pancake-gold-mills-454-gr-original/p
 Supermercado,Pan Bimbo 275 Gr Hot Dog Sin Ajonjoli,164.00 USD (x1),164.00 USD (x1),https://www.superxtra.com/pan-bimbo-275-gr-hot-dog-sin-ajonjoli/p
 Supermercado,Nuggets Toledano Pechugas de Pollo 170 G,153.00 USD (x1),153.00 USD (x1),https://www.superxtra.com/nuggets-toledano-pechugas-de-pollo-170-gr/p
-Supermercado,Gelatina Cajeta Gel Hada 170 G Fresa,138.00 USD (x1),138.00 USD (x1),https://www.superxtra.com/gelatina-cajeta-gel-hada-170-g-fresa/p
+Supermercado,Margarina La Perfecta 113 gr Regular En Barra,84.00 USD (x1),84.00 USD (x1),https://www.superxtra.com/margarina-la-perfecta-113-gr-regular-en-barra/p
 Supermercado,Lentejas Nutritos 454 gr Original,138.00 USD (x1),138.00 USD (x1),https://www.superxtra.com/lentejas-nutritos-454-gr-original/p
 Supermercado,KLIM FORTICRECE Leche Entera Instantánea Lata 1600g,1904.00 USD (x1),1904.00 USD (x1),https://www.superxtra.com/leche-entera-instantanea-klim-forticrece-ninos-lata-1600g/p
 Supermercado,LA LECHERA Leche Condensada Lata 397g,232.00 USD (x1),232.00 USD (x1),https://www.superxtra.com/leche-condensada-azucarada-la-lechera-397g-lata/p
 Supermercado,Jugo Country Barn Coctel De Cranberry 1892 Ml,385.00 USD (x1),385.00 USD (x1),https://www.superxtra.com/jugo-country-barn-1892-ml-coctel-de-cranberry/p
-Supermercado,Harina Doñarepa 500 gr Blanca,121.00 USD (x1),121.00 USD (x1),https://www.superxtra.com/harina-donarepa-500-gr-blanca/p
+Supermercado,Hielo Hielo Fiesta 8.5 Lb Bolsa,125.00 USD (x1),125.00 USD (x1),https://www.superxtra.com/hielo-hielo-fiesta-85-lb-bolsa/p
 Supermercado,Pork And Beans Campbells 312 gr En Latados,122.00 USD (x1),122.00 USD (x1),https://www.superxtra.com/pork-and-beans-campbells-312-gr-en-latados/p
 Supermercado,Café Tradicional Durán Docena 22 G,447.00 USD (x1),447.00 USD (x1),https://www.superxtra.com/cafe-tradicional-duran-22-g-docena/p
 Supermercado,Café Regular Cafe 1820 Tostado Y Molido 200 gr,385.00 USD (x1),428.00 USD (x1),https://www.superxtra.com/cafe-regular-cafe-1820-200-gr-tostado-y-molido/p
 Supermercado,Mantequilla Orange Grove 200 g,256.00 USD (x1),256.00 USD (x1),https://www.superxtra.com/mantequilla-orange-grove-200-g/p
 Supermercado,Bebida Instantánea Chocolisto Bolsa Chocolate 200 G,206.00 USD (x1),242.00 USD (x1),https://www.superxtra.com/bebida-instantanea-bolsa-chocolisto-200-g-chocolate/p
-Supermercado,Azúcar Santa Rosa 800 gr Turbinada,121.00 USD (x1),121.00 USD (x1),https://www.superxtra.com/azucar-santa-rosa-800-gr-turbinada/p
 Supermercado,Leche Evaporada Bella Holandesa 405 Ml,108.00 USD (x1),114.00 USD (x1),https://www.superxtra.com/leche-evaporada-bella-holandesa-405-ml/p
 Supermercado,Arroz Super Xtra De Primera 9072 gr,1212.00 USD (x1),1212.00 USD (x1),https://www.superxtra.com/arroz-super-xtra-9072-gr-de-primera/p
-Supermercado,Arroz Integral Arrosisimo Especial 90 gr,189.00 USD (x1),189.00 USD (x1),https://www.superxtra.com/arroz-integral-arrosisimo-90-gr-especial/p
-Supermercado,Aceite De Cocina Super Fry Vegetal 1420 Ml,372.00 USD (x1),372.00 USD (x1),https://www.superxtra.com/aceite-de-cocina-super-fry-1420-ml-vegetal/p
 Supermercado,Aceite Pabo Vegetal 500 ML,178.00 USD (x1),178.00 USD (x1),https://www.superxtra.com/aceite-pabo-500-ml/p
 Supermercado,Aceite Pabo Vegetal 900 ML,271.00 USD (x1),271.00 USD (x1),https://www.superxtra.com/aceite-pabo-vegetal-900-ml/p
 Supermercado,Café Saborizado en Polvo Colcafé Amaretto 50 g,525.00 USD (x1),525.00 USD (x1),https://www.superxtra.com/cafe-saborizado-en-polvo-colcafe-amaretto-50-g/p
@@ -396,7 +386,7 @@ Supermercado,Snack Picante Takis Intense Nacho 68 g,82.00 USD (x1),82.00 USD (x1
 Supermercado,Condimento Mayonesa 180 g,111.00 USD (x1),125.00 USD (x1),https://www.superxtra.com/condimento-mayonesa-180-g/p
 Supermercado,Bebida de Chocolate Nevada Chocorrico 200 ml (Paquete de 6),232.00 USD (x1),232.00 USD (x1),https://www.superxtra.com/bebida-de-chocolate-nevada-chocorrico-200-ml-paquete-de-6/p
 Supermercado,Café Sello Rojo Tradicional 400 G,679.00 USD (x1),679.00 USD (x1),https://www.superxtra.com/cafe-sello-rojo-tradicional-400-g/p
-Supermercado,Porotos Amapola Rojos 340 G,83.00 USD (x1),98.00 USD (x1),https://www.superxtra.com/porotos-amapola-rojos-340-g/p
+Supermercado,Porotos Amapola Rojos 340 G,98.00 USD (x1),98.00 USD (x1),https://www.superxtra.com/porotos-amapola-rojos-340-g/p
 Supermercado,Aderezo Cheesy Spread McCormick 650 G,370.00 USD (x1),370.00 USD (x1),https://www.superxtra.com/aderezo-cheesy-spread-mccormick-650-g/p
 Supermercado,Lata Concentrada La Granja Azucarada 397 G,179.00 USD (x1),179.00 USD (x1),https://www.superxtra.com/lata-concentrada-la-granja-azucarada-397-g/p
 Supermercado,Real Mayonesa Royal Prince 450 G,230.00 USD (x1),230.00 USD (x1),https://www.superxtra.com/real-mayonesa-royal-prince-450-g/p
@@ -999,6 +989,16 @@ Supermercado,Leche La chiricana UTH 200 ml,53.00 USD (x1),53.00 USD (x1),https:/
 Supermercado,Mayonesa Kraft Miracle Whip Doypack 180 GR,97.00 USD (x1),97.00 USD (x1),https://www.superxtra.com/mayonesa-kraft-miracle-whip-doypack-180-gr-735051000425/p
 Supermercado,Leche Lanuestra Bienestar 946 ML,134.00 USD (x1),134.00 USD (x1),https://www.superxtra.com/leche-lanuestra-bienestar-946-ml-7451109850837/p
 Supermercado,Chocolate Hersheys Cookies Creame Barra 43 G,120.00 USD (x1),120.00 USD (x1),https://www.superxtra.com/chocolate-hersheys-cookies-creame-barra-43-g-34000702152/p
+Supermercado,Soda Colombiana Postobon Manzana 400 ML,68.00 USD (x1),68.00 USD (x1),https://www.superxtra.com/soda-colombiana-postobon-manzana-400-ml-7702090031928/p
+Supermercado,Soda Colombiana Postobon 400 ML,68.00 USD (x1),68.00 USD (x1),https://www.superxtra.com/soda-colombiana-postobon-400-ml-7702090032017/p
+Supermercado,Agua Saborizada Volvic Summerm Fruits 500 ML,174.00 USD (x1),174.00 USD (x1),https://www.superxtra.com/agua-saborizada-volvic-summerm-fruits-500-ml-3057640407253/p
+Supermercado,Jugo Welchs Grape Light 64 OZ,679.00 USD (x1),679.00 USD (x1),https://www.superxtra.com/jugo-welchs-grape-light-64-oz-41800200580/p
+Supermercado,Te Frio En Lata Delmonte Sabor Melocoton 330 ML,51.00 USD (x1),51.00 USD (x1),https://www.superxtra.com/te-frio-en-lata-delmonte-sabor-melocoton-330-ml-5606498/p
+Supermercado,Agua Saborizada Volvic Limon 500 ML,174.00 USD (x1),174.00 USD (x1),https://www.superxtra.com/agua-saborizada-volvic-limon-500-ml-3057640373183/p
+Supermercado,Agua Saborizada Volvic Strawberry Natural 500 ML,188.00 USD (x1),188.00 USD (x1),https://www.superxtra.com/agua-saborizada-volvic-strawberry-natural-500-ml-3057640372513/p
+Supermercado,Pechuga De Pollo Xtra Finas Hierbas,1049.00 USD (x1),1049.00 USD (x1),https://www.superxtra.com/pechuga-de-pollo-xtra-finas-hierbas-2702414000000/p
+Supermercado,Agua Bambito 1 GL,341.00 USD (x1),341.00 USD (x1),https://www.superxtra.com/agua-bambito-1-gl-821704000055/p
+Supermercado,Agua Bambito 1500 ML,158.00 USD (x1),158.00 USD (x1),https://www.superxtra.com/agua-bambito-1500-ml-821704000048/p
 "Licor, Cerveza y Vino",Aguardiente Antioqueño Sin Azúcar 750 ml,1114.00 USD (x1),1393.00 USD (x1),https://www.superxtra.com/aguardiente-antioqueno-sin-azucar-750-ml/p
 "Licor, Cerveza y Vino",Bebida Alcohólica Cuba Libre Ron y Cola 350 ml,100.00 USD (x1),100.00 USD (x1),https://www.superxtra.com/bebida-alcoholica-cuba-libre-ron-y-cola-350-ml/p
 "Licor, Cerveza y Vino",Vino Tinto Dulce Gato Negro 750 ml,598.00 USD (x1),598.00 USD (x1),https://www.superxtra.com/vino-tinto-dulce-gato-negro-750-ml/p
@@ -2618,11 +2618,11 @@ Limpieza del Hogar y Ropa,"Suavizante Downy ""Amanecer"" 700 ML",152.00 USD (x1)
 Limpieza del Hogar y Ropa,Papel Toalla Like 3 Rollos en 1,201.00 USD (x1),201.00 USD (x1),https://www.superxtra.com/papel-toalla-like-3-rollos-en-1-5558674/p
 Limpieza del Hogar y Ropa,Detergente Polvo Like Floral 3 KG,411.00 USD (x1),411.00 USD (x1),https://www.superxtra.com/detergente-polvo-like-floral-3-kg-6942145800340/p
 Limpieza del Hogar y Ropa,Papel Toalla Delux Multiuso 2 Rollos - 140hojas,125.00 USD (x1),125.00 USD (x1),https://www.superxtra.com/papel-toalla-delux-multiuso-2-rollos-decorados-88689003048/p
-Limpieza del Hogar y Ropa,Crema Lavaplatos Like Avena 450G,97.00 USD (x1),97.00 USD (x1),https://www.superxtra.com/crema-lavaplatos-like-avena-450g-5567102/p
 Limpieza del Hogar y Ropa,Esponja Like Multiusos Cuadrada 1Un,31.00 USD (x1),31.00 USD (x1),https://www.superxtra.com/esponja-like-multiusos-cuadrada-1un-5566235/p
 Limpieza del Hogar y Ropa,Esponja Like Alambre Inoxidable 1Un,32.00 USD (x1),32.00 USD (x1),https://www.superxtra.com/esponja-like-alambre-inoxidable-1un-5566228/p
 Limpieza del Hogar y Ropa,Papel Higienico Encanto Grande 6 Rollos,249.00 USD (x1),249.00 USD (x1),https://www.superxtra.com/papel-higienico-encanto-grande-6-rollos-842135001763/p
 Limpieza del Hogar y Ropa,Papel Toalla Like 60 Hojas 1 Rollo,88.00 USD (x1),88.00 USD (x1),https://www.superxtra.com/papel-toalla-like-60-hojas-1-rollo-5558520/p
+Limpieza del Hogar y Ropa,Blanqueador Desinfectante Blancox Con Cloro 500 ML,79.00 USD (x1),79.00 USD (x1),https://www.superxtra.com/blanqueador-desinfectante-blancox-regular-500-ml/p
 Limpieza del Hogar y Ropa,Jabón En Barra Zote Blanco 100 Gr,51.00 USD (x1),51.00 USD (x1),https://www.superxtra.com/jabon-en-barra-zote-blanco-100-gr/p
 Limpieza del Hogar y Ropa,Blanqueador Desinfectante Clorox Regular 3785 ml,285.00 USD (x1),285.00 USD (x1),https://www.superxtra.com/blanqueador-desinfectante-clorox-regular-3785-ml/p
 Limpieza del Hogar y Ropa,Blanqueador Desinfectante Clorox Regular 1892 ml,169.00 USD (x1),201.00 USD (x1),https://www.superxtra.com/blanqueador-desinfectante-clorox-regular-1892-ml/p
@@ -2635,15 +2635,15 @@ Limpieza del Hogar y Ropa,Papel Higiénico Like 12 ROLLOS Doble Hoja,492.00 USD 
 Limpieza del Hogar y Ropa,Limpiador de Pisos Like 960 ML Antibacterial Con Aroma Lavanda,91.00 USD (x1),91.00 USD (x1),https://www.superxtra.com/limpiador-pisos-like-960-ml-antibacterial-con-aroma-lavanda/p
 Limpieza del Hogar y Ropa,Papel Higiénico Encanto 4 UN Doble Hoja 350H Grande,159.00 USD (x1),159.00 USD (x1),https://www.superxtra.com/papel-higienico-encanto-4-un-doble-hoja-350h-grande/p
 Limpieza del Hogar y Ropa,Bolsa de Basura Zesta Gigante 32X40 6 Un Negra,192.00 USD (x1),192.00 USD (x1),https://www.superxtra.com/bolsa-basura-zesta-gigante-32-40-6-un-negra/p
-Limpieza del Hogar y Ropa,Papel Higiénico Unico 6 ROLLOS Rendimiento Máximo 6000 Hojas,402.00 USD (x1),402.00 USD (x1),https://www.superxtra.com/papel-higienico-unico-6-rollos-rendimiento-ma-imo-6000-hojas/p
 Limpieza del Hogar y Ropa,Servilleta Delux 100 UND Con Dispensador,58.00 USD (x1),58.00 USD (x1),https://www.superxtra.com/servilleta-delu--100-und-con-dispensador/p
 Limpieza del Hogar y Ropa,Crema Lavaplatos Spum Verde 800 gr,195.00 USD (x1),195.00 USD (x1),https://www.superxtra.com/crema-lavaplatos-spum-verde-800-gr/p
 Limpieza del Hogar y Ropa,Desinfectante Mistolín Lavanda Eucalipto 828 ml,174.00 USD (x1),174.00 USD (x1),https://www.superxtra.com/desinfectante-mistolin-lavanda-eucalipto-828-ml/p
 Limpieza del Hogar y Ropa,Papel Higiénico Único Plus Aroma 4 Rollos,291.00 USD (x1),291.00 USD (x1),https://www.superxtra.com/papel-higienico-unico-plus-aroma-4-rollos/p
 Limpieza del Hogar y Ropa,Crema Lavaplatos Sip Eco Green 425 G,178.00 USD (x1),178.00 USD (x1),https://www.superxtra.com/crema-lavaplatos-sip-eco-green-425-g-18718304129/p
-Limpieza del Hogar y Ropa,Blanqueador Desinfectante Blancox Con Cloro 500 ML,79.00 USD (x1),79.00 USD (x1),https://www.superxtra.com/blanqueador-desinfectante-blancox-regular-500-ml/p
+Limpieza del Hogar y Ropa,Crema Lavaplatos Like Avena 450G,97.00 USD (x1),97.00 USD (x1),https://www.superxtra.com/crema-lavaplatos-like-avena-450g-5567102/p
 Limpieza del Hogar y Ropa,Detergente Americano 3000 Gr en polvo,523.00 USD (x1),523.00 USD (x1),https://www.superxtra.com/detergente-americano-3000-gr-polvo/p
-Limpieza del Hogar y Ropa,Papel Alumunio Super Xtra 75 PIES Aluminio,198.00 USD (x1),198.00 USD (x1),https://www.superxtra.com/papel-alumunio-super--tra-75-pies-aluminio/p
+Limpieza del Hogar y Ropa,Papel Higiénico Unico 6 ROLLOS Rendimiento Máximo 6000 Hojas,402.00 USD (x1),402.00 USD (x1),https://www.superxtra.com/papel-higienico-unico-6-rollos-rendimiento-ma-imo-6000-hojas/p
+Limpieza del Hogar y Ropa,Papel Toalla Delux 3 ROLLOS Blanco,300.00 USD (x1),300.00 USD (x1),https://www.superxtra.com/papel-toalla-delu--3-rollos-blanco/p
 Limpieza del Hogar y Ropa,Spray Lysol Lemon 12/32 O,474.00 USD (x1),474.00 USD (x1),https://www.superxtra.com/spray-lysol-lemon-1232-o-19200753524/p
 Limpieza del Hogar y Ropa,Quita Manchas Poder O2 Crystal White 450Gr Vanish,381.00 USD (x1),381.00 USD (x1),https://www.superxtra.com/quita-manchas-poder-o2-crystal-white-450gr-vanish-7501058757890/p
 Limpieza del Hogar y Ropa,Detergente Líquido Swift Fresh Apple 4.5 L,1140.00 USD (x1),1140.00 USD (x1),https://www.superxtra.com/detergente-liquido-swift-fresh-apple-4-5-l/p
@@ -3171,6 +3171,7 @@ Limpieza del Hogar y Ropa,Pastilla Aromatizante Sani Odor 60 GR Bouquet,59.00 US
 Limpieza del Hogar y Ropa,Pastilla Aromatizante Sani Odor 60 GR Lavanda,53.00 USD (x1),64.00 USD (x1),https://www.superxtra.com/pastilla-aromatizante-sani-odor-60-gr-lavanda/p
 Limpieza del Hogar y Ropa,Pastilla Aromatizante Sani Odor 60 GR Floral,59.00 USD (x1),70.00 USD (x1),https://www.superxtra.com/pastilla-aromatizante-sani-odor-60-gr-floral/p
 Limpieza del Hogar y Ropa,Papel Higiénico Super Xtra 2 UND 2000 Hoja Sencilla,128.00 USD (x1),128.00 USD (x1),https://www.superxtra.com/papel-higienico-super--tra-2-und-2000-hoja-sencilla/p
+Limpieza del Hogar y Ropa,Papel Alumunio Super Xtra 75 PIES Aluminio,198.00 USD (x1),198.00 USD (x1),https://www.superxtra.com/papel-alumunio-super--tra-75-pies-aluminio/p
 Limpieza del Hogar y Ropa,Papel Alumunio Super Xtra 50 PIES Aluminio,148.00 USD (x1),148.00 USD (x1),https://www.superxtra.com/papel-alumunio-super--tra-50-pies-aluminio/p
 Limpieza del Hogar y Ropa,Papel Alumunio Super Xtra 25 PIES Aluminio,118.00 USD (x1),118.00 USD (x1),https://www.superxtra.com/papel-alumunio-super--tra-25-pies-aluminio/p
 Limpieza del Hogar y Ropa,Esponja Eterna 1 UN Inoxidable,130.00 USD (x1),130.00 USD (x1),https://www.superxtra.com/esponja-eterna-1-un-ino-idable/p
@@ -3297,7 +3298,6 @@ Limpieza del Hogar y Ropa,Papel Higiénico Rosal 6 ROLLOS Triple Hoja Tamaño G,
 Limpieza del Hogar y Ropa,Papel Higiénico Rosal 12 ROLLOS Triple Hoja Tamaño G,733.00 USD (x1),733.00 USD (x1),https://www.superxtra.com/papel-higienico-rosal-12-rollos-triple-hoja-tamano-g/p
 Limpieza del Hogar y Ropa,Papel Toalla Delux 2 ROLLOS Blanco 140 Hojas Dobles,208.00 USD (x1),208.00 USD (x1),https://www.superxtra.com/papel-toalla-delu--2-rollos-blanco-140-hojas-dobles/p
 Limpieza del Hogar y Ropa,Papel Toalla Delux 2 ROLLOS Multicorte Blanco 400 Dobles Hojas,266.00 USD (x1),266.00 USD (x1),https://www.superxtra.com/papel-toalla-delu--2-rollos-multicorte-blanco-400-dobles-hojas/p
-Limpieza del Hogar y Ropa,Papel Toalla Delux 3 ROLLOS Blanco,300.00 USD (x1),300.00 USD (x1),https://www.superxtra.com/papel-toalla-delu--3-rollos-blanco/p
 Limpieza del Hogar y Ropa,Papel Toalla Delux 3 Rollos Natural Doble Hojas,228.00 USD (x1),228.00 USD (x1),https://www.superxtra.com/papel-toalla-delu--3-rollos-natural-doble-hojas/p
 Limpieza del Hogar y Ropa,Servilletas Sensación Plus 1 Capa 70 un,44.00 USD (x1),44.00 USD (x1),https://www.superxtra.com/servilleta-sensacion-plus-1p-24x70/p
 Limpieza del Hogar y Ropa,Papel Higiénico Unico 2 ROLLOS Rendimiento Máximo 2000 Hojas,161.00 USD (x1),161.00 USD (x1),https://www.superxtra.com/papel-higienico-unico-2-rollos-rendimiento-ma-imo-2000-hojas/p
