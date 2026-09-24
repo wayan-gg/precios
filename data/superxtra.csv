@@ -1,6 +1,6 @@
 ﻿categoria,nombre,precio_oferta,precio_regular,enlace
 Supermercado,Pollo Panamá Por Media Libra,199.00 USD (x1),199.00 USD (x1),https://www.superxtra.com/pollo-panama-por-libra/p
-Supermercado,Pechuga de Pollo Por Media Libra,211.00 USD (x1),211.00 USD (x1),https://www.superxtra.com/pechuga-de-pollo-por-libra/p
+Supermercado,Pechuga de Pollo Por Media Libra,280.00 USD (x1),280.00 USD (x1),https://www.superxtra.com/pechuga-de-pollo-por-libra/p
 Supermercado,Muslo Encuentro de Pollo Por Media Libra,208.00 USD (x1),208.00 USD (x1),https://www.superxtra.com/muslo-encuentro-de-pollo-por-libra/p
 Supermercado,Papas Nacional Por Media Libra,108.00 USD (x1),108.00 USD (x1),https://www.superxtra.com/papas-nacional-por-libra/p
 Supermercado,Leche evaporada ideal 314 G,124.00 USD (x1),124.00 USD (x1),https://www.superxtra.com/leche-evaporada-ideal-314-g/p
@@ -35,6 +35,7 @@ Supermercado,Arroz Arrosisimo Especial 2000 gr,350.00 USD (x1),350.00 USD (x1),h
 Supermercado,Queso Nestle Americano 24 UN,660.00 USD (x1),660.00 USD (x1),https://www.superxtra.com/queso-nestle-americano-24-un/p
 Supermercado,Azucar Like Morena 800Gr,118.00 USD (x1),118.00 USD (x1),https://www.superxtra.com/azucar-like-morena-800gr-5575329/p
 Supermercado,Salsa Tomate Panamena 100G Maggi,64.00 USD (x1),64.00 USD (x1),https://www.superxtra.com/salsa-tomate-panamena-100g-maggi-8445290465535/p
+Supermercado,Ala Del Dia Bandeja Deli Pollo Por Libra,457.00 USD (x1),457.00 USD (x1),https://www.superxtra.com/ala-del-dia-bandeja-deli-pollo-209048000007/p
 Supermercado,Salchicha Frankfurter First Choice,184.00 USD (x1),184.00 USD (x1),https://www.superxtra.com/salchicha-frankfurter-first-choice-7451072405690/p
 Supermercado,Pimenton Largo Por Media Libra,250.00 USD (x1),250.00 USD (x1),https://www.superxtra.com/pimenton-largo-2701141000000/p
 Supermercado,Filete de Pechuga Por Media Libra,698.00 USD (x1),698.00 USD (x1),https://www.superxtra.com/filete-de-pechuga-por-libra/p
@@ -74,6 +75,7 @@ Supermercado,Pan Blanco Bimbo Extra Grande 735 g,209.00 USD (x1),209.00 USD (x1)
 Supermercado,Lentejas Don Henry 454 gr Original,73.00 USD (x1),73.00 USD (x1),https://www.superxtra.com/lentejas-don-henry-454-gr-original/p
 Supermercado,Leche Uht Estrella Azul 946 Ml Deslactosada Siempre Cae Bien,163.00 USD (x1),163.00 USD (x1),https://www.superxtra.com/leche-uht-estrella-azul-946-ml-deslactosada/p
 Supermercado,Leche Uht Bonlac 946 Ml Entera,173.00 USD (x1),173.00 USD (x1),https://www.superxtra.com/leche-uht-bonlac-946-ml-entera/p
+Supermercado,IDEAL Leche Evaporada Entera Lata 167g,64.00 USD (x1),64.00 USD (x1),https://www.superxtra.com/leche-evaporada-ideal-entera-lata-167g/p
 Supermercado,KLIM FORTICRECE Leche Entera Instantánea Lata 360g,357.00 USD (x1),357.00 USD (x1),https://www.superxtra.com/leche-entera-instantanea-klim-forticrece-ninos-lata-360g/p
 Supermercado,Queso Amarillo Analogo El Torito Por Media Libra,638.00 USD (x1),638.00 USD (x1),https://www.superxtra.com/queso-amarillo-analogo-el-torito-por-libra/p
 Supermercado,Café Tradicional Durán Molido Regular 425 G,636.00 USD (x1),636.00 USD (x1),https://www.superxtra.com/cafe-tradicional-duran-425-g-molido-regular/p
@@ -93,12 +95,15 @@ Supermercado,Galletas Muuu Mantequilla,130.00 USD (x1),145.00 USD (x1),https://w
 Supermercado,Camote Por Media Libra,297.00 USD (x1),297.00 USD (x1),https://www.superxtra.com/camote-por-media-libra-2702927000009/p
 Supermercado,Azucar Santa Rosa 1820G Turbinada,260.00 USD (x1),260.00 USD (x1),https://www.superxtra.com/azucar-santa-rosa-1820g-turbinada-7451078501136/p
 Supermercado,CAFE MOLIDO LIKE 425gr,412.00 USD (x1),412.00 USD (x1),https://www.superxtra.com/cafe-molido-like-425gr/p
+Supermercado,Muslo Deli Pollo por Media Libra,445.00 USD (x1),445.00 USD (x1),https://www.superxtra.com/muslo-deli-pollo-209047000008/p
 Supermercado,Pollo Empacado Caribeno Por Libra,295.00 USD (x1),295.00 USD (x1),https://www.superxtra.com/pollo-empacado-caribeno-2704894000006/p
 Supermercado,Jamon Cocido De Cerdo First Choice 204 G,164.00 USD (x1),164.00 USD (x1),https://www.superxtra.com/jamon-cocido-de-cerdo-first-choice-204g-7451072405515/p
 Supermercado,Tortillas De Maiz American Star 580gr,54.00 USD (x1),54.00 USD (x1),https://www.superxtra.com/tortillas-de-maiz-american-star-580gr-7451072405485/p
+Supermercado,Lechuga Romana Cosechas De Mi Tierra Por Media Libra,381.00 USD (x1),381.00 USD (x1),https://www.superxtra.com/lechuga-romana-cosechas-de-mi-tierra-2704030000006/p
 Supermercado,Name Baboso Por Media Libra,194.00 USD (x1),194.00 USD (x1),https://www.superxtra.com/name-baboso-por-media-libra2701108000005/p
 Supermercado,Yogurt Fresa Bonie Bonlac 100g,49.00 USD (x1),49.00 USD (x1),https://www.superxtra.com/yogurt-fresa-bonie-bonlac-100g-12157205467/p
 Supermercado,Jugo Petit Fruta Fresca 6 pack 200ml,173.00 USD (x1),173.00 USD (x1),https://www.superxtra.com/jugo-petit-fruta-fresca-6-pack-200ml-7411204805491/p
+Supermercado,Lechuga Cosechas De Mi Tierra Por Media Libra,252.00 USD (x1),252.00 USD (x1),https://www.superxtra.com/lechuga-cosechas-de-mi-tierra-por-libra/p
 Supermercado,Jamon Cocido Blue Ribbon 4X4 Pullman Por Media Libra,697.00 USD (x1),697.00 USD (x1),https://www.superxtra.com/jamon-cocido-blue-ribbon-4x4-pullman-por-media-libra/p
 Supermercado,Higado de Res Por Libra,528.00 USD (x1),528.00 USD (x1),https://www.superxtra.com/higado-de-res-por-libra/p
 Supermercado,Higado de Pollo Por Media Libra,272.00 USD (x1),272.00 USD (x1),https://www.superxtra.com/higado-de-pollo-por-libra/p
@@ -213,6 +218,7 @@ Supermercado,Empanadas De maíz Con Carne 454g,210.00 USD (x1),210.00 USD (x1),h
 Supermercado,Agua San Pellegrino Pet 500ml,160.00 USD (x1),160.00 USD (x1),https://www.superxtra.com/agua-san-pellegrino-pet-500ml/p
 Supermercado,Carne Molida De Primera,886.00 USD (x1),886.00 USD (x1),https://www.superxtra.com/carne-molida-de-primera/p
 Supermercado,Pescuezo Sin Piel por Media Libra,298.00 USD (x1),298.00 USD (x1),https://www.superxtra.com/pescuezo-sin-piel-2700058000004/p
+Supermercado,Pechuga De Pollo Deli Pollo por Media Libra,383.00 USD (x1),450.00 USD (x1),https://www.superxtra.com/pechuga-de-pollo-deli-pollo-209044000001/p
 Supermercado,Pescuezo Deli Pollo Por Media Libra,259.00 USD (x1),259.00 USD (x1),https://www.superxtra.com/pescuezo-deli-pollo-209056000006/p
 Supermercado,Muslo Melo En Bandeja Familiar,454.00 USD (x1),454.00 USD (x1),https://www.superxtra.com/muslo-en-bandeja-familiar-por-media-libra200223000003/p
 Supermercado,Ala En Bandeja Familiar Por Libra,461.00 USD (x1),461.00 USD (x1),https://www.superxtra.com/ala-en-bandeja-familiar-200222000004/p
@@ -265,7 +271,7 @@ Supermercado,Jamón Del Día de Pollo 454 G,261.00 USD (x1),261.00 USD (x1),http
 Supermercado,Jamón Cocido Blue Ribbon 227 gr En Paquete,220.00 USD (x1),220.00 USD (x1),https://www.superxtra.com/jamon-cocido-blue-ribbon-227-gr-en-paquete/p
 Supermercado,Chorizos Kiener de Cerdo 454 G,343.00 USD (x1),343.00 USD (x1),https://www.superxtra.com/chorizos-kiener-de-cerdo-454-g/p
 Supermercado,Chorizo Parrillero Ahumado First Choice 454 gr En Paquete,214.00 USD (x1),214.00 USD (x1),https://www.superxtra.com/chorizo-parrillero-ahumado-first-choice-454-gr-en-paquete/p
-Supermercado,Huevos Empacados Toledano Medianos 30 UN,564.00 USD (x1),564.00 USD (x1),https://www.superxtra.com/huevos-claripack-medianos-toledano-30-unidades/p
+Supermercado,Huevos Toledano Medianos 30 Unidades,564.00 USD (x1),564.00 USD (x1),https://www.superxtra.com/huevos-claripack-medianos-toledano-30-unidades/p
 Supermercado,Huevo Empacados Melo 12 Un Mediano,229.00 USD (x1),229.00 USD (x1),https://www.superxtra.com/huevo-empacados-melo-12-un-mediano/p
 Supermercado,Maicena Levapan 50 gr De Banano,36.00 USD (x1),36.00 USD (x1),https://www.superxtra.com/maicena-levapan-50-gr-de-banano/p
 Supermercado,Maicena Gold Mills 50 gr De Fresa,28.00 USD (x1),28.00 USD (x1),https://www.superxtra.com/maicena-gold-mills-50-gr-de-fresa/p
@@ -312,6 +318,7 @@ Supermercado,Té De Canela Rika 25 Un 37.5G,108.00 USD (x1),108.00 USD (x1),http
 Supermercado,Té Cajeta Durán Canela 24 Un,125.00 USD (x1),125.00 USD (x1),https://www.superxtra.com/te-cajeta-duran-24-un-canela/p
 Supermercado,Soda Pepsi Lata 355 Ml,56.00 USD (x1),63.00 USD (x1),https://www.superxtra.com/soda-lata-pepsi-355-ml-cola/p
 Supermercado,Soda Lata Crush Orange 355 Ml,56.00 USD (x1),63.00 USD (x1),https://www.superxtra.com/soda-lata-crush-355-ml-orange/p
+Supermercado,Soda Coca Cola Sin Azúcar Lata 354 Ml,85.00 USD (x1),85.00 USD (x1),https://www.superxtra.com/soda-lata-coca-cola-354-ml-sin-azucar/p
 Supermercado,Queso Mozarella Light Superior Por Media Libra,1565.00 USD (x1),1565.00 USD (x1),https://www.superxtra.com/queso-mozarella-light-superior-por-libra/p
 Supermercado,Queso blanco molido Domitila 250 GR,273.00 USD (x1),273.00 USD (x1),https://www.superxtra.com/queso-blanco-molido-domitila-250-gr/p
 Supermercado,Nestlé ¡Qué Rico! Queso Americano 12 rebanadas,355.00 USD (x1),355.00 USD (x1),https://www.superxtra.com/queso-americano-nestle-12-rebanadas-192g/p
@@ -327,6 +334,7 @@ Supermercado,Nectar Bonlac Melocoton 946 Ml,139.00 USD (x1),148.00 USD (x1),http
 Supermercado,Gelatina Cajeta Gel Hada 170 G Fresa,138.00 USD (x1),138.00 USD (x1),https://www.superxtra.com/gelatina-cajeta-gel-hada-170-g-fresa/p
 Supermercado,Lentejas Camelia 454 gr Original,122.00 USD (x1),122.00 USD (x1),https://www.superxtra.com/lentejas-camelia-454-gr-original/p
 Supermercado,Leche Uht Nevada 946 Ml Deslactosada,189.00 USD (x1),189.00 USD (x1),https://www.superxtra.com/leche-uht-nevada-946-ml-deslactosada/p
+Supermercado,Leche Uht Extra Calcio Nevada 946 Ml Free Descremada,189.00 USD (x1),189.00 USD (x1),https://www.superxtra.com/leche-uht-extra-calcio-nevada-946-ml-free-descremada/p
 Supermercado,Leche Uht Estrella Azul 946 Ml Descremada Vita Slim,173.00 USD (x1),173.00 USD (x1),https://www.superxtra.com/leche-uht-estrella-azul-946-ml-descremada/p
 Supermercado,Leche De Coco La Palmita Congelado 453 Gr,165.00 USD (x1),165.00 USD (x1),https://www.superxtra.com/leche-de-coco-la-palmita-453-gr-congelado/p
 Supermercado,LA LECHERA Leche Condensada Lata 397g,232.00 USD (x1),232.00 USD (x1),https://www.superxtra.com/leche-condensada-azucarada-la-lechera-397g-lata/p
@@ -368,10 +376,8 @@ Supermercado,Pan Blanco Like 515 G,105.00 USD (x1),105.00 USD (x1),https://www.s
 Supermercado,Salsa Para Spaguetti Like 400 G,128.00 USD (x1),128.00 USD (x1),https://www.superxtra.com/salsa-para-spaguetti-like-400-g-10589037-7451001223357/p
 Supermercado,Lonja Bacon Xtra,732.00 USD (x1),732.00 USD (x1),https://www.superxtra.com/lonja-bacon-xtra-2705313000003/p
 Supermercado,Back Ribs Xtra,1098.00 USD (x1),1098.00 USD (x1),https://www.superxtra.com/back-ribs-xtra-2705312000004/p
-Supermercado,Tocino Ahumado Xtra Entero Por Libra,1239.00 USD (x1),1458.00 USD (x1),https://www.superxtra.com/tocino-ahumado-xtra-entero-2705919000001/p
 Supermercado,Mantequilla En Pote Blueriver La Buena 300 G,406.00 USD (x1),406.00 USD (x1),https://www.superxtra.com/mantequilla-en-pote-blueriver-la-buena-300-g-7451015608119/p
 Supermercado,Mostaza McCormick Doypack 180 G,88.00 USD (x1),98.00 USD (x1),https://www.superxtra.com/mostaza-mccormick-doypack-180-g-7411000204238/p
-Supermercado,Salsa De Tomate Maggi Estilo Panameño 350 G,143.00 USD (x1),168.00 USD (x1),https://www.superxtra.com/salsa-de-tomate-maggi-estilo-panameno-350-g-8445291065918/p
 Supermercado,Pasta Like De Tomate 113 G,41.00 USD (x1),41.00 USD (x1),https://www.superxtra.com/pasta-like-de-tomate-113-g-7451001223173/p
 Supermercado,Tajin Tajin Chile Clasico 142 G,262.00 USD (x1),262.00 USD (x1),https://www.superxtra.com/tajin-tajin-chile-clasico-142-g-633148100013/p
 Supermercado,Aderezo McCormick Mostaza & Miel 350 G,168.00 USD (x1),196.00 USD (x1),https://www.superxtra.com/aderezo-mccormick-mostaza-miel-350-g-7411000204221/p
@@ -400,6 +406,7 @@ Supermercado,Leche Evaporada 168 G la Condesa,56.00 USD (x1),56.00 USD (x1),http
 Supermercado,Galleta Yogurt Y Arandano Tosh Pozuelo 164.8 G,341.00 USD (x1),341.00 USD (x1),https://www.superxtra.com/galleta-yogurt-y-arandano-tosh-pozuelo-1648-g-7441163401168/p
 Supermercado,Palomitas De Maiz Act II Butter Literay 3 Oz,93.00 USD (x1),93.00 USD (x1),https://www.superxtra.com/palomitas-de-maiz-act-ii-butter-literay-3-oz-76150202199/p
 Supermercado,Mantequilla de Maní Cremosa 25 % Menos Grasa Skippy 462 G,357.00 USD (x1),357.00 USD (x1),https://www.superxtra.com/mantequilla-de-mani-cremosa-25--menos-grasa-skippy-462-g-37600256773/p
+Supermercado,Mantequilla De Mani Natural Foods 340 G Crunch,237.00 USD (x1),237.00 USD (x1),https://www.superxtra.com/mantequilla-de-mani-natural-foods-340-g-crunch-6901585492010/p
 Supermercado,Perejil Mazo Cerro Punta Pore Media Libra,60.00 USD (x1),60.00 USD (x1),https://www.superxtra.com/perejil-mazo-cerro-punta-pore-media-libra-717205000000/p
 Supermercado,Triton Filete De Corvina 14 Oz,517.00 USD (x1),517.00 USD (x1),https://www.superxtra.com/triton-filete-de-corvina-14-oz-820856003075/p
 Supermercado,Cereal Country Barn Raisin 7 Oz,245.00 USD (x1),245.00 USD (x1),https://www.superxtra.com/cereal-country-barn-raisin-7-oz-35406030085/p
@@ -417,6 +424,7 @@ Supermercado,Porotos Like Rojos 110 OZ,94.00 USD (x1),94.00 USD (x1),https://www
 Supermercado,6 Pack De Coca Cola Sin Azucar 12oz Lata,428.00 USD (x1),428.00 USD (x1),https://www.superxtra.com/6-pack-coca-cola-sin-azucar-12oz-lata-7441003502550/p
 Supermercado,CAFE MOLIDO LIKE 22gr,39.00 USD (x1),39.00 USD (x1),https://www.superxtra.com/cafe-molido-like-22gr/p
 Supermercado,Camaron Cocido Medium Pelado Sin Desvena,662.00 USD (x1),662.00 USD (x1),https://www.superxtra.com/camaron-cocido-medium-pelado-sin-desvena-7451105110072/p
+Supermercado,Bandeja Molleja Deli Por Libra,378.00 USD (x1),378.00 USD (x1),https://www.superxtra.com/bandeja-molleja-deli-209449000002/p
 Supermercado,Rincón Deli Por Libra,857.00 USD (x1),857.00 USD (x1),https://www.superxtra.com/rincon-deli-2700387000003/p
 Supermercado,Bofe Importado Por Libra,515.00 USD (x1),515.00 USD (x1),https://www.superxtra.com/bofe-importado-2705255000000/p
 Supermercado,Pulpa Negra Deli Por Libra,753.00 USD (x1),753.00 USD (x1),https://www.superxtra.com/pulpa-negra-deli-2700386000004/p
@@ -425,7 +433,6 @@ Supermercado,Tortillas De Maiz Chica Congeladas,97.00 USD (x1),97.00 USD (x1),ht
 Supermercado,Salchicha De Hot Dog Rimith 8und,195.00 USD (x1),195.00 USD (x1),https://www.superxtra.com/salchicha-de-hot-dog-rimith-8und-7451015103577/p
 Supermercado,Rollo De Pechuga De Pollo Por Media Libra,849.00 USD (x1),849.00 USD (x1),https://www.superxtra.com/rollo-de-pechuga-de-pollo-2705157000009/p
 Supermercado,Manzana Fuji Por Media Libra,257.00 USD (x1),257.00 USD (x1),https://www.superxtra.com/manzana-fuji-2703650000007/p
-Supermercado,Pimenton Amarillo Por Media Libra,626.00 USD (x1),626.00 USD (x1),https://www.superxtra.com/pimenton-amarillo-2701150000008/p
 Supermercado,Jamón Cocido De Pavo Por Media Libra,1274.00 USD (x1),1274.00 USD (x1),https://www.superxtra.com/jamon-cocido-de-pavo-4x4-pza-9lb-2700887000008/p
 Supermercado,Queso Americano Nestle Por Media Libra,1640.00 USD (x1),1640.00 USD (x1),https://www.superxtra.com/queso-americano-nestle-6-2-kl-2700574000007/p
 Supermercado,Lechuga Americana Nacional Por Media Libra,599.00 USD (x1),599.00 USD (x1),https://www.superxtra.com/lechuga-americana-nacional-202715000003/p
@@ -477,6 +484,8 @@ Supermercado,Chow Mein La Doña 454 gr Pasta Especializada,136.00 USD (x1),136.0
 Supermercado,Coditos La Suprema 227 gr Pastas Cortas,56.00 USD (x1),56.00 USD (x1),https://www.superxtra.com/coditos-la-suprema-227-gr-pastas-cortas/p
 Supermercado,Tasajo Ahumado American Star 320 gr En Paquete,273.00 USD (x1),273.00 USD (x1),https://www.superxtra.com/tasajo-ahumado-american-star-320-gr-en-paquete/p
 Supermercado,Salchichas Kiener Jumbo 454 G,229.00 USD (x1),229.00 USD (x1),https://www.superxtra.com/salchichas-kiener-jumbo-454-g/p
+Supermercado,Salchicha Frankfurter Rimith 454 gr En Paquete,283.00 USD (x1),283.00 USD (x1),https://www.superxtra.com/salchicha-frankfurter-rimith-454-gr-en-paquete/p
+Supermercado,Peperoni Rimith 113 gr En Paquete,180.00 USD (x1),180.00 USD (x1),https://www.superxtra.com/peperoni-rimith-113-gr-en-paquete/p
 Supermercado,Mortadela American Star 170 gr En Paquete,90.00 USD (x1),90.00 USD (x1),https://www.superxtra.com/mortadela-american-star-170-gr-en-paquete/p
 Supermercado,Chorizos Fresco American Star 454 gr En Paquete,198.00 USD (x1),198.00 USD (x1),https://www.superxtra.com/chorizos-fresco-american-star-454-gr-en-paquete/p
 Supermercado,Bologna Kiener 400 G,173.00 USD (x1),173.00 USD (x1),https://www.superxtra.com/bologna-kiener-400-g/p
@@ -501,6 +510,7 @@ Supermercado,Galleta Dulce Docena Pascual 360 G Combinacion,199.00 USD (x1),199.
 Supermercado,Galleta Salada 3 Paquetes Pascual 181 G Saltines,91.00 USD (x1),91.00 USD (x1),https://www.superxtra.com/galleta-salada-3-paquetes-pascual-181-g-saltines/p
 Supermercado,Galleta Dulce Docena Pascual 360 G Vainilla,194.00 USD (x1),194.00 USD (x1),https://www.superxtra.com/galleta-dulce-docena-pascual-360-g-vainilla/p
 Supermercado,Sazonador Arrocero La Doña Sobre 10 gr.,55.00 USD (x1),55.00 USD (x1),https://www.superxtra.com/sazonador-arrocero-la-dona-sobre-10-gr/p
+Supermercado,Papas Pringles Sabor a Crema & Cebolla 124 G,198.00 USD (x1),248.00 USD (x1),https://www.superxtra.com/papas-pringles-sabor-a-crema-cebolla-124-g/p
 Supermercado,Sal Crisal 907 gr De Mesa,57.00 USD (x1),57.00 USD (x1),https://www.superxtra.com/sal-crisal-907-gr-de-mesa/p
 Supermercado,Pan Molde Tasty Choice 600 Gr Grande Integral,163.00 USD (x1),205.00 USD (x1),https://www.superxtra.com/pan-molde-tasty-choice-600-gr-grande-integral/p
 Supermercado,Polvo Para Hornear Levapan 8 G 12Unidades,78.00 USD (x1),78.00 USD (x1),https://www.superxtra.com/polvo-hornear-levapan-8-g-unidades/p
@@ -550,6 +560,7 @@ Supermercado,Papas Fritas 500 gr Aviko 500 gr Congeladas,180.00 USD (x1),180.00 
 Supermercado,Pan Tostado Bimbo 250 Gr Integral,283.00 USD (x1),283.00 USD (x1),https://www.superxtra.com/pan-tostado-bimbo-250-gr-integral/p
 Supermercado,Pan Rimith 540 Gr De Mantequillo,259.00 USD (x1),259.00 USD (x1),https://www.superxtra.com/pan-rimith-540-gr-de-mantequillo/p
 Supermercado,Pan Moña Rimith 150 Gr Largo,288.00 USD (x1),288.00 USD (x1),https://www.superxtra.com/pan-mona-rimith-150-gr-largo/p
+Supermercado,Pan Bimbo Integral 530 GR,184.00 USD (x1),184.00 USD (x1),https://www.superxtra.com/pan-bimbo-integral-530-gr/p
 Supermercado,Pan Bimbo 450 Gr Especial,184.00 USD (x1),184.00 USD (x1),https://www.superxtra.com/pan-bimbo-450-gr-especial/p
 Supermercado,Nuggets Toledano de Pollo 340 G,319.00 USD (x1),319.00 USD (x1),https://www.superxtra.com/nuggets-12-oz-toledano-340-gr-pechugas-de-pollo/p
 Supermercado,Milanesa Melo 454 gr De Pollo,474.00 USD (x1),474.00 USD (x1),https://www.superxtra.com/milanesa-melo-454-gr-de-pollo/p
@@ -579,7 +590,6 @@ Supermercado,Café Regular Cafe 1820 Tostado Y Molido 200 gr,385.00 USD (x1),428
 Supermercado,Cafe Palo Alto Bolsa 425 gr,779.00 USD (x1),779.00 USD (x1),https://www.superxtra.com/cafe-palo-alto-425-gr-bolsa/p
 Supermercado,Café Instantáneo Durán Moccacino 25 G,66.00 USD (x1),66.00 USD (x1),https://www.superxtra.com/cafe-instantaneo-duran-25-g-moccacino/p
 Supermercado,Bebida Instantánea Chocolisto Bolsa Chocolate 200 G,206.00 USD (x1),242.00 USD (x1),https://www.superxtra.com/bebida-instantanea-bolsa-chocolisto-200-g-chocolate/p
-Supermercado,Bebida Energizante Raptor Pet 600 Ml,85.00 USD (x1),85.00 USD (x1),https://www.superxtra.com/bebida-energizante-raptor-600-ml-pet/p
 Supermercado,Arroz Super Xtra De Primera 9072 gr,1127.00 USD (x1),1127.00 USD (x1),https://www.superxtra.com/arroz-super-xtra-9072-gr-de-primera/p
 Supermercado,Arroz Integral Arrosisimo Especial 90 gr,189.00 USD (x1),189.00 USD (x1),https://www.superxtra.com/arroz-integral-arrosisimo-90-gr-especial/p
 Supermercado,Arroz Pelín Especial 20 Lb,1519.00 USD (x1),1519.00 USD (x1),https://www.superxtra.com/arroz-especial-pelin-20-lb/p
@@ -589,7 +599,6 @@ Supermercado,Alitas Toledano Picantes 397 G,471.00 USD (x1),471.00 USD (x1),http
 Supermercado,Aceite De Oliva La Parmigiana Extra Virgen 500 Ml,683.00 USD (x1),769.00 USD (x1),https://www.superxtra.com/aceite-de-oliva-la-parmigiana-500-ml-extra-virgen/p
 Supermercado,Aceite Pabo Vegetal 500 ML,211.00 USD (x1),211.00 USD (x1),https://www.superxtra.com/aceite-pabo-500-ml/p
 Supermercado,Bebida Bonlac De Naranja 1892 Ml,231.00 USD (x1),250.00 USD (x1),https://www.superxtra.com/bebida-bonlac-1892-ml-de-naranja/p
-Supermercado,Frijoles Don Henry 454 gr Chiricano Blanco,124.00 USD (x1),124.00 USD (x1),https://www.superxtra.com/frijoles-don-henry-454-gr-chiricano-blanco/p
 Supermercado,Atún La Sirena en Agua 3 Pack 142 G,440.00 USD (x1),440.00 USD (x1),https://www.superxtra.com/atun-la-sirena-en-agua-3-pack-142-g/p
 Supermercado,Leche Evaporada Ideal Entera 165 G,75.00 USD (x1),75.00 USD (x1),https://www.superxtra.com/leche-evaporada-ideal-entera-165-g/p
 Supermercado,Pan Molde Ideal Mantequilla 525gr,194.00 USD (x1),194.00 USD (x1),https://www.superxtra.com/pan-molde-ideal-mantequilla-525-g/p
@@ -646,6 +655,7 @@ Supermercado,Ajo En Polvo Ladona 75 G,85.00 USD (x1),85.00 USD (x1),https://www.
 Supermercado,Pan Rimith Con Pasas 485 GR,224.00 USD (x1),224.00 USD (x1),https://www.superxtra.com/pan-rimith-con-pasas-485-gr-7451002613263/p
 Supermercado,Mayonesa Kraft Miracle Whip Doypack 650 GR,318.00 USD (x1),318.00 USD (x1),https://www.superxtra.com/mayonesa-kraft-miracle-whip-doypack-650-gr-735051000418/p
 Supermercado,Almendras Enteras California Valley Naturales 6 OZ,353.00 USD (x1),353.00 USD (x1),https://www.superxtra.com/almendras-enteras-california-valley-naturales-6-oz-52405000192/p
+Supermercado,Galleta Ritz Plain 20 Gr,204.00 USD (x1),204.00 USD (x1),https://www.superxtra.com/galleta-ritz-plain-20-gr-7622201390211/p
 Supermercado,Bebida En Polvo Rika Aid Ponche No Azucar 10 G,14.00 USD (x1),14.00 USD (x1),https://www.superxtra.com/bebida-en-polvo-rika-aid-ponche-no-azucar-10-g-7451012003023/p
 Supermercado,Kachitos FritoLayS Clasicos 105 GR,148.00 USD (x1),148.00 USD (x1),https://www.superxtra.com/kachitos-fritolays-clasicos-105-gr-721282408734/p
 Supermercado,Galleta Pascual Club 153 g,107.00 USD (x1),107.00 USD (x1),https://www.superxtra.com/galleta-pascual-club-153-g-52577037781/p
@@ -664,8 +674,6 @@ Supermercado,Néctares Nevada Surtido 6 Pack 180 ML,189.00 USD (x1),204.00 USD (
 Supermercado,Salsa Panameña Like 113Gr,36.00 USD (x1),36.00 USD (x1),https://www.superxtra.com/salsa-panameña-like-113gr-7451001223166/p
 Supermercado,Leche Saborizada Nevada Surtido 6 Pack 200 ML,239.00 USD (x1),274.00 USD (x1),https://www.superxtra.com/leche-saborizada-nevada-surtido-6-pack-200-ml/p
 Supermercado,Pasta Maggi Tomate De Ajo 90G,78.00 USD (x1),78.00 USD (x1),https://www.superxtra.com/pasta-maggi-tomate-de-ajo-90g-8445290497819/p
-Supermercado,Galleta La Parmigana De Avena Con Pasitas 230 Gr36,186.00 USD (x1),186.00 USD (x1),https://www.superxtra.com/galleta-la-parmigana-de-avena-con-pasitas-230-gr36-7451022511617/p
-Supermercado,Azúcar Morena Like 400 GR,62.00 USD (x1),62.00 USD (x1),https://www.superxtra.com/azucar-morena-like-400-gr-5575336/p
 Supermercado,SALSA RANCHERA LIKE 113GR,43.00 USD (x1),43.00 USD (x1),https://www.superxtra.com/salsa-ranchera-like-113gr-10569750/p
 Supermercado,Malta Vigor Mini Pet 200Ml - Six Pack,262.00 USD (x1),262.00 USD (x1),https://www.superxtra.com/malta-vigor-mini-pet-200ml-six-pack-89646130883/p
 Supermercado,Bebida Tutti Frutti Surtido 6 Pack 180 ML,165.00 USD (x1),184.00 USD (x1),https://www.superxtra.com/6pack-bebida-surtidos-tutti-frutti-180ml-7452096902905/p
@@ -740,9 +748,7 @@ Supermercado,Te Duran De Limon 20 Sobrecitos,108.00 USD (x1),108.00 USD (x1),htt
 Supermercado,Te Duran Queen Blend Menta 24,118.00 USD (x1),118.00 USD (x1),https://www.superxtra.com/te-duran-queen-blend-menta-24-7451000700477/p
 Supermercado,Te De Tilo Duran 24und,118.00 USD (x1),118.00 USD (x1),https://www.superxtra.com/te-de-tilo-duran-24und-7451000700453/p
 Supermercado,Bebida Polvo Naranja Clight 14g,84.00 USD (x1),84.00 USD (x1),https://www.superxtra.com/bebida-polvo-naranja-clight-14g-7622300622787/p
-Supermercado,Nectar Del Monte Pera Light 946ml,136.00 USD (x1),136.00 USD (x1),https://www.superxtra.com/nectar-del-monte-pera-light-946ml-7452017663052/p
 Supermercado,Néctar de Guayaba Piña Del Monte 946 ML,136.00 USD (x1),136.00 USD (x1),https://www.superxtra.com/nectar-de-guayaba-pina-del-monte-946-ml-7452017662062/p
-Supermercado,Néctar Del Monte melocotón Light 946ml,136.00 USD (x1),136.00 USD (x1),https://www.superxtra.com/nectar-del-monte-melocoton-light-946ml-7452017663076/p
 Supermercado,Caramelo Pascual Pin Pop Frutales 408g,275.00 USD (x1),275.00 USD (x1),https://www.superxtra.com/caramelo-pascual-pin-pop-frutales-408g-7702174069939/p
 Supermercado,Bolsa De Menta Pascual 400g,221.00 USD (x1),221.00 USD (x1),https://www.superxtra.com/bolsa-de-menta-pascual-400g-52577023913/p
 Supermercado,Marshmallow Color,133.00 USD (x1),133.00 USD (x1),https://www.superxtra.com/marshmallow-color/p
@@ -754,7 +760,6 @@ Supermercado,Coliflor Vima 450 Gr,201.00 USD (x1),201.00 USD (x1),https://www.su
 Supermercado,Arroz Especial Blanquito 2Kg,330.00 USD (x1),330.00 USD (x1),https://www.superxtra.com/arroz-especial-blanquito-2kg-7451072101783/p
 Supermercado,Cereal Gran Dia Azucarita Hojuelas de Maiz 1Kg,331.00 USD (x1),331.00 USD (x1),https://www.superxtra.com/cereal-gran-dia-azucarita-hojuelas-de-maiz-1kg-7406007082422/p
 Supermercado,Estrella Azul Peranec/Manzana 946 ml 2 Pack,231.00 USD (x1),231.00 USD (x1),https://www.superxtra.com/estrella-azul-peranecmanzana-946-ml-2-pack-88209551165/p
-Supermercado,Leche Chiricana Fit 946 ml,181.00 USD (x1),181.00 USD (x1),https://www.superxtra.com/leche-chiricana-fit-946-ml-7452096901571/p
 Supermercado,Tortilla grande 10 Und,89.00 USD (x1),89.00 USD (x1),https://www.superxtra.com/tortilla-grande-10-und-7451105940013/p
 Supermercado,Yogurt Natural 125 gr/Oz,76.00 USD (x1),76.00 USD (x1),https://www.superxtra.com/yogurt-natural-125-gr-oz-88209751336/p
 Supermercado,Azucar Morena Levapan 252 Sob Turbin Para Café,369.00 USD (x1),369.00 USD (x1),https://www.superxtra.com/azucar-levapan-252-sob-turbin-para-cafe-7451004111255/p
@@ -777,6 +782,7 @@ Supermercado,Salsa Prego 411 GR Alfredo,495.00 USD (x1),495.00 USD (x1),https://
 Supermercado,Salchichas First Choice Por Media Libra,481.00 USD (x1),481.00 USD (x1),https://www.superxtra.com/salchichas-first-choice-por-libra/p
 Supermercado,Salchichas Éxito Kiener Por Media Libra,450.00 USD (x1),450.00 USD (x1),https://www.superxtra.com/salchichas-exito-kiener-por-libra/p
 Supermercado,Salchicha Toledano Por Media Libra,341.00 USD (x1),341.00 USD (x1),https://www.superxtra.com/salchicha-toledano-por-libra/p
+Supermercado,Repollo Morado Por Media Libra,349.00 USD (x1),349.00 USD (x1),https://www.superxtra.com/repollo-morado-por-libra/p
 Supermercado,Rapiditas Bimbo 250 GR Chia/Quinoa Roja,265.00 USD (x1),265.00 USD (x1),https://www.superxtra.com/rapiditas-bimbo-250-gr-chiaquinoa-roja/p
 Supermercado,Postre Alpina 250G Dulce De Leche,243.00 USD (x1),286.00 USD (x1),https://www.superxtra.com/postre-alpina-250g-dulce-de-leche/p
 Supermercado,Porotos Proluxsa 425 GR En Bolsa,139.00 USD (x1),139.00 USD (x1),https://www.superxtra.com/porotos-proluxsa-425-gr-en-bolsa/p
@@ -797,7 +803,6 @@ Supermercado,Miel De Abeja Natural Apima 183 Ml Pachita,199.00 USD (x1),199.00 U
 Supermercado,Jalea Urrajas 300G Fresa,157.00 USD (x1),157.00 USD (x1),https://www.superxtra.com/jalea-urrajas-300g-fresa-7441041003132/p
 Supermercado,Crema De Mantequilla De Mani Campo grande 200 gr Regular,181.00 USD (x1),181.00 USD (x1),https://www.superxtra.com/crema-de-mantequilla-de-mani-campo-grande-200-gr-regular-6934541103170/p
 Supermercado,Mostaza La Doña 200 gr Original,89.00 USD (x1),89.00 USD (x1),https://www.superxtra.com/mostaza-la-dona-200-gr-original-7451001221070/p
-Supermercado,Pan De Hamburguesas Delipan Jumbo 340 Gr,158.00 USD (x1),158.00 USD (x1),https://www.superxtra.com/pan-de-hamburguesas-delipan-jumbo-340-gr-1323108/p
 Supermercado,Arepas Torti Yuca 454 gr Con Queso,275.00 USD (x1),275.00 USD (x1),https://www.superxtra.com/arepas-torti-yuca-454-gr-con-queso/p
 Supermercado,Empanada grande Rimith 708 gr De Maíz Con Carne 8 Un,279.00 USD (x1),279.00 USD (x1),https://www.superxtra.com/empanada-grande-rimith-708-gr-de-maiz-con-carne-8-un/p
 Supermercado,Empanada Mediana Rimith 420 gr De Maíz Con Carne 6 Un,183.00 USD (x1),183.00 USD (x1),https://www.superxtra.com/empanada-mediana-rimith-420-gr-de-maiz-con-carne-6-un/p
@@ -911,6 +916,7 @@ Supermercado,Sardina Picante Good Fish 156 gr Salsa De Tomate,68.00 USD (x1),68.
 Supermercado,Guandú Amapola Con Coco 15 OZ,126.00 USD (x1),126.00 USD (x1),https://www.superxtra.com/guandu-amapola-con-coco-15-oz/p
 Supermercado,Hoja De Laurel La Doña 15 gr,28.00 USD (x1),28.00 USD (x1),https://www.superxtra.com/hoja-de-laurel-la-dona-15-gr/p
 Supermercado,Comino La Doña 15 gr En Sobre,24.00 USD (x1),24.00 USD (x1),https://www.superxtra.com/comino-la-dona-15-gr-en-sobre/p
+Supermercado,Maíz Super Xtra 1 gr En grano,88.00 USD (x1),88.00 USD (x1),https://www.superxtra.com/maiz-super-xtra-1-gr-en-grano/p
 Supermercado,Durazno Xtra 820 gr En Mitades,205.00 USD (x1),205.00 USD (x1),https://www.superxtra.com/durazno-xtra-820-gr-en-mitades/p
 Supermercado,Canela La Doña 13 gr Molida,22.00 USD (x1),22.00 USD (x1),https://www.superxtra.com/canela-la-dona-13-gr-molida/p
 Supermercado,Pork And Beans Van Camps 425 gr Habré Fácil,155.00 USD (x1),155.00 USD (x1),https://www.superxtra.com/pork-and-beans-van-camps-425-gr-habre-facil/p
@@ -922,6 +928,7 @@ Supermercado,Yogurt Estrella Azul 125gr 118 Ml De Piña,75.00 USD (x1),75.00 USD
 Supermercado,Yogurt Bonlac 495 Ml Vainilla,235.00 USD (x1),235.00 USD (x1),https://www.superxtra.com/yogurt-bonlac-495-ml-vainilla/p
 Supermercado,Yogurt Bonlac Cereza 120 G,77.00 USD (x1),82.00 USD (x1),https://www.superxtra.com/yogurt-bonlac-cereza-120-g/p
 Supermercado,Yogurt Bonlac 104 Ml Bonie Fresa,53.00 USD (x1),53.00 USD (x1),https://www.superxtra.com/yogurt-bonlac-104-ml-bonie-fresa/p
+Supermercado,"Té Hindú Sabor Jengibre, Naranja Y Curcuma",185.00 USD (x1),185.00 USD (x1),https://www.superxtra.com/te-hindu-30-gr-sabor-jengibre-naranja-y-curcuma/p
 Supermercado,Soda Pet Schweppes 355 Ml Ginger Ale,85.00 USD (x1),85.00 USD (x1),https://www.superxtra.com/soda-pet-schweppes-355-ml-ginger-ale/p
 Supermercado,Soda Coca Cola Regular 1500 Ml Pet,210.00 USD (x1),210.00 USD (x1),https://www.superxtra.com/soda-pet-coca-cola-1500-ml-regular/p
 Supermercado,Soda Big Cola Pet 360 Ml,36.00 USD (x1),36.00 USD (x1),https://www.superxtra.com/soda-pet-big-cola-360-ml-cola/p
@@ -930,6 +937,7 @@ Supermercado,Soda Botellita Chubby Purple Power 250 Ml,35.00 USD (x1),35.00 USD 
 Supermercado,Pasta La Doña 1000 gr De Tomate,395.00 USD (x1),395.00 USD (x1),https://www.superxtra.com/pasta-la-dona-1000-gr-de-tomate/p
 Supermercado,Ketchup La Doña 250 gr Doypack,99.00 USD (x1),99.00 USD (x1),https://www.superxtra.com/ketchup-la-dona-250-gr-salsa-de-tomate/p
 Supermercado,Raspadura El Gran Gusto Colombiano 454 Gr Panela,175.00 USD (x1),175.00 USD (x1),https://www.superxtra.com/raspadura-el-gran-gusto-colombiano-454-gr-panela/p
+Supermercado,Mayonesa La Doña 400 gr Ligth,185.00 USD (x1),185.00 USD (x1),https://www.superxtra.com/mayonesa-la-dona-400-gr-ligth/p
 Supermercado,Mayonesa La Doña 3628 gr Original,1185.00 USD (x1),1185.00 USD (x1),https://www.superxtra.com/mayonesa-la-dona-3628-gr-original/p
 Supermercado,Queso Mozzarella Don Pedro Por Media Libra,1497.00 USD (x1),1497.00 USD (x1),https://www.superxtra.com/queso-mozzarella-don-pedro-por-libra/p
 Supermercado,Queso Mozzarel Fresco Superior Por Media Libra,1445.00 USD (x1),1445.00 USD (x1),https://www.superxtra.com/queso-mozzarel-fresco-superior-por-libra/p
@@ -941,7 +949,9 @@ Supermercado,Porotos Don Henry 454 gr Mantequilla,123.00 USD (x1),123.00 USD (x1
 Supermercado,Papas Fritas McCain Super Wedges 750 G,354.00 USD (x1),354.00 USD (x1),https://www.superxtra.com/papas-fritas-wedges-mccain-750-gr/p
 Supermercado,Panecillo Bun Rimith 615 Gr,194.00 USD (x1),194.00 USD (x1),https://www.superxtra.com/panecillo-bun-rimith-615-gr/p
 Supermercado,Pancake Gold Mills 454 gr Original,203.00 USD (x1),203.00 USD (x1),https://www.superxtra.com/pancake-gold-mills-454-gr-original/p
+Supermercado,Pan Tostado Bimbo 200 Gr Original,262.00 USD (x1),262.00 USD (x1),https://www.superxtra.com/pan-tostado-bimbo-200-gr-original/p
 Supermercado,Pan Pullman Rimith 624 Gr Especial Grande,271.00 USD (x1),271.00 USD (x1),https://www.superxtra.com/pan-pullman-rimith-624-gr-especial-grande/p
+Supermercado,Vinagre La Doña 3785 Ml Claro,312.00 USD (x1),312.00 USD (x1),https://www.superxtra.com/vinagre-la-dona-3785-ml-claro/p
 Supermercado,Pan Bimbo 460 Gr Con Pasa Y Canela,248.00 USD (x1),248.00 USD (x1),https://www.superxtra.com/pan-bimbo-460-gr-con-pasa-y-canela/p
 Supermercado,Pan Bimbo 275 Gr Hot Dog Sin Ajonjoli,164.00 USD (x1),164.00 USD (x1),https://www.superxtra.com/pan-bimbo-275-gr-hot-dog-sin-ajonjoli/p
 Supermercado,Pan Artesano Bimbo 535 Gr Integral,268.00 USD (x1),268.00 USD (x1),https://www.superxtra.com/pan-artesano-bimbo-535-gr-integral/p
@@ -965,9 +975,11 @@ Supermercado,Jugos Petit Jugazzo 6 Pack 200 ML,185.00 USD (x1),185.00 USD (x1),h
 Supermercado,Jugo Estrella Azul Uht Individual Peranectar 200 Ml,29.00 USD (x1),29.00 USD (x1),https://www.superxtra.com/jugo-uht-individual-estrella-azul-200-ml-peranectar/p
 Supermercado,Néctar de Pera Del Monte en Lata 330 ML,60.00 USD (x1),60.00 USD (x1),https://www.superxtra.com/nectar-de-pera-del-monte-en-lata-330-ml/p
 Supermercado,Néctar de Melocotón Del Monte en Lata 330 ML,64.00 USD (x1),64.00 USD (x1),https://www.superxtra.com/nectar-de-melocoton-del-monte-en-lata-330-ml/p
+Supermercado,Jugo Del Valle Fresh Citricos Naranja 250 ML,49.00 USD (x1),49.00 USD (x1),https://www.superxtra.com/jugo-fresh-citricos-del-valle-250-ml-naranja/p
 Supermercado,Jugo Estrella Azul Peranectar 946 Ml,139.00 USD (x1),139.00 USD (x1),https://www.superxtra.com/jugo-estrella-azul-946-ml-peranectar/p
 Supermercado,Jugo Country Barn Coctel De Manzana 1892 Ml,299.00 USD (x1),299.00 USD (x1),https://www.superxtra.com/jugo-country-barn-1892-ml-coctel-de-manzana/p
 Supermercado,Jugo Country Barn Coctel De Cranberry 1892 Ml,385.00 USD (x1),385.00 USD (x1),https://www.superxtra.com/jugo-country-barn-1892-ml-coctel-de-cranberry/p
+Supermercado,Hielo Hielo Fiesta 8.5 Lb Bolsa,125.00 USD (x1),125.00 USD (x1),https://www.superxtra.com/hielo-hielo-fiesta-85-lb-bolsa/p
 Supermercado,Harina La Preferida 397 gr De Trigo,58.00 USD (x1),58.00 USD (x1),https://www.superxtra.com/harina-la-preferida-397-gr-de-trigo/p
 Supermercado,Gelatina Sobres Royal 80 gr Fresa- Strawberry,157.00 USD (x1),157.00 USD (x1),https://www.superxtra.com/gelatina-sobres-royal-80-gr-fresa-strawberry/p
 Supermercado,Pork And Beans Campbells 420 gr En Latados,178.00 USD (x1),178.00 USD (x1),https://www.superxtra.com/pork-and-beans-campbells-420-gr-en-latados/p
@@ -987,18 +999,6 @@ Supermercado,Café Molido Dorado Tradicional 1 Libra 454 gr,279.00 USD (x1),279.
 Supermercado,Mantequilla Orange Grove 200 g,256.00 USD (x1),256.00 USD (x1),https://www.superxtra.com/mantequilla-orange-grove-200-g/p
 Supermercado,Bebida Uht Saborizada Estrella Azul 200 Ml Chocolate Y Leche,46.00 USD (x1),46.00 USD (x1),https://www.superxtra.com/bebida-uht-saborizada-estrella-azul-200-ml-chocolate-y-leche/p
 Supermercado,Bebida Instantánea Tarro Chocolisto Chocolate 300 G,265.00 USD (x1),265.00 USD (x1),https://www.superxtra.com/bebida-instantanea-tarro-chocolisto-300-g-chocolate/p
-Supermercado,Bebida Instantánea En Polvo Cocoa Sobres Cocoa Dulce Cacao Dulce 400 G,351.00 USD (x1),351.00 USD (x1),https://www.superxtra.com/bebida-instantanea-en-polvo-cocoa-sobres-cocoa-dulce-400-g-cacao-dulce/p
-Supermercado,Bebida Instantánea En Polvo Clight Fresa Strawberry 14 gr,84.00 USD (x1),84.00 USD (x1),https://www.superxtra.com/bebida-instantanea-en-polvo-clight-14-gr-fresa-strawberry/p
-Supermercado,Bebida De Avena Estrella Azul 200 Ml Fibra,48.00 USD (x1),48.00 USD (x1),https://www.superxtra.com/bebida-de-avena-estrella-azul-200-ml-fibra/p
-Supermercado,Bebida Bonlac De Maracuya 946 Ml,139.00 USD (x1),148.00 USD (x1),https://www.superxtra.com/bebida-bonlac-946-ml-de-maracuya/p
-Supermercado,Bebida Bonlac Manzana 1892 Ml,254.00 USD (x1),273.00 USD (x1),https://www.superxtra.com/bebida-bonlac-1892-ml-manzana/p
-Supermercado,Bebida Bonlac De Melocoton 1892 Ml,233.00 USD (x1),252.00 USD (x1),https://www.superxtra.com/bebida-bonlac-1892-ml-de-melocoton/p
-Supermercado,Baking Soda Three Leaves 454 G Multiuso,163.00 USD (x1),163.00 USD (x1),https://www.superxtra.com/baking-soda-three-leaves-454-g-multiuso/p
-Supermercado,Azúcar Santa Rosa 800 gr Turbinada,121.00 USD (x1),121.00 USD (x1),https://www.superxtra.com/azucar-santa-rosa-800-gr-turbinada/p
-Supermercado,Azúcar La Estrella Blanca 454 gr,84.00 USD (x1),84.00 USD (x1),https://www.superxtra.com/azucar-la-estrella-454-gr-blanca/p
-Supermercado,Arvejas Xtra 1816 gr Amarilla,55.00 USD (x1),55.00 USD (x1),https://www.superxtra.com/arvejas-xtra-1816-gr-amarilla/p
-Supermercado,Arvejas Don Henry 454 gr Amarilla,73.00 USD (x1),73.00 USD (x1),https://www.superxtra.com/arvejas-don-henry-454-gr-amarilla/p
-Supermercado,Arroz Rubi Precocido 1816 gr,364.00 USD (x1),364.00 USD (x1),https://www.superxtra.com/arroz-rubi-1816-gr-precocido/p
 "Licor, Cerveza y Vino",Cerveza Panamá Light 12 Pack Lata 355 ML,736.00 USD (x1),736.00 USD (x1),https://www.superxtra.com/cerveza-panama-light-12-pack-lata-355-ml/p
 "Licor, Cerveza y Vino",Cerveza De Lata Balboa 12 Pack 355ML,1079.00 USD (x1),1079.00 USD (x1),https://www.superxtra.com/cerveza-de-lata-balboa-12-pack-355ml-89646131804/p
 "Licor, Cerveza y Vino",Coronita six pack,456.00 USD (x1),456.00 USD (x1),https://www.superxtra.com/coronita-six-pack/p
@@ -1629,6 +1629,7 @@ Cuidado Personal y Belleza,Pasta Dental Colgate Triple Acción 125 ml,256.00 USD
 Cuidado Personal y Belleza,Protector Diario Regular Like Sin Alas 15 UN,73.00 USD (x1),73.00 USD (x1),https://www.superxtra.com/protector-diario-regular-like-sin-alas-15-un-6971331651459/p
 Cuidado Personal y Belleza,Toallas Sanitarias Día Like Con Alas 8 UN,78.00 USD (x1),78.00 USD (x1),https://www.superxtra.com/toallas-sanitarias-dia-like-con-alas-8-un-6971331651466/p
 Cuidado Personal y Belleza,Perfume Aquavera One Billion 100 ML,598.00 USD (x1),598.00 USD (x1),https://www.superxtra.com/perfume-aquavera-one-million-100-ml-7453100303831/p
+Cuidado Personal y Belleza,Jabon De Barra Dove Pro Karite 3 Pack 90 G,314.00 USD (x1),398.00 USD (x1),https://www.superxtra.com/jabon-de-barra-dove-pro-karite-3-pack-90-g-7891150046528/p
 Cuidado Personal y Belleza,Jabon Liquido Para Manos Lucky White Pearls 13 OZ,178.00 USD (x1),178.00 USD (x1),https://www.superxtra.com/jabon-liquido-para-manos-lucky-white-pearls-13-oz-808829030013/p
 Cuidado Personal y Belleza,Desodorante Roll On Nivea Tono Natural Clinical 150 ML,534.00 USD (x1),593.00 USD (x1),https://www.superxtra.com/desodorante-nivea-spray-tono-natural-clinical-150ml-4005900951502/p
 Cuidado Personal y Belleza,Crema Dental Colgate Total Carbon Activado 75Ml,346.00 USD (x1),346.00 USD (x1),https://www.superxtra.com/crema-dental-colgate-total-carbon-activado-75ml-7509546683799/p
@@ -1876,6 +1877,7 @@ Cuidado Personal y Belleza,Toallas Sanitarias V - Cómoda Saba Con Alas 10 UN,17
 Cuidado Personal y Belleza,Acondicionador Dove Óleo Nutrición 370 ML,729.00 USD (x1),729.00 USD (x1),https://www.superxtra.com/acondicionador-dove-oleo-nutricion-370-ml-10604028-7702006208659/p
 Cuidado Personal y Belleza,Acondicionador Dove Reconstrucción Completa 370 ML,868.00 USD (x1),868.00 USD (x1),https://www.superxtra.com/acondicionador-dove-reconstruccion-completa-370-ml-10604027-7702006208611/p
 Cuidado Personal y Belleza,Limpiador Facial Ponds Ácido Hialurónico + Vitamina B3 200 ML,1163.00 USD (x1),1163.00 USD (x1),https://www.superxtra.com/limpiador-facial-ponds-acido-hialuronico-vitamina-b3-200-ml-10596890-7506306245266/p
+Cuidado Personal y Belleza,Jabón Original Dove 6 Pack 90 G,759.00 USD (x1),759.00 USD (x1),https://www.superxtra.com/jabon-original-dove-6-pack-90-g-10604842-7891150044616/p
 Cuidado Personal y Belleza,Tampones Kotex Super con Aplicador 8U,273.00 USD (x1),273.00 USD (x1),https://www.superxtra.com/tampones-kotex-super-con-aplicador-8-unidades-10595773-7441008154617/p
 Cuidado Personal y Belleza,Elvive Hidra Hialurónico Loreal Hidratación Nocturna 200 ML,1020.00 USD (x1),1020.00 USD (x1),https://www.superxtra.com/elvive-hidra-hialuronico-loreal-hidratacion-nocturna-200-ml-10583991-7509552821789/p
 Cuidado Personal y Belleza,Jabón De Tocador Lilac Caricia De Seda 3 Pack 330 G,190.00 USD (x1),190.00 USD (x1),https://www.superxtra.com/jabon-de-tocador-lilac-caricia-de-seda-3-pack-330-g-10601104-7401001688359/p
@@ -1949,6 +1951,7 @@ Cuidado Personal y Belleza,Cepillo Dental Colgate Total Clean Mint Prevención A
 Cuidado Personal y Belleza,Desodorante En Spray Rexona Xtracool 150 ml,625.00 USD (x1),625.00 USD (x1),https://www.superxtra.com/desodorante-en-spray-rexona-xtracool-150-ml-10595786-7791293022581/p
 Cuidado Personal y Belleza,Cepillo Dental Max White Carbón Colgate 2 Pack,396.00 USD (x1),396.00 USD (x1),https://www.superxtra.com/cepillo-dental-max-white-carbon-colgate-2-pack-10593871-7509546690315/p
 Cuidado Personal y Belleza,Desodorante En Spray Dove Orquídeas 150 ml,522.00 USD (x1),625.00 USD (x1),https://www.superxtra.com/desodorante-en-spray-dove-orquideas-150-ml-10587731-7506306249714/p
+Cuidado Personal y Belleza,Desodorante En Barra Dove Men Invisible Dry 45 g,428.00 USD (x1),532.00 USD (x1),https://www.superxtra.com/desodorante-en-barra-dove-men-invisible-dry-45-g-10587728-75076719/p
 Cuidado Personal y Belleza,Cepillo Dental Colgate Sensitive Ultra Suave 2 un,525.00 USD (x1),525.00 USD (x1),https://www.superxtra.com/cepillo-dental-colgate-sensitive-ultra-suave-2-un-10584042-7509546686929/p
 Cuidado Personal y Belleza,Jabón Carbón Detox Protex 6 Pack 110 g,690.00 USD (x1),690.00 USD (x1),https://www.superxtra.com/jabon-carbon-detox-protex-6-pack-110-g-10584035-7509546690773/p
 Cuidado Personal y Belleza,Jabón En Barra Dove Pepino Y Té Verde 90 g,144.00 USD (x1),144.00 USD (x1),https://www.superxtra.com/jabon-en-barra-dove-pepino-y-te-verde-90-g-10579250-7506306246645/p
@@ -1972,6 +1975,7 @@ Cuidado Personal y Belleza,Jabon Íntimo Saba Sensiti-V 180 ML,611.00 USD (x1),6
 Cuidado Personal y Belleza,Antitranspirante En Barra Rexona Men Forest 45 G,464.00 USD (x1),464.00 USD (x1),https://www.superxtra.com/antitranspirante-en-barra-rexona-men-forest-45-g-10596888-75076351/p
 Cuidado Personal y Belleza,Antitranspirante En Barra Men Rexona Xtra Cool 45 G,463.00 USD (x1),463.00 USD (x1),https://www.superxtra.com/antitranspirante-en-barra-men-rexona-xtra-cool-45-g-10596887-75076313/p
 Cuidado Personal y Belleza,Antitranspirante En Barra Rexona Active Dry 45 G,463.00 USD (x1),463.00 USD (x1),https://www.superxtra.com/antitranspirante-en-barra-rexona-active-dry-45-g-10593577-75076382/p
+Cuidado Personal y Belleza,Antitranspirante En Barra Dove Cuidado Total 45 G,428.00 USD (x1),532.00 USD (x1),https://www.superxtra.com/antitranspirante-en-barra-dove-cuidado-total-45-g-10587727-75076696/p
 Cuidado Personal y Belleza,Antitranspirante En Barra Rexona Hombre V8 45 G,463.00 USD (x1),463.00 USD (x1),https://www.superxtra.com/antitranspirante-en-barra-rexona-hombre-v8-45-g-10593578-75076337/p
 Cuidado Personal y Belleza,Agua Micelar Ponds Fruity Hydra Fresh Sandía 300 ML,726.00 USD (x1),726.00 USD (x1),https://www.superxtra.com/agua-micelar-ponds-fruity-hydra-fresh-sandia-300-ml-10587730-7506306247895/p
 Cuidado Personal y Belleza,Antitranspirante En Barra Rexona Active Emotion 45 G,463.00 USD (x1),463.00 USD (x1),https://www.superxtra.com/antitranspirante-en-barra-rexona-active-emotion-45-g-10596879-75062910/p
@@ -2012,7 +2016,6 @@ Cuidado Personal y Belleza,Máscara De Pestaña Lash Blast Covergirl Very Black 
 Cuidado Personal y Belleza,Crema Extra Humectante Corporal Lubriderm 120 ML,535.00 USD (x1),535.00 USD (x1),https://www.superxtra.com/crema-corporal-lubriderm-120-ml-10080684-7702031244486/p
 Cuidado Personal y Belleza,Tratamiento Extra Liso Skala 1000 G,699.00 USD (x1),699.00 USD (x1),https://www.superxtra.com/tratamiento-extra-liso-skala-1000-g-10591516-7897042008407/p
 Cuidado Personal y Belleza,Tratamiento Divino Potao Skala 1000 G,689.00 USD (x1),689.00 USD (x1),https://www.superxtra.com/tratamiento-divino-potao-skala-1000-g-10591515-7897042012473/p
-Cuidado Personal y Belleza,Tratamiento Divino Potinho Skala 1000 G,699.00 USD (x1),699.00 USD (x1),https://www.superxtra.com/tratamiento-divino-potinho-skala-1000-g-10591514-7897042007226/p
 Cuidado Personal y Belleza,Pincel Para Uñas No.4 Evok 2 UN,423.00 USD (x1),423.00 USD (x1),https://www.superxtra.com/pincel-para-unas-no-4-evok-2-un-10590512-7453038413442/p
 Cuidado Personal y Belleza,Acondicionador De Keratina Hyaluronic Q11 Kativa 355 ML,759.00 USD (x1),759.00 USD (x1),https://www.superxtra.com/acondicionador-de-keratina-hyaluronic-q11-kativa-355-ml-10589841-7750075060685/p
 Cuidado Personal y Belleza,Kit Super Alisado Happy Anne 1 UN,999.00 USD (x1),999.00 USD (x1),https://www.superxtra.com/kit-super-alisado-happy-anne-1-un-10589839-7750075053106/p
@@ -2028,6 +2031,7 @@ Cuidado Personal y Belleza,Acondicionador Elvive Aminexil 370 ML,690.00 USD (x1)
 Cuidado Personal y Belleza,Tijera Profesional Barbero 6.5 Evok 1 UN,572.00 USD (x1),572.00 USD (x1),https://www.superxtra.com/tijera-profesional-barbero-6-5-evok-1-un-10589571-7453038489911/p
 Cuidado Personal y Belleza,Tijera Profesional Barbero 5.5 Evok 1 UN,490.00 USD (x1),490.00 USD (x1),https://www.superxtra.com/tijera-profesional-barbero-5-5-evok-1-un-10589570-7453038480949/p
 Cuidado Personal y Belleza,Gorro Termico De Aluminio Evok 1 UN,129.00 USD (x1),129.00 USD (x1),https://www.superxtra.com/gorro-termico-de-aluminio-evok-1-un-10589556-7453038493550/p
+Cuidado Personal y Belleza,Crema Para Peinar Aloe Vera Aquavera 500 G,352.00 USD (x1),352.00 USD (x1),https://www.superxtra.com/crema-para-peinar-aloe-vera-aquavera-500-g-10589337-7453100307761/p
 Cuidado Personal y Belleza,Shampoo Y Acondicionador Duo Suavidad Konzil 340 ML,874.00 USD (x1),874.00 USD (x1),https://www.superxtra.com/shampoo-y-acondicionador-duo-suavidad-konzil-340-ml-7702029388178/p
 Cuidado Personal y Belleza,Vegetus Jabon Aceite De Argan Bioland 125 G,224.00 USD (x1),224.00 USD (x1),https://www.superxtra.com/vegetus-jabon-aceite-de-argan-bioland-125-g-759316361472/p
 Cuidado Personal y Belleza,Vegetus Jabon Pepino Bioland 125 G,249.00 USD (x1),249.00 USD (x1),https://www.superxtra.com/vegetus-jabon-pepino-bioland-125-g-759316361526/p
@@ -2207,6 +2211,7 @@ Cuidado Personal y Belleza,Antitranspirante Adidas Roll On Control 50 ML,321.00 
 Cuidado Personal y Belleza,Antitranspirante Adidas Power Booster Roll On 50 ML,231.00 USD (x1),231.00 USD (x1),https://www.superxtra.com/antitranspirante-adidas-power-booster-roll-on-50-ml-3616303842123/p
 Cuidado Personal y Belleza,Duo Shampoo Y Acondicionador Aquavera Coco 400 ML,599.00 USD (x1),599.00 USD (x1),https://www.superxtra.com/duo-shampoo-y-acondicionador-aquavera-coco-400-ml-7453100300496/p
 Cuidado Personal y Belleza,Protector Solar Facial Nivea Sun 50+ Piel Sensible 50 ML,886.00 USD (x1),1107.00 USD (x1),https://www.superxtra.com/protector-facial-nivea-piel-sensible-50-ml-7501054547815/p
+Cuidado Personal y Belleza,Duo Shampoo Y Acondicionador Aquavera 400 ML,571.00 USD (x1),571.00 USD (x1),https://www.superxtra.com/duo-shampoo-y-acondicionador-aquavera-400-ml-7453100300489/p
 Cuidado Personal y Belleza,Duo De Shampoo Y Acondicionador Aquavera Romero 400 ML,599.00 USD (x1),599.00 USD (x1),https://www.superxtra.com/duo-de-shampoo-y-acondicionador-aquavera-romero-400-ml-7453100300472/p
 Cuidado Personal y Belleza,Shampoo Y Acondicionador Nevada De Aguacate,599.00 USD (x1),599.00 USD (x1),https://www.superxtra.com/shampoo-y-acondicionador-nevada-de-aguacate-847610011589/p
 Cuidado Personal y Belleza,Express Aclara Garnier Skin Serum 30 ML,1648.00 USD (x1),1648.00 USD (x1),https://www.superxtra.com/express-aclara-serum-garnier-vitamina-c-30-ml-7509552849493/p
@@ -2595,11 +2600,6 @@ Cuidado Personal y Belleza,Pestañas Individuales Black,270.00 USD (x1),270.00 U
 Cuidado Personal y Belleza,Paletas De Sombras 9 Colors Poison Nicka K New York,364.00 USD (x1),364.00 USD (x1),https://www.superxtra.com/nicka-k-new-york-paletas-de-sombras-9-colors-poison-607203029779/p
 Cuidado Personal y Belleza,Lip Gloss Bossan Nk,225.00 USD (x1),225.00 USD (x1),https://www.superxtra.com/nk-lip-gloss-bossan-607203008835/p
 Cuidado Personal y Belleza,Nicka K Brocha Para Cejas,282.00 USD (x1),282.00 USD (x1),https://www.superxtra.com/nicka-k-brocha-para-cejas-607203033929/p
-Cuidado Personal y Belleza,Mascarilla Exfoliantes De Coco Absolute New York Para Pies 1 UN,625.00 USD (x1),625.00 USD (x1),https://www.superxtra.com/media-exfoliante-pies-coco-888432942910/p
-Cuidado Personal y Belleza,Delineador Liquido Para Ojos Matte Nk - Black,285.00 USD (x1),285.00 USD (x1),https://www.superxtra.com/nk-delineador-liquido-para-ojos-matte-black-607203017851/p
-Cuidado Personal y Belleza,Labial Liquido- Wine Down,267.00 USD (x1),267.00 USD (x1),https://www.superxtra.com/labial-liquido-wine-down-607203028383/p
-Cuidado Personal y Belleza,Lapiz Delineador Para Labios Nk - Brown,167.00 USD (x1),167.00 USD (x1),https://www.superxtra.com/nk-lapiz-delineador-para-labios-brown-607203530138/p
-Cuidado Personal y Belleza,Delineador Para Ojos - White Nk,167.00 USD (x1),167.00 USD (x1),https://www.superxtra.com/nk-delineador-para-ojos---white-607203530046/p
 Limpieza del Hogar y Ropa,Bolsa de Basura Grande Zesta 23.5X30 Pulg/13Gal,147.00 USD (x1),147.00 USD (x1),https://www.superxtra.com/bolsa-de-basura-grande-zesta-23-5x30-pulg13gal-806246110257/p
 Limpieza del Hogar y Ropa,Papel Toalla Like 60 Hojas 1 Rollo,88.00 USD (x1),88.00 USD (x1),https://www.superxtra.com/papel-toalla-like-60-hojas-1-rollo-5558520/p
 Limpieza del Hogar y Ropa,Bolsa de Basura Like Negra 23X30 12 UN,78.00 USD (x1),78.00 USD (x1),https://www.superxtra.com/bolsa-de-basura-like-negra-23x30-12-un-5646470/p
@@ -2670,7 +2670,6 @@ Limpieza del Hogar y Ropa,Pastilla Aromatizante Sani Odor 60 GR Floral,59.00 USD
 Limpieza del Hogar y Ropa,Papel Higiénico Like 12 ROLLOS Doble Hoja,492.00 USD (x1),492.00 USD (x1),https://www.superxtra.com/papel-higienico-like-12-rollos-doble-hoja/p
 Limpieza del Hogar y Ropa,Papel Alumunio Super Xtra 75 PIES Aluminio,198.00 USD (x1),198.00 USD (x1),https://www.superxtra.com/papel-alumunio-super--tra-75-pies-aluminio/p
 Limpieza del Hogar y Ropa,Baygon Ultra verde Insecticida en Aerosol 400 ml,418.00 USD (x1),418.00 USD (x1),https://www.superxtra.com/baygon-ultra-verde-insecticida-en-aerosol-400-ml/p
-Limpieza del Hogar y Ropa,Limpiador de Pisos Like 960 ML Antibacterial Con Aroma Frescura de Limón,92.00 USD (x1),92.00 USD (x1),https://www.superxtra.com/limpiador-pisos-like-960-ml-antibacterial-con-aroma-frescura-limon/p
 Limpieza del Hogar y Ropa,Limpiador de Pisos Like 960 ML Antibacterial Con Aroma Floral,92.00 USD (x1),92.00 USD (x1),https://www.superxtra.com/limpiador-pisos-like-960-ml-antibacterial-con-aroma-floral/p
 Limpieza del Hogar y Ropa,Limpiador de Pisos Like 960 ML Antibacterial Con Aroma Lavanda,91.00 USD (x1),91.00 USD (x1),https://www.superxtra.com/limpiador-pisos-like-960-ml-antibacterial-con-aroma-lavanda/p
 Limpieza del Hogar y Ropa,Ambientador Glade Hawaiian Breeze 400 ml,298.00 USD (x1),298.00 USD (x1),https://www.superxtra.com/ambientador-glade-hawaiian-breeze-400-ml/p
@@ -2817,6 +2816,7 @@ Limpieza del Hogar y Ropa,Desinfectante Lysol Lavanda 800ml,228.00 USD (x1),253.
 Limpieza del Hogar y Ropa,Bolsas Para Sandwich/50 Marca Like,160.00 USD (x1),160.00 USD (x1),https://www.superxtra.com/bolsas-para-sandwich50-marca-like/p
 Limpieza del Hogar y Ropa,Suavizante Downy 1.4 Lt En Botella Floral,382.00 USD (x1),382.00 USD (x1),https://www.superxtra.com/suavizante-downy-14-lt-en-botella-floral/p
 Limpieza del Hogar y Ropa,Quitamanchas En Polvo Remojin 43 Gr Limon,17.00 USD (x1),17.00 USD (x1),https://www.superxtra.com/quitamanchas-en-polvo-remojin-43-gr-limon/p
+Limpieza del Hogar y Ropa,Desinfectante Clorox Antisplash 1.8 lt,212.00 USD (x1),212.00 USD (x1),https://www.superxtra.com/desinfectante-clorox-antisplash-18-lt/p
 Limpieza del Hogar y Ropa,Detergente Super Xtra 1500 Gr en polvo Limón,227.00 USD (x1),227.00 USD (x1),https://www.superxtra.com/detergente-super-xtra-1500-gr-polvo-limon/p
 Limpieza del Hogar y Ropa,Detergente Super Xtra 900 Gr en polvo Limón,149.00 USD (x1),149.00 USD (x1),https://www.superxtra.com/detergente-super-xtra-900-gr-polvo-limon/p
 Limpieza del Hogar y Ropa,Blanqueador Magia Blanca Regular 2 lt,186.00 USD (x1),186.00 USD (x1),https://www.superxtra.com/blanqueador-magia-blanca-regular-2-lt/p
@@ -2886,6 +2886,7 @@ Limpieza del Hogar y Ropa,Aceites Esenciales Electronico Airwick Lirios De Luna 
 Limpieza del Hogar y Ropa,Papel Higienico Unico 2 Piezas,193.00 USD (x1),193.00 USD (x1),https://www.superxtra.com/papel-higienico-unico-2-piezas-88689500073/p
 Limpieza del Hogar y Ropa,Baygon Oko Johnson 285 ML,261.00 USD (x1),261.00 USD (x1),https://www.superxtra.com/baygon-oko-johnson-285-ml-7501032925451/p
 Limpieza del Hogar y Ropa,Sip Limpiador De Vidrios Y Superficies,97.00 USD (x1),97.00 USD (x1),https://www.superxtra.com/sip-limpiador-de-vidrios-y-superficies-18718402061/p
+Limpieza del Hogar y Ropa,Lavaplatos Like Crema Limon 450G,97.00 USD (x1),97.00 USD (x1),https://www.superxtra.com/lavaplatos-like-crema-limon-450g-5559619/p
 Limpieza del Hogar y Ropa,Bolsas Flat Like 10X15 100U,179.00 USD (x1),179.00 USD (x1),https://www.superxtra.com/bolsas-flat-like-10x15-100u-7595288000734/p
 Limpieza del Hogar y Ropa,Esponja Anatómica Superficies Delicadas Contraste Naranja 1 UN,123.00 USD (x1),123.00 USD (x1),https://www.superxtra.com/esponja-fibra-anatomica-contraste-757962009236/p
 Limpieza del Hogar y Ropa,"Mr. Músculo Baño, Sarro y Mugre, Gatillo 500ml",792.00 USD (x1),792.00 USD (x1),https://www.superxtra.com/mr-musculo-bano-sarro-y-mugre-gatillo-500ml-7706800643258/p
@@ -2975,6 +2976,7 @@ Limpieza del Hogar y Ropa,Detergente Líquido 2 En 1 Magia Blanca En Botella 5 L
 Limpieza del Hogar y Ropa,Desmanchador Blancox Ropa Blanca 1000 ML,361.00 USD (x1),361.00 USD (x1),https://www.superxtra.com/desmanchador-blancox-ropa-blanca-1000-ml-10433508-7703812014267/p
 Limpieza del Hogar y Ropa,Pledge Limpieza Diaria Multisuperficies Scjohnson Lavanda 275 ML,459.00 USD (x1),459.00 USD (x1),https://www.superxtra.com/pledge-limpieza-diaria-multisuperficies-scjohnson-lavanda-275-ml-10582456-7503026029077/p
 Limpieza del Hogar y Ropa,Papel Toalla Multiusos Big Roll Delux 150 Hojas 1 UN,221.00 USD (x1),221.00 USD (x1),https://www.superxtra.com/papel-toalla-multiusos-big-roll-delux-150-hojas-1-un-10608872-766324312068/p
+Limpieza del Hogar y Ropa,Suavizante 2 Pk W&P Vanish Doypack 450 ML,549.00 USD (x1),549.00 USD (x1),https://www.superxtra.com/suavizante-2-pk-w-p-vanish-doypack-450-ml-10608176-7441001310669/p
 Limpieza del Hogar y Ropa,Pañuelos Faciales Kleenex Cubo 60U,243.00 USD (x1),243.00 USD (x1),https://www.superxtra.com/panuelos-faciales-kleenex-cubo-60u-10538835-7702425642157/p
 Limpieza del Hogar y Ropa,Detergente Líquido Rendidor Higiene + Anti Olor 830 ML,335.00 USD (x1),335.00 USD (x1),https://www.superxtra.com/detergente-liquido-rendidor-higiene-anti-olor-830-ml-10545720-7500459001304/p
 Limpieza del Hogar y Ropa,Desinfectante Limpia Pisos Sip Bebé Concentrado 900 ML,317.00 USD (x1),317.00 USD (x1),https://www.superxtra.com/desinfectante-limpia-pisos-sip-bebe-concentrado-900-ml-10599690-18718401606/p
@@ -3042,6 +3044,7 @@ Limpieza del Hogar y Ropa,Pato Discos Activos Scjohnson Brisas De Mar,562.00 USD
 Limpieza del Hogar y Ropa,Plato Compostable Jipi No 7,198.00 USD (x1),198.00 USD (x1),https://www.superxtra.com/plato-compostable-jipi-no-7-7451070406699/p
 Limpieza del Hogar y Ropa,Riego Aromatico Aromaz 120 ML,177.00 USD (x1),177.00 USD (x1),https://www.superxtra.com/riego-aromatico-aromaz-120-ml-7452102220061/p
 Limpieza del Hogar y Ropa,Glade Aromatizante Automático en Aerosol Lavanda y Vainilla 175 g Repuesto,1199.00 USD (x1),1199.00 USD (x1),https://www.superxtra.com/glade-aromatizante-automatico-en-aerosol-lavanda-y-vainilla-175-g-repuesto-7501032905330/p
+Limpieza del Hogar y Ropa,Escobilla Plastica Con Mango Xtra Bv L13017,846.00 USD (x1),846.00 USD (x1),https://www.superxtra.com/escobilla-plastica-con-mango-xtra-bv-l13017-7453001169369/p
 Limpieza del Hogar y Ropa,Pastilla Tanque White And Shine Harpic 2 Pastillas,380.00 USD (x1),380.00 USD (x1),https://www.superxtra.com/pastilla-tanque-white-and-shine-harpic-2-pastillas-7501058714985/p
 Limpieza del Hogar y Ropa,Mango Durapro Fib/Plas X 12,1256.00 USD (x1),1256.00 USD (x1),https://www.superxtra.com/mango-durapro-fibplas-x-12-7451064200456/p
 Limpieza del Hogar y Ropa,Mistolin Mistolin Floral 1893ML,366.00 USD (x1),366.00 USD (x1),https://www.superxtra.com/mistolin-mistolin-floral-1893ml-7441000372613/p
@@ -3093,6 +3096,7 @@ Limpieza del Hogar y Ropa,Bolsas Flat Like 5X10 100U,58.00 USD (x1),58.00 USD (x
 Limpieza del Hogar y Ropa,Glade Aromatizante en Gel Sensations Paraíso Azul 8 g c/u 2 Repuestos,879.00 USD (x1),879.00 USD (x1),https://www.superxtra.com/glade-aromatizante-en-gel-sensations-paraiso-azul-8-g-c-u-2-repuestos-7501032911416/p
 Limpieza del Hogar y Ropa,Glade Aromatizante en Vela Manzana y Canela 96 g,759.00 USD (x1),759.00 USD (x1),https://www.superxtra.com/glade-aromatizante-en-vela-manzana-y-canela-96-g-7501032928315/p
 Limpieza del Hogar y Ropa,Glade Aromatizante en Gel Sensations Néctar de Flores 8 g c/u 2 Repuestos,948.00 USD (x1),948.00 USD (x1),https://www.superxtra.com/glade-aromatizante-en-gel-sensations-nectar-de-flores-8-g-c-u-2-repuestos-7501032905804/p
+Limpieza del Hogar y Ropa,Destapacanos liquido SUPER DRENA 1000ML HARPIC,567.00 USD (x1),567.00 USD (x1),https://www.superxtra.com/destapacanos-liquido-super-drena-1000ml-harpic-7501058772107/p
 Limpieza del Hogar y Ropa,Fibra Resistente Contraste Verde 3 Pack,201.00 USD (x1),201.00 USD (x1),https://www.superxtra.com/fibra-resistente-contraste-757962046767/p
 Limpieza del Hogar y Ropa,Esponja Recubierta Magic Contraste Amarillo 1 UN,132.00 USD (x1),132.00 USD (x1),https://www.superxtra.com/esponja-recubierta-multiuso-magic-1-uni-contraste-757962048105/p
 Limpieza del Hogar y Ropa,Quita Manchas Blanco Supremo Ropa Clorox,449.00 USD (x1),449.00 USD (x1),https://www.superxtra.com/quita-manchas-blanco-supremo-ropa-clorox-7441000372040/p
@@ -3217,6 +3221,7 @@ Limpieza del Hogar y Ropa,Vela Religiosa 100 Hrs Sin Vaso Cristo Rey 1 UN Blanco
 Limpieza del Hogar y Ropa,Vasos desechables Super Xtra 20 UN Vaso 8 Oz.,184.00 USD (x1),184.00 USD (x1),https://www.superxtra.com/vasos-desechables-super-xtra-20-un-vaso-8-oz/p
 Limpieza del Hogar y Ropa,Suavizante Like Antibacterial Fresca Primavera6/2Lt,319.00 USD (x1),319.00 USD (x1),https://www.superxtra.com/suavizante-like-antibacterial-fresca-primavera62lt/p
 Limpieza del Hogar y Ropa,Spray Desinfectante Lysol 560 ML Spring Water,841.00 USD (x1),841.00 USD (x1),https://www.superxtra.com/spray-desinfectante-lysol-560-ml-spring-water/p
+Limpieza del Hogar y Ropa,Spray Desinfectante Lysol 354 GR Lemon Breeze,608.00 USD (x1),760.00 USD (x1),https://www.superxtra.com/spray-desinfectante-lysol-354-gr-lemon-breeze/p
 Limpieza del Hogar y Ropa,Papel Higiénico Scott Rindemax Doble Hoja 4 Rollos,342.00 USD (x1),342.00 USD (x1),https://www.superxtra.com/papel-higienico-scott-rindemax-doble-hoja-4-rollos/p
 Limpieza del Hogar y Ropa,Papel Higiénico Scott Rindemax Doble Hoja 12 Rollos,973.00 USD (x1),973.00 USD (x1),https://www.superxtra.com/papel-higienico-scott-rindemax-doble-hoja-12-rollos/p
 Limpieza del Hogar y Ropa,Desechable de Cocina Walton 24 UN Filtro Para Café,206.00 USD (x1),206.00 USD (x1),https://www.superxtra.com/desechable-de-cocina-walton-24-un-filtro-para-cafe/p
@@ -3230,7 +3235,6 @@ Limpieza del Hogar y Ropa,Envase desechable Generico 0 Fiambrera Division,599.00
 Limpieza del Hogar y Ropa,Envase desechable Generico 0 Fiambrera Division,579.00 USD (x1),579.00 USD (x1),https://www.superxtra.com/envase-desechable-generico-0-fiambrera-division-7452100952209/p
 Limpieza del Hogar y Ropa,Bolsa de Basura Fuerte 32X40 6 Un Negra,209.00 USD (x1),209.00 USD (x1),https://www.superxtra.com/bolsa-basura-fuerte-32-40-6-un-negra-7451053600045/p
 Limpieza del Hogar y Ropa,Limpiador de Inodoro Tergo 50 ML Pastilla,211.00 USD (x1),211.00 USD (x1),https://www.superxtra.com/limpiador-inodoro-tergo-50-ml-pastilla-7702532720434/p
-Limpieza del Hogar y Ropa,Limpiador de Inodoro Tergo 50 ML Pastilla,213.00 USD (x1),213.00 USD (x1),https://www.superxtra.com/limpiador-inodoro-tergo-50-ml-pastilla-7702532720427/p
 Limpieza del Hogar y Ropa,Limpiador de Inodoro Tergo 50 ML Pastilla,114.00 USD (x1),114.00 USD (x1),https://www.superxtra.com/limpiador-inodoro-tergo-50-ml-pastilla-7702532720373/p
 Limpieza del Hogar y Ropa,Limpiador de Inodoro Tergo 50 ML Pastilla,114.00 USD (x1),114.00 USD (x1),https://www.superxtra.com/limpiador-inodoro-tergo-50-ml-pastilla-7702532720366/p
 Limpieza del Hogar y Ropa,Limpiador de Inodoro Tergo 50 ML Pastilla,114.00 USD (x1),114.00 USD (x1),https://www.superxtra.com/limpiador-inodoro-tergo-50-ml-pastilla-7702532720359/p
@@ -3247,8 +3251,10 @@ Limpieza del Hogar y Ropa,Jabón En Barra Zote Rosado 3 Pack 600 Gr,282.00 USD (
 Limpieza del Hogar y Ropa,Jabón En Barra Zote Rosado 200 Gr,95.00 USD (x1),95.00 USD (x1),https://www.superxtra.com/jabon-en-barra-zote-rosado-200-gr/p
 Limpieza del Hogar y Ropa,Detergente Ariel 1.2 Lt Líquido Concentrado Con Un Toque De Downy,643.00 USD (x1),643.00 USD (x1),https://www.superxtra.com/detergente-ariel-12-lt-liquido-concentrado-con-un-toque-de-downy/p
 Limpieza del Hogar y Ropa,Detergente Líquido Baby Castille Con Suavizante 2958 Ml,909.00 USD (x1),909.00 USD (x1),https://www.superxtra.com/detergente-liquido-baby-castille-con-suavizante-2958-ml/p
+Limpieza del Hogar y Ropa,Blanqueador Desinfectante Clorox Menta Fresca 1. 9 Lt,192.00 USD (x1),192.00 USD (x1),https://www.superxtra.com/blanqueador-desinfectante-clorox-menta-fresca-1-9-lt/p
 Limpieza del Hogar y Ropa,Quitamanchas Liquido Clorox 473 Ml Ropa De Color,219.00 USD (x1),219.00 USD (x1),https://www.superxtra.com/quitamanchas-liquido-clorox-473-ml-ropa-de-color/p
 Limpieza del Hogar y Ropa,Quitamanchas Liquido Clorox 930 Ml Ropa De Color,449.00 USD (x1),449.00 USD (x1),https://www.superxtra.com/quitamanchas-liquido-clorox-930-ml-ropa-de-color/p
+Limpieza del Hogar y Ropa,Blanqueador Desinfectante Clorox Pureza Cítrica 1893 ml,213.00 USD (x1),213.00 USD (x1),https://www.superxtra.com/blanqueador-desinfectante-clorox-pureza-citrica-1893-ml/p
 Limpieza del Hogar y Ropa,Blanqueador Magia Blanca Regular 1 lt,95.00 USD (x1),127.00 USD (x1),https://www.superxtra.com/blanqueador-magia-blanca-regular-1-lt/p
 Limpieza del Hogar y Ropa,Detergente Super Xtra 1500 Gr,188.00 USD (x1),188.00 USD (x1),https://www.superxtra.com/detergente-super-xtra-1500-gr/p
 Limpieza del Hogar y Ropa,Detergente Super Xtra 1500 Gr en polvo Floral,227.00 USD (x1),227.00 USD (x1),https://www.superxtra.com/detergente-super-xtra-1500-gr-polvo-floral/p
@@ -3338,6 +3344,7 @@ Limpieza del Hogar y Ropa,LAVAPLATOS EN CREMA ZAGAZ ANTIBACTERIAL CITRUS POWER 4
 Limpieza del Hogar y Ropa,Crema Lavaplatos Zagaz Antibacterial Frutos Rojos 425 gr,125.00 USD (x1),125.00 USD (x1),https://www.superxtra.com/crema-lavaplatos-zagaz-antibacterial-frutos-rojos-425-gr/p
 Limpieza del Hogar y Ropa,Bolsa de Basura Ideal 32X40 6 Un Negra,143.00 USD (x1),143.00 USD (x1),https://www.superxtra.com/bolsa-basura-ideal-32-40-6-un-negra/p
 Limpieza del Hogar y Ropa,Papel Higiénico Encanto 6 UN 6000 Hoja Sencilla,364.00 USD (x1),364.00 USD (x1),https://www.superxtra.com/papel-higienico-encanto-6-un-6000-hoja-sencilla/p
+Limpieza del Hogar y Ropa,Vasos desechables Picnic 25 UND 10 Oz.,151.00 USD (x1),151.00 USD (x1),https://www.superxtra.com/vasos-desechables-picnic-25-und-10-oz/p
 Limpieza del Hogar y Ropa,Lavaplatos Líquido Pril 400 ML Aroma Limón,245.00 USD (x1),272.00 USD (x1),https://www.superxtra.com/lavaplatos-liquido-pril-400-ml-aroma-limon/p
 Limpieza del Hogar y Ropa,Bolsa de Basura Trend 11 3/4 X 14 12 Un Transparente,114.00 USD (x1),114.00 USD (x1),https://www.superxtra.com/bolsa-basura-trend-11-3-4---14-12-un-transparente/p
 Limpieza del Hogar y Ropa,Papel Toalla Delux 3 ROLLOS Absorbe Grasa 270 Hojas Dobles,450.00 USD (x1),450.00 USD (x1),https://www.superxtra.com/papel-toalla-delu--3-rollos-absorbe-grasa-270-hojas-dobles/p
@@ -3439,21 +3446,21 @@ Limpieza del Hogar y Ropa,Tenedores Desechables Xtra,37.00 USD (x1),37.00 USD (x
 Limpieza del Hogar y Ropa,Guante Eterna 1 UND Monocolor Negro,186.00 USD (x1),186.00 USD (x1),https://www.superxtra.com/guante-eterna-1-und-monocolor-negro/p
 Limpieza del Hogar y Ropa,Cepillo Con Hueco Eterna 1 und Utensilios de Limpieza,164.00 USD (x1),164.00 USD (x1),https://www.superxtra.com/cepillo-con-hueco-eterna-1-und-utensilios-limpieza/p
 Limpieza del Hogar y Ropa,Cepillo Planchita Kika 1 und Utensilios de Limpieza,108.00 USD (x1),108.00 USD (x1),https://www.superxtra.com/cepillo-planchita-kika-1-und-utensilios-limpieza/p
+Limpieza del Hogar y Ropa,Cepillo Ovalado Limpex 1 und Utensilios de Limpieza,137.00 USD (x1),137.00 USD (x1),https://www.superxtra.com/cepillo-ovalado-limpe--1-und-utensilios-limpieza/p
 Limpieza del Hogar y Ropa,Papel Higiénico Scott Cuidado Completo Triple Hoja 4 Rollos,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/papel-higienico-cuidado-completo-scott-triple-hoja-4-rollos-7441008101949/p
 Limpieza del Hogar y Ropa,"Suavizante Downy ""Amanecer"" 700 ML",0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/detergente-downy-amanecer-700-ml-7500435196291/p
+Limpieza del Hogar y Ropa,Limpiador de Pisos Like 960 ML Antibacterial Con Aroma Frescura de Limón,94.00 USD (x1),94.00 USD (x1),https://www.superxtra.com/limpiador-pisos-like-960-ml-antibacterial-con-aroma-frescura-limon/p
 Limpieza del Hogar y Ropa,Lavaplatos Like Crema Naranja 450G,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/lavaplatos-like-crema-naranja-450g-5559633/p
 Limpieza del Hogar y Ropa,Líquido Lavaplatos Vel Rosa 296 ml,206.00 USD (x1),206.00 USD (x1),https://www.superxtra.com/liquido-lavaplatos-vel-rosa-296-ml/p
 Limpieza del Hogar y Ropa,Limpiador de Pisos Like 3.78 LT Antibacterial Con Aroma Frescura de Limón,383.00 USD (x1),383.00 USD (x1),https://www.superxtra.com/limpiador-pisos-like-378-lt-antibacterial-con-aroma-frescura-limon/p
 Limpieza del Hogar y Ropa,Essential Oils Airwick Summer Delight 3 UN,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/essential-oils-airwick-summer-delight-3-un-10593404-62338026749/p
 Limpieza del Hogar y Ropa,Crema Lavaplatos Like Avena 850G,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/crema-lavaplatos-like-avena-850g-5567096/p
-Limpieza del Hogar y Ropa,Desinfectante Clorox Antisplash 1.8 lt,249.00 USD (x1),249.00 USD (x1),https://www.superxtra.com/desinfectante-clorox-antisplash-18-lt/p
 Limpieza del Hogar y Ropa,Líquido Lavaplatos Salvo Limón 750 ml,292.00 USD (x1),292.00 USD (x1),https://www.superxtra.com/liquido-lavaplatos-salvo-limon-750-ml/p
 Limpieza del Hogar y Ropa,Destapador de Baño Potasa 240 gr,125.00 USD (x1),125.00 USD (x1),https://www.superxtra.com/destapador-bano-potasa-240-gr/p
 Limpieza del Hogar y Ropa,Limpiador de Baño Multi Cleaner 946 ML Repuesto,288.00 USD (x1),288.00 USD (x1),https://www.superxtra.com/limpiador-bano-multi-cleaner-946-ml-repuesto/p
 Limpieza del Hogar y Ropa,Guante de Lavandería Scotch-Brite® Talla L 1 par,377.00 USD (x1),377.00 USD (x1),https://www.superxtra.com/guante-lavanderia-scotch-brite-talla-l-1-par/p
 Limpieza del Hogar y Ropa,Papel Higiénico 1000 hojas Scott 6 Rollos,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/papel-higienico-scott-1000-hojas-hoja-sencilla-6-rollo-10045596-7441008126218/p
 Limpieza del Hogar y Ropa,Lavaplatos Like Crema Naranja 850G,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/lavaplatos-like-crema-naranja-850g-5559640/p
-Limpieza del Hogar y Ropa,Lavaplatos Like Crema Limon 450G,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/lavaplatos-like-crema-limon-450g-5559619/p
 Limpieza del Hogar y Ropa,Desinfectante Frescura Limón Fabuloso 900Ml,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/desinfectante-frescura-o-fabuloso-900ml-7509546655895/p
 Limpieza del Hogar y Ropa,Limpiador de Baño Multi Cleaner 592 ML Atomizador,315.00 USD (x1),315.00 USD (x1),https://www.superxtra.com/limpiador-bano-multi-cleaner-592-ml-atomizador/p
 Limpieza del Hogar y Ropa,Lime Blast Astonish Specialist Remover 750 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/lime-blast-astonish-specialist-remover-750-ml/p
@@ -3485,7 +3492,6 @@ Limpieza del Hogar y Ropa,Papel Higiénico 1000 hojas Scott 9 Rollos,0.00 USD (x
 Limpieza del Hogar y Ropa,Papel Higiénico Scott Berry Spa Doble Hoja 16 Rollos,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/papel-higienico-scott-berry-spa-doble-hoja-16-rollos-10608889-7441008102298/p
 Limpieza del Hogar y Ropa,Jabón Zote Azul 400 G,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/jabon-zote-azul-400-g-10077178-7501026005138/p
 Limpieza del Hogar y Ropa,Esponja Doble Uso El Contraste 4 Pack,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/esponsa-doble-uso-el-contraste-4-pack-10609252-757962050337/p
-Limpieza del Hogar y Ropa,Suavizante 2 Pk W&P Vanish Doypack 450 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/suavizante-2-pk-w-p-vanish-doypack-450-ml-10608176-7441001310669/p
 Limpieza del Hogar y Ropa,Pastillas Para Inodoro Bref Lavanda,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/pastillas-para-inodoro-bref-lavanda-10442415-7501199414133/p
 Limpieza del Hogar y Ropa,Pastillas Para Inodoro Bref Frescura De Pino,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/pastillas-para-inodoro-bref-frescura-de-pino-10380662-7501199410111/p
 Limpieza del Hogar y Ropa,Desinfectante Spum Orquideas Frambuesas 900 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/desinfectante-spum-orquideas-frambuesas-900-ml-10600343-18718401408/p
@@ -3578,7 +3584,6 @@ Limpieza del Hogar y Ropa,Pastilla Detergente Para Sanitario Harpic 35 G,0.00 US
 Limpieza del Hogar y Ropa,Escoba Superreina,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/escoba-superreina-85907302013/p
 Limpieza del Hogar y Ropa,Wipes Desinfectantes Clorox Lemon,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/wipes-desinfectantes-clorox-lemon-44600015941/p
 Limpieza del Hogar y Ropa,Glade Aceites Naturales Aromatizante Líquido Eléctrico Tranquilidad Lavanda y Aloe 21 ml c/u 2 Repuestos,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/glade-aceites-naturales-aromatizante-liquido--electrico-tranquilidad-lavanda-y-aloe-21-ml-c-u-2-repuestos-7501032925314/p
-Limpieza del Hogar y Ropa,Escobilla Plastica Con Mango Xtra Bv L13017,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/escobilla-plastica-con-mango-xtra-bv-l13017-7453001169369/p
 Limpieza del Hogar y Ropa,Auto Old Spice Febreze 2 Clips 0/14 OZ,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/auto-old-spice-febreze-2-clips-014-oz-30772010549/p
 Limpieza del Hogar y Ropa,Bulto Escoba Mary Xtra,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/bulto-escoba-mary-xtra-7441156300041/p
 Limpieza del Hogar y Ropa,Mecha Economica Scotchbrite Poder De Absorcion,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/mecha-economica-scotchbrite-poder-de-absorcion-7441002710086/p
@@ -3595,11 +3600,6 @@ Limpieza del Hogar y Ropa,Detergente Liquido Suavitel Base Primaveral,0.00 USD (
 Limpieza del Hogar y Ropa,Detergente Downy Liquido 2/8 LT,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/detergente-downy-liquido-28-lt-7500435126144/p
 Limpieza del Hogar y Ropa,Detergente En Polvo Xedex Máximo Poder Limón 2.3 KG,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/detergente-en-polvo-xedex-maximo-poder-limon-2300-g-7411000360088/p
 Limpieza del Hogar y Ropa,Enjuague Suavitel Vainilla,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/enjuague-suavitel-vainilla-7509546684192/p
-Limpieza del Hogar y Ropa,Ganchos De Ropa Xtra,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/ganchos-de-ropa-xtra-6987512765334/p
-Limpieza del Hogar y Ropa,Detergente En Polvo Xedex Frutos Del Bosque 2300 G,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/detergente-en-polvo-xedex-frutos-del-bosque-2300-g-7411000359945/p
-Limpieza del Hogar y Ropa,Suavitel Complete Suavitel Primaveral,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/suavitel-complete-suavitel-primaveral-7509546684154/p
-Limpieza del Hogar y Ropa,Suavitel Suavitel Cuidado Superior Fresca Primavera,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/suavitel-suavitel-cuidado-superior-fresca-primavera-7509546684208/p
-Limpieza del Hogar y Ropa,Desinfectante Para Pisos En Bolsa Lysol Lavanda 800 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/desinfectante-para-pisos-en-bolsa-lysol-lavanda-800-ml-7441001300844/p
 Mascotas,Felix Pouch Gatito Carne 85gr (3oz),97.00 USD (x1),97.00 USD (x1),https://www.superxtra.com/felix-pouch-gatito-carne-85gr-3oz-10525029-7501072209900/p
 Mascotas,Cat Chow Gatitos Defense Plus 1.5kg (3.3lb),767.00 USD (x1),767.00 USD (x1),https://www.superxtra.com/cat-chow-gatitos-defense-plus-1-5kg-3-3lb-10557865-7501072200730/p
 Mascotas,Alimento Humedo Perro Raza Pequeña Pedigree 100 gr Pouch De Pollo,92.00 USD (x1),92.00 USD (x1),https://www.superxtra.com/alimento-humedo-perro-raza-pequena-pedigree-100-gr-pouch-de-pollo/p
@@ -3766,6 +3766,7 @@ Mascotas,Cena De Cordero Y Cerdo Para Perros Organomics Lata 362 G,339.00 USD (x
 Mascotas,Cena De Salmón Y Pato Para Perros Organomics Lata 362 G,339.00 USD (x1),339.00 USD (x1),https://www.superxtra.com/cena-de-salmon-y-pato-para-perros-organomics-lata-362-g-856348008006/p
 Mascotas,Alimento Para Gatos Gati 2.2 LB,475.00 USD (x1),475.00 USD (x1),https://www.superxtra.com/alimento-para-gatos-gati-2-2-lb-7423372904685/p
 Mascotas,Platon Maxcotas De Aluminio Grande,554.00 USD (x1),554.00 USD (x1),https://www.superxtra.com/platon-maxcotas-de-aluminio-grande-6976800218706/p
+Mascotas,Alimento Para Mascotas Rufo Cachorros 420 G,83.00 USD (x1),83.00 USD (x1),https://www.superxtra.com/alimento-para-mascotas-rufo-cachorros-420-g-781974000585/p
 Mascotas,Comida P/Gato Wanpy Tuna & Salmón 70 GR,198.00 USD (x1),198.00 USD (x1),https://www.superxtra.com/comida-gato-wanpy-tuna-salmon-70-gr-6927749871118/p
 Mascotas,Correa Maxcotas Con Pechera,698.00 USD (x1),698.00 USD (x1),https://www.superxtra.com/correa-maxcotas-con-pechera-6920150016499/p
 Mascotas,Paticas De Pollo Xtra Para Mascotas 6 UN,481.00 USD (x1),566.00 USD (x1),https://www.superxtra.com/paticas-de-pollo-xtra-para-mascotas-6-un-729208141840/p
@@ -3846,6 +3847,7 @@ Mascotas,Baño Garrapaticida Y Mosquisida Mosgabaño 20 Ml Frasco,277.00 USD (x1
 Mascotas,Alimento para perro Ascan Adulto 4kg,1006.00 USD (x1),1006.00 USD (x1),https://www.superxtra.com/alimento-perro-ascan-4000-gr-adulto/p
 Mascotas,Alimento Para Perro Ascan 4kg Cachorro,1290.00 USD (x1),1290.00 USD (x1),https://www.superxtra.com/alimento-perro-ascan-4000-gr-cachorro/p
 Mascotas,Alimento Para Aves Intercampo 400 gr Canarios,205.00 USD (x1),205.00 USD (x1),https://www.superxtra.com/alimento-aves-intercampo-400-gr-canarios/p
+Mascotas,Alimento Para Aves Intercampo 400 gr Loros Y Guacamayas,211.00 USD (x1),211.00 USD (x1),https://www.superxtra.com/alimento-aves-intercampo-400-gr-loros-y-guacamayas/p
 Mascotas,Pramectina Calox 4 Tabletas,277.00 USD (x1),277.00 USD (x1),https://www.superxtra.com/pramectina-calox-4-tabletas/p
 Mascotas,Shampoo Para Perro Mascota 250 Ml Yodado,423.00 USD (x1),423.00 USD (x1),https://www.superxtra.com/shampoo-perro-mascota-250-ml-yodado/p
 Mascotas,Alimento Para Perro Ascan 18kg Adulto,3830.00 USD (x1),3830.00 USD (x1),https://www.superxtra.com/alimento-perro-ascan-18000-gr-adulto/p
@@ -4015,7 +4017,6 @@ Mascotas,Alimento Premium Para Mascotas Ganador Cachorro 4 KG,0.00 USD (x1),0.00
 Mascotas,Alimento Para Mascotas Masterdog Pollo Arroz Y Vegetales 18 KG,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/alimento-para-mascotas-masterdog-pollo-arroz-y-vegetales-18-kg-7801920000070/p
 Mascotas,Alimento Para Mascotas Adulto Ganador Razas Medianas Y Grandes 8 KG,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/alimento-para-mascotas-adulto-ganador-razas-medianas-y-grandes-8-kg-7502281122899/p
 Mascotas,Alimento Para Mascota Superperro Adulto 5 KG,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/alimento-para-mascota-superperro-adulto-5-kg-5633647/p
-Mascotas,Alimento Para Mascotas Rufo Cachorros 420 G,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/alimento-para-mascotas-rufo-cachorros-420-g-781974000585/p
 Mascotas,Correa Maxcotas De Paseo,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/correa-maxcotas-de-paseo-7593990010799/p
 Mascotas,Antiparasitario En Jeringa Pronalpets 5 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/antiparasitario-en-jeringa-pronalpets-5-ml-7703712096745/p
 Mascotas,Champu Maxcotas Prevenir Garrapatas 500 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/champu-maxcotas-prevenir-garrapatas-500-ml-7592701106097/p
@@ -4085,7 +4086,6 @@ Mascotas,Alimento Para Gato Gati 3000 gr Pescado,1340.00 USD (x1),1340.00 USD (x
 Mascotas,Alimento Para Gato Gati 3000 gr Mar Y Tierra,1339.00 USD (x1),1339.00 USD (x1),https://www.superxtra.com/alimento-gato-gati-3000-gr-mar-y-tierra/p
 Mascotas,Alimento Para Gato Gati 1000 gr Mar Y Tierra,460.00 USD (x1),460.00 USD (x1),https://www.superxtra.com/alimento-gato-gati-1000-gr-mar-y-tierra/p
 Mascotas,Shampoo Blanqueador Linvet 240 Ml,829.00 USD (x1),829.00 USD (x1),https://www.superxtra.com/shampoo-blanqueador-linvet-240-ml/p
-Mascotas,Alimento Para Aves Intercampo 400 gr Loros Y Guacamayas,211.00 USD (x1),211.00 USD (x1),https://www.superxtra.com/alimento-aves-intercampo-400-gr-loros-y-guacamayas/p
 Mascotas,Alimento Para Gato Gati Mar Y Tierra 1 Lb,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/alimento-gato-gati-mar-y-tierra-1-lb/p
 Mascotas,Alimento Para Gato Gati Sabor a Pescado 1 LB,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/alimento-para-gato-gati-sabor-a-pescado-1-lb/p
 Mascotas,Alimento Para Gato Gati Gatitos 400 G,287.00 USD (x1),287.00 USD (x1),https://www.superxtra.com/alimento-gato-gati-gatitos-10-400-grs/p
@@ -4114,6 +4114,7 @@ Bebes,Toallitas de Agua- Dany Baby 50 Und,178.00 USD (x1),178.00 USD (x1),https:
 Bebes,Pañales Desechables baby like talla M 40 un,695.00 USD (x1),695.00 USD (x1),https://www.superxtra.com/panal-baby-like-talla-m-40-un-6971331651411/p
 Bebes,Jabon Cremoso Humectante 110gr,215.00 USD (x1),215.00 USD (x1),https://www.superxtra.com/jabon-cremoso-humectante-110gr/p
 Bebes,Toallas Húmedas Huggies Limpieza Diaria 80U,149.00 USD (x1),167.00 USD (x1),https://www.superxtra.com/toallitas-humedas-huggies-limpieza-diaria-80u/p
+Bebes,Toallas Humedas Dany Baby Kit De 3 Tollas Humedas,401.00 USD (x1),401.00 USD (x1),https://www.superxtra.com/toallas-humedas-dany-baby-kit-de-3-tollas-humedas/p
 Bebes,Shampoo De Bebé Johnson & Johnson 400 Ml Shampo Con Brillo Fuerza Y Vitamina Jyj,952.00 USD (x1),952.00 USD (x1),https://www.superxtra.com/shampoo-de-bebe-johnson-johnson-400-ml-shampo-con-brillo-fuerza-y-vitamina-jyj/p
 Bebes,Pañales Huggies Maxi Protect Etapa 4/XG 50U,898.00 USD (x1),898.00 USD (x1),https://www.superxtra.com/panales-desechables-huggies-50-un-classic-jumbo-talla-xg/p
 Bebes,Jabón De Bebe Castilla 95 Gr,89.00 USD (x1),89.00 USD (x1),https://www.superxtra.com/jabon-de-bebe-castilla-95-gr/p
@@ -4277,7 +4278,6 @@ Bebes,Shampoo De Bebé Nectár De Miel Y Manzanilla Mennen 200 Ml,489.00 USD (x1
 Bebes,Shampoo De Bebé Lavanda Con Extractos De Avena Mennen 200 Ml,489.00 USD (x1),489.00 USD (x1),https://www.superxtra.com/shampoo-de-bebe-lavanda-con-extractos-de-avena-mennen-200-ml/p
 Bebes,Shampoo De Bebé Johnsons Baby 200 Ml Aporta Vitamina E Fuerza Y Brillo Jyj,593.00 USD (x1),593.00 USD (x1),https://www.superxtra.com/shampoo-de-bebe-johnsons-baby-200-ml-aporta-vitamina-e-fuerza-y-brillo-jyj/p
 Bebes,Shampoo De Bebé Con Extractos De Manzanilla Johnson'S Baby 200 Ml,593.00 USD (x1),593.00 USD (x1),https://www.superxtra.com/shampoo-de-bebe-con-extractos-de-manzanilla-johnsons-baby-200-ml/p
-Bebes,Colado GERBER® de Vegetales Mixtos Frasco 113g,111.00 USD (x1),111.00 USD (x1),https://www.superxtra.com/pure-mixto-de-vegetales-gerber-113-gr-frasco-de-cristal/p
 Bebes,Colado GERBER® de Zanahoria Frasco 113g,104.00 USD (x1),104.00 USD (x1),https://www.superxtra.com/pure-de-zanahoria-gerber-113-gr-frasco-de-cristal/p
 Bebes,Pañales Desechables Querubin 56 Und Talla S,774.00 USD (x1),774.00 USD (x1),https://www.superxtra.com/panales-desechables-querubin-56-un-talla-s/p
 Bebes,Pañales Desechables Querubin 50 Und Talla Xg,914.00 USD (x1),914.00 USD (x1),https://www.superxtra.com/panales-desechables-querubin-50-un-talla-xg/p
@@ -4316,6 +4316,8 @@ Bebes,Jabón De Bebe Castilla 95 Gr Avena,105.00 USD (x1),105.00 USD (x1),https:
 Bebes,"Hisopo De Primeros Auxilio Q'Tips 170 Und Palo De Papel Flexible, No Esteril",270.00 USD (x1),270.00 USD (x1),https://www.superxtra.com/hisopo-de-primeros-auxilio-qtips-170-un-palo-de-papel-flexible-no-esteril/p
 Bebes,Similac sensitive eye q 375 g,1678.00 USD (x1),1678.00 USD (x1),https://www.superxtra.com/formula-infantil-similac-375-gr-sensitive-l-f-eye-q/p
 Bebes,Alimento Lácteo NAN® OPTIPRO® 3 Lata 1.8kg,3667.00 USD (x1),3667.00 USD (x1),https://www.superxtra.com/formula-infantil-optipro-3-nan-1800g/p
+Bebes,Nutrilon Premium+ 2 Nutricia 900 g,2816.00 USD (x1),2816.00 USD (x1),https://www.superxtra.com/formula-infantil-nutrilon-900-gr-pronutra-advance-etapa-2/p
+Bebes,Nutrilon Premium+ 2 Nutricia 400 g,1452.00 USD (x1),1452.00 USD (x1),https://www.superxtra.com/formula-infantil-nutrilon-400-gr-pronutra-advance-etapa-2/p
 Bebes,Nutrilon Premium+ 1 Nutricia 400 g,1508.00 USD (x1),1508.00 USD (x1),https://www.superxtra.com/formula-infantil-nutrilon-400-gr-pronutra-advance-etapa-1/p
 Bebes,NAN® OPTIPRO® 1 Lata 900g,2720.00 USD (x1),2720.00 USD (x1),https://www.superxtra.com/formula-infantil-nan-900-gr-optipro-de-0-a-6-meses-1/p
 Bebes,Fórmula Infantil Milex 900 Gr Desde 6 Meses,1749.00 USD (x1),1749.00 USD (x1),https://www.superxtra.com/formula-infantil-milex-900-gr-desde-6-meses/p
@@ -4358,7 +4360,6 @@ Bebes,Aceite De Bebé Gotas De Brillo Con Proteína Johnson'S Baby 200 Ml,593.00
 Bebes,Aceite Bebé Mennen 100 Ml Sensible Para Piel Del Bebé,298.00 USD (x1),298.00 USD (x1),https://www.superxtra.com/aceite-bebe-mennen-100-ml-sensible-piel-del-bebe/p
 Bebes,Toallas Húmedas Huggies Limpieza Diaria 112U,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/toallitas-humedas-huggies-limpieza-diaria-112u-10599853-7702425632189/p
 Bebes,Pañales Huggies Dermacare Etapa 1/P 68U,1885.00 USD (x1),1885.00 USD (x1),https://www.superxtra.com/panales-huggies-dermacare-etapa-1-p-cuidado-mas-avanzado-para-la-piel-68u-10605565-7809604031525/p
-Bebes,Toallas Humedas Dany Baby Kit De 3 Tollas Humedas,395.00 USD (x1),395.00 USD (x1),https://www.superxtra.com/toallas-humedas-dany-baby-kit-de-3-tollas-humedas/p
 Bebes,Leche En Polvo Entera Instantanea Coast 800 gr Lata,1048.00 USD (x1),1048.00 USD (x1),https://www.superxtra.com/leche-en-polvo-entera-instantanea-coast-800-gr-lata/p
 Bebes,Aceite Para Bebé Dany Baby 200 Ml Hipoalergénico,142.00 USD (x1),142.00 USD (x1),https://www.superxtra.com/aceite-bebe-dany-baby-200-ml-hipoalergenico/p
 Bebes,Pañales Huggies Active Sec Pants Etapa 6/XXXG 25U,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/panales-huggies-active-sec-pants-etapa-6-xxxg-mas-comodidad-y-absorcion-25u-10599851-7702425617353/p
@@ -4524,6 +4525,7 @@ Bebes,Talco Para Bebé Dany Baby 400 Gr,149.00 USD (x1),149.00 USD (x1),https://
 Bebes,Shampoo De Bebé Johnson & Johnson 400 Ml Shampo Con Manzanilla Cabello Castaño Protecion De Color Y Brillo Jyj,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/shampoo-de-bebe-johnson-johnson-400-ml/p
 Bebes,Shampoo De Bebé Johnson & Johnson 100 Ml Shampo Con Baby Para Shampoo Manzanilla Jyj,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/shampoo-de-bebe-johnson-johnson-100-ml/p
 Bebes,Shampoo De Bebé Dove Baby 400 Ml Hidratacion,829.00 USD (x1),829.00 USD (x1),https://www.superxtra.com/shampoo-de-bebe-dove-baby-400-ml-hidratacion/p
+Bebes,Colado GERBER® de Vegetales Mixtos Frasco 113g,96.00 USD (x1),96.00 USD (x1),https://www.superxtra.com/pure-mixto-de-vegetales-gerber-113-gr-frasco-de-cristal/p
 Bebes,Pañales Huggies Active Sec Etapa 3/G 31U,1298.00 USD (x1),1298.00 USD (x1),https://www.superxtra.com/panales-huggies-g-jumbo-32-unidades/p
 Bebes,Pañales Desechables Pampers 52 Und Baby Dry Talla 3,1900.00 USD (x1),1900.00 USD (x1),https://www.superxtra.com/panales-desechables-pampers-52-un-baby-dry-talla-3/p
 Bebes,Pañales Desechables Pampers 50 Und Swaddlers Talla 6,3453.00 USD (x1),3453.00 USD (x1),https://www.superxtra.com/panales-desechables-pampers-50-un-swaddlers-talla-6/p
@@ -4560,9 +4562,7 @@ Bebes,Similac anti reflujo 375 g,1161.00 USD (x1),1161.00 USD (x1),https://www.s
 Bebes,Fórmula Infantil Similac 370 Gr Neosure Prematuros De 0 A 12 Meses,1331.00 USD (x1),1331.00 USD (x1),https://www.superxtra.com/formula-infantil-similac-370-gr-neosure-prematuros-de-0-a-12-meses/p
 Bebes,Fórmula Infantil Similac 360 Gr Pro Sensitive 0 A 6 Meses #1,1620.00 USD (x1),1620.00 USD (x1),https://www.superxtra.com/formula-infantil-similac-360-gr-pro-sensitive-0-a-6-meses-1/p
 Bebes,Nutrilon Premium+ 3 Nutricia 900 g,2696.00 USD (x1),2696.00 USD (x1),https://www.superxtra.com/formula-infantil-nutrilon-900-gr-pronutra-advance-etapa-3/p
-Bebes,Nutrilon Premium+ 2 Nutricia 900 g,2743.00 USD (x1),2743.00 USD (x1),https://www.superxtra.com/formula-infantil-nutrilon-900-gr-pronutra-advance-etapa-2/p
 Bebes,Nutrilon Premium+ 1 Nutricia 900 g,2793.00 USD (x1),2793.00 USD (x1),https://www.superxtra.com/formula-infantil-nutrilon-900-gr-pronutra-advance-etapa-1/p
-Bebes,Nutrilon Premium+ 2 Nutricia 400 g,1383.00 USD (x1),1383.00 USD (x1),https://www.superxtra.com/formula-infantil-nutrilon-400-gr-pronutra-advance-etapa-2/p
 Bebes,Fórmula Infantil Nutrilon 1.2 Kg Pronutra Advance Etapa 4,2909.00 USD (x1),2909.00 USD (x1),https://www.superxtra.com/formula-infantil-nutrilon-12-kg-pronutra-advance-etapa-4/p
 Bebes,Fórmula Infantil Nutribaby 900 Gr Premium Etapa 3,2052.00 USD (x1),2052.00 USD (x1),https://www.superxtra.com/formula-infantil-nutribaby-900-gr-premium-etapa-3/p
 Bebes,Fórmula Infantil Nutribaby 900 Gr Premium Etapa 2,2177.00 USD (x1),2177.00 USD (x1),https://www.superxtra.com/formula-infantil-nutribaby-900-gr-premium-etapa-2/p
@@ -4863,6 +4863,7 @@ Linea Blanca y Electrodomesticos,Impresora Multifuncional Canon Pixma Modelo G31
 "Hogar, Jardin y Ferreteria",Salsa De Maggi Tomate Achiote 100G,68.00 USD (x1),68.00 USD (x1),https://www.superxtra.com/salsa-de-maggi-tomate-achiote-100g-8445290497758/p
 "Hogar, Jardin y Ferreteria",Salsa De Tomate Maggi Rico Guiso 100G,71.00 USD (x1),71.00 USD (x1),https://www.superxtra.com/salsa-de-tomate-maggi-rico-guiso-100g-8445290500175/p
 "Hogar, Jardin y Ferreteria",Colador de cafe La doña,155.00 USD (x1),155.00 USD (x1),https://www.superxtra.com/colador-de-cafe-la-doña-7451001200310/p
+"Hogar, Jardin y Ferreteria",Pistola Para Manguera Bestvalue Ferret De Caucho,598.00 USD (x1),598.00 USD (x1),https://www.superxtra.com/pistola-para-manguera-bestvalue-ferret-de-caucho-7453001169932/p
 "Hogar, Jardin y Ferreteria",Scotch Brite Esponja Doble Uso 2 Unidades,151.00 USD (x1),151.00 USD (x1),https://www.superxtra.com/scotch-brite-esponja-doble-uso-2-unidades/p
 "Hogar, Jardin y Ferreteria",Vela Repelente De Mosquito Mosquivela 1 Und,219.00 USD (x1),219.00 USD (x1),https://www.superxtra.com/vela-repelente-de-mosquito-mosquivela-1-und/p
 "Hogar, Jardin y Ferreteria",Limpiador Ebullient De Vidrio 24 OZ,318.00 USD (x1),318.00 USD (x1),https://www.superxtra.com/limpiador-ebullient-de-vidrio-24-oz-10609028-7401174500076/p
@@ -4879,7 +4880,9 @@ Linea Blanca y Electrodomesticos,Impresora Multifuncional Canon Pixma Modelo G31
 "Hogar, Jardin y Ferreteria",Silicón Jadever Transparente 300 ML,168.00 USD (x1),168.00 USD (x1),https://www.superxtra.com/silicon-jadever-transparente-300-ml-10604969-6942210211149/p
 "Hogar, Jardin y Ferreteria",Silicón Jadever Blanco 300 ML,168.00 USD (x1),168.00 USD (x1),https://www.superxtra.com/silicon-jadever-blanco-300-ml-10604968-6942210209160/p
 "Hogar, Jardin y Ferreteria",Pegamento Aqua Plus 1/4 Pvc 130 G,268.00 USD (x1),268.00 USD (x1),https://www.superxtra.com/pegamento-aqua-plus-14-pvc-130-g-10604966-6987021130135/p
+"Hogar, Jardin y Ferreteria",Espuma De Poliuretano Best Value Multiusos 500 ML,548.00 USD (x1),548.00 USD (x1),https://www.superxtra.com/espuma-de-poliuretano-best-value-multiusos-500-ml-10605257-7453001205104/p
 "Hogar, Jardin y Ferreteria",Impermeabilizante & Sellador Best Value En Spray Clear 500 ML,448.00 USD (x1),448.00 USD (x1),https://www.superxtra.com/impermeabilizante-sellador-best-value-en-spray-clear-500-ml-10605255-7453001211693/p
+"Hogar, Jardin y Ferreteria",Impermeabilizante & Sellador Best Value En Spray Negro 500 ML,448.00 USD (x1),448.00 USD (x1),https://www.superxtra.com/impermeabilizante-sellador-best-value-en-spray-negro-500-ml-10605254-7453001211686/p
 "Hogar, Jardin y Ferreteria",Ratchet 1 2 45T 260 Mm Total Material Crv Cr 1 UN,798.00 USD (x1),798.00 USD (x1),https://www.superxtra.com/ratchet-1-2-45t-260-mm-total-material-crv-cr-1-un-10604880-6925582180473/p
 "Hogar, Jardin y Ferreteria",Juego De Herramientas Total Crv Acero Alta 9 PZ,1878.00 USD (x1),1878.00 USD (x1),https://www.superxtra.com/juego-de-herramientas-total-crv-acero-alta-9-pz-10604878-6976057333405/p
 "Hogar, Jardin y Ferreteria",Juego Sockets Total 0.25 12 PZ,868.00 USD (x1),868.00 USD (x1),https://www.superxtra.com/juego-sockets-total-0-25-12-pz-10604875-6925582195989/p
@@ -4964,14 +4967,20 @@ Linea Blanca y Electrodomesticos,Impresora Multifuncional Canon Pixma Modelo G31
 "Hogar, Jardin y Ferreteria",Acido Muriatico Roadmaster 16 OZ,162.00 USD (x1),162.00 USD (x1),https://www.superxtra.com/acido-muriatico-roadmaster-16-oz-7451014110255/p
 "Hogar, Jardin y Ferreteria",Lata Prax-Hd Roadmaster Liquido De Freno,295.00 USD (x1),295.00 USD (x1),https://www.superxtra.com/lata-prax-hd-roadmaster-liquido-de-freno-7451100260567/p
 "Hogar, Jardin y Ferreteria",Pentadrin Claro Roadmaster Especial 16 OZ,218.00 USD (x1),218.00 USD (x1),https://www.superxtra.com/pentadrin-claro-roadmaster-especial-16-oz-7451100260086/p
+"Hogar, Jardin y Ferreteria",Rastrillo Con Mango Xtra H012216,854.00 USD (x1),854.00 USD (x1),https://www.superxtra.com/rastrillo-con-mango-xtra-h012216-7453001169499/p
 "Hogar, Jardin y Ferreteria",Tape Transparente Xtra 182-8 M,398.00 USD (x1),398.00 USD (x1),https://www.superxtra.com/tape-transparente-xtra-182-8-m-7453088106837/p
+"Hogar, Jardin y Ferreteria",Extension Electrica Bestvalue Ferret 20 Ft Choco E2752,888.00 USD (x1),888.00 USD (x1),https://www.superxtra.com/extension-electrica-bestvalue-ferret-20-ft-choco-e2752-7453001115045/p
 "Hogar, Jardin y Ferreteria",Cuerda Para Ropa Bestvalue Ferret 5-32 Plg X 100 Ft,428.00 USD (x1),428.00 USD (x1),https://www.superxtra.com/cuerda-para-ropa-bestvalue-ferret-5-32-plg-x-100-ft-7453001138907/p
+"Hogar, Jardin y Ferreteria",Candado Bv Xtra 25Mm Blister C17025,248.00 USD (x1),248.00 USD (x1),https://www.superxtra.com/candado-bv-xtra-25mm-blister-c17025-7453001110750/p
 "Hogar, Jardin y Ferreteria",Foco Ahorrador Espiral Xtra 30W Daily,252.00 USD (x1),252.00 USD (x1),https://www.superxtra.com/foco-ahorrador-espiral-xtra-30w-daily-7453036406309/p
 "Hogar, Jardin y Ferreteria",Cerradura De Hierro Bestvalue Ferret C17970,1598.00 USD (x1),1598.00 USD (x1),https://www.superxtra.com/cerradura-de-hierro-bestvalue-ferret-c17970-7453001110040/p
 "Hogar, Jardin y Ferreteria",Extension De Regleta Xtra 6 Salidas Y 2 Usb,798.00 USD (x1),798.00 USD (x1),https://www.superxtra.com/extension-de-regleta-xtra-6-salidas-y-2-usb-7453088106301/p
+"Hogar, Jardin y Ferreteria",Disco C Fino Dewalt 4-5,198.00 USD (x1),198.00 USD (x1),https://www.superxtra.com/disco-c-fino-dewalt-4-5-28877321806/p
 "Hogar, Jardin y Ferreteria",Lima Triangular 6 Bestvalue Ferret H0760106,198.00 USD (x1),198.00 USD (x1),https://www.superxtra.com/lima-triangular-6-bestvalue-ferret-h0760106-7453001153719/p
 "Hogar, Jardin y Ferreteria",Manguera Reforzada Bestvalue Ferret 2X100 Ft J02Mr100,2168.00 USD (x1),2168.00 USD (x1),https://www.superxtra.com/manguera-reforzada-bestvalue-ferret-2x100-ft-j02mr100-7453001169703/p
+"Hogar, Jardin y Ferreteria",Lavelle 54 Bp Korky Negro P0454B,348.00 USD (x1),348.00 USD (x1),https://www.superxtra.com/lavelle-54-bp-korky-negro-p0454b-49057005491/p
 "Hogar, Jardin y Ferreteria",Jgo Bandejas Plasticas Xtra Para Pintura,498.00 USD (x1),498.00 USD (x1),https://www.superxtra.com/jgo-bandejas-plasticas-xtra-para-pintura-7453001131496/p
+"Hogar, Jardin y Ferreteria",Pistola Para Manguera Bestvalue Ferret De Plastico,158.00 USD (x1),158.00 USD (x1),https://www.superxtra.com/pistola-para-manguera-bestvalue-ferret-de-plastico-7453001169895/p
 "Hogar, Jardin y Ferreteria",Extension Bestvalue Ferret 6 Plug Bv Crema E33210,538.00 USD (x1),538.00 USD (x1),https://www.superxtra.com/extension-bestvalue-ferret-6-plug-bv-crema-e33210-7453001116202/p
 "Hogar, Jardin y Ferreteria",Set De Sabana Para Cama Twin Xtra Colores Lisos Surtidos,698.00 USD (x1),698.00 USD (x1),https://www.superxtra.com/set-de-sabana-para-cama-twin-xtra-colores-lisos-surtidos-7453112342729/p
 "Hogar, Jardin y Ferreteria",Velas 7 Dias Cristorey Morada,405.00 USD (x1),405.00 USD (x1),https://www.superxtra.com/velas-7-dias-cristorey-morada-85907118096/p
@@ -4980,6 +4989,7 @@ Linea Blanca y Electrodomesticos,Impresora Multifuncional Canon Pixma Modelo G31
 "Hogar, Jardin y Ferreteria",Total Latex Gris Xtra Tanque,6198.00 USD (x1),6198.00 USD (x1),https://www.superxtra.com/total-latex-gris-xtra-tanque-718594346823/p
 "Hogar, Jardin y Ferreteria",Linterna Xtra Luz Blanca,279.00 USD (x1),279.00 USD (x1),https://www.superxtra.com/linterna-xtra-luz-blanca-7453088103454/p
 "Hogar, Jardin y Ferreteria",Bombillo Ahorrador Circular Xtra Bv 22W Dl E-27 E33000,510.00 USD (x1),510.00 USD (x1),https://www.superxtra.com/bombillo-ahorrador-circular-xtra-bv-22w-dl-e-27-e33000-7453001116004/p
+"Hogar, Jardin y Ferreteria",Manguera Reforzada Bestvalue Ferret 1 2X75 Ft J02Mr075,1658.00 USD (x1),1658.00 USD (x1),https://www.superxtra.com/manguera-reforzada-bestvalue-ferret-1-2x75-ft-j02mr075-7453001169697/p
 "Hogar, Jardin y Ferreteria",Microfibra Towels Xtra 2 Pcs,398.00 USD (x1),398.00 USD (x1),https://www.superxtra.com/microfibra-towels-xtra-2-pcs-98968321107/p
 "Hogar, Jardin y Ferreteria",Removedor Tuffstuff 18 OZ,674.00 USD (x1),674.00 USD (x1),https://www.superxtra.com/removedor-tuffstuff-18-oz-71153171824/p
 "Hogar, Jardin y Ferreteria",Extension Regleta Xtra 6 Salidas,448.00 USD (x1),448.00 USD (x1),https://www.superxtra.com/extension-regleta-xtra-6-salidas-7453088106318/p
@@ -4990,6 +5000,7 @@ Linea Blanca y Electrodomesticos,Impresora Multifuncional Canon Pixma Modelo G31
 "Hogar, Jardin y Ferreteria",Bombillo Led Bestvalue Ferret 10W E27 2700K,108.00 USD (x1),108.00 USD (x1),https://www.superxtra.com/bombillo-led-bestvalue-ferret-10w-e27-2700k-7453001127697/p
 "Hogar, Jardin y Ferreteria",Llave Fregador Cuello Xtra Cuello Ganzo Sencilla,1098.00 USD (x1),1098.00 USD (x1),https://www.superxtra.com/llave-fregador-cuello-xtra-cuello-ganzo-sencilla-7453036402530/p
 "Hogar, Jardin y Ferreteria",Protector All Armorall Original 4 OZ,288.00 USD (x1),288.00 USD (x1),https://www.superxtra.com/protector-all-armorall-original-4-oz-70612100405/p
+"Hogar, Jardin y Ferreteria",Aceite Multiusos Bestvalue Ferret Bv 4/5 A03150,248.00 USD (x1),248.00 USD (x1),https://www.superxtra.com/aceite-multiusos-bestvalue-ferret-bv-45-a03150-7453001101284/p
 "Hogar, Jardin y Ferreteria",Palito De Bambu Xtra Grande,100.00 USD (x1),100.00 USD (x1),https://www.superxtra.com/palito-de-bambu-xtra-grande-6931177115003/p
 "Hogar, Jardin y Ferreteria",Manguera Jardineria Reforzada Xtra 1/2 X 50,1488.00 USD (x1),1488.00 USD (x1),https://www.superxtra.com/manguera-jardineria-reforzada-xtra-12-x-50-7453088112708/p
 "Hogar, Jardin y Ferreteria",Aceite Penetrante Multiuso Bestvalue Ferret A03152 290 G,432.00 USD (x1),432.00 USD (x1),https://www.superxtra.com/aceite-penetrante-multiuso-bestvalue-ferret-a03152-290-g-7453001101291/p
@@ -5050,6 +5061,8 @@ Linea Blanca y Electrodomesticos,Impresora Multifuncional Canon Pixma Modelo G31
 "Hogar, Jardin y Ferreteria",Velon 100 Horas Sin Vaso Economica Blanc,205.00 USD (x1),205.00 USD (x1),https://www.superxtra.com/velon-100-horas-sin-vaso-economica-blanc-7591245110669/p
 "Hogar, Jardin y Ferreteria",Velas San Jose 30 Hrs Blancas Sin Vaso,85.00 USD (x1),85.00 USD (x1),https://www.superxtra.com/velas-san-jose-30-hrs-blancas-sin-vaso-85907110113/p
 "Hogar, Jardin y Ferreteria",Bombillo Led 14W 110-130V RAYOVAC Luz Blanca,298.00 USD (x1),298.00 USD (x1),https://www.superxtra.com/bombillo-led-14w-110-130v-rayovac-luz-blanca-7453013519305/p
+"Hogar, Jardin y Ferreteria","Manguera Best Value Reforzada de 1/2"" x 50 Pies",1198.00 USD (x1),1198.00 USD (x1),https://www.superxtra.com/manguera-best-value-reforzada-de-12-x-50-pies-7453001169680/p
+"Hogar, Jardin y Ferreteria","Manguera Best Value Reforzada de 1/2"" x 25 Pies",818.00 USD (x1),818.00 USD (x1),https://www.superxtra.com/manguera-best-value-reforzada-de-12-x-25-pies-7453001169673/p
 "Hogar, Jardin y Ferreteria",Bombillo Led 10w 110-130v Luz Blaca,225.00 USD (x1),225.00 USD (x1),https://www.superxtra.com/bombillo-led-10w-110-130v-luz-blaca/p
 "Hogar, Jardin y Ferreteria",Bateria Alcalina Rayovac D2 Blister,164.00 USD (x1),164.00 USD (x1),https://www.superxtra.com/bateria-alcalina-rayovac-d2-blister/p
 "Hogar, Jardin y Ferreteria",Melody Sillas Surtidas,698.00 USD (x1),698.00 USD (x1),https://www.superxtra.com/melody-sillas-surtidas/p
@@ -5246,7 +5259,6 @@ Linea Blanca y Electrodomesticos,Impresora Multifuncional Canon Pixma Modelo G31
 "Hogar, Jardin y Ferreteria",Plato Llano Coca Cola Coleccionable,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/plato-llano-coca-cola-coleccionable/p
 "Hogar, Jardin y Ferreteria",Taza Coca Cola Coleccionable,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/taza-coca-cola-coleccionable/p
 "Hogar, Jardin y Ferreteria",Flores Gipsophila Xtra,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/flores-gipsophila-xtra-5003631/p
-"Hogar, Jardin y Ferreteria",Pistola Para Manguera Bestvalue Ferret De Caucho,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/pistola-para-manguera-bestvalue-ferret-de-caucho-7453001169932/p
 "Hogar, Jardin y Ferreteria",Pintuco 2 En 1 Pro Latex Blanco 1/4Gl,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/pintuco-2-en-1-pro-latex-blanco-14gl-7441035354127/p
 "Hogar, Jardin y Ferreteria",Kit Taladro Diesel Tool Inalámbrico 24 PZ,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/kit-taladro-diesel-tool-inalambrico-24-pz/p
 "Hogar, Jardin y Ferreteria",Vasos de Papel 6 OZ 50 PCS,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/vasos-de-papel-6-oz-50-pcs/p
@@ -5254,8 +5266,6 @@ Linea Blanca y Electrodomesticos,Impresora Multifuncional Canon Pixma Modelo G31
 "Hogar, Jardin y Ferreteria",Aceite 10W30 Super S Multi Flo 946 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/aceite-10w30-super-s-multi-flo-946-ml-10605971-85051005037/p
 "Hogar, Jardin y Ferreteria",Soporte Para Maceta Best Garden Con Rueda 22 CM,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/soporte-para-maceta-best-garden-con-rueda-22-cm-10605511-8989560761304/p
 "Hogar, Jardin y Ferreteria",Lampara Solar Light 600 K,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/lampara-solar-light-600-k-10605494-7453100284628/p
-"Hogar, Jardin y Ferreteria",Espuma De Poliuretano Best Value Multiusos 500 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/espuma-de-poliuretano-best-value-multiusos-500-ml-10605257-7453001205104/p
-"Hogar, Jardin y Ferreteria",Impermeabilizante & Sellador Best Value En Spray Negro 500 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/impermeabilizante-sellador-best-value-en-spray-negro-500-ml-10605254-7453001211686/p
 "Hogar, Jardin y Ferreteria",Multímetro Digital Rango Manual Total 400,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/multimetro-digital-rango-manual-total-400-10604881-6923736766252/p
 "Hogar, Jardin y Ferreteria",Mochila Bolso De Espalda 380X170X460Mm Total Para Herramientas Máx 8 KG,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/mochila-bolso-de-espalda-380x170x460mm-total-para-herramientas-max-8-kg-10604879-6942210220950/p
 "Hogar, Jardin y Ferreteria",Juego De Herramientas Total Básicas 7 PZ,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/juego-de-herramientas-total-basicas-7-pz-10604877-6941639814856/p
@@ -5321,26 +5331,20 @@ Linea Blanca y Electrodomesticos,Impresora Multifuncional Canon Pixma Modelo G31
 "Hogar, Jardin y Ferreteria",Extension Electrica Naranja Xtra 50 Awg 3X16 15M,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/extension-electrica-naranja-xtra-50-awg-3x16-15m-7453088102334/p
 "Hogar, Jardin y Ferreteria",Bateria Para Auto Plus Polo Inver Tasco 27Hd,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/bateria-para-auto-plus-polo-inver-tasco-27hd-5377770/p
 "Hogar, Jardin y Ferreteria",Cortinas De Bano Estampadas Xtra Telas Surtidas,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/cortinas-de-bano-estampadas-xtra-telas-surtidas-7453112333291/p
-"Hogar, Jardin y Ferreteria",Rastrillo Con Mango Xtra H012216,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/rastrillo-con-mango-xtra-h012216-7453001169499/p
 "Hogar, Jardin y Ferreteria",Loctite Epoximil 150 Gr,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/loctite-epoximil-150-gr-7441012220100/p
 "Hogar, Jardin y Ferreteria",Caldero Xtra Con Tapa De Aluminio 26 CM,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/caldero-xtra-con-tapa-de-aluminio-26-cm-5581238/p
 "Hogar, Jardin y Ferreteria",Adorno Santa Inflable De Navidad Xtra Jaf284,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/adorno-santa-inflable-de-navidad-xtra-jaf284-5593002/p
 "Hogar, Jardin y Ferreteria",Soga Polipropileno Xtra 1-4 X 10M,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/soga-polipropileno-xtra-1-4-x-10m-7453088106561/p
-"Hogar, Jardin y Ferreteria",Extension Electrica Bestvalue Ferret 20 Ft Choco E2752,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/extension-electrica-bestvalue-ferret-20-ft-choco-e2752-7453001115045/p
 "Hogar, Jardin y Ferreteria",Cerradura De Hierro Bestvalue Ferret C17971,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/cerradura-de-hierro-bestvalue-ferret-c17971-7453001110057/p
 "Hogar, Jardin y Ferreteria",Extension Electrica Naranja Xtra 15 Awg X16 4-57M,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/extension-electrica-naranja-xtra-15-awg-x16-4-57m-7453088102310/p
-"Hogar, Jardin y Ferreteria",Candado Bv Xtra 25Mm Blister C17025,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/candado-bv-xtra-25mm-blister-c17025-7453001110750/p
 "Hogar, Jardin y Ferreteria",Set De Colores Lisos Surtidos Xtra Cama King,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/set-de-colores-lisos-surtidos-xtra-cama-king-7453112342750/p
 "Hogar, Jardin y Ferreteria",Bateria Para Auto Mac 12 Voltios 475 Ca,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/bateria-para-auto-mac-12-voltios-475-ca-7703129665022/p
 "Hogar, Jardin y Ferreteria",Vaso Xtra 16 OZ,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/vaso-xtra-16-oz-7703036012223/p
 "Hogar, Jardin y Ferreteria",Taladro Total De 1-2 Plg 110V-120V,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/taladro-total-de-1-2-plg-110v-120v-6941639819486/p
-"Hogar, Jardin y Ferreteria",Disco C Fino Dewalt 4-5,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/disco-c-fino-dewalt-4-5-28877321806/p
 "Hogar, Jardin y Ferreteria",Vaso Plastico Xtra Casual Rojo Bold 500 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/vaso-plastico-xtra-casual-rojo-bold-500-ml-7896553981100/p
 "Hogar, Jardin y Ferreteria",Termo Para Agua Xtra Jaf221 1000 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/termo-para-agua-xtra-jaf221-1000-ml-5588787/p
-"Hogar, Jardin y Ferreteria",Lavelle 54 Bp Korky Negro P0454B,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/lavelle-54-bp-korky-negro-p0454b-49057005491/p
 "Hogar, Jardin y Ferreteria",Regleta Multiple Xtra 6 Salidas,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/regleta-multiple-xtra-6-salidas-7453036401366/p
 "Hogar, Jardin y Ferreteria",Epoxi-Mil Loctite 98 G,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/epoxi-mil-loctite-98-g-7441012220117/p
-"Hogar, Jardin y Ferreteria",Pistola Para Manguera Bestvalue Ferret De Plastico,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/pistola-para-manguera-bestvalue-ferret-de-plastico-7453001169895/p
 "Hogar, Jardin y Ferreteria",Bateria Para Auto Xtra R40B19L 320Cca Polo Inve,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/bateria-para-auto-xtra-r40b19l-320cca-polo-inve-7453064220052/p
 "Hogar, Jardin y Ferreteria",Bateria Para Auto Xtra R40B19 320Cca Polo Nor,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/bateria-para-auto-xtra-r40b19-320cca-polo-nor-7453064220106/p
 "Hogar, Jardin y Ferreteria",Taza De Plastico Xtra Rojo Bold 250 ML,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/taza-de-plastico-xtra-rojo-bold-250-ml-7896553981179/p
@@ -5352,7 +5356,6 @@ Linea Blanca y Electrodomesticos,Impresora Multifuncional Canon Pixma Modelo G31
 "Hogar, Jardin y Ferreteria",Protector De Voltaje Equipo Xtra 120V,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/protector-de-voltaje-equipo-xtra-120v-7453001124894/p
 "Hogar, Jardin y Ferreteria",Protector De Voltaje Xtra 1500 W,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/protector-de-voltaje-xtra-1500-w-7453001124900/p
 "Hogar, Jardin y Ferreteria",Caldero Con Tapa De Vidrio Xtra 24 CM,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/caldero-con-tapa-de-vidrio-xtra-24-cm-5581153/p
-"Hogar, Jardin y Ferreteria",Manguera Reforzada Bestvalue Ferret 1 2X75 Ft J02Mr075,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/manguera-reforzada-bestvalue-ferret-1-2x75-ft-j02mr075-7453001169697/p
 "Hogar, Jardin y Ferreteria",Pegamento Pegaucho El Original 375 G,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/pegamento-pegaucho-el-original-375-g-7703175106302/p
 "Hogar, Jardin y Ferreteria",Bombillo Ahorrador Bestvalue Ferret 3-U 15W Dl E-27 E33010,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/bombillo-ahorrador-bestvalue-ferret-3-u-15w-dl-e-27-e33010-7453001116042/p
 "Hogar, Jardin y Ferreteria",Imperial Turbo Amalie 10W30,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/imperial-turbo-amalie-10w30-657699710767/p
@@ -5363,7 +5366,6 @@ Linea Blanca y Electrodomesticos,Impresora Multifuncional Canon Pixma Modelo G31
 "Hogar, Jardin y Ferreteria",Sarten 14 Negro Aluminio Xtra Linea Ebony,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/sarten-14-negro-aluminio-xtra-linea-ebony-7896502812134/p
 "Hogar, Jardin y Ferreteria",Bombillo Ahorrador Bestvalue Ferret Bv 3-U 22W Dl E-27 E33012,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/bombillo-ahorrador-bestvalue-ferret-bv-3-u-22w-dl-e-27-e33012-7453001116066/p
 "Hogar, Jardin y Ferreteria",Plancha A Vapor Black and Decker Irbd100,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/plancha-a-vapor-black-and-decker-irbd100-50875807396/p
-"Hogar, Jardin y Ferreteria",Aceite Multiusos Bestvalue Ferret Bv 4/5 A03150,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/aceite-multiusos-bestvalue-ferret-bv-45-a03150-7453001101284/p
 "Hogar, Jardin y Ferreteria",Bocina Sankey Pa-8Dcc28M,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/bocina-sankey-pa-8dcc28m-7453013517189/p
 "Hogar, Jardin y Ferreteria",Bateria Para Automovil Xtra N50R,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/bateria-para-automovil-xtra-n50r-7453064202652/p
 "Hogar, Jardin y Ferreteria",Plancha A Vapor Sankey Pv-106,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/plancha-a-vapor-sankey-pv-106-7453013518209/p
@@ -5429,8 +5431,6 @@ Linea Blanca y Electrodomesticos,Impresora Multifuncional Canon Pixma Modelo G31
 "Hogar, Jardin y Ferreteria",Chispero Estufa,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/chispero-estufa-6935741250442/p
 "Hogar, Jardin y Ferreteria",Vela La Oracion 50 Hrs Con Vaso Economica Blanco,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/vela-la-oracion-50-hrs-con-vaso-economica-blanco-7591245110867/p
 "Hogar, Jardin y Ferreteria",Rov Bombillo Led 8 W 110-130V RAYOVAC Luz Blan,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/rov-bombillo-led-8-w-110-130v-rayovac-luz-blan-8888021303797/p
-"Hogar, Jardin y Ferreteria","Manguera Best Value Reforzada de 1/2"" x 50 Pies",0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/manguera-best-value-reforzada-de-12-x-50-pies-7453001169680/p
-"Hogar, Jardin y Ferreteria","Manguera Best Value Reforzada de 1/2"" x 25 Pies",0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/manguera-best-value-reforzada-de-12-x-25-pies-7453001169673/p
 "Hogar, Jardin y Ferreteria",Cerillos Talisman,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/cerillos-talisman-7503018250298/p
 "Hogar, Jardin y Ferreteria",Canasta Para Ropa Con Tapa 1459wl Colores Surtidos,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/canasta-para-ropa-con-tapa-1459wl-colores-surtidos/p
 "Hogar, Jardin y Ferreteria",Luz Navidena tipo Manguera 10Mts Led Azul Lx718Mb,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/luz-navidena-tipo-manguera-10mts-led-azul-lx718mb-7453051934467/p
@@ -5926,9 +5926,10 @@ Xtra Farmacia,Pañales Huggies Soft Comfort Pants Etapa 3/G 24U,898.00 USD (x1),
 Xtra Farmacia,Pants Discret Tena Beige Talla L 13 UN,1462.00 USD (x1),1720.00 USD (x1),https://www.superxtra.com/pants-discret-tena-beige-talla-l-13-un/p
 Xtra Farmacia,Shampoo Dany Baby Para Bebé 200 ML,298.00 USD (x1),298.00 USD (x1),https://www.superxtra.com/shampoo-dany-baby-para-bebe-200-ml/p
 Xtra Farmacia,Pants Nocturnos Tena Talla G 12 UN,1649.00 USD (x1),1649.00 USD (x1),https://www.superxtra.com/pants-nocturnos-tena-talla-g-12-un/p
+Xtra Farmacia,Pañales Desechables Unisex Dany Baby Recién Nacido 12 UN,298.00 USD (x1),298.00 USD (x1),https://www.superxtra.com/pañales-desechables-unisex-dany-baby-recien-nacido-12-un/p
 Xtra Farmacia,Acondicionador Dany Baby Para Bebé 200 ML,298.00 USD (x1),298.00 USD (x1),https://www.superxtra.com/acondicionador-dany-baby-para-bebe-200-ml/p
+Xtra Farmacia,Pañales Desechables Unisex Dany Baby Talla G 36 UN,698.00 USD (x1),698.00 USD (x1),https://www.superxtra.com/pañales-desechables-unisex-dany-baby-talla-g-36-un/p
 Xtra Farmacia,Pants Discret Tena Beige Talla M 13 UN,1462.00 USD (x1),1720.00 USD (x1),https://www.superxtra.com/pants-discret-tena-beige-talla-m-13-un/p
-Xtra Farmacia,Pants Black Tena Talla L 13 UN,1569.00 USD (x1),1569.00 USD (x1),https://www.superxtra.com/pants-black-tena-talla-l-13-un/p
 Xtra Farmacia,Sacrusyt Jayor Inhalador Oral 100 MCG Salbutamol,454.00 USD (x1),568.00 USD (x1),https://www.superxtra.com/sacrusyt-jayor-inhalador-oral-100-mcg-salbutamol/p
 Xtra Farmacia,Crema De Peinar Dany Baby Con Aceite De Coco 150 ML,348.00 USD (x1),348.00 USD (x1),https://www.superxtra.com/crema-de-peinar-dany-baby-con-aceite-de-coco-150-ml/p
 Xtra Farmacia,Loción Corporal Dany Baby Suave & Seguro 260 ML,298.00 USD (x1),298.00 USD (x1),https://www.superxtra.com/locion-corporal-dany-baby-suave---seguro-260-ml/p
@@ -6014,6 +6015,7 @@ Xtra Farmacia,Serum Facial Babaria Disminuye Las Arrugas 30 ML,1268.00 USD (x1),
 Xtra Farmacia,Crema Facial Babaria Con Ácido Hialurónico 50 ML,1059.00 USD (x1),1059.00 USD (x1),https://www.superxtra.com/crema-facial-babaria-con-acido-hialuronico-50-ml-10545654-8410412100243/p
 Xtra Farmacia,Crema D.Exp Revitalift Loreal Skin Hialuro Día 50 ML,2396.00 USD (x1),2396.00 USD (x1),https://www.superxtra.com/crema-revitalift-loreal-de-dia-50-ml-10545253-7509552840322/p
 Xtra Farmacia,Crema Lubriderm Humectación Diaria 400 ml,1449.00 USD (x1),1449.00 USD (x1),https://www.superxtra.com/crema-corporal-lubriderm-humectacion-diaria-400-ml-10080678-7702031244509/p
+Xtra Farmacia,Toallitas Húmedas Para Bebé Water Wipes 180 UN,1043.00 USD (x1),1043.00 USD (x1),https://www.superxtra.com/toallitas-humedas-waterwipes-para-bebe-180-un-10584410-5099514001660/p
 Xtra Farmacia,Toallitas Húmedas Waterwipes Para Bebé 28 UN,243.00 USD (x1),243.00 USD (x1),https://www.superxtra.com/toallitas-humedas-waterwipes-para-bebe-28-un-10584408-5099514001455/p
 Xtra Farmacia,Crema Bálsamica Institutoespañol Pañal Bebé 150 ML,679.00 USD (x1),679.00 USD (x1),https://www.superxtra.com/crema-balsamica-institutoespanol-panal-bebe-150-ml-10524420-8411047101452/p
 Xtra Farmacia,Glucerna vainilla 850 g,4996.00 USD (x1),4996.00 USD (x1),https://www.superxtra.com/glucerna-vainilla-850-g-10587306-8710428020093/p
@@ -6032,6 +6034,8 @@ Xtra Farmacia,Alive Women'S Energy Naturesway Complete Multivitamin 50 UN,2278.0
 Xtra Farmacia,Protectores Saba De Lactancia 12 UN,301.00 USD (x1),354.00 USD (x1),https://www.superxtra.com/protectores-saba-de-lactancia-12-un-10595005-7501019043567/p
 Xtra Farmacia,Panadol Sinus Glaxo-Gskotc X 16 UN,540.00 USD (x1),720.00 USD (x1),https://www.superxtra.com/panadol-sinus-glaxo-gskotc-x-16-un-10508154-7451079003646/p
 Xtra Farmacia,Panadol Gripe Glaxo-Gskotc Día X 16 UN,505.00 USD (x1),673.00 USD (x1),https://www.superxtra.com/panadol-gripe-glaxo-gskotc-dia-x-16-un-10507754-7451079003608/p
+Xtra Farmacia,Gomitas Natureself Sweet Dreams 10 UN,470.00 USD (x1),470.00 USD (x1),https://www.superxtra.com/gomitas-natureself-sweet-dreams-10-un-10595395-860009337350/p
+Xtra Farmacia,Gomitas Natureself Goodbye Stress 10 UN,490.00 USD (x1),490.00 USD (x1),https://www.superxtra.com/gomitas-natureself-goodbye-stress-10-un-10595393-860009337343/p
 Xtra Farmacia,Nestlé® ASCENDA® Lata de 400g,1286.00 USD (x1),1286.00 USD (x1),https://www.superxtra.com/complemento-alimenticio-ascenda-nestle-sabor-vainilla-400-gr/p
 Xtra Farmacia,Bloqueador Uriage Bariesun 50+ SPF Con Color 50 ML,2176.00 USD (x1),2176.00 USD (x1),https://www.superxtra.com/bariesun-spf-50-creme-con-color-dorado-3661434008900/p
 Xtra Farmacia,BARIESUN SPF 50 CREME CON COLOR CLARO,2176.00 USD (x1),2176.00 USD (x1),https://www.superxtra.com/bariesun-spf-50-creme-con-color-claro-3661434008894/p
@@ -6076,6 +6080,7 @@ Xtra Farmacia,Rodillera Sport Chica Super Confort Caja X 1 UN,1108.00 USD (x1),1
 Xtra Farmacia,Inmovilizador De Dedos Univ Super Confort Caja X 1 UN,2313.00 USD (x1),2313.00 USD (x1),https://www.superxtra.com/inmovilizador-de-dedos-univ-super-confort-caja-x-1-un-7502276686757/p
 Xtra Farmacia,Muñequera Boomerang Univ Super Confort Caja X 1 UN,1664.00 USD (x1),1664.00 USD (x1),https://www.superxtra.com/munequera-boomerang-univ-super-confort-caja-x-1-un-7502276680175/p
 Xtra Farmacia,Ferula Con Velcro Xl Super Confort Caja X 1 UN,552.00 USD (x1),552.00 USD (x1),https://www.superxtra.com/ferula-con-velcro-xl-super-confort-caja-x-1-un-7502276681288/p
+Xtra Farmacia,Ferula Con Velcro Mediana Super Confort Caja X 1 UN,552.00 USD (x1),552.00 USD (x1),https://www.superxtra.com/ferula-con-velcro-mediana-super-confort-caja-x-1-un-7502276681264/p
 Xtra Farmacia,Codera Universal Super Confort Caja X 1 UN,1850.00 USD (x1),1850.00 USD (x1),https://www.superxtra.com/codera-universal-super-confort-caja-x-1-un-7502276681127/p
 Xtra Farmacia,Inmovilizador De Hombro Universal Super Confort Caja X 1 UN,2642.00 USD (x1),2642.00 USD (x1),https://www.superxtra.com/inmovilizador-de-hombro-universal-super-confort-caja-x-1-un-7502276680113/p
 Xtra Farmacia,Cortador De Pastillas Super Confort Caja X 1 UN,366.00 USD (x1),366.00 USD (x1),https://www.superxtra.com/cortador-de-pastillas-super-confort-caja-x-1-un-7502276684425/p
@@ -6087,6 +6092,7 @@ Xtra Farmacia,Faja Dorso-Lumbar Grande Super Confort Caja X 1 UN,7413.00 USD (x1
 Xtra Farmacia,Cinta Kinesiologica Roja Super Confort Caja X 1 UN,1015.00 USD (x1),1015.00 USD (x1),https://www.superxtra.com/cinta-kinesiologica-roja-super-confort-caja-x-1-un-7502276684487/p
 Xtra Farmacia,Cinta Kinesiologica Rosada Super Confort Caja X 1 UN,1015.00 USD (x1),1015.00 USD (x1),https://www.superxtra.com/cinta-kinesiologica-rosada-super-confort-caja-x-1-un-7502276684500/p
 Xtra Farmacia,Cinta Kinesiologica Celeste Super Confort Caja X 1 UN,1015.00 USD (x1),1015.00 USD (x1),https://www.superxtra.com/cinta-kinesiologica-celeste-super-confort-caja-x-1-un-7502276684494/p
+Xtra Farmacia,Cinta Kinesiologica Negra Super Confort Caja X 1 UN,1015.00 USD (x1),1015.00 USD (x1),https://www.superxtra.com/cinta-kinesiologica-negra-super-confort-caja-x-1-un-7502276684517/p
 Xtra Farmacia,Collarin Cervical Xl Super Confort Caja X 1 UN,1293.00 USD (x1),1293.00 USD (x1),https://www.superxtra.com/collarin-cervical-xl-super-confort-caja-x-1-un-7502276682742/p
 Xtra Farmacia,Collarin Cervical L Super Confort Caja X 1 UN,1293.00 USD (x1),1293.00 USD (x1),https://www.superxtra.com/collarin-cervical-l-super-confort-caja-x-1-un-7502276682735/p
 Xtra Farmacia,Collarin Cervical M Super Confort Caja X 1 UN,1293.00 USD (x1),1293.00 USD (x1),https://www.superxtra.com/collarin-cervical-m-super-confort-caja-x-1-un-7502276682728/p
@@ -6125,6 +6131,7 @@ Xtra Farmacia,Bolsa De Orina Cama 2000Ml Med Pride Empaque X 1 UN,490.00 USD (x1
 Xtra Farmacia,Vendas Cohesiva 4X5 Yardas Negra Med Pride,413.00 USD (x1),413.00 USD (x1),https://www.superxtra.com/vendas-cohesiva-4x5-yardas-negra-med-pride-352410650048/p
 Xtra Farmacia,Vendas Cohesiva 3X5 Yardas Negra Med Pride,313.00 USD (x1),313.00 USD (x1),https://www.superxtra.com/vendas-cohesiva-3x5-yardas-negra-med-pride-352410650031/p
 Xtra Farmacia,Vendas Cohesiva 2X5 Yardas Negra Med Pride,213.00 USD (x1),213.00 USD (x1),https://www.superxtra.com/vendas-cohesiva-2x5-yardas-negra-med-pride-352410650024/p
+Xtra Farmacia,"Venda Gasa Estéril 6"" Med Pride Empaque X 1 UN",121.00 USD (x1),121.00 USD (x1),https://www.superxtra.com/venda-gasa-esteril-6-med-pride-empaque-x-1-un-352410603266/p
 Xtra Farmacia,"Venda Gasa Estéril 2"" Med Pride Empaque X 1 UN",55.00 USD (x1),55.00 USD (x1),https://www.superxtra.com/venda-gasa-esteril-2-med-pride-empaque-x-1-un-352410603228/p
 Xtra Farmacia,"Venda Elástica Con Gancho 4""X 5Yds Med Pride Empaque X 1 UN",163.00 USD (x1),163.00 USD (x1),https://www.superxtra.com/venda-elastica-con-gancho-4-x-5yds-med-pride-empaque-x-1-un-352410609145/p
 Xtra Farmacia,"Venda Elástica Con Gancho 6""X 5Yds Med Pride Empaque X 1 UN",402.00 USD (x1),402.00 USD (x1),https://www.superxtra.com/venda-elastica-con-gancho-6-x-5yds-med-pride-empaque-x-1-un-352410609169/p
@@ -6221,6 +6228,7 @@ Xtra Farmacia,Granex Acne Catalysis Spray 50 ML,3403.00 USD (x1),3403.00 USD (x1
 Xtra Farmacia,Preservativos Prudence Dkt Sabor Y Aroma Mix 3 UN,398.00 USD (x1),398.00 USD (x1),https://www.superxtra.com/preservativos-prudence-dkt-sabor-y-aroma-mix-3-un-7502214982811/p
 Xtra Farmacia,Preservativos Prudence Dkt Clasico 3 UN,206.00 USD (x1),206.00 USD (x1),https://www.superxtra.com/preservativos-prudence-dkt-clasico-3-un-7502214980015/p
 Xtra Farmacia,Yael Procaps X 21 Tabletas 1 UN,3212.00 USD (x1),3212.00 USD (x1),https://www.superxtra.com/yael-procaps-x-21-tabletas-1-un-7703153038373/p
+Xtra Farmacia,Sildenafil Masticable Rigar X 12 Tabletas 25 MG,4725.00 USD (x1),5906.00 USD (x1),https://www.superxtra.com/sildenafil-masticable-rigar-x-12-tabletas-25-mg-7451017330940/p
 Xtra Farmacia,Vitafer Gold Rigar X 30 Tabletas 1 UN,878.00 USD (x1),878.00 USD (x1),https://www.superxtra.com/vitafer-gold-rigar-x-30-tabletas-1-un-7451017330513/p
 Xtra Farmacia,Norutec Chinoin X 14 Tabletas 20mg,5055.00 USD (x1),5055.00 USD (x1),https://www.superxtra.com/norutec-chinoin-x-14-tabletas-20mg-7501088513787/p
 Xtra Farmacia,Nutrigard Espirulina Rigar X 30 Tabletas 500 MG,418.00 USD (x1),418.00 USD (x1),https://www.superxtra.com/nutrigard-espirulina-rigar-x-30-tabletas-500-mg-7451017331176/p
@@ -6336,6 +6344,7 @@ Xtra Farmacia,Rigar Gripe Kid Adulto Display X Un,32.00 USD (x1),32.00 USD (x1),
 Xtra Farmacia,Vitafer Gold Caja X Un,19.00 USD (x1),25.00 USD (x1),https://www.superxtra.com/vitafer-gold-caja-x-un-1031017330469/p
 Xtra Farmacia,Rigar Calcio 600 Mg /Vit D X Un,22.00 USD (x1),22.00 USD (x1),https://www.superxtra.com/rigar-calcio-600-mg-vit-d-x-un-1031017330643/p
 Xtra Farmacia,Cetirizina 10Mg Cja X Un,53.00 USD (x1),53.00 USD (x1),https://www.superxtra.com/cetirizina-10mg-cja-x-un-1031017309038/p
+Xtra Farmacia,Diclofenaco 50Mg X Un,29.00 USD (x1),29.00 USD (x1),https://www.superxtra.com/diclofenaco-50mg-x-un-1031017308994/p
 Xtra Farmacia,Diabex Xr 1000 Mg X Un,88.00 USD (x1),88.00 USD (x1),https://www.superxtra.com/diabex-xr-1000-mg-x-un-1031031500688/p
 Xtra Farmacia,Deskan-C 25Mg X Un,37.00 USD (x1),49.00 USD (x1),https://www.superxtra.com/deskan-c-25mg-x-un-1031031512063/p
 Xtra Farmacia,Taladaf 20Mg Raven X Un,1710.00 USD (x1),1710.00 USD (x1),https://www.superxtra.com/taladaf-20mg-raven-x-un-1031031518768/p
@@ -6383,6 +6392,7 @@ Xtra Farmacia,Jeringuilla Nipro 5/8 Tuberculina X Un,17.00 USD (x1),17.00 USD (x
 Xtra Farmacia,Agujas Nipro Hipodermica X Un,9.00 USD (x1),9.00 USD (x1),https://www.superxtra.com/agujas-nipro-hipodermica-x-un-1038420501035/p
 Xtra Farmacia,Agujas Nipro Hipodermica X Un,4.00 USD (x1),4.00 USD (x1),https://www.superxtra.com/agujas-nipro-hipodermica-x-un-1038420500977/p
 Xtra Farmacia,Jeringuilla Nipro 1Ml Insulina X Un,16.00 USD (x1),16.00 USD (x1),https://www.superxtra.com/jeringuilla-nipro-1ml-insulina-x-un-1038420506474/p
+Xtra Farmacia,Isoprinosine Newport 500Mg X Un,79.00 USD (x1),105.00 USD (x1),https://www.superxtra.com/isoprinosine-newport-500mg-x-un-1031096901116/p
 Xtra Farmacia,Spalgesic Newport Barly 40Mg X Un,58.00 USD (x1),58.00 USD (x1),https://www.superxtra.com/spalgesic-newport-barly-40mg-x-un-1031096900973/p
 Xtra Farmacia,Relator Newport15 Mg X Un,109.00 USD (x1),109.00 USD (x1),https://www.superxtra.com/relator-newport15-mg-x-un-1031096900836/p
 Xtra Farmacia,Gastridex Newpor T40 Mg X Un,144.00 USD (x1),144.00 USD (x1),https://www.superxtra.com/gastridex-newpor-t40-mg-x-un-1031096900737/p
@@ -6442,13 +6452,13 @@ Xtra Farmacia,Diglet 1000 Ui X Un,42.00 USD (x1),42.00 USD (x1),https://www.supe
 Xtra Farmacia,Gesemet Mefasa Pharma X Un,75.00 USD (x1),75.00 USD (x1),https://www.superxtra.com/gesemet-mefasa-pharma-x-un-1036030160123/p
 Xtra Farmacia,Cisticram Mefasa 120Mg X Un,172.00 USD (x1),172.00 USD (x1),https://www.superxtra.com/cisticram-mefasa-120mg-x-un-1036030160277/p
 Xtra Farmacia,Alerno 20Mg X Un,289.00 USD (x1),289.00 USD (x1),https://www.superxtra.com/alerno-20mg-x-un-1036030160109/p
-Xtra Farmacia,Analfen Paracetamol 500Mg X Un,8.00 USD (x1),8.00 USD (x1),https://www.superxtra.com/analfen-paracetamol-500mg-x-un-1033001303114/p
 Xtra Farmacia,Attor 20Mg X Un,137.00 USD (x1),137.00 USD (x1),https://www.superxtra.com/attor-20mg-x-un-1033001304029/p
 Xtra Farmacia,Nauxidyl Medipan 10Mg X Un,80.00 USD (x1),80.00 USD (x1),https://www.superxtra.com/nauxidyl-medipan-10mg-x-un-1033001304227/p
 Xtra Farmacia,Simvastatina Medipan 20Mg X Un,70.00 USD (x1),87.00 USD (x1),https://www.superxtra.com/simvastatina-medipan-20mg-x-un-1033001304067/p
 Xtra Farmacia,Rosumed Medipan 20Mg X Un,150.00 USD (x1),188.00 USD (x1),https://www.superxtra.com/rosumed-medipan-20mg-x-un-1033001303831/p
 Xtra Farmacia,Loramed D 10 Mg X Un,68.00 USD (x1),68.00 USD (x1),https://www.superxtra.com/loramed-d-10-mg-x-un-1033001304340/p
 Xtra Farmacia,Acertar Paracetamol 750Mg X Un,21.00 USD (x1),21.00 USD (x1),https://www.superxtra.com/acertar-paracetamol-750mg-x-un-1033001303138/p
+Xtra Farmacia,Xartan 100 Losartan X Un,73.00 USD (x1),91.00 USD (x1),https://www.superxtra.com/xartan-100-losartan-x-un-1033001303282/p
 Xtra Farmacia,Glumet Metformina 850Mg X Un,35.00 USD (x1),35.00 USD (x1),https://www.superxtra.com/glumet-metformina-850mg-x-un-1033001303169/p
 Xtra Farmacia,Zartan Losartan 50Mg X Un,50.00 USD (x1),50.00 USD (x1),https://www.superxtra.com/zartan-losartan-50mg-x-un-1033001303275/p
 Xtra Farmacia,Medipan Virax 400 Mg X Un,96.00 USD (x1),120.00 USD (x1),https://www.superxtra.com/medipan-virax-400-mg-x-un-1033001302964/p
@@ -6555,6 +6565,7 @@ Xtra Farmacia,Telydalt Exeltis 80/5Mg X Un,202.00 USD (x1),202.00 USD (x1),https
 Xtra Farmacia,Telydalt Plus Altian Pharma X Un,368.00 USD (x1),368.00 USD (x1),https://www.superxtra.com/telydalt-plus-altian-pharma-x-un-1031078910143/p
 Xtra Farmacia,Gestageno Altian Fharma 200Mg X Un,218.00 USD (x1),273.00 USD (x1),https://www.superxtra.com/gestageno-altian-fharma-200mg-x-un-1031078900168/p
 Xtra Farmacia,Gynotran X Un,299.00 USD (x1),398.00 USD (x1),https://www.superxtra.com/gynotran-x-un-1031303437001/p
+Xtra Farmacia,Prelone Althian Pharma 5 Mg X Un,52.00 USD (x1),52.00 USD (x1),https://www.superxtra.com/prelone-althian-pharma-5-mg-x-un-1031078930110/p
 Xtra Farmacia,Asta Medica Sargenor Forte 5G X Un,424.00 USD (x1),530.00 USD (x1),https://www.superxtra.com/asta-medica-sargenor-forte-5g-x-un-1031078960056/p
 Xtra Farmacia,Prelone Althian Pharma 20 Mg X Un,219.00 USD (x1),292.00 USD (x1),https://www.superxtra.com/prelone-althian-pharma-20-mg-x-un-1031078990039/p
 Xtra Farmacia,Zyprexa 10Mg X Un,720.00 USD (x1),720.00 USD (x1),https://www.superxtra.com/zyprexa-10mg-x-un-1031082212318/p
@@ -6644,7 +6655,6 @@ Xtra Farmacia,Asofarma Iltux 20 Mg X Un,175.00 USD (x1),175.00 USD (x1),https://
 Xtra Farmacia,Asofarma Geslutin Pnm 200 Mg X Un,174.00 USD (x1),218.00 USD (x1),https://www.superxtra.com/asofarma-geslutin-pnm-200-mg-x-un-1031069004684/p
 Xtra Farmacia,Asofarma Topictal 25 Mg X Un,76.00 USD (x1),76.00 USD (x1),https://www.superxtra.com/asofarma-topictal-25-mg-x-un-1031069004011/p
 Xtra Farmacia,Asofarma Cabertrix 0.5 Mg X Un,1020.00 USD (x1),1020.00 USD (x1),https://www.superxtra.com/asofarma-cabertrix-0-5-mg-x-un-1030979091968/p
-Xtra Farmacia,Asofarma Cabertrix 0.5 Mg X Un,1044.00 USD (x1),1044.00 USD (x1),https://www.superxtra.com/asofarma-cabertrix-0-5-mg-x-un-1030979091951/p
 Xtra Farmacia,Asofarma Colmibe20Mg X Un,179.00 USD (x1),224.00 USD (x1),https://www.superxtra.com/asofarma-colmibe20mg-x-un-1031141000054/p
 Xtra Farmacia,Asofarma Colmibe10Mg X Un,181.00 USD (x1),226.00 USD (x1),https://www.superxtra.com/asofarma-colmibe10mg-x-un-1031141000047/p
 Xtra Farmacia,Dolgenal 10Mg X Un,123.00 USD (x1),123.00 USD (x1),https://www.superxtra.com/dolgenal-10mg-x-un-1031069001058/p
@@ -6669,12 +6679,14 @@ Xtra Farmacia,Betaserc 24 Mg X Un,235.00 USD (x1),294.00 USD (x1),https://www.su
 Xtra Farmacia,Luvox 100 Mg Comp X Un,238.00 USD (x1),297.00 USD (x1),https://www.superxtra.com/luvox-100-mg-comp-x-un-1031033958012/p
 Xtra Farmacia,Epivaler Abbott 250Mg X Un,108.00 USD (x1),108.00 USD (x1),https://www.superxtra.com/epivaler-abbott-250mg-x-un-1036255767688/p
 Xtra Farmacia,Abbott Duspatalin 200Mg X Un,242.00 USD (x1),242.00 USD (x1),https://www.superxtra.com/abbott-duspatalin-200mg-x-un-1031033958050/p
+Xtra Farmacia,Abbott Controlip 160 Mg X Un,204.00 USD (x1),255.00 USD (x1),https://www.superxtra.com/abbott-controlip-160-mg-x-un-1031033955806/p
 Xtra Farmacia,Abbott Isoptin Sr 240 Mg X Un,222.00 USD (x1),222.00 USD (x1),https://www.superxtra.com/abbott-isoptin-sr-240-mg-x-un-1031285601124/p
 Xtra Farmacia,Abbott Epival Er X Un,273.00 USD (x1),273.00 USD (x1),https://www.superxtra.com/abbott-epival-er-x-un-1036255767695/p
 Xtra Farmacia,Abbott Blopress 16 Mg X Un,293.00 USD (x1),293.00 USD (x1),https://www.superxtra.com/abbott-blopress-16-mg-x-un-1030440450737/p
 Xtra Farmacia,Abbott Blopress 8 Mg X Un,252.00 USD (x1),252.00 USD (x1),https://www.superxtra.com/abbott-blopress-8-mg-x-un-1030440450638/p
 Xtra Farmacia,Abbott Rytmonorm 150 G X Un,112.00 USD (x1),112.00 USD (x1),https://www.superxtra.com/abbott-rytmonorm-150-g-x-un-1031285601186/p
 Xtra Farmacia,Abbott Epival 250 Mg X Un,116.00 USD (x1),116.00 USD (x1),https://www.superxtra.com/abbott-epival-250-mg-x-un-1031033922174/p
+Xtra Farmacia,Ab-Digest Sticks Un,182.00 USD (x1),228.00 USD (x1),https://www.superxtra.com/ab-digest-sticks-un-1031082118412/p
 Xtra Farmacia,Opticlude Regular Un,39.00 USD (x1),39.00 USD (x1),https://www.superxtra.com/opticlude-regular-un-10331000235/p
 Xtra Farmacia,Suplemento Alimenticio Benet Fresa 400 G,1238.00 USD (x1),1238.00 USD (x1),https://www.superxtra.com/suplemento-alimenticio-benet-fresa-400-g-7709885591476/p
 Xtra Farmacia,Suplemento Alimenticio Enterex Diabetic Vainilla Polvo 400 GR,2431.00 USD (x1),2431.00 USD (x1),https://www.superxtra.com/suplemento-alimenticio-enterex-diabetic-vainilla-polvo-400-gr-612197604505/p
@@ -6689,7 +6701,6 @@ Xtra Farmacia,Preservativo Prudence Sensitivo X 3,225.00 USD (x1),250.00 USD (x1
 Xtra Farmacia,Preservativo Prudence Retardante,273.00 USD (x1),303.00 USD (x1),https://www.superxtra.com/preservativo-prudence-retardante-7502214982439/p
 Xtra Farmacia,Tadyna Via Oral Por Unidad 20 Mg,1969.00 USD (x1),1969.00 USD (x1),https://www.superxtra.com/tadyna-via-oral-por-unidad-20-mg-8430469168577/p
 Xtra Farmacia,Compresor Nebulizador Familiar,3686.00 USD (x1),3686.00 USD (x1),https://www.superxtra.com/compresor-nebulizador-familiar-7861081717644/p
-Xtra Farmacia,Epicon Via Oral Por Unidad 100 Mg,2370.00 USD (x1),2370.00 USD (x1),https://www.superxtra.com/epicon-via-oral-por-unidad-100-mg-7451110400052/p
 Xtra Farmacia,Gafinix Via Oral Por Unidad 75 Mg,4538.00 USD (x1),4538.00 USD (x1),https://www.superxtra.com/gafinix-via-oral-por-unidad-75-mg-7501277034482/p
 Xtra Farmacia,Gafinix Via Oral Por Unidad 150 Mg,3889.00 USD (x1),3889.00 USD (x1),https://www.superxtra.com/gafinix-via-oral-por-unidad-150-mg-7501277034505/p
 Xtra Farmacia,Espadiva Via Oral Por Unidad 400 Mg,474.00 USD (x1),474.00 USD (x1),https://www.superxtra.com/espadiva-via-oral-por-unidad-400-mg-7501277091034/p
@@ -6699,10 +6710,12 @@ Xtra Farmacia,Cardioaspirina Bayer Via Oral Por Unidad 81 Mg,2009.00 USD (x1),26
 Xtra Farmacia,Alka Gastric Bayer Via Oral Por Unidad 2 Mg,536.00 USD (x1),536.00 USD (x1),https://www.superxtra.com/alka-gastric-bayer-via-oral-por-unidad-2-mg-11418215085/p
 Xtra Farmacia,Alka Ad Bayer Via Oral Por Unidad 2 Mg,3810.00 USD (x1),3810.00 USD (x1),https://www.superxtra.com/alka-ad-bayer-via-oral-por-unidad-2-mg-11418734494/p
 Xtra Farmacia,Vedipal Tecnofarma Via Oral Por Unidad 1000 Mg,4378.00 USD (x1),5473.00 USD (x1),https://www.superxtra.com/vedipal-tecnofarma-via-oral-por-unidad-1000-mg-7730979097277/p
+Xtra Farmacia,Simepar Acino Via Oral Por Unidad 70 Mcg,1596.00 USD (x1),1995.00 USD (x1),https://www.superxtra.com/simepar-acino-via-oral-por-unidad-70-mcg-7640153082473/p
 Xtra Farmacia,Creon Abbott Via Oral Por Unidad 150 Mg,3127.00 USD (x1),3127.00 USD (x1),https://www.superxtra.com/creon-abbott-via-oral-por-unidad-150-mg-8002660031631/p
 Xtra Farmacia,Esfigmomanometro Generico De Muneca,5058.00 USD (x1),5058.00 USD (x1),https://www.superxtra.com/esfigmomanometro-generico-de-muneca-93764603983/p
 Xtra Farmacia,Menticol Xtra 24Oz,429.00 USD (x1),429.00 USD (x1),https://www.superxtra.com/menticol-xtra-24oz-742307005271/p
 Xtra Farmacia,Bayrum Xtra 24Oz,268.00 USD (x1),268.00 USD (x1),https://www.superxtra.com/bayrum-xtra-24oz-742307005288/p
+Xtra Farmacia,Fluconazol Calox 150 Mg X 15 Cap,2288.00 USD (x1),3268.00 USD (x1),https://www.superxtra.com/fluconazol-calox-150-mg-x-15-cap-769229068313/p
 Xtra Farmacia,Aloe Vera Treatment For Heat 50 Grms,273.00 USD (x1),273.00 USD (x1),https://www.superxtra.com/aloe-vera-treatment-for-heat-50-grms-815426007010/p
 Xtra Farmacia,Calcium 600Mg,1738.00 USD (x1),1738.00 USD (x1),https://www.superxtra.com/calcium-600mg-79854109658/p
 Xtra Farmacia,Zovira 5 Crema Topica 10G,3286.00 USD (x1),3286.00 USD (x1),https://www.superxtra.com/zovira-5-crema-topica-10g-7896269904424/p
@@ -6740,15 +6753,18 @@ Xtra Farmacia,Vitamina C Cebion Mast Fresa 500Mg Sobre 12 Unidades,3297.00 USD (
 Xtra Farmacia,Vitafer Nf Solucion Con Vitaminas Y Hierro Jarabe 240 Ml,473.00 USD (x1),473.00 USD (x1),https://www.superxtra.com/vitafer-nf-solucion-con-vitaminas-y-hierro-jarabe-240-ml-7451017303876/p
 Xtra Farmacia,Vira Aciclovir 200Mg 5Ml Suspension Oral 120Ml,1980.00 USD (x1),1980.00 USD (x1),https://www.superxtra.com/vira-aciclovir-200mg-5ml-suspension-oral-120ml-7453001303817/p
 Xtra Farmacia,Viprasen Levosulpiride 25Mg Ml Gotas 20Ml,2250.00 USD (x1),2250.00 USD (x1),https://www.superxtra.com/viprasen-levosulpiride-25mg-ml-gotas-20ml-7460536564088/p
+Xtra Farmacia,Vio Corten Crema Rigar 28 G,322.00 USD (x1),322.00 USD (x1),https://www.superxtra.com/vio-corten-crema-rigar-28-g-7451017303784/p
 Xtra Farmacia,Vino De Carne Y Hierro Jarabe 240 Ml,506.00 USD (x1),506.00 USD (x1),https://www.superxtra.com/vino-de-carne-y-hierro-jarabe-240-ml-7451017303739/p
 Xtra Farmacia,Viajesan 50 Mg 10 Comprimidos,681.00 USD (x1),851.00 USD (x1),https://www.superxtra.com/viajesan-50-mg-10-comprimidos-769229220117/p
 Xtra Farmacia,Venosmil 60G Gel,3164.00 USD (x1),3164.00 USD (x1),https://www.superxtra.com/venosmil-60g-gel-8470009990459/p
+Xtra Farmacia,Venda Elastica Migasa Rollo 4 Pulgadas,426.00 USD (x1),426.00 USD (x1),https://www.superxtra.com/venda-elastica-migasa-rollo-4-pulgadas-755331020035/p
 Xtra Farmacia,Venda Elastica Color Piel 2In 5 Yds,122.00 USD (x1),122.00 USD (x1),https://www.superxtra.com/venda-elastica-color-piel-2in-5-yds-352410609121/p
 Xtra Farmacia,Venda Autoadhesiva 5 Yards Color Azul 1 Unidad,309.00 USD (x1),309.00 USD (x1),https://www.superxtra.com/venda-autoadhesiva-5-yards-color-azul-1-unidad-745601150869/p
 Xtra Farmacia,Vartalon Duo Sobres 1500 1200Mg 30 Unidades,6200.00 USD (x1),6200.00 USD (x1),https://www.superxtra.com/vartalon-duo-sobres-1500-1200mg-30-unidades-7401069002937/p
 Xtra Farmacia,Vantal Bucofaringeo Spray Frasco 30 Ml,890.00 USD (x1),1187.00 USD (x1),https://www.superxtra.com/vantal-bucofaringeo-spray-frasco-30-ml-7501123018024/p
 Xtra Farmacia,Vantal Bucofaringeo Solucion 200Ml,1423.00 USD (x1),1423.00 USD (x1),https://www.superxtra.com/vantal-bucofaringeo-solucion-200ml-7501123018000/p
 Xtra Farmacia,Valaam D 30 Comp,6910.00 USD (x1),8638.00 USD (x1),https://www.superxtra.com/valaam-d-30-comp-7800060149151/p
+Xtra Farmacia,Vagil Crema Vaginal Tubo De 50Gr,1374.00 USD (x1),1717.00 USD (x1),https://www.superxtra.com/vagil-crema-vaginal-tubo-de-50gr-7460536520794/p
 Xtra Farmacia,Vagil Crema Tubo 90 Gramos,2160.00 USD (x1),2160.00 USD (x1),https://www.superxtra.com/vagil-crema-tubo-90-gramos-7460536520800/p
 Xtra Farmacia,UroVaon Capsula,7736.00 USD (x1),7736.00 USD (x1),https://www.superxtra.com/urovaon-capsula-7681900598014/p
 Xtra Farmacia,Uropen Capsula,5358.00 USD (x1),6698.00 USD (x1),https://www.superxtra.com/uropen-capsula-7451017309052/p
@@ -6761,6 +6777,7 @@ Xtra Farmacia,Ultimate Omega Nordic Naturals 1280Mg Fco 60Tab,3676.00 USD (x1),3
 Xtra Farmacia,Tylenol Etra Fuerte 102 Uds,281.00 USD (x1),375.00 USD (x1),https://www.superxtra.com/tylenol-etra-fuerte-102-uds-7501109913152/p
 Xtra Farmacia,Troferil 30Mg Tab,1713.00 USD (x1),1713.00 USD (x1),https://www.superxtra.com/troferil-30mg-tab-7501088500534/p
 Xtra Farmacia,Triptófano Con Magnesio + Vitamina B6,2186.00 USD (x1),2186.00 USD (x1),https://www.superxtra.com/triptofano-con-magnesio-vitamina-b6-8436000680669/p
+Xtra Farmacia,Tripliam 5 Mg125 Mg5 Mg Frasco 30 Comprimidos,5884.00 USD (x1),5884.00 USD (x1),https://www.superxtra.com/tripliam-5-mg125-mg5-mg-frasco-30-comprimidos-5391189310062/p
 Xtra Farmacia,Triple C Forte 90 Tab,2067.00 USD (x1),2067.00 USD (x1),https://www.superxtra.com/triple-c-forte-90-tab-7862117786412/p
 Xtra Farmacia,Trazidex Ofteno Tobramicina Deametasona Gotas Oftal 5 Ml,2220.00 USD (x1),2220.00 USD (x1),https://www.superxtra.com/trazidex-ofteno-tobramicinadeametasona-gotas-oftal-5-ml-736085410334/p
 Xtra Farmacia,Travof Sp 0004 Colirio 25Ml Travoprost,5960.00 USD (x1),5960.00 USD (x1),https://www.superxtra.com/travof-sp-0004-colirio-25ml-travoprost-7800060041547/p
@@ -6778,6 +6795,7 @@ Xtra Farmacia,Telydalt Duo TelmisartanAmlodipino 80Mg10Mg 28 Comprimidos Altian 
 Xtra Farmacia,Telydalt Duo 805 Mg 28 Comprimidos,5660.00 USD (x1),5660.00 USD (x1),https://www.superxtra.com/telydalt-duo-805-mg-28-comprimidos-7401078910162/p
 Xtra Farmacia,Tapones De Oido Adulto,661.00 USD (x1),661.00 USD (x1),https://www.superxtra.com/tapones-de-oido-adulto-23185061031/p
 Xtra Farmacia,Tapazol 5Mg 20 Tab,1302.00 USD (x1),1628.00 USD (x1),https://www.superxtra.com/tapazol-5mg-20-tab-7703454121811/p
+Xtra Farmacia,Tanistin Raven Crema 30 G,579.00 USD (x1),579.00 USD (x1),https://www.superxtra.com/tanistin-raven-crema-30-g-7441031517007/p
 Xtra Farmacia,Tamsulon Duo 04Mg05Mg 30 Capsulas,6817.00 USD (x1),8521.00 USD (x1),https://www.superxtra.com/tamsulon-duo-04mg05mg-30-capsulas-7730979095662/p
 Xtra Farmacia,Tamsulon 0.4Mg Blister 10 Comprimidos,3839.00 USD (x1),5119.00 USD (x1),https://www.superxtra.com/tamsulon-0-4mg-blister-10-comprimidos-7401069003071/p
 Xtra Farmacia,Talorat Tabletas 10 Mg,628.00 USD (x1),628.00 USD (x1),https://www.superxtra.com/talorat-tabletas-10-mg-7441096900240/p
@@ -6832,24 +6850,6 @@ Xtra Farmacia,Simvastina 20 Mg Comprimido,2079.00 USD (x1),2599.00 USD (x1),http
 Xtra Farmacia,Simbrinza Susp Oftalmica 5Ml,5974.00 USD (x1),5974.00 USD (x1),https://www.superxtra.com/simbrinza-susp-oftalmica-5ml-5413895038464/p
 Xtra Farmacia,Sildenafil Rigar Masticable Tableta 12Un,2331.00 USD (x1),2914.00 USD (x1),https://www.superxtra.com/sildenafil-rigar-masticable-tableta-12un-7451017330568/p
 Xtra Farmacia,Sildenafil Mk 100 Mg,994.00 USD (x1),994.00 USD (x1),https://www.superxtra.com/sildenafil-mk-100-mg-7410002802176/p
-Xtra Farmacia,Sildenafil 50Mg Mk 1 Comprimido,599.00 USD (x1),599.00 USD (x1),https://www.superxtra.com/sildenafil-50mg-mk-1-comprimido-7410002802169/p
-Xtra Farmacia,Sildenafil 50Mg Calox 1 Tableta,1031.00 USD (x1),1473.00 USD (x1),https://www.superxtra.com/sildenafil-50mg-calox-1-tableta-769229191912/p
-Xtra Farmacia,Sildenafil 100 Mg Calox 1 Tableta,1693.00 USD (x1),2257.00 USD (x1),https://www.superxtra.com/sildenafil-100-mg-calox-1-tableta-769229192810/p
-Xtra Farmacia,Shampoo Sebamed Baby Ph 55 250Ml,2908.00 USD (x1),2908.00 USD (x1),https://www.superxtra.com/shampoo-sebamed-baby-ph-55-250ml-4103040897978/p
-Xtra Farmacia,Shampoo Para Piojos Champiojo Incluye Peine 120Ml,458.00 USD (x1),458.00 USD (x1),https://www.superxtra.com/shampoo-para-piojos-champiojo-incluye-peine-120ml-7707210530305/p
-Xtra Farmacia,Sertal Compuesto 10Mg Unidad,5835.00 USD (x1),7780.00 USD (x1),https://www.superxtra.com/sertal-compuesto-10mg-unidad-7730969303234/p
-Xtra Farmacia,Sensibit D Jarabe Ninos De 28 Anos 12 Tabletas,823.00 USD (x1),823.00 USD (x1),https://www.superxtra.com/sensibit-d-jarabe-ninos-de-28-anos-12-tabletas-7501299314524/p
-Xtra Farmacia,Senosian Supositorio Bebe 10 Unidades,231.00 USD (x1),231.00 USD (x1),https://www.superxtra.com/senosian-supositorio-bebe-10-unidades-7501314704187/p
-Xtra Farmacia,Senosiain Adulto 10 Supositorios,159.00 USD (x1),159.00 USD (x1),https://www.superxtra.com/senosiain-adulto-10-supositorios-7501314704156/p
-Xtra Farmacia,Seltaferon 75 Mg Oseltamivir 10 Capsulas,908.00 USD (x1),1211.00 USD (x1),https://www.superxtra.com/seltaferon-75-mg-oseltamivir-10-capsulas-7501299307694/p
-Xtra Farmacia,Sede Jarabe Sabor A Vainilla Lacofa 120 Ml,784.00 USD (x1),980.00 USD (x1),https://www.superxtra.com/sede-jarabe-sabor-a-vainilla-lacofa-120-ml-745876017959/p
-Xtra Farmacia,Sebamed Shampoo Anticaspa Frasco 200 Ml,3952.00 USD (x1),3952.00 USD (x1),https://www.superxtra.com/sebamed-shampoo-anticaspa-frasco-200-ml-4103040912985/p
-Xtra Farmacia,Sebamed Dermolimpiador Facial Barra 100G,1510.00 USD (x1),1510.00 USD (x1),https://www.superxtra.com/sebamed-dermolimpiador-facial-barra-100g-4103040913043/p
-Xtra Farmacia,Scott Emulsion Naranja 400 Ml,665.00 USD (x1),831.00 USD (x1),https://www.superxtra.com/scott-emulsion-naranja-400-ml-7501065054692/p
-Xtra Farmacia,Salude Banano Jbe 120 Ml,1580.00 USD (x1),1580.00 USD (x1),https://www.superxtra.com/salude-banano-jbe-120-ml-7441031516017/p
-Xtra Farmacia,Sal Andrews Tradicional 12 Unds,243.00 USD (x1),324.00 USD (x1),https://www.superxtra.com/sal-andrews-tradicional-12-unds-74410330/p
-Xtra Farmacia,Rytmonorm 150 Mg Blister 10 Tabletas/Abbott,3386.00 USD (x1),3386.00 USD (x1),https://www.superxtra.com/rytmonorm-150-mg-blister-10-tabletasabbott-7501285601188/p
-Xtra Farmacia,Ru 10Mg 30 Comp Rosuvastatina,4905.00 USD (x1),4905.00 USD (x1),https://www.superxtra.com/ru-10mg-30-comp-rosuvastatina-7800060132429/p
 Escolar y Oficina,Goma Supervalue 3 GR,64.00 USD (x1),64.00 USD (x1),https://www.superxtra.com/goma-supervalue-3-gr-7453001101215/p
 Escolar y Oficina,Cuaderno Doble Raya Xtra De Niño,75.00 USD (x1),75.00 USD (x1),https://www.superxtra.com/cuaderno-doble-raya-xtra-de-nino-10589677-7453116000212/p
 Escolar y Oficina,Lapiz Mongol Papermate Kilomet Triangular,26.00 USD (x1),26.00 USD (x1),https://www.superxtra.com/lapiz-mongol-papermate-kilomet-triangular-7808718509586/p
@@ -7169,7 +7169,6 @@ Chef Cafe,Bizcocho Panama Bakery De Piña 1 UN,248.00 USD (x1),248.00 USD (x1),h
 Chef Cafe,Ring Cake Pan Comido Marmoleado 800 gr,615.00 USD (x1),615.00 USD (x1),https://www.superxtra.com/ring-cake-pan-comido-marmoleado-800-gr-10601908-763331547889/p
 Chef Cafe,Oreja Grande Xtra Empacada 1 unidad,95.00 USD (x1),95.00 USD (x1),https://www.superxtra.com/oreja-grande-xtra-empacada-1-unidad-10598121-7453052844703/p
 Chef Cafe,Mini Orejas Xtra Empacadas 12 unidades,235.00 USD (x1),235.00 USD (x1),https://www.superxtra.com/mini-orejas-xtra-empacadas-12-unidades-10598120-7453052844697/p
-Chef Cafe,Mini Alfajores Xtra Con Manjar Empacados 12 unidades,370.00 USD (x1),370.00 USD (x1),https://www.superxtra.com/mini-alfajores-xtra-con-manjar-empacados-12-unidades-10598119-7453052844680/p
 Chef Cafe,Besitos De Coco Xtra Empacados 6 unidades,325.00 USD (x1),325.00 USD (x1),https://www.superxtra.com/besitos-de-coco-xtra-empacados-6-unidades-10598118-7453052844673/p
 Chef Cafe,Galletas De Maní Xtra Empacadas 5 unidades,250.00 USD (x1),250.00 USD (x1),https://www.superxtra.com/galletas-de-mani-xtra-empacadas-5-unidades-10598116-7453052844635/p
 Chef Cafe,Galletas De Mantecado Xtra Con Guayaba Empacadas 5 unidades,195.00 USD (x1),195.00 USD (x1),https://www.superxtra.com/galletas-de-mantecado-xtra-con-guayaba-empacadas-5-unidades-10598114-7453052844963/p
@@ -7194,6 +7193,7 @@ Chef Cafe,Empanada Carne Un,85.00 USD (x1),85.00 USD (x1),https://www.superxtra.
 Chef Cafe,Empanada Queso Un,85.00 USD (x1),85.00 USD (x1),https://www.superxtra.com/empanada-queso-un-2604935000005/p
 Chef Cafe,Panitos Xtra Empacados 6 unidades,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/panitos-xtra-empacados-6-unidades-10598123-7453052844666/p
 Chef Cafe,Rosquitas Xtra Empacadas 6 unidades,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/rosquitas-xtra-empacadas-6-unidades-10598122-7453052844659/p
+Chef Cafe,Mini Alfajores Xtra Con Manjar Empacados 12 unidades,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/mini-alfajores-xtra-con-manjar-empacados-12-unidades-10598119-7453052844680/p
 Chef Cafe,Galletas Cachete De Chola Xtra Empacadas 5 unidades,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/galletas-cachete-de-chola-xtra-empacadas-5-unidades-10598115-7453052844628/p
 Chef Cafe,Hot Dog Xl Canada Bakery Con Semillas 10 unidades,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/hot-dog-xl-canada-bakery-con-semillas-10-unidades-10593436-7453044801493/p
 Chef Cafe,Pan Bolita Canada Bakery Empacado 350 GR,0.00 USD (x1),0.00 USD (x1),https://www.superxtra.com/pan-bolita-canada-bakery-empacado-350-gr-10522899-7453044800441/p
