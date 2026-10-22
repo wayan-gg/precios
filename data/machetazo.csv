@@ -1,20 +1,24 @@
 ﻿categoria,nombre,precio_oferta,precio_regular,enlace
 Supermercado,Atún en Agua Golden Selection|170g,95.00 USD (x1),95.00 USD (x1),https://www.elmachetazo.com/atun-en-agua-golden-selection170-g-10847761/p
 Supermercado,Sopa de Res con Fideos Maggi|60g,65.00 USD (x1),65.00 USD (x1),https://www.elmachetazo.com/sopa-de-res-con-fideos-maggi60g-10022554/p
+Supermercado,Soda Coca Cola 354 ml,85.00 USD (x1),85.00 USD (x1),https://www.elmachetazo.com/soda-coca-cola-354-ml-10026238/p
+Supermercado,Sardina Salsa Tomate Golden Selection|155g,42.00 USD (x1),46.00 USD (x1),https://www.elmachetazo.com/sardina-salsa-tomate-golden-selection155g-10744929/p
 Supermercado,Agua Embotellada Golden Selection|1 Galón,125.00 USD (x1),125.00 USD (x1),https://www.elmachetazo.com/agua-mineral-golden-selection-1-galon-10797330/p
 Supermercado,Carne de Res Golden Selection|340g,249.00 USD (x1),249.00 USD (x1),https://www.elmachetazo.com/carne-de-res-golden-selection340g-10779256/p
 Supermercado,Café Instantáneo Nescafé Clásico|3en1|20g|12 Unidades,48.00 USD (x1),48.00 USD (x1),https://www.elmachetazo.com/nescafe-clasico-3-en-1-cafe-instantaneo-sobre-20g-12-unidades-10801114/p
 Supermercado,Salsa Tomate Estilo Panameño|115g,42.00 USD (x1),45.00 USD (x1),https://www.elmachetazo.com/salsa-tomate-estilo-panameno115g-10767552/p
 Supermercado,Pasta de Tomate Golden Selection|115g,45.00 USD (x1),45.00 USD (x1),https://www.elmachetazo.com/pasta-de-tomate-golden-selection115g-10767555/p
+Supermercado,Lentejas Amapola|454g,130.00 USD (x1),130.00 USD (x1),https://www.elmachetazo.com/lenteja-amapola454-g-10000040/p
 Supermercado,Queso Blanco Prensado La Cholita 200g,266.00 USD (x1),266.00 USD (x1),https://www.elmachetazo.com/queso-blanco-prensado-la-cholita-200g-10466585/p
 Supermercado,Agua Natural Cristalina 1 galón,159.00 USD (x1),159.00 USD (x1),https://www.elmachetazo.com/agua-natural-cristalina-1-galon-10413007/p
 Supermercado,Azúcar Blanca La Estrella|2 lb,162.00 USD (x1),162.00 USD (x1),https://www.elmachetazo.com/azucar-blanca-la-estrella-2lb-10037205/p
 Supermercado,Frijol Chiricano Nutritos|1 lb,135.00 USD (x1),135.00 USD (x1),https://www.elmachetazo.com/frijol-chiricano-nutritos1lb-10373006/p
 Supermercado,Arroz Especial White Rice|5 lb,325.00 USD (x1),325.00 USD (x1),https://www.elmachetazo.com/arroz-especial-white-rice5lb-10017192/p
 Supermercado,Té de Canela Rika's|25 Unidades,132.00 USD (x1),132.00 USD (x1),https://www.elmachetazo.com/te-de-canela-rikas-25-unidades-10031236-machetazo/p
-Supermercado,Vegetales Mixtos Golden Selection|425g,65.00 USD (x1),79.00 USD (x1),https://www.elmachetazo.com/vegetales-mixtos-golden-selection425g-10743302/p
+Supermercado,Vegetales Mixtos Golden Selection|425g,79.00 USD (x1),79.00 USD (x1),https://www.elmachetazo.com/vegetales-mixtos-golden-selection425g-10743302/p
 Supermercado,Alimento para Perro Pedigree High Carne 85g,94.00 USD (x1),94.00 USD (x1),https://www.elmachetazo.com/alimento-para-perro-pedigree-high-carne-85g-10883240/p
 Supermercado,Bolsa de Hielo Smart Choice|8 Libras,115.00 USD (x1),115.00 USD (x1),https://www.elmachetazo.com/bolsa-de-hielo-smart-choice-8-libras-10925464/p
+Supermercado,Agua Mineral Golden Selection 600ml,21.00 USD (x1),21.00 USD (x1),https://www.elmachetazo.com/agua-mineral-golden-selection-600ml-10797326/p
 Supermercado,Galletas Wafer Nucita 8pk 160g,130.00 USD (x1),130.00 USD (x1),https://www.elmachetazo.com/galletas-wafer-nucita-8pk-160g-10255213/p
 Supermercado,Vela Amarilla Sin Vaso|30 horas,85.00 USD (x1),85.00 USD (x1),https://www.elmachetazo.com/vela-amarilla-sin-vaso30-horas-10005694/p
 Supermercado,MILO® Active Go Extracto de Malta Bolsa 250g,386.00 USD (x1),386.00 USD (x1),https://www.elmachetazo.com/milo-active-go-extracto-de-malta-bolsa-250g-10595043/p
@@ -45,10 +49,10 @@ Supermercado,Guisantes Verdes Golden Selection|425g,69.00 USD (x1),79.00 USD (x1
 Supermercado,Gelatina Fresa Bongel|120g,44.00 USD (x1),44.00 USD (x1),https://www.elmachetazo.com/gelatina-fresa-bongel120g-10041887/p
 Supermercado,Deditos Pollo Melo|454g|8 Unidades,539.00 USD (x1),539.00 USD (x1),https://www.elmachetazo.com/deditos-pollo-melo454g8-unidades-10039888/p
 Supermercado,Bandeja de Pollo Picado Toledano | 3.5 lb,410.00 USD (x1),410.00 USD (x1),https://www.elmachetazo.com/bandeja-de-pollo-picado-toledano--35-lb-10396633/p
+Supermercado,Chorizo Ahumado American Star|1 Libra,190.00 USD (x1),190.00 USD (x1),https://www.elmachetazo.com/chorizo-ahumado-american-star-1-lb-10041490/p
 Supermercado,Recogedor|Mango Plástico,214.00 USD (x1),214.00 USD (x1),https://www.elmachetazo.com/recogedormango-plastico-10908337/p
 Supermercado,Huevos Grandes Golden Selection|15 Unidades,279.00 USD (x1),279.00 USD (x1),https://www.elmachetazo.com/huevos-grandes15-unidades-10951657/p
-Supermercado,Soda Coca Cola 354 ml,85.00 USD (x1),85.00 USD (x1),https://www.elmachetazo.com/soda-coca-cola-354-ml-10026238/p
-Supermercado,Chorizo Ahumado American Star|1 Libra,190.00 USD (x1),190.00 USD (x1),https://www.elmachetazo.com/chorizo-ahumado-american-star-1-lb-10041490/p
+Supermercado,Huevos Medianos Emita|12 Unidades,195.00 USD (x1),195.00 USD (x1),https://www.elmachetazo.com/huevos-medianos-emita12-unidades-10867663/p
 Supermercado,Pantene Acondicionador Equilibrio Raiz y Puntas|510ml,668.00 USD (x1),1336.00 USD (x1),https://www.elmachetazo.com/pantene-acondicionador-equilibrio-raiz-y-puntas510ml-10922799/p
 Supermercado,Desodorante Roll On Savile Bicarbonato Limón|45ml,199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/desodorante-roll-on-savile-bicarbonato-limon45ml-10861904/p
 Supermercado,Arroz Especial Golden Selection|4 lb,275.00 USD (x1),275.00 USD (x1),https://www.elmachetazo.com/arroz-especial-golden-selection4-lb-10802579/p
@@ -72,7 +76,6 @@ Supermercado,Galleta Ritz Saladas Nabisco 34g x 12pk,225.00 USD (x1),225.00 USD 
 Supermercado,Bandeja Punta Palomilla al Vacio First Choice | 1.1 Lb,1085.00 USD (x1),1085.00 USD (x1),https://www.elmachetazo.com/bandeja-punta-palomilla-al-vacio-first-choice--11-lb-10392317/p
 Supermercado,Bandeja Pechuga de Pollo Empacado |1.6 lb,454.00 USD (x1),454.00 USD (x1),https://www.elmachetazo.com/bandeja-pechuga-de-pollo-empacado-16-lb-10391455/p
 Supermercado,Bandeja Alas de Pollo Melo|1.7 lb,461.00 USD (x1),461.00 USD (x1),https://www.elmachetazo.com/bandeja-alas-de-pollo-melo17-lb-10396601/p
-Supermercado,Dulce Cup Cake Rimith|3 oz,107.00 USD (x1),107.00 USD (x1),https://www.elmachetazo.com/dulce-cup-cake-rimith3-oz-10040154/p
 Supermercado,Toalla Femenina Kotex Nocturna|12 Unidades,279.00 USD (x1),279.00 USD (x1),https://www.elmachetazo.com/toalla-femenina-kotex-nocturna12-unidades-10459224/p
 Supermercado,Harina Trigo White Brands 2 libras,111.00 USD (x1),111.00 USD (x1),https://www.elmachetazo.com/harina-trigo-white-brands-2-libras-10020751/p
 Supermercado,Frijol Rojo Pantera|454g,163.00 USD (x1),163.00 USD (x1),https://www.elmachetazo.com/frijol-rojo-pantera-454g-10720700/p
@@ -93,12 +96,11 @@ Supermercado,Vaso Plástico Blanco Smart Choice|9 oz|50 Unidades,179.00 USD (x1)
 Supermercado,Arroz Especial Espiga Dorada|5 lb,385.00 USD (x1),385.00 USD (x1),https://www.elmachetazo.com/arroz-especial-espiga-dorada-5-lb-10023254-machetazo/p
 Supermercado,Azúcar Morena Doradita|2 kg,295.00 USD (x1),295.00 USD (x1),https://www.elmachetazo.com/azucar-morena-doradita2-kg-10417535/p
 Supermercado,Aceite de Girasol Girol|1.5 Litros,605.00 USD (x1),605.00 USD (x1),https://www.elmachetazo.com/aceite-girasol-girol15-litro-10014098/p
+Supermercado,Huevos Medianos Caribeno x12,235.00 USD (x1),235.00 USD (x1),https://www.elmachetazo.com/huevos-medianos-caribeno--x12-10647356/p
 Supermercado,Bolsa Basura Blanca Pequeña 18x18 Vikingo 12und,107.00 USD (x1),107.00 USD (x1),https://www.elmachetazo.com/bolsa-basura-blanca-pequena-18x18-vikingo-12und-10769261/p
-Supermercado,Bolsa Basura Negra Gigante 32X40 Centinel 6 und,269.00 USD (x1),269.00 USD (x1),https://www.elmachetazo.com/bolsa-basura-negra-gigante-32x40-centinel-6-und-10023557/p
 Supermercado,Clorox Blanqueador Regular |1 Galón,373.00 USD (x1),373.00 USD (x1),https://www.elmachetazo.com/blanqueador-clorox-regular1-galon-10012127/p
 Supermercado,Clorox Lavanda|64 oz,206.00 USD (x1),206.00 USD (x1),https://www.elmachetazo.com/clorox-lavanda64-oz-10254459/p
 Supermercado,Desinfectante Lavanda Mistolín 900ml,190.00 USD (x1),190.00 USD (x1),https://www.elmachetazo.com/desinfectante-lavanda-mistolin-900ml-10010046/p
-Supermercado,Huevos Medianos Caribeno x12,235.00 USD (x1),235.00 USD (x1),https://www.elmachetazo.com/huevos-medianos-caribeno--x12-10647356/p
 Supermercado,Desinfectante Lavanda Fabuloso 1 Galón,675.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/desinfectante-lavanda-fabuloso-1-galon-10034807/p
 Supermercado,Spray Crips Linen Scent Lysol 12oz,623.00 USD (x1),733.00 USD (x1),https://www.elmachetazo.com/spray-crips-linen-scent-lysol-12oz-10002935/p
 Supermercado,Detergente Polvo Naturals Spum 1kg,238.00 USD (x1),238.00 USD (x1),https://www.elmachetazo.com/detergente-polvo-naturals-spum-1kg-10708117/p
@@ -106,6 +108,7 @@ Supermercado,Lavaplato Crema Lavanda Sip 1 kg,379.00 USD (x1),379.00 USD (x1),ht
 Supermercado,Detergente Polvo Bebé Sip 1 kg,373.00 USD (x1),373.00 USD (x1),https://www.elmachetazo.com/detergente-polvo-bebe-sip-1-kg-10026815/p
 Supermercado,Queso Crema 1/3 Less Fat Philadelphia Kraft 8oz,675.00 USD (x1),675.00 USD (x1),https://www.elmachetazo.com/queso-crema-13-less-fat-philadelphia-kraft-8oz-10042543/p
 Supermercado,Arroz Especial Pelin|5 lb,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/arroz-especial-pelin5-lb-10740625/p
+Supermercado,Arroz Especial Arrossísimo|9 kg,1649.00 USD (x1),1649.00 USD (x1),https://www.elmachetazo.com/arroz-especial-arrosisimo-9kg-10336213-machetazo/p
 Supermercado,Lavaplatos Líquido Vel 900 ml,470.00 USD (x1),533.00 USD (x1),https://www.elmachetazo.com/lavaplatos-liquido-vel-900-ml-10032375/p
 Supermercado,Lavaplatos Líquido Vel 600 ml,413.00 USD (x1),413.00 USD (x1),https://www.elmachetazo.com/lavaplatos-liquido-vel-600-ml-10032374/p
 Supermercado,Bolsa Basura Negra Gigante 32X40 Vikingo 6 und,194.00 USD (x1),194.00 USD (x1),https://www.elmachetazo.com/bolsa-basura-negra-gigante-32x40-vikingo-6-und-10024873/p
@@ -113,10 +116,11 @@ Supermercado,Bebida Frescura Naranja Estrella Azul|946 ml,145.00 USD (x1),145.00
 Supermercado,Jugo Cóctel de Frutas V8 Splash 16oz,169.00 USD (x1),169.00 USD (x1),https://www.elmachetazo.com/jugo-coctel-de-frutas-v8-splash-16oz-10254570/p
 Supermercado,Jugo Manzana Mott's 64oz,540.00 USD (x1),540.00 USD (x1),https://www.elmachetazo.com/jugo-manzana-motts-64oz-10016497/p
 Supermercado,Crema Dental Máxima Protección AntiCaries Colgate|100ml,305.00 USD (x1),305.00 USD (x1),https://www.elmachetazo.com/crema-dental-maxima-proteccion-anticaries-colgate100ml-10025158/p
+Supermercado,Chocolate Cookies & Cream Hershey´s 43g,146.00 USD (x1),146.00 USD (x1),https://www.elmachetazo.com/chocolate-cookies--cream-hersheys-43g-10005071/p
 Supermercado,Snack Mini Pretzels Snyder's 1.5 oz,95.00 USD (x1),110.00 USD (x1),https://www.elmachetazo.com/snack-mini-pretzels-snyders-15-oz-10018290/p
 Supermercado,Azúcar Morena La Estrella|800g,125.00 USD (x1),125.00 USD (x1),https://www.elmachetazo.com/azucar-morena-la-estrella-800g-10582042/p
-Supermercado,Salsa de Tomate Estilo Panameño Maggi|113g,78.00 USD (x1),78.00 USD (x1),https://www.elmachetazo.com/salsa-de-tomate-estilo-panameno-maggi113g-10023542/p
 Supermercado,Caldo Pollo Rika's 5Und,50.00 USD (x1),50.00 USD (x1),https://www.elmachetazo.com/caldo-pollo-rikas-5und-10031087/p
+Supermercado,Sopa Criolla de Costilla de Res Maggi|58g,53.00 USD (x1),53.00 USD (x1),https://www.elmachetazo.com/sopa-criolla-de-costilla-de-res-maggi58g-10023711/p
 Supermercado,Cerevita Atol de Maíz Cereal Deshidratado 300g,235.00 USD (x1),235.00 USD (x1),https://www.elmachetazo.com/cerevita-atol-de-maiz-cereal-deshidratado-300g-10030840/p
 Supermercado,Avena Hojuela Canela Molino Criollo|454g,165.00 USD (x1),165.00 USD (x1),https://www.elmachetazo.com/avena-hojuela-canela-molino-criollo454g-10024106/p
 Supermercado,Sopa Pollo con Fideos Maggi|57g,55.00 USD (x1),55.00 USD (x1),https://www.elmachetazo.com/sopa-pollo-con-fideos-maggi57g-10022373/p
@@ -130,7 +134,6 @@ Supermercado,Cereal Hojuelas de Maíz 3 en 1 Gran Día|670g,395.00 USD (x1),395.
 Supermercado,Bollo Maíz American Star 5 Und,115.00 USD (x1),115.00 USD (x1),https://www.elmachetazo.com/bollo-maiz-american-star-5-und-10041465/p
 Supermercado,Poroto Chileno Nutritos|1 lb,149.00 USD (x1),149.00 USD (x1),https://www.elmachetazo.com/poroto-chileno-nutritos1lb-10373300/p
 Supermercado,Yogurt Vainilla Bonlac|120g,82.00 USD (x1),82.00 USD (x1),https://www.elmachetazo.com/yogurt-vainilla-bonlac120g-10041957/p
-Supermercado,Galleta Helado Estrella Azul 125ml|6 Pack,576.00 USD (x1),576.00 USD (x1),https://www.elmachetazo.com/galleta-helado-estrella-azul-125ml6-pack-10040617/p
 Supermercado,Empaque Queso Muenster Schreiber|0.6 lb,1595.00 USD (x1),1595.00 USD (x1),https://www.elmachetazo.com/empaque-queso-muenster-schreiber06-lb-10396823/p
 Supermercado,Filete Pechuga Mantequilla y Ajo Fit Melo|454 g,530.00 USD (x1),530.00 USD (x1),https://www.elmachetazo.com/filete-pechuga-mantequilla-y-ajo-fit-melo454-g-10041035/p
 Supermercado,Salchicha Carnitas Rimith|16 oz,335.00 USD (x1),335.00 USD (x1),https://www.elmachetazo.com/salchicha-carnitas-rimith16-oz-10041665/p
@@ -144,10 +147,10 @@ Supermercado,Papel Higiénico Scott 2 en 1|Doble Hoja|6 Rollos,325.00 USD (x1),3
 Supermercado,Desodorante Roll On Savile Agua de Rosas|45ml,168.00 USD (x1),168.00 USD (x1),https://www.elmachetazo.com/desodorante-roll-on-savile-agua-de-rosas45ml-10915778/p
 Supermercado,Crema Dental Colgate Doble Frescura |150ml|3 Pack,558.00 USD (x1),558.00 USD (x1),https://www.elmachetazo.com/crema-dental-colgate-doble-frescura-150ml3-pack-10873535/p
 Supermercado,Papel Higiénico Grande Soft Plus|12 Unidades,750.00 USD (x1),750.00 USD (x1),https://www.elmachetazo.com/papel-higienico-grande-soft-plus12-unidades-10806802/p
+Supermercado,Galleta Helado Estrella Azul 125ml|6 Pack,576.00 USD (x1),576.00 USD (x1),https://www.elmachetazo.com/galleta-helado-estrella-azul-125ml6-pack-10040617/p
 Supermercado,Protectores Diarios Saba Largo|40 Unidades,471.00 USD (x1),471.00 USD (x1),https://www.elmachetazo.com/protectores-diarios-saba-largo40-unidades-10830815/p
 Supermercado,Papel Higiénico Hojas Dobles Smart Choice|18 Unidades,698.00 USD (x1),698.00 USD (x1),https://www.elmachetazo.com/papel-higienico-hojas-dobles-smart-choice18-unidades-10826340/p
 Supermercado,Sirope Sabor Maple|13 oz,135.00 USD (x1),185.00 USD (x1),https://www.elmachetazo.com/sirope-sabor-maple13-oz-10827293/p
-Supermercado,Chocolate Cookies & Cream Hershey´s 43g,146.00 USD (x1),146.00 USD (x1),https://www.elmachetazo.com/chocolate-cookies--cream-hersheys-43g-10005071/p
 Supermercado,Atún en Agua Lucky Choice|170g,125.00 USD (x1),125.00 USD (x1),https://www.elmachetazo.com/atun-en-agua-lucky-choice170g-10825076/p
 Supermercado,Aceite de Oliva Bertolli Suave Clásico|500ml,659.00 USD (x1),659.00 USD (x1),https://www.elmachetazo.com/aceite-de-oliva-suave-clasico-bertolli-500ml-10775541/p
 Supermercado,"Bolsa de Basura Smart Choice18""x23""|12 Unidades",49.00 USD (x1),49.00 USD (x1),https://www.elmachetazo.com/bolsa-de-basura--smart-choice18x2312-unidades-10802483/p
@@ -157,6 +160,7 @@ Supermercado,Limpiador Antigrasa Brasso 500ml,499.00 USD (x1),499.00 USD (x1),ht
 Supermercado,Crema Coco Coco López|15 oz,315.00 USD (x1),315.00 USD (x1),https://www.elmachetazo.com/crema-coco-coco-lopez15-oz-10026139/p
 Supermercado,Queso Americano sin Lactosa Borden 12 Reb,413.00 USD (x1),413.00 USD (x1),https://www.elmachetazo.com/queso-americano-sin-lactosa-borden-12-reb-10038975/p
 Supermercado,Bebida Polvo Pera Livean 9g,35.00 USD (x1),35.00 USD (x1),https://www.elmachetazo.com/bebida-polvo-pera-livean-9g-10029872/p
+Supermercado,Agua Cristalina 1 Litro,80.00 USD (x1),80.00 USD (x1),https://www.elmachetazo.com/agua-cristalina-1-litro-10688218/p
 Supermercado,Mayonesa Chipotle McCormick 350g,189.00 USD (x1),189.00 USD (x1),https://www.elmachetazo.com/mayonesa-chipotle-mccormick-350g-10683018/p
 Supermercado,Plato Foam #9 sin División Termo Fom 25 und,200.00 USD (x1),200.00 USD (x1),https://www.elmachetazo.com/plato-foam-9-sin-division-termo-fom-25-und-10146875/p
 Supermercado,Pechuga de Pollo Caribeño Bandeja,445.00 USD (x1),445.00 USD (x1),https://www.elmachetazo.com/pechuga-de-pollo-caribeno-bandeja-10797411/p
@@ -164,10 +168,10 @@ Supermercado,Gomita Sour Glow Worms Trolli 100g,127.00 USD (x1),127.00 USD (x1),
 Supermercado,Toallitas Desinfectantes Citrus Lysol 80 Unidades,845.00 USD (x1),845.00 USD (x1),https://www.elmachetazo.com/toallitas-desinfectantes-citrus-lysol-80-unidades-10769950/p
 Supermercado,Lavaplatos Líquidos Lemon Axion 280ml,182.00 USD (x1),182.00 USD (x1),https://www.elmachetazo.com/lavaplatos-liquidos-lemon-axion-280ml-10778827/p
 Supermercado,Jugo Cranberry Cocktail Ocean Spray 3 Litros,720.00 USD (x1),720.00 USD (x1),https://www.elmachetazo.com/jugo-cranberry-cocktail-ocean-spray-3-litros-10329942/p
+Supermercado,Wipes Desinfectantes Clorox Limon|75 Unidades,712.00 USD (x1),712.00 USD (x1),https://www.elmachetazo.com/wipes-desinfectantes-clorox-limon75-unidades-10766242/p
 Supermercado,Clorox Lavanda|32 oz,94.00 USD (x1),137.00 USD (x1),https://www.elmachetazo.com/clorox-lavanda32-oz-10010039/p
 Supermercado,Straight Cut Oven Fried Aviko 450g,210.00 USD (x1),210.00 USD (x1),https://www.elmachetazo.com/straight-cut-oven-fried-aviko-450g-10038313/p
 Supermercado,Sal Dos Mares 1 lb,27.00 USD (x1),27.00 USD (x1),https://www.elmachetazo.com/sal-dos-mares-1-lb-10002758/p
-Supermercado,Spaghettini Santa Lucia 500g,189.00 USD (x1),189.00 USD (x1),https://www.elmachetazo.com/spaghettini-santa-lucia-500g-10019722/p
 Supermercado,Lonchas Mozzarella Presidente 200g,413.00 USD (x1),413.00 USD (x1),https://www.elmachetazo.com/lonchas-mozzarella-presidente-200g-10558782/p
 Supermercado,Servilletas de Papel Scott Estilo Blanca|100 Hojas,133.00 USD (x1),133.00 USD (x1),https://www.elmachetazo.com/servilletas-de-papel-scott-estilo-blanca100-hojas-10020417/p
 Supermercado,Toallita Húmeda Huggies Limpieza Cotidiana|80 Unidades,149.00 USD (x1),170.00 USD (x1),https://www.elmachetazo.com/toallita-humeda-huggies-limpieza-cotidiana80-unidades-10774944/p
@@ -175,7 +179,6 @@ Supermercado,Paprika Badia 2oz,203.00 USD (x1),203.00 USD (x1),https://www.elmac
 Supermercado,Crema de Peinar Rizos Definidos Pantene 300ml 2 pk,1336.00 USD (x1),1336.00 USD (x1),https://www.elmachetazo.com/crema-de-peinar-rizos-definidos-pantene-300ml-2-pk-10727436/p
 Supermercado,Canela Raja Bolsa Bahil 70g,200.00 USD (x1),200.00 USD (x1),https://www.elmachetazo.com/canela-raja-bolsa-bahil-70g-10002945/p
 Supermercado,Bandeja Muslo de Pollo|1.1 lb,400.00 USD (x1),454.00 USD (x1),https://www.elmachetazo.com/bandeja-muslo-de-pollo11-lb-10391456/p
-Supermercado,Dulce Cup Cake Empacado Rimith|6 oz,178.00 USD (x1),178.00 USD (x1),https://www.elmachetazo.com/dulce-cup-cake-empacado-rimith6-oz-10040153/p
 Supermercado,Bebida Naranja Disfruta Nevada|3 Litros,195.00 USD (x1),195.00 USD (x1),https://www.elmachetazo.com/bebida-naranja-disfruta-nevada3-litros-10781350/p
 Supermercado,Sal de Mesa Crisal 5 lb,158.00 USD (x1),158.00 USD (x1),https://www.elmachetazo.com/sal-de-mesa-crisal-5-lb-10002757/p
 Supermercado,Salsa China Oscura NHS 750ml,209.00 USD (x1),209.00 USD (x1),https://www.elmachetazo.com/salsa-china-oscura-nhs-750ml-10255193/p
@@ -188,16 +191,16 @@ Supermercado,Adobo con Pimienta Goya 8oz,200.00 USD (x1),200.00 USD (x1),https:/
 Supermercado,Sal Mr. Tom 26oz,195.00 USD (x1),195.00 USD (x1),https://www.elmachetazo.com/sal-mr-tom-26oz-10015801/p
 Supermercado,Salsa Marinado Pollo Lee Kum Kee 410g,323.00 USD (x1),323.00 USD (x1),https://www.elmachetazo.com/salsa-marinado-pollo-lee-kum-kee-410g-10007153/p
 Supermercado,Jabón Barra Antibacterial Avena Dart 110g 3pk,215.00 USD (x1),215.00 USD (x1),https://www.elmachetazo.com/jabon-barra-antibacterial-avena-dart-110g-3pk-10767249/p
-Supermercado,Café Molido Sello Rojo|212g,424.00 USD (x1),424.00 USD (x1),https://www.elmachetazo.com/cafe-molido-sello-rojo-212g-10571789-machetazo/p
 Supermercado,Jabón Barra Balance Protex 110g 3pk,345.00 USD (x1),345.00 USD (x1),https://www.elmachetazo.com/jabon-barra-balance-protex-110g-3pk-10032117/p
 Supermercado,Suavizante Vainilla Suavitel 1.9 Litros,498.00 USD (x1),498.00 USD (x1),https://www.elmachetazo.com/suavizante-vainilla-suavitel-19-litros-10738661/p
 Supermercado,Azúcar Morena Doradita|800g,115.00 USD (x1),115.00 USD (x1),https://www.elmachetazo.com/azucar-morena-doradita-800g-10417531/p
+Supermercado,Detergente Líquido Poder Gel Rendidor|5 Litros,1444.00 USD (x1),1604.00 USD (x1),https://www.elmachetazo.com/detergente-liquido-poder-gel--rendidor5-litros-10472106/p
 Supermercado,Desinfectante Kangaru Lux 1 galón,748.00 USD (x1),748.00 USD (x1),https://www.elmachetazo.com/desinfectante-kangaru-lux-1-galon-10022302/p
+Supermercado,Vinagre Blanco Proluxsa 16oz,61.00 USD (x1),61.00 USD (x1),https://www.elmachetazo.com/vinagre-blanco-proluxsa-16oz-10025606/p
 Supermercado,Agua de Coco Nature's Heart|1000ml,398.00 USD (x1),398.00 USD (x1),https://www.elmachetazo.com/agua-de-coco-natures-heart1000ml-10587987/p
 Supermercado,Nido 5+ Advanced Lata 1.6kg,2340.00 USD (x1),2340.00 USD (x1),https://www.elmachetazo.com/nido-5-advanced-lata-16kg-10639211/p
 Supermercado,Cubito Ajo y Cebolla Sazonador Maggi|4g|25 Unidades,121.00 USD (x1),121.00 USD (x1),https://www.elmachetazo.com/cubito-ajo-y-cebolla-sazonador-maggi4g25-unidades-10013889/p
 Supermercado,Cubito de Pollo Sazonador Maggi|4g|25 Unidades,119.00 USD (x1),119.00 USD (x1),https://www.elmachetazo.com/cubito-de-pollo-sazonador-maggi4g25-unidades-10013888/p
-Supermercado,Agua Cristalina 1 Litro,80.00 USD (x1),80.00 USD (x1),https://www.elmachetazo.com/agua-cristalina-1-litro-10688218/p
 Supermercado,Caramel Crunch Sunshine Snacks 110g,150.00 USD (x1),150.00 USD (x1),https://www.elmachetazo.com/caramel-crunch-sunshine-snacks-110g-10017155/p
 Supermercado,Salsa Tomates Italiana Clásica Natura's 400g,202.00 USD (x1),202.00 USD (x1),https://www.elmachetazo.com/salsa-tomates-italiana-clasica-naturas-400g-10681941/p
 Supermercado,Queso Feta Apetina Arla 200g,500.00 USD (x1),500.00 USD (x1),https://www.elmachetazo.com/queso-feta-apetina-arla-200g-10040139/p
@@ -209,20 +212,17 @@ Supermercado,Vinagre Blanco Proluxsa 1 Galón,369.00 USD (x1),369.00 USD (x1),ht
 Supermercado,Cuchara Sopera Smart Choice|25 Unidades,39.00 USD (x1),39.00 USD (x1),https://www.elmachetazo.com/cuchara-sopera-smart-choice25-unidades-10767548/p
 Supermercado,Brillo de Alambre,43.00 USD (x1),43.00 USD (x1),https://www.elmachetazo.com/brillo-de-alambre-10011713/p
 Supermercado,Vaso Plástico Azul Smart Choice|9 oz|50 Unidades,189.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/vaso-plastico-azul-smart-choice9-oz50-unidades-10743718/p
+Supermercado,Arroz Especial Espiga Dorada|20 lb,1535.00 USD (x1),1535.00 USD (x1),https://www.elmachetazo.com/arroz-especial-espiga-dorada-20-lb-10023253-machetazo/p
 Supermercado,Guandú Coco Del Monte|15 oz,179.00 USD (x1),179.00 USD (x1),https://www.elmachetazo.com/guandu-coco-del-monte15-oz-10014712/p
-Supermercado,Harina Trigo Gold Mills|1 lb,88.00 USD (x1),88.00 USD (x1),https://www.elmachetazo.com/harina-trigo-gold-mills1-lb-10006045/p
 Supermercado,Vinagre Blanco Proluxsa Bot|32 oz,97.00 USD (x1),97.00 USD (x1),https://www.elmachetazo.com/vinagre-blanco-proluxsa-bot32-oz-10025757/p
 Supermercado,Pasta de Tomate Maggi Doypack|1 kg,410.00 USD (x1),459.00 USD (x1),https://www.elmachetazo.com/pasta-de-tomate-maggi-doypack1-kg-10342253/p
 Supermercado,Leche Evaporada Ideal Entera|167g,76.00 USD (x1),76.00 USD (x1),https://www.elmachetazo.com/leche-evaporada-ideal-entera167g-10002877/p
 Supermercado,Té de Canela Durán|20 Sobres,132.00 USD (x1),132.00 USD (x1),https://www.elmachetazo.com/te-de-canela-duran-20-sobres-10024780-machetazo/p
-Supermercado,Café Durán Tradicional Molido Extrafino|212g,408.00 USD (x1),408.00 USD (x1),https://www.elmachetazo.com/cafe-duran-tradicional-molido-extrafino-212g-10027313-machetazo/p
 Supermercado,Café Durán Tradicional Molido Regular|212g,417.00 USD (x1),417.00 USD (x1),https://www.elmachetazo.com/cafe-duran-tradicional-molido-regular-212g-10024935-machetazo/p
-Supermercado,Leche Semi Descremada Fit La Chiricana|946ml,182.00 USD (x1),182.00 USD (x1),https://www.elmachetazo.com/leche-semi-descremada-fit-la-chiricana946ml-10706120/p
 Supermercado,Cepillo Dental Colgate Twister Medio|3 Piezas,301.00 USD (x1),362.00 USD (x1),https://www.elmachetazo.com/cepillo-dental--colgate-twister-medio3-piezas-10031658/p
 Supermercado,Desinfectante Alternativa Al Cloro Fabuloso 900ml,250.00 USD (x1),250.00 USD (x1),https://www.elmachetazo.com/desinfectante-alternativa-al-cloro-fabuloso-900ml-10755323/p
 Supermercado,Spray Crip Linen Lysol 19 oz,986.00 USD (x1),986.00 USD (x1),https://www.elmachetazo.com/spray-crip-linen-lysol-19-oz-10030566/p
 Supermercado,Limpiador Polvo Original Triclorín Ajax 400g,224.00 USD (x1),224.00 USD (x1),https://www.elmachetazo.com/limpiador-polvo-original-triclorin-ajax-400g-10034626/p
-Supermercado,Detergente Polvo Americano 900g,248.00 USD (x1),248.00 USD (x1),https://www.elmachetazo.com/detergente-polvo-americano-900g-10708110/p
 Supermercado,Detergente Polvo Rendidor Fresca Lavanda 2.5kg,606.00 USD (x1),722.00 USD (x1),https://www.elmachetazo.com/detergente-polvo-rendidor-fresca-lavanda-25kg-10688704/p
 Supermercado,Papel Aluminio Reynolds 25 sq.ft,288.00 USD (x1),288.00 USD (x1),https://www.elmachetazo.com/papel-aluminio-reynolds-25-sqft-10030281/p
 Supermercado,Yogurt Melocotón Non Fat Bonlac 175g,100.00 USD (x1),100.00 USD (x1),https://www.elmachetazo.com/yogurt-melocoton-non-fat-bonlac-175g-10041906/p
@@ -239,16 +239,14 @@ Supermercado,Limpiador Multiusos Trigger 409 16oz,299.00 USD (x1),299.00 USD (x1
 Supermercado,Bebida Naranja Fresh Del Valle 3 Litros|,193.00 USD (x1),193.00 USD (x1),https://www.elmachetazo.com/bebida-naranja-fresh-del-valle-3-litros-10357515/p
 Supermercado,Jabón Tocador Avena Protex|110g|3 Pack,289.00 USD (x1),345.00 USD (x1),https://www.elmachetazo.com/jabon-tocador-avena-protex110g3-pack-10029881/p
 Supermercado,Soda Coca Cola Zero 2.25 Litros,285.00 USD (x1),285.00 USD (x1),https://www.elmachetazo.com/soda-coca-cola-zero-225-litros-10552533/p
+Supermercado,Costilla Criolla Sazonador Maggi|10g|4 Unidades,67.00 USD (x1),67.00 USD (x1),https://www.elmachetazo.com/costilla-criolla-sazonador-maggi10g4-unidades-10023545/p
+Supermercado,Azúcar Morena La Estrella|4 lb,275.00 USD (x1),275.00 USD (x1),https://www.elmachetazo.com/azucar-morena-la-estrella-4lb-10582048/p
 Supermercado,Néctar Pera Del Monte 1L,140.00 USD (x1),140.00 USD (x1),https://www.elmachetazo.com/nectar-pera-del-monte-1l-10002143/p
 Supermercado,Tornillo con Vegetales Suprema 454g,145.00 USD (x1),145.00 USD (x1),https://www.elmachetazo.com/tornillo-con-vegetales-suprema-454g-10619486/p
 Supermercado,Salsa Agridulce Lee Kum Kee 240g,323.00 USD (x1),323.00 USD (x1),https://www.elmachetazo.com/salsa-agridulce-lee-kum-kee-240g-10007152/p
-Supermercado,Harina Trigo Gold Mills 5lb,352.00 USD (x1),352.00 USD (x1),https://www.elmachetazo.com/harina-trigo-gold-mills-5lb-10006157/p
 Supermercado,Panecillo Bun Rimith |615g|12 Unidades,195.00 USD (x1),195.00 USD (x1),https://www.elmachetazo.com/panecillo-bun-rimith-615g12-unidades-10633415/p
-Supermercado,Gelatina Uva Gel'Hada 22oz,398.00 USD (x1),398.00 USD (x1),https://www.elmachetazo.com/gelatina-uva-gelhada-22oz-10021543/p
-Supermercado,Arroz Especial Espiga Dorada|20 lb,1535.00 USD (x1),1535.00 USD (x1),https://www.elmachetazo.com/arroz-especial-espiga-dorada-20-lb-10023253-machetazo/p
-Supermercado,Costilla Criolla Sazonador Maggi|10g|4 Unidades,67.00 USD (x1),67.00 USD (x1),https://www.elmachetazo.com/costilla-criolla-sazonador-maggi10g4-unidades-10023545/p
-Supermercado,Margarina Pabo|1lb,220.00 USD (x1),220.00 USD (x1),https://www.elmachetazo.com/margarina-pabo1lb-10610666/p
-Supermercado,Huevos Medianos Del Día|12 Unidades,217.00 USD (x1),217.00 USD (x1),https://www.elmachetazo.com/huevos-medianos-del-dia12-unidades-10039911/p
+Supermercado,Pan Molde Artesano Bimbo|535g,223.00 USD (x1),223.00 USD (x1),https://www.elmachetazo.com/pan-molde-artesano-bimbo-535g-10574216/p
+Supermercado,Margarina Cascade|1lb,223.00 USD (x1),318.00 USD (x1),https://www.elmachetazo.com/margarina-cascade1lb-10610667/p
 Supermercado,Huevos Medianos Toledano|12 Unidades,237.00 USD (x1),237.00 USD (x1),https://www.elmachetazo.com/huevos-medianos-toledano12-unidades-10037529/p
 Supermercado,Cereal Hojuelas Maíz Gran Día|620g,285.00 USD (x1),285.00 USD (x1),https://www.elmachetazo.com/cereal-hojuelas-maiz-gran-dia620g-10417146/p
 Supermercado,Gourmar Salmon Family|570g,1648.00 USD (x1),1648.00 USD (x1),https://www.elmachetazo.com/gourmar-salmon-family570g-10407633/p
@@ -346,8 +344,6 @@ Supermercado,Premio Masticable para Perro|Pollo|5 Unidades,399.00 USD (x1),399.0
 Supermercado,Premio Masticable para Perro|Dental|2 Unidades,200.00 USD (x1),200.00 USD (x1),https://www.elmachetazo.com/premio-masticable-para-perrodental2-unidades-10852552/p
 Supermercado,Premio Masticable para Perro|Dental|5 Unidades,412.00 USD (x1),412.00 USD (x1),https://www.elmachetazo.com/premio-masticable-para-perrodental5-unidades-10852551/p
 Supermercado,Removedor de Manchas y Olores para Perro|24 oz,810.00 USD (x1),810.00 USD (x1),https://www.elmachetazo.com/removedor-de-manchas-y-olores-para-perro24-oz-10852554/p
-Supermercado,Arena Absorbente para Gatos|Sin Olor|2kg,415.00 USD (x1),415.00 USD (x1),https://www.elmachetazo.com/arena-absorbente-para-gatossin-olor2kg-10852557/p
-Supermercado,BettaMin Hojuelas para peces Betta|23g,208.00 USD (x1),208.00 USD (x1),https://www.elmachetazo.com/bettamin-hojuelas-para-peces-betta23g-10852541/p
 Supermercado,Hojuelas para Peces Goldfish|28g,311.00 USD (x1),311.00 USD (x1),https://www.elmachetazo.com/hojuelas-para-peces-goldfish28g-10852544/p
 Supermercado,Cereal de Chocolate Sin Gluten Ceridés|500 g,369.00 USD (x1),369.00 USD (x1),https://www.elmachetazo.com/cereal-de-chocolate-sin-gluten-cerides500-g-10979098/p
 Supermercado,Galletas Pasas Del Carmen|44 g,50.00 USD (x1),50.00 USD (x1),https://www.elmachetazo.com/galletas-pasas-del-carmen44-g-10987365/p
@@ -367,6 +363,7 @@ Supermercado,Glucerna Fit Vainilla|330 Ml,477.00 USD (x1),477.00 USD (x1),https:
 Supermercado,Glucerna Vainilla|237 ml,433.00 USD (x1),433.00 USD (x1),https://www.elmachetazo.com/glucerna-vainilla237-ml-10956131/p
 Supermercado,Glucerna Chocolate|237 ml,433.00 USD (x1),433.00 USD (x1),https://www.elmachetazo.com/glucerna-chocolate237-ml-10956132/p
 Supermercado,Glucerna Fresa|237 ml,433.00 USD (x1),433.00 USD (x1),https://www.elmachetazo.com/glucerna-fresa237-ml-10956164/p
+Supermercado,Shampoo para Mascota Plaguifin|960ml,1215.00 USD (x1),1215.00 USD (x1),https://www.elmachetazo.com/shampoo-para-mascota-plaguifin960ml-10820511/p
 Supermercado,Jabón Antipulgas PPT|100g,198.00 USD (x1),198.00 USD (x1),https://www.elmachetazo.com/jabon-antipulgas-ppt100g-10019201/p
 Supermercado,Alimento para Peces Gold Fish|40g,348.00 USD (x1),348.00 USD (x1),https://www.elmachetazo.com/alimento-para-peces-gold-fish40g-10813475/p
 Supermercado,Aqua Safe|100ml,277.00 USD (x1),277.00 USD (x1),https://www.elmachetazo.com/aqua-safe100ml-10852540/p
@@ -405,6 +402,7 @@ Supermercado,Chocolate Ferrero Rocher Sterlina|37.5g,389.00 USD (x1),389.00 USD 
 Supermercado,BioAqua Kit Hidratante de Arroz|6 Piezas,1099.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/bioaqua-kit-hidratante-de-arroz6-piezas-10978214/p
 Supermercado,BioAqua Camelia Skin Care|Kit Reparador|5 Piezas,899.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/bioaqua-camelia-skin-carekit-reparador5-piezas-10956300/p
 Supermercado,Patatas Fritas Oliva Martirelo|100 g,199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/patatas-fritas-oliva-martirelo100-g-10956249/p
+Supermercado,Torrezno Frito de Cerdo|60 g,179.00 USD (x1),179.00 USD (x1),https://www.elmachetazo.com/torrezno-frito-de-cerdo60-g-10956250/p
 Supermercado,Vino Blanco Chardonnay Chilensis|750ml,568.00 USD (x1),568.00 USD (x1),https://www.elmachetazo.com/vino-blanco-chardonnay-chilensis750ml-10971050/p
 Supermercado,Vino Tinto Carmenere Chilensis|750ml,568.00 USD (x1),568.00 USD (x1),https://www.elmachetazo.com/vino-tinto-carmenere-chilensis750ml-10971047/p
 Supermercado,Vino Merlot Chilensis|750ml,568.00 USD (x1),568.00 USD (x1),https://www.elmachetazo.com/vino-merlot-chilensis750ml-10971046/p
@@ -496,8 +494,6 @@ Supermercado,Ketchup Heinz|397g,189.00 USD (x1),189.00 USD (x1),https://www.elma
 Supermercado,Ketchup Hunt's 14 oz,264.00 USD (x1),264.00 USD (x1),https://www.elmachetazo.com/ketchup-hunts-14-oz-10762701/p
 Supermercado,Salsa BBQ Original Hunt's|18 oz,263.00 USD (x1),263.00 USD (x1),https://www.elmachetazo.com/salsa-bbq-original-hunts18-oz-10942194/p
 Supermercado,Salsa Sugo Napoletana Barilla 400g,285.00 USD (x1),285.00 USD (x1),https://www.elmachetazo.com/salsa-sugo-napoletana-barilla-400g-10017796/p
-Supermercado,"Tijera para Flequillo|7""",179.00 USD (x1),179.00 USD (x1),https://www.elmachetazo.com/tijera-para-flequillo7-10855247/p
-Supermercado,"Tijera para Corte de Cabello|7""",179.00 USD (x1),179.00 USD (x1),https://www.elmachetazo.com/tijera-para-corte-de-cabello7-10949901/p
 Supermercado,Pañales Huggies Natural Care|G|100 Unidades,2559.00 USD (x1),3074.00 USD (x1),https://www.elmachetazo.com/panales-huggies-natural-careg100-unidades-10935420/p
 Supermercado,Pañales Huggies Natural Care|XG|80 Unidades,2559.00 USD (x1),3074.00 USD (x1),https://www.elmachetazo.com/panales-huggies-natural-carexg80-unidades-10935421/p
 Supermercado,Papel Higiénico Scott Cuidado Completo|18 Unidades,1274.00 USD (x1),1274.00 USD (x1),https://www.elmachetazo.com/papel-higienico-scott-cuidado-completo18-unidades-10936469/p
@@ -568,7 +564,6 @@ Supermercado,Papel Higiénico Smart Choice|6 Rollos,269.00 USD (x1),289.00 USD (
 Supermercado,Leche Condensada Abevia|390g,109.00 USD (x1),135.00 USD (x1),https://www.elmachetazo.com/leche-condensada-abevia390g-10863729/p
 Supermercado,Papel Toalla Smart Choice|1 Rollo,79.00 USD (x1),79.00 USD (x1),https://www.elmachetazo.com/papel-toalla-smart-choice1-rollo-10909909/p
 Supermercado,Lavaplatos Crema Limón Cool&Clean|1 Kg,119.00 USD (x1),176.00 USD (x1),https://www.elmachetazo.com/lavaplatos-crema-limon-coolclean1-kg-10869822/p
-Supermercado,Linaza de Frutas Linafruit 400g,528.00 USD (x1),1056.00 USD (x1),https://www.elmachetazo.com/linaza-de-frutas-linafruit-400g-10469695/p
 Supermercado,Pantene Acondicionador Equilibrio Raiz y Puntas|250ml,454.00 USD (x1),909.00 USD (x1),https://www.elmachetazo.com/pantene-acondicionador-equilibrio-raiz-y-puntas250ml-10922795/p
 Supermercado,Pantene Shampoo Equilibrio Raíz y Puntas|300ml,454.00 USD (x1),909.00 USD (x1),https://www.elmachetazo.com/pantene-shampoo-equilibrio-raiz-y-puntas300ml-10922785/p
 Supermercado,Fiambrera de Papel Smart Choice|Tamaño 8x8|20 Unidades,479.00 USD (x1),479.00 USD (x1),https://www.elmachetazo.com/fiambrera-de-papel-smart-choicetamano-8x820-unidades-10852479/p
@@ -596,9 +591,6 @@ Supermercado,Toallita Húmeda Pampers Sensitive|336U,1885.00 USD (x1),1885.00 US
 Supermercado,Shampoo Cap Elvive Hialuronico Pure|370ml,984.00 USD (x1),984.00 USD (x1),https://www.elmachetazo.com/shampoo-cap-elvive-hialuronico-pure370ml-10904860/p
 Supermercado,Espuma de Afeitar Aloe Vera|300ml,569.00 USD (x1),569.00 USD (x1),https://www.elmachetazo.com/espuma-de-afeitar-aloe-vera300ml-10887850/p
 Supermercado,Toallita Desmaquillante Burts Bee Tea|30 Unidades,750.00 USD (x1),750.00 USD (x1),https://www.elmachetazo.com/toallita-desmaquillante-burts-bee-tea30-unidades-10850845/p
-Supermercado,Lavaplato Crema Americano Limón|425g,128.00 USD (x1),144.00 USD (x1),https://www.elmachetazo.com/lavaplato-crema-americano-limon425g-10928494/p
-Supermercado,Suavizante Anochecer Complete|800ml,262.00 USD (x1),262.00 USD (x1),https://www.elmachetazo.com/suavizante-anochecer-complete800ml-10753112/p
-Supermercado,Toalla Femenina Kotex Sport Ultradelgadas|14 Unidades,296.00 USD (x1),296.00 USD (x1),https://www.elmachetazo.com/toalla-femenina-kotex-sport-ultradelgadas14-unidades-10802650/p
 Supermercado,Protectores Diarios Kotex|Indicador de PH|40 Unidades,495.00 USD (x1),495.00 USD (x1),https://www.elmachetazo.com/protectores-diarios-kotexindicador-de-ph40-unidades-10876017/p
 Supermercado,Ropa Interior Desechable Goodnites Unisex|M|14 Unidades,1175.00 USD (x1),1175.00 USD (x1),https://www.elmachetazo.com/ropa-interior-desechable-goodnites-unisexm14-unidades-10635092/p
 Supermercado,Servilletas de Papel Scott Decoradas|100 Hojas,250.00 USD (x1),250.00 USD (x1),https://www.elmachetazo.com/servilletas-de-papel-scott--decoradas100-hojas-10679352/p
@@ -695,14 +687,16 @@ Supermercado,Vela Blanca sin Vaso|50 horas,121.00 USD (x1),121.00 USD (x1),https
 Supermercado,Vela Blanca sin Vaso|7 Días,263.00 USD (x1),263.00 USD (x1),https://www.elmachetazo.com/vela-blanca-sin-vaso7-dias-10504915/p
 Supermercado,Shampoo Antipulgas para Mascotas|300ml,539.00 USD (x1),539.00 USD (x1),https://www.elmachetazo.com/shampoo-antipulgas-para-mascotas300ml-10825385/p
 Supermercado,Shampoo para Mascotas Citrus |600ml,459.00 USD (x1),459.00 USD (x1),https://www.elmachetazo.com/shampoo-para-mascotas-citrus-600ml-10825386/p
+Supermercado,Shampoo para Mascotas Citrus|300ml,350.00 USD (x1),350.00 USD (x1),https://www.elmachetazo.com/shampoo-para-mascotas-citrus300ml-10825388/p
+Supermercado,Vino Tinto Segu Olle 1 Litro,355.00 USD (x1),355.00 USD (x1),https://www.elmachetazo.com/vino-tinto-segu-olle-1-litro-10870337/p
 Supermercado,Vino Rosado Segu Olle 1 Litro,355.00 USD (x1),355.00 USD (x1),https://www.elmachetazo.com/vino-rosado-segu-olle-1-litro-10870336/p
 Supermercado,Jamon Picnic Ahumado Fieldstone|Por Kilo,579.00 USD (x1),579.00 USD (x1),https://www.elmachetazo.com/jamon-picnic-ahumado-fieldstonepor-kilo-10598680/p
+Supermercado,Antiparasitario Interno Paracanis NF 10ml,300.00 USD (x1),300.00 USD (x1),https://www.elmachetazo.com/antiparasitario-interno-paracanis-nf-10ml-10027170/p
 Supermercado,Detergente Liquido Actiblu Fab|3 Litros,845.00 USD (x1),845.00 USD (x1),https://www.elmachetazo.com/detergente-liquido-actiblu-fab3-litros-10806577/p
 Supermercado,Alimento Perro Dog Chow|Adulto|Raza Grande|15Kg,4852.00 USD (x1),4852.00 USD (x1),https://www.elmachetazo.com/alimento-perro-dog-chowadultoraza-grande15kg-10037243/p
 Supermercado,Plástico Adherente Cling Wrap|200 Pies,410.00 USD (x1),410.00 USD (x1),https://www.elmachetazo.com/plastico-adherente-cling-wrap200-pies-10804513/p
 Supermercado,Vela Verde Sin Vaso|50 Horas,115.00 USD (x1),115.00 USD (x1),https://www.elmachetazo.com/vela-verde-sin-vaso50-horas-10255281/p
 Supermercado,Desinfectante Lavanda Spum|800ml,139.00 USD (x1),139.00 USD (x1),https://www.elmachetazo.com/desinfectante-lavanda-spum800ml-10830544/p
-Supermercado,Cera Líquida 60ml|Color Blanco,185.00 USD (x1),185.00 USD (x1),https://www.elmachetazo.com/cera-liquida-60mlcolor-blanco-10029185/p
 Supermercado,Betún Crema 30g|Color Negro,135.00 USD (x1),135.00 USD (x1),https://www.elmachetazo.com/betun-crema-30gcolor-negro-10022151/p
 Supermercado,Desinfectante Aerosol Early Morning|12 oz,733.00 USD (x1),733.00 USD (x1),https://www.elmachetazo.com/desinfectante-aerosol-early-morning12-oz-10002937/p
 Supermercado,Alimento para Ave Semilla de Girasol|1 lb,161.00 USD (x1),161.00 USD (x1),https://www.elmachetazo.com/alimento-para-ave-semilla-de-girasol1-lb-10017652/p
@@ -719,6 +713,8 @@ Supermercado,Soda Fresa Kist 12oz,85.00 USD (x1),85.00 USD (x1),https://www.elma
 Supermercado,Soda Uva Kist 1 Litro,132.00 USD (x1),132.00 USD (x1),https://www.elmachetazo.com/soda-uva-kist-1-litro-10683200/p
 Supermercado,Soda Naranja Kist 2.5 L,272.00 USD (x1),272.00 USD (x1),https://www.elmachetazo.com/soda-naranja-kist-25-l-10385409/p
 Supermercado,Soda Fresa Kist 1 Litro,162.00 USD (x1),162.00 USD (x1),https://www.elmachetazo.com/soda-fresa-kist-1-litro-10012358/p
+Supermercado,Soda Manzana Kist 600ml,115.00 USD (x1),115.00 USD (x1),https://www.elmachetazo.com/soda-manzana-kist-600ml-10012356/p
+Supermercado,Soda Naranja Kist 600ml,115.00 USD (x1),115.00 USD (x1),https://www.elmachetazo.com/soda-naranja-kist-600ml-10012355/p
 Supermercado,Soda Naranja Kist 12oz,85.00 USD (x1),85.00 USD (x1),https://www.elmachetazo.com/soda-naranja-kist-12oz-10012234/p
 Supermercado,Soda Ginger Ale Schweppes 1.5L,165.00 USD (x1),165.00 USD (x1),https://www.elmachetazo.com/soda-ginger-ale-schweppes-15l-10012232/p
 Supermercado,Soda Ginger Ale Schweppes 12 oz,85.00 USD (x1),85.00 USD (x1),https://www.elmachetazo.com/soda-ginger-ale-schweppes-12-oz-10012235/p
@@ -793,6 +789,10 @@ Supermercado,Tinte Bigen Negro Speedy 8,699.00 USD (x1),699.00 USD (x1),https://
 Supermercado,Atún Splash Vegetales 295gr,229.00 USD (x1),229.00 USD (x1),https://www.elmachetazo.com/atun-splash-vegetales-295gr-10803022/p
 Supermercado,Atún Splash Aceite 295gr,229.00 USD (x1),229.00 USD (x1),https://www.elmachetazo.com/atun-splash-aceite-295gr-10803016/p
 Supermercado,Rodajas de Salmón Goumar|1Kg,1799.00 USD (x1),1799.00 USD (x1),https://www.elmachetazo.com/rodajas-de-salmon-goumar1kg-10809121/p
+Supermercado,Limpiador de Botellas Scotch Brite,307.00 USD (x1),307.00 USD (x1),https://www.elmachetazo.com/limpiador-de-botellas-scotch-brite-10778909/p
+Supermercado,Paño Absorbente Scotch Brite,157.00 USD (x1),157.00 USD (x1),https://www.elmachetazo.com/pano-absorbente-scotch-brite-10355027/p
+Supermercado,Esponja Scotch Brite Limpieza Delicada Cero Rayas Baño,358.00 USD (x1),358.00 USD (x1),https://www.elmachetazo.com/esponja-scotch-brite-limpieza-delicada-cero-rayas-bano-10462277/p
+Supermercado,Esponja Scotch Brite Limpieza Delicada Cero Rayas Baño,190.00 USD (x1),190.00 USD (x1),https://www.elmachetazo.com/esponja-scotch-brite-limpieza-delicada-cero-rayas-bano-10462278/p
 Supermercado,Paño de Microfibra Scotch Brite Cocina Toque Suave,279.00 USD (x1),279.00 USD (x1),https://www.elmachetazo.com/pano-de-microfibra-scotch-brite-cocina-toque-suave-10355034/p
 Supermercado,Cepillo Multiuso Scotch-Brite,422.00 USD (x1),422.00 USD (x1),https://www.elmachetazo.com/cepillo-multiuso-scotch-brite-10355138/p
 Supermercado,Cepillo Scotch-Brite para Baños y Losetas,315.00 USD (x1),315.00 USD (x1),https://www.elmachetazo.com/cepillo-scotch-brite-para-banos-y-losetas-10355029/p
@@ -818,6 +818,7 @@ Supermercado,Sardina Ovalada Picante Blue Pacific 415g,245.00 USD (x1),245.00 US
 Supermercado,Jabón Baby Magic Mennen Lavanda |Hipoalergénico|90g,146.00 USD (x1),146.00 USD (x1),https://www.elmachetazo.com/jabon-barra-lavanda-mennen-90g-10850286/p
 Supermercado,Shampoo Elvive Hidra Hialurónico 680ml,999.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/shampoo-elvive-hidra-hialuronico-680ml-10849089/p
 Supermercado,Saba Buenas Noches Sin Alas|8S,282.00 USD (x1),282.00 USD (x1),https://www.elmachetazo.com/saba-buenas-noches-sin-alas8s-10845165/p
+Supermercado,Pants Adulto Slip Nocturno Tena|G|8 Unidades,1450.00 USD (x1),1450.00 USD (x1),https://www.elmachetazo.com/pants-adulto-slip-nocturno-tenag8-unidades-10762919/p
 Supermercado,Pants Adulto Slip Nocturno Tena|S-M|8 Unidades,1400.00 USD (x1),1400.00 USD (x1),https://www.elmachetazo.com/pants-adulto-slip-nocturno-tenas-m8-unidades-10762918/p
 Supermercado,Pants Adulto Tena Slip Medium|20 Unidades,2536.00 USD (x1),2536.00 USD (x1),https://www.elmachetazo.com/pants-adulto-tena-slip-medium20-unidades-10018441/p
 Supermercado,Granola Miel y Almendras Avelina| 350g,279.00 USD (x1),279.00 USD (x1),https://www.elmachetazo.com/granola-miel-y-almendras-avelina-350g-10812076/p
@@ -838,7 +839,6 @@ Supermercado,Tinte Capilar Verde Oscuro Artic Semipermanente 4 oz,1459.00 USD (x
 Supermercado,Tinte Capilar Aguamarine Artic|4 oz,1459.00 USD (x1),1459.00 USD (x1),https://www.elmachetazo.com/tinte-capilar-aguamarine-artic4-oz-10831662/p
 Supermercado,Tostones Maduritos Tropimax 57g,109.00 USD (x1),109.00 USD (x1),https://www.elmachetazo.com/tostones-maduritos-tropimax-57g-10772447/p
 Supermercado,Filetes de Corvina Congelados 320g,505.00 USD (x1),505.00 USD (x1),https://www.elmachetazo.com/filetes-de-corvina-congelados-320g-10469296/p
-Supermercado,Desinfectante Mistolín Espíritu Play 900ml,207.00 USD (x1),207.00 USD (x1),https://www.elmachetazo.com/desinfectante-mistolin-espiritu-play-900ml-10819514/p
 Supermercado,Salsa Amatriciana 330g,400.00 USD (x1),400.00 USD (x1),https://www.elmachetazo.com/salsa-amatriciana-330g-10723078/p
 Supermercado,Mayonesa Premium Hemmer 330g,279.00 USD (x1),279.00 USD (x1),https://www.elmachetazo.com/mayonesa-premium-hemmer-330g-10827029/p
 Supermercado,Molho 3 en 1 Hemmer 310g,129.00 USD (x1),129.00 USD (x1),https://www.elmachetazo.com/molho-3-en-1-hemmer-310g-10827031/p
@@ -938,9 +938,6 @@ Supermercado,Ron Abuelo Vidrio 200ml,236.00 USD (x1),236.00 USD (x1),https://www
 Supermercado,Ron Bacardí 8 Años Gran Reserva 750ml,2351.00 USD (x1),2351.00 USD (x1),https://www.elmachetazo.com/ron-bacardi-8-anos-gran-reserva-750ml-10026777/p
 Supermercado,Detergente Rocío|1000g,235.00 USD (x1),253.00 USD (x1),https://www.elmachetazo.com/detergente-rocio1000g-10830535/p
 Supermercado,Detergente Rocío|10 Kg,1526.00 USD (x1),1526.00 USD (x1),https://www.elmachetazo.com/detergente-rocio10-kg-10830537/p
-Supermercado,Ron Colonial Artesanal 700ml,3338.00 USD (x1),3338.00 USD (x1),https://www.elmachetazo.com/ron-colonial-artesanal-700ml-10639376/p
-Supermercado,Ron Malibú Coconut 750ml,1681.00 USD (x1),1681.00 USD (x1),https://www.elmachetazo.com/ron-malibu-coconut-750ml-10008696/p
-Supermercado,Desodorante Air Heavy Duty Pet Febreze 8.8oz,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/desodorante-air-heavy-duty-pet-febreze-88oz-10806793/p
 Supermercado,Vino Merlot Marques Casa Concha 750ml,1050.00 USD (x1),1490.00 USD (x1),https://www.elmachetazo.com/vino-merlot-marques-casa-concha-750ml-10802781/p
 Supermercado,Cerveza Blue Moon Light Sky|12 oz,135.00 USD (x1),135.00 USD (x1),https://www.elmachetazo.com/cerveza-blue-moon-light-sky-lata-12oz-10804438/p
 Supermercado,Pancake Original Pearl Milling Co.|907g,375.00 USD (x1),375.00 USD (x1),https://www.elmachetazo.com/pancake-original-pearl-milling-co-907g-10827109-machetazo/p
@@ -980,7 +977,6 @@ Supermercado,Vinagreta Balsámica Kraft 16oz,487.00 USD (x1),487.00 USD (x1),htt
 Supermercado,Desinfectante Spum Lavanda 1 galón,515.00 USD (x1),693.00 USD (x1),https://www.elmachetazo.com/desinfectante-spum-lavanda-1-galon-10818297/p
 Supermercado,Desinfectante Multiuso Sanytol 750ml,330.00 USD (x1),330.00 USD (x1),https://www.elmachetazo.com/desinfectante-multiuso-sanytol-750ml-10827269/p
 Supermercado,Suavizante Elegance Downy 2600 ml,583.00 USD (x1),583.00 USD (x1),https://www.elmachetazo.com/suavizante-elegance-downy-2600-ml-10830454/p
-Supermercado,Detergente Rocío|2500g,533.00 USD (x1),589.00 USD (x1),https://www.elmachetazo.com/detergente-rocio2500g-10830536/p
 Supermercado,Flan Vainilla Royal|80g,120.00 USD (x1),120.00 USD (x1),https://www.elmachetazo.com/flan-vainilla-royal80g-10349690/p
 Supermercado,Flan Vainilla Caramelo Royal 85g,150.00 USD (x1),150.00 USD (x1),https://www.elmachetazo.com/flan-vainilla-caramelo-royal-85g-10404671/p
 Supermercado,Crema Facial Hidratante Gel Rosas Nivea 50ml,1334.00 USD (x1),1334.00 USD (x1),https://www.elmachetazo.com/crema-facial-hidratante-gel-rosas-nivea-50ml-10823030/p
@@ -991,6 +987,7 @@ Supermercado,Té Cero Azúcar Melocotón Tropical 500ml,78.00 USD (x1),78.00 USD
 Supermercado,Té Cero Azúcar Frutas Tropicales Topical 500ml,78.00 USD (x1),78.00 USD (x1),https://www.elmachetazo.com/te-cero-azucar-frutas-tropicales-topical-500ml-10795822/p
 Supermercado,Pañal Desechable Pampers Splashers|E4|11U,895.00 USD (x1),895.00 USD (x1),https://www.elmachetazo.com/panal-desechable-pampers-splasherse411u-10806548/p
 Supermercado,Repuesto Automático Cielo Brisa de Mar Glade 175g,949.00 USD (x1),949.00 USD (x1),https://www.elmachetazo.com/repuesto-automatico-cielo-brisa-de-mar-glade-175g-10820967/p
+Supermercado,Aromatizante Glade Repuesto Mora Radiante 63ml,1033.00 USD (x1),1033.00 USD (x1),https://www.elmachetazo.com/aromatizante-glade-repuesto-mora-radiante-63ml-10823509/p
 Farmacia,Pedialyte Polvo Strawberry|3.5 g|5 Sobres,925.00 USD (x1),925.00 USD (x1),https://www.elmachetazo.com/pedialyte-polvo-strawberry35-g5-sobres-10969596/p
 Farmacia,Acetaminofen|500mg|20 Tabletas,153.00 USD (x1),204.00 USD (x1),https://www.elmachetazo.com/acetaminofen500mg20-tabletas-10895115/p
 Farmacia,Aspirina Infantil|100mg|20 Tabletas,277.00 USD (x1),370.00 USD (x1),https://www.elmachetazo.com/aspirina-infantil100mg20-tabletas-10253459/p
@@ -1007,7 +1004,7 @@ Farmacia,Protector Solar SPF|10 Ml,1075.00 USD (x1),1433.00 USD (x1),https://www
 Farmacia,Vantal Spray Bucal|30ml,1035.00 USD (x1),1380.00 USD (x1),https://www.elmachetazo.com/vantal-spray-bucal30ml-10248066/p
 Farmacia,Preservativo Trojan ProTech,341.00 USD (x1),341.00 USD (x1),https://www.elmachetazo.com/preservativo-trojan-protech-10248762/p
 Farmacia,Monitor de Presion,4074.00 USD (x1),4074.00 USD (x1),https://www.elmachetazo.com/monitor-de-presion-10718228/p
-Farmacia,Alive Mens Energy|50 Tabletas,1817.00 USD (x1),2423.00 USD (x1),https://www.elmachetazo.com/alive-mens-energy50-tabletas-10248478/p
+Farmacia,Alive Mens Energy|50 Tabletas,1978.00 USD (x1),2637.00 USD (x1),https://www.elmachetazo.com/alive-mens-energy50-tabletas-10248478/p
 Farmacia,Crazy Charles More,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/crazy-charles-more-10970441/p
 Farmacia,Tricky Taylor More,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/tricky-taylor-more-10970442/p
 Farmacia,Whacky Wendy More,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/whacky-wendy-more-10970443/p
@@ -1086,10 +1083,8 @@ Farmacia,Curita Leukoplast Resistente al Agua|20 Unidades,271.00 USD (x1),271.00
 Farmacia,Triple C Total|10 Sobres,1334.00 USD (x1),1779.00 USD (x1),https://www.elmachetazo.com/triple-c-total10-sobres-10881407/p
 Farmacia,Pepto Bismol|473ml,985.00 USD (x1),1313.00 USD (x1),https://www.elmachetazo.com/pepto-bismol473ml-10313815/p
 Farmacia,Antiflu-Des NF|Antigripal|12 Cápsulas,610.00 USD (x1),813.00 USD (x1),https://www.elmachetazo.com/antiflu-des-nfantigripal12-capsulas-10819081/p
-Farmacia,Antiflu-Des Más|Antigripal|12 Sobres,592.00 USD (x1),790.00 USD (x1),https://www.elmachetazo.com/antiflu-des-masantigripal12-sobres-10912626/p
 Farmacia,Pedialyte Fresa 60mEq|500ml,315.00 USD (x1),315.00 USD (x1),https://www.elmachetazo.com/pedialyte-fresa-60meq500ml-10866493/p
 Farmacia,Pedialyte Coco 60mEq|500ml,312.00 USD (x1),312.00 USD (x1),https://www.elmachetazo.com/pedialyte-coco-60meq500ml-10866494/p
-Farmacia,Pedialyte Coco 30mEq|500ml,405.00 USD (x1),405.00 USD (x1),https://www.elmachetazo.com/pedialyte-coco-30meq500ml-10554279/p
 Farmacia,Pedialyte Uva 60mEq|500ml,315.00 USD (x1),315.00 USD (x1),https://www.elmachetazo.com/pedialyte-uva-60meq500ml-10249459/p
 Farmacia,Triple C Total|20 Sobres,2427.00 USD (x1),3236.00 USD (x1),https://www.elmachetazo.com/triple-c-total20-sobres-10881413/p
 Farmacia,Caltrate 600+M|Vitamina D3 y Minerales|60 Tabletas,1615.00 USD (x1),2153.00 USD (x1),https://www.elmachetazo.com/caltrate-600mvitamina-d3-y-minerales60-tabletas-10248279/p
@@ -1104,7 +1099,7 @@ Farmacia,Crema Dental Colgate Periogard|90g,1766.00 USD (x1),1766.00 USD (x1),ht
 Farmacia,Gel Lubricante More|Efecto Refrescante|100ml,549.00 USD (x1),549.00 USD (x1),https://www.elmachetazo.com/gel-lubricante-moreefecto-refrescante100ml-10866480/p
 Farmacia,Gel Lubricante Clásico More|100ml,519.00 USD (x1),519.00 USD (x1),https://www.elmachetazo.com/gel-lubricante-clasico-more100ml-10866477/p
 Farmacia,Sal Andrews Naranja|12 Sobres,250.00 USD (x1),334.00 USD (x1),https://www.elmachetazo.com/sal-andrews-naranja12-sobres-10912599/p
-Farmacia,Nopalina|500ml,1432.00 USD (x1),1910.00 USD (x1),https://www.elmachetazo.com/nopalina500ml-10873885/p
+Farmacia,Nopalina|500ml,1469.00 USD (x1),1959.00 USD (x1),https://www.elmachetazo.com/nopalina500ml-10873885/p
 Farmacia,Ungüento Muscular Zepol Deportista|60g,242.00 USD (x1),373.00 USD (x1),https://www.elmachetazo.com/ungento-muscular-zepol-deportista60g-10455236/p
 Farmacia,Cebión Gotas 30ml|Sabor Fresa,445.00 USD (x1),594.00 USD (x1),https://www.elmachetazo.com/cebion-gotas-30mlsabor-fresa-10252250/p
 Farmacia,Triple C Kids 240 ml,958.00 USD (x1),1277.00 USD (x1),https://www.elmachetazo.com/triple-c-kids-240-ml-10881402/p
@@ -1152,26 +1147,25 @@ Farmacia,Rayo Ice Gel Analgésico|8 oz,215.00 USD (x1),287.00 USD (x1),https://w
 Farmacia,Pepto-Bismol|236ml,625.00 USD (x1),833.00 USD (x1),https://www.elmachetazo.com/pepto-bismol236ml-10008662/p
 Farmacia,Parche KanTon|4 Unidades,430.00 USD (x1),573.00 USD (x1),https://www.elmachetazo.com/parche-kanton4-unidades-10307969/p
 Farmacia,Panadol Extra Fuerte|16 Tabletas|500mg,205.00 USD (x1),273.00 USD (x1),https://www.elmachetazo.com/panadol-extra-fuerte16-tabletas500mg-10428422/p
-Farmacia,Mixtura Ruibarbo y Soda|240ml,360.00 USD (x1),480.00 USD (x1),https://www.elmachetazo.com/mixtura-ruibarbo-y-soda240ml-10247687/p
 Farmacia,Dorival Liquid Gel 200mg|12 Cápsulas,563.00 USD (x1),751.00 USD (x1),https://www.elmachetazo.com/dorival-liquid-gel-200mg12-capsulas-10257366/p
 Farmacia,Leche de Magnesia Phillips|Original|360 ml,838.00 USD (x1),1118.00 USD (x1),https://www.elmachetazo.com/leche-de-magnesia-phillipsoriginal360-ml-10008620/p
-Farmacia,Fit Estrogen|90 Capsulas,1606.00 USD (x1),2142.00 USD (x1),https://www.elmachetazo.com/fit-estrogen90-capsulas-10252560/p
-Farmacia,"Hair, Sking & Nails|100mg|90 Capsulas",1539.00 USD (x1),2052.00 USD (x1),https://www.elmachetazo.com/hair-sking--nails100mg90-capsulas-10252535/p
-Farmacia,Maca 69|100 Tabletas,1136.00 USD (x1),1515.00 USD (x1),https://www.elmachetazo.com/maca-69100-tabletas-10356108/p
-Farmacia,Ginkgo Biloba|90 Tabletas,1147.00 USD (x1),1530.00 USD (x1),https://www.elmachetazo.com/ginkgo-biloba90-tabletas-10252537/p
+Farmacia,Fit Estrogen|90 Capsulas,1705.00 USD (x1),2274.00 USD (x1),https://www.elmachetazo.com/fit-estrogen90-capsulas-10252560/p
+Farmacia,"Hair, Sking & Nails|100mg|90 Capsulas",1634.00 USD (x1),2179.00 USD (x1),https://www.elmachetazo.com/hair-sking--nails100mg90-capsulas-10252535/p
+Farmacia,Maca 69|100 Tabletas,1207.00 USD (x1),1609.00 USD (x1),https://www.elmachetazo.com/maca-69100-tabletas-10356108/p
+Farmacia,Ginkgo Biloba|90 Tabletas,1219.00 USD (x1),1625.00 USD (x1),https://www.elmachetazo.com/ginkgo-biloba90-tabletas-10252537/p
 Farmacia,Lomotil 2mg |40 Tabletas,1900.00 USD (x1),2533.00 USD (x1),https://www.elmachetazo.com/lomotil-2mg-40-tabletas-10249312/p
-Farmacia,Suplemento Melatonin|1mg|180 Tabletas,703.00 USD (x1),938.00 USD (x1),https://www.elmachetazo.com/suplemento-melatonin1mg180-tabletas-10250999/p
-Farmacia,Suplemento Zinc 50mg|100 Caplets,902.00 USD (x1),1203.00 USD (x1),https://www.elmachetazo.com/suplemento-zinc-50mg100-caplets-10309190/p
-Farmacia,Suplemento Melatonin|10mg|60 Capsulas,1420.00 USD (x1),1893.00 USD (x1),https://www.elmachetazo.com/suplemento-melatonin10mg60-capsulas-10571165/p
-Farmacia,Suplemento Magnesium|500mg|100 Tabletas,857.00 USD (x1),1143.00 USD (x1),https://www.elmachetazo.com/suplemento-magnesium500mg100-tabletas-10308013/p
+Farmacia,Suplemento Melatonin|1mg|180 Tabletas,721.00 USD (x1),962.00 USD (x1),https://www.elmachetazo.com/suplemento-melatonin1mg180-tabletas-10250999/p
+Farmacia,Suplemento Zinc 50mg|100 Caplets,925.00 USD (x1),1234.00 USD (x1),https://www.elmachetazo.com/suplemento-zinc-50mg100-caplets-10309190/p
+Farmacia,Suplemento Melatonin|10mg|60 Capsulas,1456.00 USD (x1),1942.00 USD (x1),https://www.elmachetazo.com/suplemento-melatonin10mg60-capsulas-10571165/p
+Farmacia,Suplemento Magnesium|500mg|100 Tabletas,880.00 USD (x1),1173.00 USD (x1),https://www.elmachetazo.com/suplemento-magnesium500mg100-tabletas-10308013/p
 Farmacia,Suplemento L-Carnitine|500 mg|30 Tabletas,2062.00 USD (x1),2750.00 USD (x1),https://www.elmachetazo.com/suplemento-l-carnitine500-mg30-tabletas-10250995/p
-Farmacia,Suplemento L-Arguinine|1000mg|50 Tabletas,1194.00 USD (x1),1592.00 USD (x1),https://www.elmachetazo.com/suplemento-l-arguinine1000mg50-tabletas-10251023/p
-Farmacia,Suplemento Nature Bounty Hair Skin & Nails|150 Capsulas,1524.00 USD (x1),2032.00 USD (x1),https://www.elmachetazo.com/suplemento-hair-skinnails150-capsulas-blandas-10571164/p
+Farmacia,Suplemento L-Arguinine|1000mg|50 Tabletas,1224.00 USD (x1),1632.00 USD (x1),https://www.elmachetazo.com/suplemento-l-arguinine1000mg50-tabletas-10251023/p
+Farmacia,Suplemento Nature Bounty Hair Skin & Nails|150 Capsulas,1563.00 USD (x1),2084.00 USD (x1),https://www.elmachetazo.com/suplemento-hair-skinnails150-capsulas-blandas-10571164/p
 Farmacia,Suplemento Ginseng Complex Plus Royal Jelly|75 Capsulas,839.00 USD (x1),1119.00 USD (x1),https://www.elmachetazo.com/suplemento-ginseng-complex-plus-royal-jelly75-capsulas-10362525/p
-Farmacia,Suplemento Ginkgo Biloba 120mg|100 Capsulas,1609.00 USD (x1),2145.00 USD (x1),https://www.elmachetazo.com/suplemento-ginkgo--biloba--120mg100-capsulas-10351077/p
-Farmacia,Suplemento Garlic 2000 mg|120 Tabletas,805.00 USD (x1),1073.00 USD (x1),https://www.elmachetazo.com/suplemento-garlic-2000-mg120-tabletas-10836791/p
-Farmacia,Suplemento Acido Folico 800mcg|250 Tabletas,840.00 USD (x1),1120.00 USD (x1),https://www.elmachetazo.com/suplemento-acido-folico-800mcg250-tabletas-10308008/p
-Farmacia,Suplemento Fish Oil|2400mg|90 Capsulas Blandas,1906.00 USD (x1),2542.00 USD (x1),https://www.elmachetazo.com/suplemento-fish-oil2400mg90-capsulas-blandas-10350890/p
+Farmacia,Suplemento Ginkgo Biloba 120mg|100 Capsulas,1650.00 USD (x1),2200.00 USD (x1),https://www.elmachetazo.com/suplemento-ginkgo--biloba--120mg100-capsulas-10351077/p
+Farmacia,Suplemento Garlic 2000 mg|120 Tabletas,826.00 USD (x1),1101.00 USD (x1),https://www.elmachetazo.com/suplemento-garlic-2000-mg120-tabletas-10836791/p
+Farmacia,Suplemento Acido Folico 800mcg|250 Tabletas,862.00 USD (x1),1149.00 USD (x1),https://www.elmachetazo.com/suplemento-acido-folico-800mcg250-tabletas-10308008/p
+Farmacia,Suplemento Fish Oil|2400mg|90 Capsulas Blandas,1955.00 USD (x1),2607.00 USD (x1),https://www.elmachetazo.com/suplemento-fish-oil2400mg90-capsulas-blandas-10350890/p
 Farmacia,Suplemento Ester-C|500 mg|60 Tabletas,871.00 USD (x1),1162.00 USD (x1),https://www.elmachetazo.com/suplemento-ester-c500-mg60-tabletas-10350889/p
 Farmacia,Suplemento D3|125 mcg|100 Capsulas Blandas,1678.00 USD (x1),2238.00 USD (x1),https://www.elmachetazo.com/suplemento-d3125-mcg100-capsulas-blandas-10350892/p
 Farmacia,Suplemento de Colágeno Vitamina C y Biotina|90 Tabletas,1594.00 USD (x1),2126.00 USD (x1),https://www.elmachetazo.com/suplemento-advanced-collagen-vitamina-c90-tabletas-10251018/p
@@ -1189,10 +1183,11 @@ Farmacia,Lamisil Crema|15g,834.00 USD (x1),1112.00 USD (x1),https://www.elmachet
 Farmacia,Lamisil Spray Solución Tópica 1%|30ml,1801.00 USD (x1),2402.00 USD (x1),https://www.elmachetazo.com/lamisil-spray-solucion-topica-130ml-10253178/p
 Farmacia,Alcohol 70° Acisa|8 oz,102.00 USD (x1),102.00 USD (x1),https://www.elmachetazo.com/alcohol-708-oz-acisa-10031412/p
 Farmacia,Redoxon Doble Acción Efervescente|12 Tabletas,492.00 USD (x1),656.00 USD (x1),https://www.elmachetazo.com/redoxon-doble-accion-efervescente12-tabletas-10796429/p
-Farmacia,Fit Lab Vitamina Zinc |90 Tabletas|30mg,961.00 USD (x1),1282.00 USD (x1),https://www.elmachetazo.com/fit-lab-vitamina-zinc-90-tabletas30mg-10812096/p
+Farmacia,Fit Lab Vitamina Zinc |90 Tabletas|30mg,1021.00 USD (x1),1361.00 USD (x1),https://www.elmachetazo.com/fit-lab-vitamina-zinc-90-tabletas30mg-10812096/p
 Farmacia,Aspirina Advance 500 mg|20 Tabletas,367.00 USD (x1),489.00 USD (x1),https://www.elmachetazo.com/aspirina-advance-500-mg20-tabletas-10791464/p
 Farmacia,Flúor Kin Calcio Infantil|500ml,1781.00 USD (x1),1781.00 USD (x1),https://www.elmachetazo.com/fluor-kin-calcio-infantil500ml-10350786/p
 Farmacia,Flúor Kin Pasta Anticaries|75ml,1020.00 USD (x1),1020.00 USD (x1),https://www.elmachetazo.com/fluor-kin-pasta-anticaries75ml-10247905/p
+Farmacia,Mixtura Ruibarbo y Soda|240ml,360.00 USD (x1),480.00 USD (x1),https://www.elmachetazo.com/mixtura-ruibarbo-y-soda240ml-10247687/p
 Farmacia,Flúor Kin Infantil|500,1743.00 USD (x1),1743.00 USD (x1),https://www.elmachetazo.com/fluor-kin-infantil500-10247838/p
 Farmacia,Gel Dental Periokin Hyaluronic 1%|30g,3251.00 USD (x1),3251.00 USD (x1),https://www.elmachetazo.com/gel-dental-periokin-hyaluronic-130g-10795640/p
 Farmacia,Perio-Kin Enjuage|250 ml,2149.00 USD (x1),2149.00 USD (x1),https://www.elmachetazo.com/perio-kin-enjuage250-ml-10247945/p
@@ -1201,17 +1196,17 @@ Farmacia,Voltarén Emugel|100g,2344.00 USD (x1),3126.00 USD (x1),https://www.elm
 Farmacia,Voltarén 1% Emugel|50g,1174.00 USD (x1),1565.00 USD (x1),https://www.elmachetazo.com/voltaren-1-emugel50g-10249804/p
 Farmacia,Panadol Mujer|Caja 16 Tabletas,345.00 USD (x1),345.00 USD (x1),https://www.elmachetazo.com/panadol-mujercaja-16-tabletas-10804461/p
 Farmacia,Tylenol Paracetamol 500mg|20 Tabletas,313.00 USD (x1),482.00 USD (x1),https://www.elmachetazo.com/tylenol-paracetamol-500mg20-tabletas-10777631/p
-Farmacia,Omega 3-6-9|90 Capsulas,1247.00 USD (x1),1663.00 USD (x1),https://www.elmachetazo.com/omega-3-6-990-capsulas-10357912/p
-Farmacia,B Complex|90 Tabletas,985.00 USD (x1),1313.00 USD (x1),https://www.elmachetazo.com/b-complex90-tabletas-10252559/p
-Farmacia,Triple C Advance|10 Sobres,898.00 USD (x1),1198.00 USD (x1),https://www.elmachetazo.com/triple-c-advance10-sobres-10835985/p
-Farmacia,Vita Toro Azul Adultos|500ml,1281.00 USD (x1),1708.00 USD (x1),https://www.elmachetazo.com/vita-toro-azul-adultos500ml-10779412/p
-Farmacia,Venolive|40 Caps,1196.00 USD (x1),1595.00 USD (x1),https://www.elmachetazo.com/venolive40-caps-10795522/p
-Farmacia,Triple Garlic Black|60 Cápsulas,1147.00 USD (x1),1530.00 USD (x1),https://www.elmachetazo.com/triple-garlic-black60-capsulas-10806046/p
-Farmacia,Triple C Forte|500ml,1210.00 USD (x1),1613.00 USD (x1),https://www.elmachetazo.com/triple-c-forte500ml-10767475/p
-Farmacia,Néctar de Clorofila|500 ml,1462.00 USD (x1),1950.00 USD (x1),https://www.elmachetazo.com/nectar-de-clorofila500-ml-10806044/p
-Farmacia,Magnesio Live|Caja 90 Tabletas,1219.00 USD (x1),1625.00 USD (x1),https://www.elmachetazo.com/magnesio-livecaja-90-tabletas-10806039/p
+Farmacia,Omega 3-6-9|90 Capsulas,1324.00 USD (x1),1766.00 USD (x1),https://www.elmachetazo.com/omega-3-6-990-capsulas-10357912/p
+Farmacia,B Complex|90 Tabletas,1046.00 USD (x1),1395.00 USD (x1),https://www.elmachetazo.com/b-complex90-tabletas-10252559/p
+Farmacia,Triple C Advance|10 Sobres,922.00 USD (x1),1229.00 USD (x1),https://www.elmachetazo.com/triple-c-advance10-sobres-10835985/p
+Farmacia,Vita Toro Azul Adultos|500ml,1314.00 USD (x1),1752.00 USD (x1),https://www.elmachetazo.com/vita-toro-azul-adultos500ml-10779412/p
+Farmacia,Venolive|40 Caps,1227.00 USD (x1),1636.00 USD (x1),https://www.elmachetazo.com/venolive40-caps-10795522/p
+Farmacia,Triple Garlic Black|60 Cápsulas,1177.00 USD (x1),1569.00 USD (x1),https://www.elmachetazo.com/triple-garlic-black60-capsulas-10806046/p
+Farmacia,Triple C Forte|500ml,1241.00 USD (x1),1655.00 USD (x1),https://www.elmachetazo.com/triple-c-forte500ml-10767475/p
+Farmacia,Néctar de Clorofila|500 ml,1500.00 USD (x1),2000.00 USD (x1),https://www.elmachetazo.com/nectar-de-clorofila500-ml-10806044/p
+Farmacia,Magnesio Live|Caja 90 Tabletas,1250.00 USD (x1),1667.00 USD (x1),https://www.elmachetazo.com/magnesio-livecaja-90-tabletas-10806039/p
 Farmacia,Eucamiel Jarabe|120ml,853.00 USD (x1),1137.00 USD (x1),https://www.elmachetazo.com/eucamiel-jarabe120ml-10526293/p
-Farmacia,Curcumina & Jengibre Plus|60 Tabletas,1106.00 USD (x1),1475.00 USD (x1),https://www.elmachetazo.com/curcumina--jengibre-plus60-tabletas-10806036/p
+Farmacia,Curcumina & Jengibre Plus|60 Tabletas,1135.00 USD (x1),1513.00 USD (x1),https://www.elmachetazo.com/curcumina--jengibre-plus60-tabletas-10806036/p
 Farmacia,Asiento para Inodoro,5556.00 USD (x1),5556.00 USD (x1),https://www.elmachetazo.com/asiento-para-inodoro-10827206/p
 Farmacia,Crema Dental Ortho-Kin|75 ml,1588.00 USD (x1),1588.00 USD (x1),https://www.elmachetazo.com/crema-dental-ortho-kin75-ml-10247812/p
 Farmacia,Kin-Care Gel Oral|15ml,3031.00 USD (x1),3031.00 USD (x1),https://www.elmachetazo.com/kin-care-gel-oral15ml-10477925/p
@@ -1239,7 +1234,6 @@ Farmacia,Enterogermina Plus|5 Viales|5 ml,1695.00 USD (x1),2260.00 USD (x1),http
 Farmacia,Lubricante Vive LUB Fresa|120ml,510.00 USD (x1),510.00 USD (x1),https://www.elmachetazo.com/lubricante-vive-lub-fresa120ml-10251874/p
 Farmacia,Preservativo Vive MÁS |Sensitivo,2132.00 USD (x1),2132.00 USD (x1),https://www.elmachetazo.com/preservativo-vive-mas-sensitivo-10829314/p
 Farmacia,Preservativo Vive Original,2257.00 USD (x1),2257.00 USD (x1),https://www.elmachetazo.com/preservativo-vive-original-10251897/p
-Farmacia,Preservativo Vive Original|6 Pack,2962.00 USD (x1),2962.00 USD (x1),https://www.elmachetazo.com/preservativo-vive-original6-pack-10251896/p
 Farmacia,Preservativo Vive MÁS Colors|Menta,2132.00 USD (x1),2132.00 USD (x1),https://www.elmachetazo.com/preservativo-vive-mas-colorsmenta-10251891/p
 Farmacia,Emulsión Scott Naranja|200ml,374.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/emulsion-scott-naranja200ml-10252883/p
 Farmacia,Alcohol 70% con Atomizador A-Livia|16 oz,152.00 USD (x1),152.00 USD (x1),https://www.elmachetazo.com/alcohol-70-con-atomizador-a-livia16-oz-10804645/p
@@ -1258,12 +1252,13 @@ Farmacia,Cureband Premium Gasa|10x10cm|24 Sobres,818.00 USD (x1),818.00 USD (x1)
 Farmacia,Cureband Premium Gasa Estéril|24 Sobres,694.00 USD (x1),694.00 USD (x1),https://www.elmachetazo.com/cureband-premium-gasa-esteril24-sobres-10631957/p
 Farmacia,Fleet Enema Adulto|4.5 oz,500.00 USD (x1),667.00 USD (x1),https://www.elmachetazo.com/fleet-enema-adulto45-oz-10249642/p
 Farmacia,Cureband Premium Curita Impermeable|Surtida|30 Unidades,239.00 USD (x1),239.00 USD (x1),https://www.elmachetazo.com/cureband-premium-curita-impermeablesurtida30-unidades-10249423/p
-Farmacia,Arthri Flex|1500 mg|120 Tabletas,2721.00 USD (x1),3628.00 USD (x1),https://www.elmachetazo.com/arthri-flex1500-mg120-tabletas-10252563/p
+Farmacia,Arthri Flex|1500 mg|120 Tabletas,2890.00 USD (x1),3853.00 USD (x1),https://www.elmachetazo.com/arthri-flex1500-mg120-tabletas-10252563/p
 Farmacia,Cureband Premium Curita Impermeable|30 Unidades,239.00 USD (x1),239.00 USD (x1),https://www.elmachetazo.com/cureband-premium-curita-impermeable30-unidades-10249422/p
 Farmacia,Cureband Premium Curita Transparente|20 Unidades,239.00 USD (x1),239.00 USD (x1),https://www.elmachetazo.com/cureband-premium-curita-transparente20-unidades-10249414/p
-Farmacia,Biotin|2500|90 Tabletas,1166.00 USD (x1),1555.00 USD (x1),https://www.elmachetazo.com/biotin250090-tabletas-10356106/p
+Farmacia,Biotin|2500|90 Tabletas,1238.00 USD (x1),1651.00 USD (x1),https://www.elmachetazo.com/biotin250090-tabletas-10356106/p
 Farmacia,Metamucil Polvo Naranja|174g,1268.00 USD (x1),1691.00 USD (x1),https://www.elmachetazo.com/metamucil-polvo-naranja174g-10247692/p
-Farmacia,Vitamina D3 5000 Ui|100 Softgels,883.00 USD (x1),1177.00 USD (x1),https://www.elmachetazo.com/vitamina-d3-5000-ui100-softgels-10482131/p
+Farmacia,Vitamina D3 5000 Ui|100 Softgels,905.00 USD (x1),1207.00 USD (x1),https://www.elmachetazo.com/vitamina-d3-5000-ui100-softgels-10482131/p
+Farmacia,Antiflu-Des|100 Cápsulas,5500.00 USD (x1),7333.00 USD (x1),https://www.elmachetazo.com/antiflu-des100-capsulas-10350824/p
 Farmacia,Jarabe Infantil Vick 44|120 ml|Sabor Cereza,756.00 USD (x1),1008.00 USD (x1),https://www.elmachetazo.com/jarabe-infantil-vick-44120-mlsabor-cereza-10249284/p
 Farmacia,Alcohol Acisa 70°|1 Galón,989.00 USD (x1),989.00 USD (x1),https://www.elmachetazo.com/alcohol-acisa--701-galon-10032601/p
 Farmacia,Alcohol 70° Acisa |16 oz,133.00 USD (x1),133.00 USD (x1),https://www.elmachetazo.com/alcohol-70-acisa-16-oz-10031246/p
@@ -1278,7 +1273,7 @@ Farmacia,Vick Vaporub Lata|12g,110.00 USD (x1),147.00 USD (x1),https://www.elmac
 Farmacia,Vick 44 EXP Jarabe 120ml Sabor Cereza,740.00 USD (x1),987.00 USD (x1),https://www.elmachetazo.com/vick-44-exp-jarabe-120ml-sabor-cereza-10249283/p
 Farmacia,Cremasten Crema Tópica|20g,376.00 USD (x1),501.00 USD (x1),https://www.elmachetazo.com/cremasten-crema-topica20g-10252810/p
 Farmacia,Eucerin Shampoo Corporal Para Bebe,3011.00 USD (x1),4015.00 USD (x1),https://www.elmachetazo.com/eucerin-shampoo-corporal-para-bebe-10615352/p
-Farmacia,Cremasten Solución|30ml,408.00 USD (x1),544.00 USD (x1),https://www.elmachetazo.com/cremasten-solucion30ml-10252821/p
+Farmacia,Trimetose Jarabe 120ml,545.00 USD (x1),727.00 USD (x1),https://www.elmachetazo.com/trimetose-jarabe-120ml-10251238/p
 Farmacia,Ungüento Muscular Zepol Deportista|120g,346.00 USD (x1),532.00 USD (x1),https://www.elmachetazo.com/ungento-muscular-zepol-deportista120g-10455237/p
 Farmacia,Tabcin Extra Fuerte Noche|12 Gelcaps,518.00 USD (x1),691.00 USD (x1),https://www.elmachetazo.com/tabcin-extra-fuerte-noche12-gelcaps-10728339/p
 Farmacia,Tylenol Paracetamol Infantil|120ml,430.00 USD (x1),573.00 USD (x1),https://www.elmachetazo.com/tylenol-paracetamol-infantil120ml-10247996/p
@@ -1293,7 +1288,6 @@ Farmacia,Emulsión Scott Naranja|400ml,610.00 USD (x1),813.00 USD (x1),https://w
 Farmacia,Ultra Corega Crema Sin Sabor|40g,679.00 USD (x1),679.00 USD (x1),https://www.elmachetazo.com/ultra-corega-crema-sin-sabor40g-10252880/p
 Farmacia,Aceite Árbol de Té|15ml,1056.00 USD (x1),1408.00 USD (x1),https://www.elmachetazo.com/aceite-arbol-de-te15ml-10678176/p
 Farmacia,Ballena Azul Emulsión Cereza|450ml,617.00 USD (x1),823.00 USD (x1),https://www.elmachetazo.com/ballena-azul-emulsion-cereza450ml-10249833/p
-Farmacia,Cardioaspirina|81mg|30 Tabletas,1219.00 USD (x1),1625.00 USD (x1),https://www.elmachetazo.com/cardioaspirina81mg30-tabletas-10257364/p
 Farmacia,Jarabe Pino Blanco y Brea Mentolado 120ml,260.00 USD (x1),347.00 USD (x1),https://www.elmachetazo.com/jarabe-pino-blanco-y-brea-mentolado-120ml-10253095/p
 Farmacia,Panadol Gripe Noche|16 Capletas,403.00 USD (x1),538.00 USD (x1),https://www.elmachetazo.com/panadol-gripe-noche16-capletas-10729573/p
 Farmacia,Panadol Gripe Día|16 Tabletas,461.00 USD (x1),615.00 USD (x1),https://www.elmachetazo.com/panadol-gripe-dia16-tabletas-10728219/p
@@ -1381,7 +1375,6 @@ Tecnologia,Procesador de Alimentos Oster|10 Tazas|FPSTFP1355,6998.00 USD (x1),84
 Tecnologia,Vaporizador de Ropa Oster|GCSTES-101,4995.00 USD (x1),4995.00 USD (x1),https://www.elmachetazo.com/vaporizador-de-ropa-ostergcstes-101-11009009/p
 Tecnologia,Waflera 3 en 1 Oster|CG120W,6495.00 USD (x1),6495.00 USD (x1),https://www.elmachetazo.com/waflera-3-en-1-ostercg120w-10122794/p
 Tecnologia,Batidora de Inmersión Oster|FPSTHB2615W,4995.00 USD (x1),4995.00 USD (x1),https://www.elmachetazo.com/batidora-de-inmersion-osterfpsthb2615w-10956076/p
-Tecnologia,Cafetera Oster|12 Tazas|Jarra Inoxidable|BVSTDC4404,5695.00 USD (x1),6995.00 USD (x1),https://www.elmachetazo.com/cafetera-oster12-tazasjarra-inoxidablebvstdc4404-11005318/p
 Tecnologia,Cafetera Programable Oster|12 Tazas|Panel Tactil|BVSTDC4403,4495.00 USD (x1),4495.00 USD (x1),https://www.elmachetazo.com/cafetera-programable-oster12-tazaspanel-tactilbvstdc4403-10938362/p
 Tecnologia,Cafetera Oster Filtro Permanente 12 Tazas |BVSTDCS12BN,2995.00 USD (x1),2995.00 USD (x1),https://www.elmachetazo.com/cafetera-oster12-tazasfiltro-permanentebvstdcs12bn-10911595/p
 Tecnologia,Licuadora Oster|Jarra de Vidrio|6 Velocidades|BLSTPEG-BPB,5495.00 USD (x1),5495.00 USD (x1),https://www.elmachetazo.com/licuadora-osterjarra-de-vidrio6-velocidadesblstpeg-bpb-10944497/p
@@ -1394,6 +1387,7 @@ Tecnologia,Secador para Cabello Remington|1875W,2995.00 USD (x1),3995.00 USD (x1
 Tecnologia,Rizador de Cabello Remington 2 en 1,3295.00 USD (x1),4995.00 USD (x1),https://www.elmachetazo.com/rizador-de-cabello-2-en-1-remington-11003584/p
 Tecnologia,Audífono Inalámbrico Lucidsound|LS35X|Rosado-Dorado,2998.00 USD (x1),5995.00 USD (x1),https://www.elmachetazo.com/audifono-inalambrico-lucidsoundls35xrosado-dorado-10926718/p
 Tecnologia,Nintendo Switch|Animal Crossing New Horizons,5999.00 USD (x1),5999.00 USD (x1),https://www.elmachetazo.com/nintendo-switchanimal-crossing-new-horizons-10877219/p
+Tecnologia,Lavadora Secadora Mystic|WM-ACF1226-G,36995.00 USD (x1),40995.00 USD (x1),https://www.elmachetazo.com/lavadora-secadora-mysticwm-acf1226-g-10976805/p
 Tecnologia,Bocina Sankey|PA-8DCC32M,5995.00 USD (x1),5995.00 USD (x1),https://www.elmachetazo.com/bocina-sankeypa-8dcc32m-11004524/p
 Tecnologia,Bocina Portátil Charge 5 JBL|Negro,14995.00 USD (x1),17995.00 USD (x1),https://www.elmachetazo.com/bocina-portatil-charge-5-jblnegro-10833019/p
 Tecnologia,Bocina Portátil Charge 5 JBL|Rojo,14995.00 USD (x1),17995.00 USD (x1),https://www.elmachetazo.com/bocina-portatil-charge-5-jblrojo-10999181/p
@@ -1506,7 +1500,6 @@ Tecnologia,Proyector de Luces de Navidad,998.00 USD (x1),998.00 USD (x1),https:/
 Tecnologia,Juego S10B,1098.00 USD (x1),1795.00 USD (x1),https://www.elmachetazo.com/juego-s10b-10972108/p
 Tecnologia,Nintendo Switch|Controles Joy-Con|L-R|Neon Rosa y Amarillo,7998.00 USD (x1),9995.00 USD (x1),https://www.elmachetazo.com/control-joy-con-nintendorosa-y-amarillo-10933400/p
 Tecnologia,Control de Nintendo Switch Alambrico|Mario Kart Rojo,2798.00 USD (x1),3995.00 USD (x1),https://www.elmachetazo.com/control-de-nintendo-switch-alambricomario-kart-rojo-10911630/p
-Tecnologia,Control de Nintendo Switch Alambrico|Battle Ready Link,3995.00 USD (x1),3995.00 USD (x1),https://www.elmachetazo.com/control-de-nintendo-switch-alambricobattle-ready-link-10933397/p
 Tecnologia,Celular Redmi A3|3Gb+64Gb|Verde,7995.00 USD (x1),7995.00 USD (x1),https://www.elmachetazo.com/celular-redmi-a33gb64gbverde-10958712/p
 Tecnologia,Celular G43 G0950|Gris,6595.00 USD (x1),7995.00 USD (x1),https://www.elmachetazo.com/celular-g43-g0950gris-10963598/p
 Tecnologia,Audifonos Bluetooth,698.00 USD (x1),895.00 USD (x1),https://www.elmachetazo.com/audifonos-bluetooth-10959693/p
@@ -1608,7 +1601,6 @@ Tecnologia,Protector de Voltaje|Supresor|Cortacorriente,2295.00 USD (x1),2295.00
 Tecnologia,Protector de Voltaje para Equipos de Audio y Video,1695.00 USD (x1),1695.00 USD (x1),https://www.elmachetazo.com/protector-de-voltaje-para-equipos-de-audio-y-video-10322969/p
 Tecnologia,Protector de Voltaje para Refrigerador|1800V,1595.00 USD (x1),1595.00 USD (x1),https://www.elmachetazo.com/protector-de-voltaje-para-refrigerador1800v-10322968/p
 Tecnologia,Supresor de Sobrevoltaje para Equipos Electrónicos,1695.00 USD (x1),1695.00 USD (x1),https://www.elmachetazo.com/supresor-de-sobrevoltaje-para-equipos-electronicos-10472076/p
-Tecnologia,Regleta Supresora de Sobrevoltaje|6 Tomas,595.00 USD (x1),595.00 USD (x1),https://www.elmachetazo.com/regleta-supresora-de-sobrevoltaje6-tomas-10647278/p
 Tecnologia,Tablet Kid Pad Avengers|32GB|MNB602,9995.00 USD (x1),9995.00 USD (x1),https://www.elmachetazo.com/tablet-kid-pad-avengers32gbmnb602-10935560/p
 Tecnologia,Tablet Kid Pad|32GB|Rosado|MNB607,8995.00 USD (x1),8995.00 USD (x1),https://www.elmachetazo.com/tablet-kid-pad32gbrosadomnb607-10935563/p
 Tecnologia,Tenaza Revlon Perfect Heat Curling,1995.00 USD (x1),1995.00 USD (x1),https://www.elmachetazo.com/tenaza-revlon-perfect-heat-curling-10766751/p
@@ -1758,7 +1750,6 @@ Tecnologia,Bateria Alcalina Energizer MAX|Tipo AAA4,390.00 USD (x1),390.00 USD (
 Tecnologia,Bateria Alcalina Energizer MAX|Tipo AA4,390.00 USD (x1),390.00 USD (x1),https://www.elmachetazo.com/bateria-alcalina-energizer-maxtipo-aa4-10183810/p
 Tecnologia,Bateria Alcalina Energizer MAX|Tipo AAA2,265.00 USD (x1),265.00 USD (x1),https://www.elmachetazo.com/bateria-alcalina-energizer-maxtipo-aaa2-10184619/p
 Tecnologia,Bateria Alcalina Energizer MAX|Tipo AA2,265.00 USD (x1),265.00 USD (x1),https://www.elmachetazo.com/bateria-alcalina-energizer-maxtipo-aa2-10184620/p
-Tecnologia,Bateria Alcalina Energizer MAX|Tipo C2,405.00 USD (x1),405.00 USD (x1),https://www.elmachetazo.com/bateria-alcalina-energizer--maxtipo-c2-10183811/p
 Tecnologia,Nintendo Switch|The Legend of Zelda: Breath of the Wild,5999.00 USD (x1),5999.00 USD (x1),https://www.elmachetazo.com/nintendo-switch-the-legend-of-zelda-breath-of-the-wild-10612383/p
 Tecnologia,Consola Nintendo Switch Lite Color Coral,19998.00 USD (x1),27995.00 USD (x1),https://www.elmachetazo.com/consola-nintendo-switch-lite-color-coral-10824155/p
 Tecnologia,Bocina Portátil XBOOM Go PL5|Bluetooth|LED|Sonido Meridian,9995.00 USD (x1),9995.00 USD (x1),https://www.elmachetazo.com/bocina-portatil-xboom-go-pl5bluetoothledsonido-meridian-10859072/p
@@ -1908,7 +1899,6 @@ Tecnologia,Aire Acondicionado Split Inverter GPlus |12000 BTU,23995.00 USD (x1),
 Tecnologia,Audifono Maxell Blue,3995.00 USD (x1),3995.00 USD (x1),https://www.elmachetazo.com/audifono-maxell-blue-10777285/p
 Tecnologia,Audifono Maxwell Blancos|Bluetooth,3995.00 USD (x1),3995.00 USD (x1),https://www.elmachetazo.com/audifono-maxwell-blancosbluetooth-10777284/p
 Tecnologia,Bateria Duracell Tipo C|2 Piezas,443.00 USD (x1),443.00 USD (x1),https://www.elmachetazo.com/bateria-duracell-tipo-c2-piezas-10119552/p
-Tecnologia,Bateria Duracell|Tipo 9V,434.00 USD (x1),434.00 USD (x1),https://www.elmachetazo.com/bateria-duracelltipo-9v-10119554/p
 Tecnologia,Router Inalámbrico Maxell|802.11N|300Mbps,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/router-inalambrico-maxell-802-11n-300--mbps/p
 Tecnologia,Bateria Duracell|Tipo D,533.00 USD (x1),533.00 USD (x1),https://www.elmachetazo.com/bateria-duracelltipo-d-10119551/p
 Tecnologia,Audifono Coby,998.00 USD (x1),998.00 USD (x1),https://www.elmachetazo.com/audifono-coby-10773435/p
@@ -1937,6 +1927,7 @@ Hogar,Base para Árbol Navideño,699.00 USD (x1),2499.00 USD (x1),https://www.el
 Hogar,Cascanueces con Luces Led |39.5 cm,1099.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/cascanueces-led395-cm-11014512/p
 Hogar,Vela Roja Cristo Rey 7 Días,262.00 USD (x1),262.00 USD (x1),https://www.elmachetazo.com/vela-roja-cristo-rey-7-dias-10469376/p
 Hogar,Vela en Vaso Virgen Maria 7 Días,229.00 USD (x1),229.00 USD (x1),https://www.elmachetazo.com/vela-en-vaso-virgen-maria-7-dias-10920843/p
+Hogar,Vela Larga Blanca 8 Unidades,139.00 USD (x1),139.00 USD (x1),https://www.elmachetazo.com/vela-larga-blanca-8-unidades-10767636/p
 Hogar,Estrella Navideña Plateada|83cm,299.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/estrella-navidena-plateada83cm-11014521/p
 Hogar,Mantel Redondo Ángel|120gsm,399.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/mantel-redondo-angel-120-gsm-11014553/p
 Hogar,Mantel Redondo Esferas de Navidad|120gsm,399.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/mantel-redondo-esferas-de-navidad-120-gsm-11014554/p
@@ -2573,8 +2564,11 @@ Hogar,Ambientador|Cereza|30 ml,249.00 USD (x1),249.00 USD (x1),https://www.elmac
 Hogar,Incienso Talco de Bebe|20 Piezas,149.00 USD (x1),149.00 USD (x1),https://www.elmachetazo.com/incienso-talco-de-bebe20-piezas-10925648/p
 Hogar,Incienso Vainilla|20 Piezas,149.00 USD (x1),149.00 USD (x1),https://www.elmachetazo.com/incienso-vainilla20-piezas-10925652/p
 Hogar,Aceite Aromatico|Cielo de Vainilla|30 ml,199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/aceite-aromaticocielo-de-vainilla30-ml-10855969/p
+Hogar,Colchón Flex Relax|Full|¾,9599.00 USD (x1),9599.00 USD (x1),https://www.elmachetazo.com/colchon-flex-relaxfull-10229369/p
 Hogar,Colchón Full Flex|Semi-Ortopédico,15999.00 USD (x1),15999.00 USD (x1),https://www.elmachetazo.com/colchon-full-flexsemi-ortopedico-10228622/p
+Hogar,Colchón Queen Flex|Semi-Ortopédico,19999.00 USD (x1),19999.00 USD (x1),https://www.elmachetazo.com/colchon-queen-flexsemi-ortopedico-10228621/p
 Hogar,"Colchón Flex de Resortes para Cuna|27"" x 51.5""",5499.00 USD (x1),5499.00 USD (x1),https://www.elmachetazo.com/cuna-de-resortes27-x-515-10274248/p
+Hogar,Colchón Flex Relax|Twin|¾,8599.00 USD (x1),8599.00 USD (x1),https://www.elmachetazo.com/colchon-flex-relaxtwin-10229370/p
 Hogar,Canapé Tubular Flex|¾,13999.00 USD (x1),13999.00 USD (x1),https://www.elmachetazo.com/canape-tubular-flex-10230142/p
 Hogar,Colchón King Flex Semi-Ortopédico,33499.00 USD (x1),33499.00 USD (x1),https://www.elmachetazo.com/colchon-king-flex-semi-ortopedico-10453790/p
 Hogar,Caldero|Tapa Metálica|TYPS20,899.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/calderotapa-metalicatyps20-10781985/p
@@ -2618,6 +2612,8 @@ Hogar,Luz Navideña Brillante Tipo Cascada,199.00 USD (x1),899.00 USD (x1),https
 Hogar,Familia de Renos Navideños con Luces |3 Piezas,999.00 USD (x1),4499.00 USD (x1),https://www.elmachetazo.com/familia-de-renos-navidenos3-piezasluces-10903289/p
 Hogar,"Adorno Arbol Navideño|Base de Henequen|12""",49.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/adorno-arbol-navidenobase-de-henequen12-10903013/p
 Hogar,Luces Navideñas Copos de Nieve,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/luces-navidenas-copos-de-nieve10-luces-10860741/p
+Hogar,Bombillos Navideños Transparentes|25 Piezas,899.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/bombillos-navidenos-transparentes25piezas-10903009/p
+Hogar,Bombillos Transparentes|25 Piezas|UL C9,1699.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/bombillos-transparentes-25-piezas-ul-c9-10903008/p
 Hogar,Bombillos Multicolor|25 Piezas|UL C7,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/bombillos-multicolor-25-piezas-ul-c7-10903006/p
 Hogar,Bombillos Transparentes|25 Piezas|UL C7,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/bombillos-transparentes-25-piezas-ul-c7-10903005-machetazo/p
 Hogar,Molde para Cupcake Mediano 100ml|100 Piezas,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/molde-para-cupcake-mediano-100ml100-piezas-10911320/p
@@ -2915,12 +2911,6 @@ Hogar,Set de Sábana Queen 4 Piezas - Gris Claro,1699.00 USD (x1),1699.00 USD (x
 Hogar,Set de Sábana King 4 Piezas - Gris,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/set-de-sabana-king-4-piezas---gris-10812701/p
 Hogar,Set de Sábana King 4 Piezas - Gris Claro,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/set-de-sabana-king-4-piezas---gris-claro-10812697/p
 Hogar,Cortina de Cocina - Roxanne 4 Piezas,1299.00 USD (x1),1299.00 USD (x1),https://www.elmachetazo.com/cortina-de-cocina---roxanne-4-piezas-10812686/p
-Hogar,Cortina de Cocina Betty|4 Piezas|Beige|Taupe,1299.00 USD (x1),1299.00 USD (x1),https://www.elmachetazo.com/cortina-de-cocina-betty4-piezasbeigetaupe-10812674/p
-Hogar,"Riel para Cortina 16x19 mm 28""x48""",599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/riel-para-cortina-16x19-mm-28x48-10816688/p
-Hogar,Tazón Sándwich 3tz Océano,79.00 USD (x1),79.00 USD (x1),https://www.elmachetazo.com/tazon-sandwich-3tz-oceano-10801796/p
-Hogar,Lámpara Decorativa,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/lampara-decorativa-10805378/p
-Hogar,Caja Organizadora 12L,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/caja-organizadora-12l-10801811/p
-Hogar,Silla Plastica Plegable Azul,1699.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/silla-plastica-plegable-azul-10798549/p
 Escolar,Corbata Escolar|Azul,225.00 USD (x1),225.00 USD (x1),https://www.elmachetazo.com/corbata-escolarazul-10891625/p
 Escolar,Bata de Laboratorio|Manga Larga|Talla 8,1099.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/bata-de-laboratoriomanga-largatalla-8-10891615/p
 Escolar,Borrador de Escobilla,185.00 USD (x1),185.00 USD (x1),https://www.elmachetazo.com/borrador-de-escobilla-10739257/p
@@ -2933,7 +2923,6 @@ Escolar,Barra Silicona Gruesa Bolsa|3 Piezas,129.00 USD (x1),129.00 USD (x1),htt
 Escolar,Escalímetro,395.00 USD (x1),395.00 USD (x1),https://www.elmachetazo.com/escalimetro-10707579/p
 Escolar,Pizarrón Acrílico 80x120,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/pizarron-acrilico-80x120-10761420/p
 Escolar,Matemática 3,1800.00 USD (x1),1800.00 USD (x1),https://www.elmachetazo.com/matematica-3-10450144/p
-Escolar,Niña Bella,300.00 USD (x1),850.00 USD (x1),https://www.elmachetazo.com/nina-bella-10121822/p
 Escolar,Lonchera Peach Super Mario,1695.00 USD (x1),1695.00 USD (x1),https://www.elmachetazo.com/lonchera-peach-super-mario-10734743/p
 Escolar,Bandera de Panamá 60x90cm,695.00 USD (x1),695.00 USD (x1),https://www.elmachetazo.com/bandera-de-panama-60x90cm-11013447/p
 Escolar,Bandera de Panamá 90x135cm,995.00 USD (x1),995.00 USD (x1),https://www.elmachetazo.com/bandera-de-panama-90x135cm-11013448/p
@@ -2945,6 +2934,7 @@ Escolar,Biblia Reina Valera Contemporánea,350.00 USD (x1),350.00 USD (x1),https
 Escolar,Lápices Deli HB|Hexagonales|12 Piezas,129.00 USD (x1),129.00 USD (x1),https://www.elmachetazo.com/lapices-deli-hbhexagonales12-piezas-10893092/p
 Escolar,Compás Metálico Deli|Colores Surtidos,199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/compas-metalico-delicolores-surtidos-10912411/p
 Escolar,Pegamento Blanco Stick Up|120ml,89.00 USD (x1),89.00 USD (x1),https://www.elmachetazo.com/pegamento-blanco-stick-up120ml-10893120/p
+Escolar,Lápices Deli HB|Triangulares|12 Piezas,129.00 USD (x1),129.00 USD (x1),https://www.elmachetazo.com/lapices-deli-hbtriangulares12-piezas-10893093/p
 Escolar,Pegamento Líquido Deli|50ml,65.00 USD (x1),65.00 USD (x1),https://www.elmachetazo.com/pegamento-liquido-deli50ml-10959155/p
 Escolar,Notas Adhesivas Deli|Colores Surtidos,99.00 USD (x1),99.00 USD (x1),https://www.elmachetazo.com/notas-adhesivas-delicolores-surtidos-10981363/p
 Escolar,Lápiz Deli 2B|Diseño Neón|12 Piezas,129.00 USD (x1),129.00 USD (x1),https://www.elmachetazo.com/lapiz-deli-2bdiseno-neon12-piezas-10893095/p
@@ -3208,7 +3198,6 @@ Escolar,Falda Escolar Azul Primaria|Sencilla|Talla 14,599.00 USD (x1),599.00 USD
 Escolar,Camisa Escolar Celeste Manga Corta|Talla 16,599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/camisa-escolar-celeste-manga-cortatalla-16-10891687/p
 Escolar,Camisa Escolar Celeste Manga Corta|Talla S,699.00 USD (x1),699.00 USD (x1),https://www.elmachetazo.com/camisa-escolar-celeste-manga-cortatalla-s-10891694/p
 Escolar,Camisa Escolar Celeste Manga Corta|Talla L,699.00 USD (x1),699.00 USD (x1),https://www.elmachetazo.com/camisa-escolar-celeste-manga-cortatalla-l-10891696/p
-Escolar,Camisa Escolar Blanca Manga Corta|Talla 4,599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/camisa-escolar-blanca-manga-cortatalla-4-10891698/p
 Escolar,Camisa Escolar Blanca Manga Corta|Talla 8,599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/camisa-escolar-blanca-manga-cortatalla-8-10891700/p
 Escolar,Camisa Escolar Blanca Manga Corta|Talla 10,599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/camisa-escolar-blanca-manga-cortatalla-10-10891701/p
 Escolar,Camisa Escolar Blanca Manga Corta|Talla S,699.00 USD (x1),699.00 USD (x1),https://www.elmachetazo.com/camisa-escolar-blanca-manga-cortatalla-s-10891706/p
@@ -3347,7 +3336,6 @@ Escolar,"Mochila Wilson Backpack|16""",1299.00 USD (x1),1799.00 USD (x1),https:/
 Escolar,Marcadores Doble Punta,597.00 USD (x1),597.00 USD (x1),https://www.elmachetazo.com/marcadores-doble-punta-10941036/p
 Escolar,Palitos de Colores|100x5mm,125.00 USD (x1),125.00 USD (x1),https://www.elmachetazo.com/palitos-de-colores100x5mm-10869886/p
 Escolar,"Mochila Wilson 16""",1299.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/mochila-wilson-16-10939537/p
-Escolar,Cuaderno Cosido|Xpresarte|Diseños Surtidos,199.00 USD (x1),249.00 USD (x1),https://www.elmachetazo.com/cuaderno-cosidoxpresartedisenos-surtidos-10802214/p
 Escolar,Buzo de Gimnasia|Rojo|14,599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/buzo-de-gimnasiarojo14-10891215/p
 Escolar,Buzo de Gimnasia|Rojo|4,599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/buzo-de-gimnasiarojo4-10891210/p
 Escolar,Buzo de Gimnasia|Rojo|10,599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/buzo-de-gimnasiarojo10-10891213/p
@@ -3420,9 +3408,9 @@ Escolar,Finanzas para Jóvenes Emprendimiento I,1900.00 USD (x1),1900.00 USD (x1
 Escolar,Finanzas para Jóvenes Emprendimiento H,1900.00 USD (x1),1900.00 USD (x1),https://www.elmachetazo.com/finanzas-para-jovenes-emprendimiento-h-10937866/p
 Escolar,Finanzas para Jóvenes Emprendimiento G,1900.00 USD (x1),1900.00 USD (x1),https://www.elmachetazo.com/finanzas-para-jovenes-emprendimiento-g-10937865/p
 Escolar,Finanzas para Jóvenes Emprendimiento F,1900.00 USD (x1),1900.00 USD (x1),https://www.elmachetazo.com/finanzas-para-jovenes-emprendimiento-f-10937864/p
-Escolar,Diccionario Práctico de la Lengua Española,850.00 USD (x1),850.00 USD (x1),https://www.elmachetazo.com/diccionario-practico-de-la-lengua-espanola-10932929/p
 Escolar,Finanzas para Niños Emprendimiento D,1975.00 USD (x1),1975.00 USD (x1),https://www.elmachetazo.com/finanzas-para-ninos-emprendimiento-d-10937862/p
 Escolar,Finanzas para Niños Emprendimiento A,1975.00 USD (x1),1975.00 USD (x1),https://www.elmachetazo.com/finanzas-para-ninos-emprendimiento-a-10937859/p
+Escolar,Diccionario Práctico de la Lengua Española,850.00 USD (x1),850.00 USD (x1),https://www.elmachetazo.com/diccionario-practico-de-la-lengua-espanola-10932929/p
 Escolar,Dominios de Matemáticas 9,2350.00 USD (x1),2350.00 USD (x1),https://www.elmachetazo.com/dominios-de-matematicas-9-10937896/p
 Escolar,Piensa Matemática 5,2425.00 USD (x1),2425.00 USD (x1),https://www.elmachetazo.com/piensa-matematica-5-10937886/p
 Escolar,Mi Patria Panamá 6,2350.00 USD (x1),2350.00 USD (x1),https://www.elmachetazo.com/mi-patria-panama-6-10937893/p
@@ -3922,6 +3910,8 @@ Escolar,Abre Hueco de 1 Perforador,149.00 USD (x1),149.00 USD (x1),https://www.e
 Escolar,Hamlet,350.00 USD (x1),350.00 USD (x1),https://www.elmachetazo.com/hamlet-10106681/p
 Escolar,Novela El Final de Norma,425.00 USD (x1),425.00 USD (x1),https://www.elmachetazo.com/novela-el-final-de-norma-10192308/p
 Escolar,El Mercader de Venecia,325.00 USD (x1),325.00 USD (x1),https://www.elmachetazo.com/el-mercader-de-venecia-10095141/p
+Escolar,Diccionario Inglés-Inglés,695.00 USD (x1),695.00 USD (x1),https://www.elmachetazo.com/diccionario-ingles-ingles-10095136/p
+Escolar,Vuelta al Mundo en 80 Días,650.00 USD (x1),650.00 USD (x1),https://www.elmachetazo.com/vuelta-al-mundo-en-80-dias-10585503/p
 Bebes,Silla Mecedora de Bebé,3499.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/silla-mecedora-de-bebe-10814310/p
 Bebes,Pañalera para Bebe,1099.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/panalera-para-bebe-10961972/p
 Bebes,Pañalera para Bebe,1299.00 USD (x1),1299.00 USD (x1),https://www.elmachetazo.com/panalera-para-bebe-10985805/p
@@ -4301,6 +4291,7 @@ Ferreteria,Brillo UV con Fragancia 4 oz,249.00 USD (x1),249.00 USD (x1),https://
 Ferreteria,Silicona para Interior 8oz,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/silicona-para-interior-8oz-10868170/p
 Ferreteria,Silicona para Interior 4oz,259.00 USD (x1),259.00 USD (x1),https://www.elmachetazo.com/silicona-para-interior-4oz-10868169/p
 Ferreteria,Gel de Silicona Doble UV 8oz,589.00 USD (x1),589.00 USD (x1),https://www.elmachetazo.com/gel-de-silicona-doble-uv-8oz-10868168/p
+Ferreteria,Limpiador Desengrasante Multiproposito 32 oz,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/limpiador-desengrasante-multiproposito-32-oz-10886265/p
 Ferreteria,Barbacoa de Mesa con Parrilla,1499.00 USD (x1),1799.00 USD (x1),https://www.elmachetazo.com/barbacoa-de-mesa-con-parrilla-10847991/p
 Ferreteria,Tienda para Acampar Pavillo|2 Personas|2.35x1.45x1M,3900.00 USD (x1),5999.00 USD (x1),https://www.elmachetazo.com/tienda-para-acampar-pavillo2-personas235x145x1m-10890416/p
 Ferreteria,Set Hielera Plástica|3 Piezas,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/set-hielera-plastica3-piezas-10890415/p
@@ -4372,7 +4363,7 @@ Ferreteria,Destornillador de Precisión|7 Piezas,599.00 USD (x1),599.00 USD (x1)
 Ferreteria,"Alicate Articulado Extensión|12""",1399.00 USD (x1),1399.00 USD (x1),https://www.elmachetazo.com/alicate-articulado-extension12-10123310/p
 Ferreteria,Sierra de Copa|5 Piezas,1299.00 USD (x1),1299.00 USD (x1),https://www.elmachetazo.com/sierra-de-copa5-piezas-10127130/p
 Ferreteria,Destornillador Intercambiable 6 en 1,395.00 USD (x1),395.00 USD (x1),https://www.elmachetazo.com/destornillador-intercambiable-6-en-1-10815981/p
-Ferreteria,Colchón Inflable Intex Twin Dura-Beam Standard,1699.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/colchon-inflable-intex-twin-dura-beam-standard-10843536/p
+Ferreteria,Colchón Inflable Intex Twin Dura-Beam Standard,1359.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/colchon-inflable-intex-twin-dura-beam-standard-10843536/p
 Ferreteria,"Taladro de Rotación Stanley|⅜"" |550W",2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/taladro-de-rotacion-38-550wstdr5510b3-10829301/p
 Ferreteria,Lijadora Orbital ¼|240W,3995.00 USD (x1),3995.00 USD (x1),https://www.elmachetazo.com/lijadora-orbital--240w-10829299/p
 Ferreteria,"Barbacoa a Carbón|22""",2999.00 USD (x1),12279.00 USD (x1),https://www.elmachetazo.com/barbacoa-a-carbon22-10802638/p
@@ -4544,16 +4535,16 @@ Ferreteria,"Brocha con Mango Azul|1""",159.00 USD (x1),159.00 USD (x1),https://w
 Ferreteria,"Brocha con Mango Plástico|2.5""",129.00 USD (x1),129.00 USD (x1),https://www.elmachetazo.com/brocha-con-mango-plastico25-10167077/p
 Ferreteria,Bandeja Grande para Pintura,249.00 USD (x1),249.00 USD (x1),https://www.elmachetazo.com/bandeja-grande-para-pintura-10716503/p
 Ferreteria,Dura Látex Lila|1 gal,959.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-lila1-gal-10131798/p
-Ferreteria,Dura Látex Verde Grama|1 gal,1199.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-verde-grama1-gal-10131804/p
+Ferreteria,Dura Látex Verde Grama|1 gal,959.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-verde-grama1-gal-10131804/p
 Ferreteria,Dura Látex Marfil|1 gal,959.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-marfil1-gal-10131038/p
 Ferreteria,Bombillo Led|8w|Luz Blanca,112.00 USD (x1),149.00 USD (x1),https://www.elmachetazo.com/bombillo-led8wluz-blanca-10792529/p
-Ferreteria,Dura Látex Blanco Hueso|1 gal,1199.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-blanco-hueso1-gal-10069391/p
-Ferreteria,Dura Látex Naranja Medio|1 gal,1199.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-naranja-medio1-gal-10131802/p
-Ferreteria,Pintura Corona Dura Látex Mostaza|1 Galón,1199.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-amarillo-mostaza1-gal-10131036/p
-Ferreteria,Dura Látex Geranio|1 gal,1199.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-geranio1-gal-10070195/p
-Ferreteria,Dura Látex Melocotón|1 gal,1199.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-melocoton1-gal-10219187/p
-Ferreteria,Dura Látex Blanco|1 gal,1199.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-blanco1-gal-10069390/p
-Ferreteria,Dura Látex Azul Medio|1 gal,1199.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-azul-medio1-gal-10131800/p
+Ferreteria,Dura Látex Blanco Hueso|1 gal,959.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-blanco-hueso1-gal-10069391/p
+Ferreteria,Dura Látex Naranja Medio|1 gal,959.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-naranja-medio1-gal-10131802/p
+Ferreteria,Pintura Corona Dura Látex Mostaza|1 Galón,959.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-amarillo-mostaza1-gal-10131036/p
+Ferreteria,Dura Látex Geranio|1 gal,959.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-geranio1-gal-10070195/p
+Ferreteria,Dura Látex Melocotón|1 gal,959.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-melocoton1-gal-10219187/p
+Ferreteria,Dura Látex Blanco|1 gal,959.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-blanco1-gal-10069390/p
+Ferreteria,Dura Látex Azul Medio|1 gal,959.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/dura-latex-azul-medio1-gal-10131800/p
 Ferreteria,"Espátula de Acero|3""",199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/espatula-de-acero3-10062196/p
 Ferreteria,Pasta para Gypsum,729.00 USD (x1),729.00 USD (x1),https://www.elmachetazo.com/pasta-para-gypsum-10158868/p
 Ferreteria,Ico Esmalte Blanco|1 gal,2699.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/ico-esmalte-blanco1-gal-10638449/p
@@ -4625,7 +4616,7 @@ Jugueteria,Mesita Dolu de Actividades Acuáticas,1999.00 USD (x1),2499.00 USD (x
 Jugueteria,Simon Clásico,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/simon-clasico-10803171/p
 Jugueteria,Operando,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/operando-11003826/p
 Jugueteria,Risk,3919.00 USD (x1),4899.00 USD (x1),https://www.elmachetazo.com/risk-10613035/p
-Jugueteria,Dolu Ride-On Steering Bike |Rojo,1099.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/dolu-ride-on-steering-bike-rojo-11002692/p
+Jugueteria,Dolu Ride-On Steering Bike |Rojo,879.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/dolu-ride-on-steering-bike-rojo-11002692/p
 Jugueteria,Stitch Bop It!,1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/stitch-bop-it-11003813/p
 Jugueteria,Life,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/life-11003437/p
 Jugueteria,Monopoly Dados y Tragos,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/monopoly-dados-y-tragos-11003846/p
@@ -4633,11 +4624,11 @@ Jugueteria,Monopoly Stitch,2799.00 USD (x1),3499.00 USD (x1),https://www.elmache
 Jugueteria,Monopoly GO!,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/monopoly-go-11003834/p
 Jugueteria,Monopoly Banco Virtual,2799.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/monopoly-banco-virtual-11003436/p
 Jugueteria,Peluche de Labubu |Surtido,2159.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/peluche-de-labubusurtido-11013314/p
-Jugueteria,Tractor de Juguete CAT Bruder,2699.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/tractor-cat-de-juguete-bruder-10977254/p
-Jugueteria,Monster High Draculaura Rockin Truck,9999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/monster-high-draculaura-rockin-truck-10969162/p
+Jugueteria,Tractor de Juguete CAT Bruder,2159.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/tractor-cat-de-juguete-bruder-10977254/p
+Jugueteria,Monster High Draculaura Rockin Truck,7999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/monster-high-draculaura-rockin-truck-10969162/p
 Jugueteria,Whisper Ride Cruiser Step2 |Rosado,6999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/whisper-ride-cruiser-step2-rosado-10619318/p
 Jugueteria,Whisper Ride Cruiser Step2 |Azul,6999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/whisper-ride-cruiser-step2-azul-10619321/p
-Jugueteria,Tractor Dolu con Pedales,5999.00 USD (x1),5999.00 USD (x1),https://www.elmachetazo.com/tractor-dolu-con-pedales-10518221/p
+Jugueteria,Tractor Dolu con Pedales,4799.00 USD (x1),5999.00 USD (x1),https://www.elmachetazo.com/tractor-dolu-con-pedales-10518221/p
 Jugueteria,Motocicleta Armable Pull Back 183 Piezas,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/motocicleta-armable-183-piezas-11013421/p
 Jugueteria,Carrito Pull Back Armable 177 Piezas,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/carrito-pull-back-armable-177-piezas-11001215/p
 Jugueteria,Carrito Armable Pull Back Todoterreno 199 Piezas,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/carrito-armable-pull-back-todoterreno-199-piezas-11001216/p
@@ -4861,24 +4852,24 @@ Jugueteria,Lente para natación Disney Princesas,319.00 USD (x1),399.00 USD (x1)
 Jugueteria,Lente para natación Disney Princesas,479.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/lente-para-natacion-disney-princesas-10949390/p
 Jugueteria,Cocina de Juguete Mediana Step2|Rosada,3999.00 USD (x1),11999.00 USD (x1),https://www.elmachetazo.com/cocina-de-juguete-mediana-step2rosada-10953267/p
 Jugueteria,Trencito|Set con Accesorios|58 Piezas,1699.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/trencitoset-con-accesorios58-piezas-10614346/p
-Jugueteria,Mario Karts Carrito Luigi,7999.00 USD (x1),7999.00 USD (x1),https://www.elmachetazo.com/mario-karts-carrito-luigi-10914457/p
-Jugueteria,Juego de Mesa Clue Escape Midnight Hotel,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-clue-escape-midnight-hotel-10910085/p
-Jugueteria,Juego de Mesa Clue Conspiracy,3499.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-clue-conspiracy-10910086/p
+Jugueteria,Mario Karts Carrito Luigi,6399.00 USD (x1),7999.00 USD (x1),https://www.elmachetazo.com/mario-karts-carrito-luigi-10914457/p
+Jugueteria,Juego de Mesa Clue Escape Midnight Hotel,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-clue-escape-midnight-hotel-10910085/p
+Jugueteria,Juego de Mesa Clue Conspiracy,2799.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-clue-conspiracy-10910086/p
 Jugueteria,Monopoly Star Wars Mandalorian,1999.00 USD (x1),5999.00 USD (x1),https://www.elmachetazo.com/monopoly-star-wars-mandalorian-10863930/p
-Jugueteria,Monopoly Junior 2 en 1,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/monopoly-junior-2-en-1-10909925/p
-Jugueteria,Monopoly Super Mario La Película,3499.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/monopoly-super-mario-la-pelicula-10909926/p
-Jugueteria,Monopoly Chance,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/monopoly-chance-10910179/p
+Jugueteria,Monopoly Junior 2 en 1,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/monopoly-junior-2-en-1-10909925/p
+Jugueteria,Monopoly Super Mario La Película,2799.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/monopoly-super-mario-la-pelicula-10909926/p
+Jugueteria,Monopoly Chance,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/monopoly-chance-10910179/p
 Jugueteria,Camión Motor Rush|Luces y Sonido|Surtido,699.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/camion-motor-rushluces-y-sonidosurtido-10853211/p
-Jugueteria,Nintendo Super Mario Set Figuras Diorama,3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/nintendo-super-mario-set-figuras-diorama-10918021/p
-Jugueteria,Cubo Rubik´S Mini 2x2,899.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/cubo-rubiks-mini-2x2-10927890/p
-Jugueteria,Juego de Mesa Jumanji,2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-jumanji-10927940/p
-Jugueteria,Nintendo Super Mario Figura|Surtido,1199.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/nintendo-super-mario-figurasurtido-10918023/p
-Jugueteria,Juego de Mesa Twister Junior,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-twister-junior-10910382/p
+Jugueteria,Nintendo Super Mario Set Figuras Diorama,3199.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/nintendo-super-mario-set-figuras-diorama-10918021/p
+Jugueteria,Cubo Rubik´S Mini 2x2,719.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/cubo-rubiks-mini-2x2-10927890/p
+Jugueteria,Juego de Mesa Jumanji,1759.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-jumanji-10927940/p
+Jugueteria,Nintendo Super Mario Figura|Surtido,959.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/nintendo-super-mario-figurasurtido-10918023/p
+Jugueteria,Juego de Mesa Twister Junior,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-twister-junior-10910382/p
 Jugueteria,Juego de Mesa Connect 4 Spin,1299.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-connect-4-spin-10869679/p
 Jugueteria,Juego de Mesa Battleship Clásico,1699.00 USD (x1),2599.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-battleship-clasico-10863934/p
-Jugueteria,Paw Patrol Chase Vehiculo Transformable,6999.00 USD (x1),6999.00 USD (x1),https://www.elmachetazo.com/paw-patrol-chase-vehiculo-transformable-10927945/p
-Jugueteria,Paw Patrol Movie Peluche Básico|Surtido,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/paw-patrol-movie-peluche-basicosurtido-10927946/p
-Jugueteria,Hot Wheels Camión con Herramientas|Luz y Sonido,2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/hot-wheels-camion-con-herramientasluz-y-sonido-10912764/p
+Jugueteria,Paw Patrol Chase Vehiculo Transformable,5599.00 USD (x1),6999.00 USD (x1),https://www.elmachetazo.com/paw-patrol-chase-vehiculo-transformable-10927945/p
+Jugueteria,Paw Patrol Movie Peluche Básico|Surtido,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/paw-patrol-movie-peluche-basicosurtido-10927946/p
+Jugueteria,Hot Wheels Camión con Herramientas|Luz y Sonido,1759.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/hot-wheels-camion-con-herramientasluz-y-sonido-10912764/p
 Jugueteria,Hot Wheels Fast Racer PullBack|Surtido,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/hot-wheels-fast-racer-pullbacksurtido-10912750/p
 Jugueteria,Cubo Educativo Dolu 2 en 1,1499.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/cubo-educativo-dolu-2-en-1-10901840/p
 Jugueteria,Sonic Figura de Acción|Set 3 Piezas,999.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/sonic-figura-de-accionset-3-piezas-10912548/p
@@ -4889,6 +4880,7 @@ Jugueteria,Tobogán Dolu Junior,3999.00 USD (x1),5999.00 USD (x1),https://www.el
 Jugueteria,Camión Volquete y Cargador|Set de 2 Piezas,699.00 USD (x1),699.00 USD (x1),https://www.elmachetazo.com/camion-volquete-y-cargadorset-de-2-piezas-10614356/p
 Jugueteria,Set de Boliche Infantil,999.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/set-de-boliche-infantil-10805921/p
 Jugueteria,Garaje de Juegos Dolu|4 Niveles|Accesorios,3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/garaje-de-juegos-dolu4-nivelesaccesorios-10901864/p
+Jugueteria,Garaje de Juegos Dolu|3 Niveles|Accesorios,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/garaje-de-juegos-dolu3-nivelesaccesorios-10901862/p
 Jugueteria,Bloques de Construcción Dolu Unicorn|100 Piezas,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/bloques-de-construccion-dolu-unicorn100-piezas-10901846/p
 Jugueteria,Bloques de Construcción|100 Piezas,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/bloques-de-construccion100-piezas-10901860/p
 Jugueteria,Carro Pick-Up Dolu,699.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/carro-pick-up-dolu-10455333/p
@@ -5205,7 +5197,7 @@ Jugueteria,Hot Wheels Monster Trucks Escala 1:64,799.00 USD (x1),799.00 USD (x1)
 Jugueteria,Hot Wheels Desafío de Vueltas,7499.00 USD (x1),7499.00 USD (x1),https://www.elmachetazo.com/hot-wheels-desafio-de-vueltas-10830451/p
 Jugueteria,Polly Pocket Lila y su Conejito,899.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/polly-pocket-lila-y-su-conejito-10803538/p
 Jugueteria,Dc Modern Batman Multiverse,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/dc-modern-batman-multiverse-10784321/p
-Jugueteria,"Dragon Ball Goku Super Saiyan|Figura Articulada|12""",2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-super-saiyan-figura-articulada-12-10821910/p
+Jugueteria,"Dragon Ball Goku Super Saiyan|Figura Articulada|12""",1759.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-super-saiyan-figura-articulada-12-10821910/p
 Jugueteria,Teclado de Frozen,3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/teclado-de-frozen-10805955/p
 Jugueteria,Micrófono Frozen,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/microfono-frozen-10805952/p
 Jugueteria,Dino Mat Kids Carrito con Sonido,2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dino-mat-kids-carrito-con-sonido-10769938/p
@@ -5305,7 +5297,7 @@ Jugueteria,Scooter Paw Patrol de 3 Ruedas,2499.00 USD (x1),2499.00 USD (x1),http
 Jugueteria,Muñeca Frozen Elsa,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/muneca-frozen-elsa-10738439/p
 Jugueteria,Barbie Princesa|Muñeca Surtida,799.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/barbie-princesamuneca-surtida-10583189/p
 Jugueteria,Juego de Mesa Operation Pet Scan,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-operation-pet-scan-10782279/p
-Jugueteria,Tractor Dolu Pedales con Remolque |Verde,7999.00 USD (x1),7999.00 USD (x1),https://www.elmachetazo.com/tractor-ranchero-de-pedales-con-remolqueverde-10518224/p
+Jugueteria,Tractor Dolu Pedales con Remolque |Verde,6399.00 USD (x1),7999.00 USD (x1),https://www.elmachetazo.com/tractor-ranchero-de-pedales-con-remolqueverde-10518224/p
 Jugueteria,Basketball Hoop|Aro Infantil,3499.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/basketball-hooparo-infantil-10728101/p
 Jugueteria,Trampolín Infantil|4.6 Pies,9999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/trampolin-infantil46-pies-10787205/p
 Jugueteria,Hairdorables Hairmazing Muñeca de Moda,3799.00 USD (x1),3799.00 USD (x1),https://www.elmachetazo.com/hairdorables-hairmazing-muneca-de-moda-10782288/p
@@ -5468,6 +5460,7 @@ Sederia,Hilo de Algodón para Tejer|Fucsia,625.00 USD (x1),625.00 USD (x1),https
 Sederia,Hilo de Algodón para Tejer|Magenta,625.00 USD (x1),625.00 USD (x1),https://www.elmachetazo.com/hilo-de-algodon-para-tejermagenta-10408413/p
 Sederia,Hilo de Algodón para Tejer|Morado Claro,625.00 USD (x1),625.00 USD (x1),https://www.elmachetazo.com/hilo-de-algodon-para-tejermorado-claro-10180585/p
 Sederia,Hilo de Algodón para Tejer|Chocolate Oscuro,625.00 USD (x1),625.00 USD (x1),https://www.elmachetazo.com/hilo-de-algodon-para-tejerchocolate-oscuro-10181330/p
+Sederia,Hilo de Algodón para Tejer|Blanco,625.00 USD (x1),625.00 USD (x1),https://www.elmachetazo.com/hilo-de-algodon-para-tejerblanco-10181334/p
 Sederia,Hilo de Algodón para Tejer|Gris,625.00 USD (x1),625.00 USD (x1),https://www.elmachetazo.com/hilo-de-algodon-para-tejergris-10824353/p
 Sederia,Hilo de Algodón para Tejer|Verde Esmeralda,625.00 USD (x1),625.00 USD (x1),https://www.elmachetazo.com/hilo-de-algodon-para-tejerverde-esmeralda-10180578/p
 Sederia,Hilo de Algodón para Tejer|Turquesa,625.00 USD (x1),625.00 USD (x1),https://www.elmachetazo.com/hilo-de-algodon-para-tejerturquesa-10812452/p
@@ -5775,6 +5768,7 @@ Sederia,Pintura Amarillo Oro,99.00 USD (x1),99.00 USD (x1),https://www.elmacheta
 Sederia,Pintura Azul Celeste,99.00 USD (x1),99.00 USD (x1),https://www.elmachetazo.com/pintura-azul-celeste-10146155/p
 Fiestas,Adorno para Fiestas Patrias,99.00 USD (x1),99.00 USD (x1),https://www.elmachetazo.com/adorno-para-fiestas-patrias-11020154/p
 Fiestas,Adorno para Fiestas Patrias 60 cm,159.00 USD (x1),159.00 USD (x1),https://www.elmachetazo.com/adorno-para-fiestas-patrias-60-cm-11020157/p
+Fiestas,Adorno para Fiestas Patrias,99.00 USD (x1),99.00 USD (x1),https://www.elmachetazo.com/adorno-para-fiestas-patrias-11020159/p
 Fiestas,Adorno de Halloween|Rosa Eterna,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/adorno-de-halloween-rosa-eterna-regent-10239779-machetazo/p
 Fiestas,Adorno de Halloween|Telaraña Brillante,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/adorno-de-halloween-telarana-brillante-qz-10419041-machetazo/p
 Fiestas,Vaso de Calavera para Halloween|17 oz,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/vaso-de-calavera-para-halloween-17-oz-regent-10923048-machetazo/p
