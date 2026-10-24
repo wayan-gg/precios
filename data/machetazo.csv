@@ -7,6 +7,7 @@ Supermercado,Carne de Res Golden Selection|340g,249.00 USD (x1),249.00 USD (x1),
 Supermercado,Café Instantáneo Nescafé Clásico|3en1|20g|12 Unidades,48.00 USD (x1),48.00 USD (x1),https://www.elmachetazo.com/nescafe-clasico-3-en-1-cafe-instantaneo-sobre-20g-12-unidades-10801114/p
 Supermercado,Salsa Tomate Estilo Panameño|115g,42.00 USD (x1),45.00 USD (x1),https://www.elmachetazo.com/salsa-tomate-estilo-panameno115g-10767552/p
 Supermercado,Pasta de Tomate Golden Selection|115g,45.00 USD (x1),45.00 USD (x1),https://www.elmachetazo.com/pasta-de-tomate-golden-selection115g-10767555/p
+Supermercado,Lentejas Amapola|454g,130.00 USD (x1),130.00 USD (x1),https://www.elmachetazo.com/lenteja-amapola454-g-10000040/p
 Supermercado,Queso Blanco Prensado La Cholita 200g,266.00 USD (x1),266.00 USD (x1),https://www.elmachetazo.com/queso-blanco-prensado-la-cholita-200g-10466585/p
 Supermercado,Agua Natural Cristalina 1 galón,159.00 USD (x1),159.00 USD (x1),https://www.elmachetazo.com/agua-natural-cristalina-1-galon-10413007/p
 Supermercado,Azúcar Blanca La Estrella|2 lb,162.00 USD (x1),162.00 USD (x1),https://www.elmachetazo.com/azucar-blanca-la-estrella-2lb-10037205/p
@@ -15,7 +16,6 @@ Supermercado,Arroz Especial White Rice|5 lb,325.00 USD (x1),325.00 USD (x1),http
 Supermercado,Té de Canela Rika's|25 Unidades,107.00 USD (x1),107.00 USD (x1),https://www.elmachetazo.com/te-de-canela-rikas-25-unidades-10031236-machetazo/p
 Supermercado,Vegetales Mixtos Golden Selection|425g,79.00 USD (x1),79.00 USD (x1),https://www.elmachetazo.com/vegetales-mixtos-golden-selection425g-10743302/p
 Supermercado,Alimento para Perro Pedigree High Carne 85g,94.00 USD (x1),94.00 USD (x1),https://www.elmachetazo.com/alimento-para-perro-pedigree-high-carne-85g-10883240/p
-Supermercado,Bolsa de Hielo Smart Choice|8 Libras,115.00 USD (x1),115.00 USD (x1),https://www.elmachetazo.com/bolsa-de-hielo-smart-choice-8-libras-10925464/p
 Supermercado,Galletas Wafer Nucita 8pk 160g,130.00 USD (x1),130.00 USD (x1),https://www.elmachetazo.com/galletas-wafer-nucita-8pk-160g-10255213/p
 Supermercado,Vela Amarilla Sin Vaso|30 horas,85.00 USD (x1),85.00 USD (x1),https://www.elmachetazo.com/vela-amarilla-sin-vaso30-horas-10005694/p
 Supermercado,MILO® Active Go Extracto de Malta Bolsa 250g,386.00 USD (x1),386.00 USD (x1),https://www.elmachetazo.com/milo-active-go-extracto-de-malta-bolsa-250g-10595043/p
@@ -31,23 +31,25 @@ Supermercado,Perrier & Juice Slimcan Lemon Guava 250ml,134.00 USD (x1),134.00 US
 Supermercado,Galleta Festival Fresa 12 Und,234.00 USD (x1),234.00 USD (x1),https://www.elmachetazo.com/galleta-festival-fresa-12-und-10014877/p
 Supermercado,Crema de Cocinar Bravo Cream 200 ml,159.00 USD (x1),159.00 USD (x1),https://www.elmachetazo.com/crema-de-cocinar-bravo-cream-200-ml-10781165/p
 Supermercado,Vela 7 Días Blanca sin vaso San José 1 und,219.00 USD (x1),219.00 USD (x1),https://www.elmachetazo.com/vela-7-dias-blanca-sin-vaso-san-jose-1-und-10005825/p
-Supermercado,Papas Original Pringle's 19g,75.00 USD (x1),75.00 USD (x1),https://www.elmachetazo.com/papas-original-pringles-19g-10029513/p
 Supermercado,Bandeja Muslo Encuentro Melo|1.8 lb,336.00 USD (x1),382.00 USD (x1),https://www.elmachetazo.com/bandeja-muslo-encuentro-melo18-lb-10391452/p
 Supermercado,Alimento Gatitos Carne Felix|85g,99.00 USD (x1),99.00 USD (x1),https://www.elmachetazo.com/alimento-gatitos-carne-felix85g-10767242/p
-Supermercado,Agua Con Gas San Pellegrino 500ml,139.00 USD (x1),139.00 USD (x1),https://www.elmachetazo.com/agua-con-gas-san-pellegrino-500ml-10473021/p
 Supermercado,Vaso Plástico Smart Choice Blanco|8 oz|50 Unidades,169.00 USD (x1),189.00 USD (x1),https://www.elmachetazo.com/vaso-plastico-smart-choice-blanco8-oz50-unidades-10774057/p
 Supermercado,Vaso Plástico Smart Choice Trasp|8 oz|50 Unidades,189.00 USD (x1),189.00 USD (x1),https://www.elmachetazo.com/vaso-plastico-smart-choice-trasp8-oz50-unidades-10774056/p
 Supermercado,Amanecer Sucedáneo Evaporado Lata|315g,89.00 USD (x1),99.00 USD (x1),https://www.elmachetazo.com/amanecer-sucedaneo-evaporado-lata315g-10003232/p
 Supermercado,Amanecer Sucedáneo Evaporado Lata|167g,55.00 USD (x1),55.00 USD (x1),https://www.elmachetazo.com/amanecer-sucedaneo-evaporado-lata167g-10003233/p
 Supermercado,Bolsa Basura Blanca Pequeña 18X18 Centinel 12 und,119.00 USD (x1),119.00 USD (x1),https://www.elmachetazo.com/bolsa-basura-blanca-pequena-18x18-centinel-12-und-10022703/p
+Supermercado,Clorox Blanqueador Regular |1 Galón,373.00 USD (x1),373.00 USD (x1),https://www.elmachetazo.com/blanqueador-clorox-regular1-galon-10012127/p
+Supermercado,Detergente Polvo Bebé Sip 1 kg,373.00 USD (x1),373.00 USD (x1),https://www.elmachetazo.com/detergente-polvo-bebe-sip-1-kg-10026815/p
 Supermercado,Papel Toalla Naturales H Doble Delux 3 Unidades,266.00 USD (x1),266.00 USD (x1),https://www.elmachetazo.com/papel-toalla-naturales-h-doble-delux-3-unidades-10688864/p
 Supermercado,Galleta Club Social Original 9Pk|26g,192.00 USD (x1),192.00 USD (x1),https://www.elmachetazo.com/galleta-club-social-original-9pk26g-10009225/p
 Supermercado,Lasagna Suprema 400g,170.00 USD (x1),170.00 USD (x1),https://www.elmachetazo.com/lasagna-suprema-400g-10404708/p
 Supermercado,Crema Avena Hojuela Molino Criollo|454g,137.00 USD (x1),137.00 USD (x1),https://www.elmachetazo.com/crema-avena-hojuela-molino-criollo454g-10018808/p
+Supermercado,Huevos Grandes Claripack Toledano|12 Unidades,269.00 USD (x1),269.00 USD (x1),https://www.elmachetazo.com/huevos-grandes-claripack-toledano12-unidades-10037524/p
 Supermercado,Guisantes Verdes Golden Selection|425g,69.00 USD (x1),79.00 USD (x1),https://www.elmachetazo.com/guisantes-verdes-golden-selection425g-10743300/p
 Supermercado,Gelatina Fresa Bongel|120g,44.00 USD (x1),44.00 USD (x1),https://www.elmachetazo.com/gelatina-fresa-bongel120g-10041887/p
 Supermercado,Deditos Pollo Melo|454g|8 Unidades,526.00 USD (x1),526.00 USD (x1),https://www.elmachetazo.com/deditos-pollo-melo454g8-unidades-10039888/p
 Supermercado,Bandeja de Pollo Picado Toledano | 3.5 lb,410.00 USD (x1),410.00 USD (x1),https://www.elmachetazo.com/bandeja-de-pollo-picado-toledano--35-lb-10396633/p
+Supermercado,Chorizo Ahumado American Star|1 Libra,190.00 USD (x1),190.00 USD (x1),https://www.elmachetazo.com/chorizo-ahumado-american-star-1-lb-10041490/p
 Supermercado,Recogedor|Mango Plástico,214.00 USD (x1),214.00 USD (x1),https://www.elmachetazo.com/recogedormango-plastico-10908337/p
 Supermercado,Huevos Grandes Golden Selection|15 Unidades,279.00 USD (x1),279.00 USD (x1),https://www.elmachetazo.com/huevos-grandes15-unidades-10951657/p
 Supermercado,Huevos Medianos Emita|12 Unidades,195.00 USD (x1),195.00 USD (x1),https://www.elmachetazo.com/huevos-medianos-emita12-unidades-10867663/p
@@ -66,9 +68,7 @@ Supermercado,Aceite de Oliva Ballester Clásico|500ml,666.00 USD (x1),666.00 USD
 Supermercado,Yogurt Griego Miel Bonlac 200g,165.00 USD (x1),165.00 USD (x1),https://www.elmachetazo.com/yogurt-griego-miel-bonlac-200g-10436517/p
 Supermercado,Pan Moña Rimith|15 oz,293.00 USD (x1),293.00 USD (x1),https://www.elmachetazo.com/pan-mona-lagarto-rimith15-oz-10040128/p
 Supermercado,Galleta Soda Pascual 27g Caja 18 Paquetes,273.00 USD (x1),273.00 USD (x1),https://www.elmachetazo.com/galleta-soda-pascual-27g-caja-18-paquetes-10013616/p
-Supermercado,Papel Higiénico Softplus Grande|4 Unidades,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/papel-higienico-softplus-grande4-unidades-10688863/p
 Supermercado,Galleta Sandwich Limón Pascual 127g,90.00 USD (x1),90.00 USD (x1),https://www.elmachetazo.com/galleta-sandwich-limon-pascual-127g-10013137/p
-Supermercado,Galleta Mini Chips Ahoy Nabisco 50g,55.00 USD (x1),55.00 USD (x1),https://www.elmachetazo.com/galleta-mini-chips-ahoy-nabisco-50g-10769156/p
 Supermercado,Galleta Sorbeto Vainilla Pascual 12 Paquetes 372g,225.00 USD (x1),225.00 USD (x1),https://www.elmachetazo.com/galleta-sorbeto-vainilla-pascual-12-paquetes-372g-10611263/p
 Supermercado,Galleta Ritz Saladas Nabisco 34g x 12pk,225.00 USD (x1),225.00 USD (x1),https://www.elmachetazo.com/galleta-ritz-saladas-nabisco-34g-x-12pk-10688098/p
 Supermercado,Bandeja Punta Palomilla al Vacio First Choice | 1.1 Lb,1085.00 USD (x1),1085.00 USD (x1),https://www.elmachetazo.com/bandeja-punta-palomilla-al-vacio-first-choice--11-lb-10392317/p
@@ -83,9 +83,7 @@ Supermercado,Cepillo Dental Extra Clean Colgate 3pk,195.00 USD (x1),219.00 USD (
 Supermercado,Jabón Barra Antibacterial Sábila Dart 110g 3pk,215.00 USD (x1),215.00 USD (x1),https://www.elmachetazo.com/jabon-barra-antibacterial-sabila-dart-110g-3pk-10767250/p
 Supermercado,Jabón Líquido Aloe Vera Dalan 400ml,160.00 USD (x1),160.00 USD (x1),https://www.elmachetazo.com/jabon-liquido-aloe-vera-dalan-400ml-10661345/p
 Supermercado,Té Canela Classic Rika's 20und,148.00 USD (x1),148.00 USD (x1),https://www.elmachetazo.com/te-canela-classic-rikas-20und-10024660/p
-Supermercado,Pancake sólo Agregue Agua Gold Mills|170g,130.00 USD (x1),130.00 USD (x1),https://www.elmachetazo.com/pancake-solo-agregue-agua-gold-mills170g-10006418/p
 Supermercado,Bolsa Basura Agarradera Grande 23x30 Vikingo 12und,159.00 USD (x1),159.00 USD (x1),https://www.elmachetazo.com/bolsa-basura-agarradera-grande-23x30-vikingo-12und-10769263/p
-Supermercado,Detergente Polvo Quitamanchas Rendidor 2.5 Kg,606.00 USD (x1),722.00 USD (x1),https://www.elmachetazo.com/detergente-polvo-quitamanchas-rendidor-25-kg-10781969/p
 Supermercado,Escoba Gala Coral Multiplast 1und,235.00 USD (x1),235.00 USD (x1),https://www.elmachetazo.com/escoba-gala-coral-multiplast-1und-10004494/p
 Supermercado,Bebida Instantánea Zuko Guayaba Piña|20g,32.00 USD (x1),32.00 USD (x1),https://www.elmachetazo.com/bebida-instantanea-zuko-guayaba-piña-20g-10030369-machetazo/p
 Supermercado,Soda Squirt|600ml,94.00 USD (x1),94.00 USD (x1),https://www.elmachetazo.com/soda-squirt-600ml-10021775-machetazo/p
@@ -95,17 +93,17 @@ Supermercado,Vaso Plástico Blanco Smart Choice|9 oz|50 Unidades,179.00 USD (x1)
 Supermercado,Arroz Especial Espiga Dorada|5 lb,385.00 USD (x1),385.00 USD (x1),https://www.elmachetazo.com/arroz-especial-espiga-dorada-5-lb-10023254-machetazo/p
 Supermercado,Azúcar Morena Doradita|2 kg,295.00 USD (x1),295.00 USD (x1),https://www.elmachetazo.com/azucar-morena-doradita2-kg-10417535/p
 Supermercado,Aceite de Girasol Girol|1.5 Litros,605.00 USD (x1),605.00 USD (x1),https://www.elmachetazo.com/aceite-girasol-girol15-litro-10014098/p
+Supermercado,Huevos Medianos Caribeno x12,235.00 USD (x1),235.00 USD (x1),https://www.elmachetazo.com/huevos-medianos-caribeno--x12-10647356/p
 Supermercado,Bolsa Basura Blanca Pequeña 18x18 Vikingo 12und,107.00 USD (x1),107.00 USD (x1),https://www.elmachetazo.com/bolsa-basura-blanca-pequena-18x18-vikingo-12und-10769261/p
 Supermercado,Bolsa Basura Negra Gigante 32X40 Centinel 6 und,269.00 USD (x1),269.00 USD (x1),https://www.elmachetazo.com/bolsa-basura-negra-gigante-32x40-centinel-6-und-10023557/p
-Supermercado,Clorox Blanqueador Regular |1 Galón,373.00 USD (x1),373.00 USD (x1),https://www.elmachetazo.com/blanqueador-clorox-regular1-galon-10012127/p
 Supermercado,Clorox Lavanda|64 oz,206.00 USD (x1),206.00 USD (x1),https://www.elmachetazo.com/clorox-lavanda64-oz-10254459/p
 Supermercado,Desinfectante Lavanda Mistolín 900ml,190.00 USD (x1),190.00 USD (x1),https://www.elmachetazo.com/desinfectante-lavanda-mistolin-900ml-10010046/p
 Supermercado,Desinfectante Lavanda Fabuloso 1 Galón,675.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/desinfectante-lavanda-fabuloso-1-galon-10034807/p
 Supermercado,Spray Crips Linen Scent Lysol 12oz,623.00 USD (x1),733.00 USD (x1),https://www.elmachetazo.com/spray-crips-linen-scent-lysol-12oz-10002935/p
+Supermercado,Detergente Polvo Azul Rendidor 2.5kg,606.00 USD (x1),722.00 USD (x1),https://www.elmachetazo.com/detergente-polvo-azul-rendidor-25kg-10652289/p
 Supermercado,Detergente Polvo Naturals Spum 1kg,238.00 USD (x1),238.00 USD (x1),https://www.elmachetazo.com/detergente-polvo-naturals-spum-1kg-10708117/p
 Supermercado,Lavaplato Crema Lavanda Sip 1 kg,379.00 USD (x1),379.00 USD (x1),https://www.elmachetazo.com/lavaplato-crema-lavanda-sip-1-kg-10004751/p
-Supermercado,Detergente Polvo Bebé Sip 1 kg,373.00 USD (x1),373.00 USD (x1),https://www.elmachetazo.com/detergente-polvo-bebe-sip-1-kg-10026815/p
-Supermercado,Queso Crema 1/3 Less Fat Philadelphia Kraft 8oz,675.00 USD (x1),675.00 USD (x1),https://www.elmachetazo.com/queso-crema-13-less-fat-philadelphia-kraft-8oz-10042543/p
+Supermercado,Arroz Especial Pelin|5 lb,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/arroz-especial-pelin5-lb-10740625/p
 Supermercado,Arroz Especial Arrossísimo|9 kg,1649.00 USD (x1),1649.00 USD (x1),https://www.elmachetazo.com/arroz-especial-arrosisimo-9kg-10336213-machetazo/p
 Supermercado,Lavaplatos Líquido Vel 900 ml,470.00 USD (x1),533.00 USD (x1),https://www.elmachetazo.com/lavaplatos-liquido-vel-900-ml-10032375/p
 Supermercado,Lavaplatos Líquido Vel 600 ml,413.00 USD (x1),413.00 USD (x1),https://www.elmachetazo.com/lavaplatos-liquido-vel-600-ml-10032374/p
@@ -114,11 +112,11 @@ Supermercado,Bebida Frescura Naranja Estrella Azul|946 ml,145.00 USD (x1),145.00
 Supermercado,Jugo Cóctel de Frutas V8 Splash 16oz,169.00 USD (x1),169.00 USD (x1),https://www.elmachetazo.com/jugo-coctel-de-frutas-v8-splash-16oz-10254570/p
 Supermercado,Jugo Manzana Mott's 64oz,540.00 USD (x1),540.00 USD (x1),https://www.elmachetazo.com/jugo-manzana-motts-64oz-10016497/p
 Supermercado,Crema Dental Máxima Protección AntiCaries Colgate|100ml,305.00 USD (x1),305.00 USD (x1),https://www.elmachetazo.com/crema-dental-maxima-proteccion-anticaries-colgate100ml-10025158/p
-Supermercado,Snack Mini Pretzels Snyder's 1.5 oz,95.00 USD (x1),110.00 USD (x1),https://www.elmachetazo.com/snack-mini-pretzels-snyders-15-oz-10018290/p
+Supermercado,Chocolate Cookies & Cream Hershey´s 43g,146.00 USD (x1),146.00 USD (x1),https://www.elmachetazo.com/chocolate-cookies--cream-hersheys-43g-10005071/p
+Supermercado,Toalla Invisible con Alas Saba 14und,275.00 USD (x1),275.00 USD (x1),https://www.elmachetazo.com/toalla-invisible-con-alas-saba-14und-10020549/p
 Supermercado,Azúcar Morena La Estrella|800g,125.00 USD (x1),125.00 USD (x1),https://www.elmachetazo.com/azucar-morena-la-estrella-800g-10582042/p
-Supermercado,Salsa de Tomate Estilo Panameño Maggi|113g,78.00 USD (x1),78.00 USD (x1),https://www.elmachetazo.com/salsa-de-tomate-estilo-panameno-maggi113g-10023542/p
 Supermercado,Caldo Pollo Rika's 5Und,57.00 USD (x1),57.00 USD (x1),https://www.elmachetazo.com/caldo-pollo-rikas-5und-10031087/p
-Supermercado,Azúcar Blanca Santa Rosa|2 kg,295.00 USD (x1),295.00 USD (x1),https://www.elmachetazo.com/azucar-blanca-santa-rosa-2kg-10610083/p
+Supermercado,Sopa Criolla de Costilla de Res Maggi|58g,55.00 USD (x1),55.00 USD (x1),https://www.elmachetazo.com/sopa-criolla-de-costilla-de-res-maggi58g-10023711/p
 Supermercado,Cerevita Atol de Maíz Cereal Deshidratado 300g,235.00 USD (x1),235.00 USD (x1),https://www.elmachetazo.com/cerevita-atol-de-maiz-cereal-deshidratado-300g-10030840/p
 Supermercado,Avena Hojuela Canela Molino Criollo|454g,182.00 USD (x1),182.00 USD (x1),https://www.elmachetazo.com/avena-hojuela-canela-molino-criollo454g-10024106/p
 Supermercado,Sopa Pollo con Fideos Maggi|57g,59.00 USD (x1),59.00 USD (x1),https://www.elmachetazo.com/sopa-pollo-con-fideos-maggi57g-10022373/p
@@ -126,20 +124,17 @@ Supermercado,Harina Maíz Blanco Maseca 905g,190.00 USD (x1),190.00 USD (x1),htt
 Supermercado,Harina Maíz Blanco Doña Arepa|1Kg,295.00 USD (x1),325.00 USD (x1),https://www.elmachetazo.com/harina-maiz-blanco-dona-arepa1kg-10362495/p
 Supermercado,Harina Maíz Dulce P.A.N. 500g,210.00 USD (x1),210.00 USD (x1),https://www.elmachetazo.com/harina-maiz-dulce-pan-500g-10513991/p
 Supermercado,Arroz Especial Arrossísimo|2 kg,369.00 USD (x1),369.00 USD (x1),https://www.elmachetazo.com/arroz-especial-arrosisimo-2kg-10336210-machetazo/p
-Supermercado,Huevos Grandes Claripack Toledano|12 Unidades,269.00 USD (x1),269.00 USD (x1),https://www.elmachetazo.com/huevos-grandes-claripack-toledano12-unidades-10037524/p
-Supermercado,Pan Molde Blanco Grande Bimbo|560g,190.00 USD (x1),190.00 USD (x1),https://www.elmachetazo.com/pan-molde-blanco-grande-bimbo560g-10039255/p
 Supermercado,Cereal Hojuelas de Maíz 3 en 1 Gran Día|670g,395.00 USD (x1),395.00 USD (x1),https://www.elmachetazo.com/cereal-hojuelas-de-maiz-3-en-1-gran-dia670g-10745362/p
 Supermercado,Bollo Maíz American Star 5 Und,115.00 USD (x1),115.00 USD (x1),https://www.elmachetazo.com/bollo-maiz-american-star-5-und-10041465/p
 Supermercado,Poroto Chileno Nutritos|1 lb,149.00 USD (x1),149.00 USD (x1),https://www.elmachetazo.com/poroto-chileno-nutritos1lb-10373300/p
 Supermercado,Yogurt Vainilla Bonlac|120g,82.00 USD (x1),82.00 USD (x1),https://www.elmachetazo.com/yogurt-vainilla-bonlac120g-10041957/p
-Supermercado,Galleta Helado Estrella Azul 125ml|6 Pack,576.00 USD (x1),576.00 USD (x1),https://www.elmachetazo.com/galleta-helado-estrella-azul-125ml6-pack-10040617/p
 Supermercado,Empaque Queso Muenster Schreiber|0.6 lb,1595.00 USD (x1),1595.00 USD (x1),https://www.elmachetazo.com/empaque-queso-muenster-schreiber06-lb-10396823/p
 Supermercado,Filete Pechuga Mantequilla y Ajo Fit Melo|454 g,530.00 USD (x1),530.00 USD (x1),https://www.elmachetazo.com/filete-pechuga-mantequilla-y-ajo-fit-melo454-g-10041035/p
 Supermercado,Salchicha Carnitas Rimith|16 oz,335.00 USD (x1),335.00 USD (x1),https://www.elmachetazo.com/salchicha-carnitas-rimith16-oz-10041665/p
-Supermercado,Salchicha de Pollo Toledano|1lb,152.00 USD (x1),169.00 USD (x1),https://www.elmachetazo.com/salchicha-de-pollo-toledano1lb-10042488/p
 Supermercado,Papel Higiénico Familia Acolchamax Megarollo 4 Unidades,347.00 USD (x1),347.00 USD (x1),https://www.elmachetazo.com/papel-higienico-familia-acolchamax-megarollo-4-unidades-10867531/p
 Supermercado,Papel Higiénico Encanto Grande 24 Unidades,889.00 USD (x1),889.00 USD (x1),https://www.elmachetazo.com/papel-higienico-encanto-grande-24-unidades-10851351/p
 Supermercado,Esponja de Cocina|3 Unidades,197.00 USD (x1),197.00 USD (x1),https://www.elmachetazo.com/esponja-de-cocina3-unidades-10908340/p
+Supermercado,Papel Higiénico Scott Rindemax|18 Unidades,1359.00 USD (x1),1359.00 USD (x1),https://www.elmachetazo.com/papel-higienico-scott-rindemax18-unidades-10628986/p
 Supermercado,Suavizante de Telas Suavitel Cuidado Superior|Vainilla 2.8L,796.00 USD (x1),796.00 USD (x1),https://www.elmachetazo.com/suavizante-de-telas-suavitel-cuidado-superiorvainilla-28l-10911915/p
 Supermercado,Huevos Medianos Golden Selection|30 Unidades,445.00 USD (x1),445.00 USD (x1),https://www.elmachetazo.com/huevos-medianos30-unidades-10951694/p
 Supermercado,Papel Encerado para Freidora 200x45|20 Piezas,189.00 USD (x1),189.00 USD (x1),https://www.elmachetazo.com/papel-encerado-para-freidora-200x4520-piezas-10869030/p
@@ -153,24 +148,21 @@ Supermercado,Sirope Sabor Maple|13 oz,185.00 USD (x1),185.00 USD (x1),https://ww
 Supermercado,Atún en Agua Lucky Choice|170g,125.00 USD (x1),125.00 USD (x1),https://www.elmachetazo.com/atun-en-agua-lucky-choice170g-10825076/p
 Supermercado,Aceite de Oliva Bertolli Suave Clásico|500ml,659.00 USD (x1),659.00 USD (x1),https://www.elmachetazo.com/aceite-de-oliva-suave-clasico-bertolli-500ml-10775541/p
 Supermercado,"Bolsa de Basura Smart Choice18""x23""|12 Unidades",49.00 USD (x1),49.00 USD (x1),https://www.elmachetazo.com/bolsa-de-basura--smart-choice18x2312-unidades-10802483/p
-Supermercado,Quitamancha Polvo Clorox Ropa Blanca|90g,127.00 USD (x1),127.00 USD (x1),https://www.elmachetazo.com/quitamancha-polvo-clorox-ropa-blanca90g-10714345/p
 Supermercado,Desinfectante Clorox Anti Splash|473ml,87.00 USD (x1),87.00 USD (x1),https://www.elmachetazo.com/desinfectante-clorox-anti-splash473ml-10767858/p
 Supermercado,Limpiador Antigrasa Brasso 500ml,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/limpiador-antigrasa-brasso-500ml-10034432/p
 Supermercado,Crema Coco Coco López|15 oz,315.00 USD (x1),315.00 USD (x1),https://www.elmachetazo.com/crema-coco-coco-lopez15-oz-10026139/p
 Supermercado,Queso Americano sin Lactosa Borden 12 Reb,413.00 USD (x1),413.00 USD (x1),https://www.elmachetazo.com/queso-americano-sin-lactosa-borden-12-reb-10038975/p
 Supermercado,Bebida Polvo Pera Livean 9g,35.00 USD (x1),35.00 USD (x1),https://www.elmachetazo.com/bebida-polvo-pera-livean-9g-10029872/p
+Supermercado,Agua Cristalina 1 Litro,80.00 USD (x1),80.00 USD (x1),https://www.elmachetazo.com/agua-cristalina-1-litro-10688218/p
 Supermercado,Mayonesa Chipotle McCormick 350g,189.00 USD (x1),189.00 USD (x1),https://www.elmachetazo.com/mayonesa-chipotle-mccormick-350g-10683018/p
 Supermercado,Plato Foam #9 sin División Termo Fom 25 und,200.00 USD (x1),200.00 USD (x1),https://www.elmachetazo.com/plato-foam-9-sin-division-termo-fom-25-und-10146875/p
 Supermercado,Pechuga de Pollo Caribeño Bandeja,445.00 USD (x1),445.00 USD (x1),https://www.elmachetazo.com/pechuga-de-pollo-caribeno-bandeja-10797411/p
 Supermercado,Gomita Sour Glow Worms Trolli 100g,127.00 USD (x1),127.00 USD (x1),https://www.elmachetazo.com/gomita-sour-glow-worms-trolli-100g-10005710/p
-Supermercado,Toallitas Desinfectantes Citrus Lysol 80 Unidades,845.00 USD (x1),845.00 USD (x1),https://www.elmachetazo.com/toallitas-desinfectantes-citrus-lysol-80-unidades-10769950/p
-Supermercado,Lavaplatos Líquidos Lemon Axion 280ml,182.00 USD (x1),182.00 USD (x1),https://www.elmachetazo.com/lavaplatos-liquidos-lemon-axion-280ml-10778827/p
 Supermercado,Jugo Cranberry Cocktail Ocean Spray 3 Litros,720.00 USD (x1),720.00 USD (x1),https://www.elmachetazo.com/jugo-cranberry-cocktail-ocean-spray-3-litros-10329942/p
 Supermercado,Wipes Desinfectantes Clorox Limon|75 Unidades,712.00 USD (x1),712.00 USD (x1),https://www.elmachetazo.com/wipes-desinfectantes-clorox-limon75-unidades-10766242/p
 Supermercado,Clorox Lavanda|32 oz,94.00 USD (x1),137.00 USD (x1),https://www.elmachetazo.com/clorox-lavanda32-oz-10010039/p
 Supermercado,Straight Cut Oven Fried Aviko 450g,210.00 USD (x1),210.00 USD (x1),https://www.elmachetazo.com/straight-cut-oven-fried-aviko-450g-10038313/p
 Supermercado,Sal Dos Mares 1 lb,27.00 USD (x1),27.00 USD (x1),https://www.elmachetazo.com/sal-dos-mares-1-lb-10002758/p
-Supermercado,Spaghettini Santa Lucia 500g,189.00 USD (x1),189.00 USD (x1),https://www.elmachetazo.com/spaghettini-santa-lucia-500g-10019722/p
 Supermercado,Lonchas Mozzarella Presidente 200g,413.00 USD (x1),413.00 USD (x1),https://www.elmachetazo.com/lonchas-mozzarella-presidente-200g-10558782/p
 Supermercado,Servilletas de Papel Scott Estilo Blanca|100 Hojas,133.00 USD (x1),133.00 USD (x1),https://www.elmachetazo.com/servilletas-de-papel-scott-estilo-blanca100-hojas-10020417/p
 Supermercado,Toallita Húmeda Huggies Limpieza Cotidiana|80 Unidades,149.00 USD (x1),170.00 USD (x1),https://www.elmachetazo.com/toallita-humeda-huggies-limpieza-cotidiana80-unidades-10774944/p
@@ -180,7 +172,6 @@ Supermercado,Canela Raja Bolsa Bahil 70g,200.00 USD (x1),200.00 USD (x1),https:/
 Supermercado,Bandeja Muslo de Pollo|1.1 lb,400.00 USD (x1),454.00 USD (x1),https://www.elmachetazo.com/bandeja-muslo-de-pollo11-lb-10391456/p
 Supermercado,Dulce Cup Cake Empacado Rimith|6 oz,178.00 USD (x1),178.00 USD (x1),https://www.elmachetazo.com/dulce-cup-cake-empacado-rimith6-oz-10040153/p
 Supermercado,Bebida Naranja Disfruta Nevada|3 Litros,195.00 USD (x1),195.00 USD (x1),https://www.elmachetazo.com/bebida-naranja-disfruta-nevada3-litros-10781350/p
-Supermercado,Sal de Mesa Crisal 5 lb,158.00 USD (x1),158.00 USD (x1),https://www.elmachetazo.com/sal-de-mesa-crisal-5-lb-10002757/p
 Supermercado,Salsa China Oscura NHS 750ml,209.00 USD (x1),209.00 USD (x1),https://www.elmachetazo.com/salsa-china-oscura-nhs-750ml-10255193/p
 Supermercado,Salsa Soja Oscura Lee Kum Kee|500ml,229.00 USD (x1),229.00 USD (x1),https://www.elmachetazo.com/salsa-soja-oscura-lee-kum-kee500ml-10360414/p
 Supermercado,Salsa Soja King 5oz,215.00 USD (x1),215.00 USD (x1),https://www.elmachetazo.com/salsa-soja-king-5oz-10033227/p
@@ -191,13 +182,14 @@ Supermercado,Adobo con Pimienta Goya 8oz,200.00 USD (x1),200.00 USD (x1),https:/
 Supermercado,Sal Mr. Tom 26oz,195.00 USD (x1),195.00 USD (x1),https://www.elmachetazo.com/sal-mr-tom-26oz-10015801/p
 Supermercado,Salsa Marinado Pollo Lee Kum Kee 410g,323.00 USD (x1),323.00 USD (x1),https://www.elmachetazo.com/salsa-marinado-pollo-lee-kum-kee-410g-10007153/p
 Supermercado,Jabón Barra Antibacterial Avena Dart 110g 3pk,215.00 USD (x1),215.00 USD (x1),https://www.elmachetazo.com/jabon-barra-antibacterial-avena-dart-110g-3pk-10767249/p
-Supermercado,Café Molido Sello Rojo|212g,424.00 USD (x1),424.00 USD (x1),https://www.elmachetazo.com/cafe-molido-sello-rojo-212g-10571789-machetazo/p
 Supermercado,Jabón Barra Balance Protex 110g 3pk,345.00 USD (x1),345.00 USD (x1),https://www.elmachetazo.com/jabon-barra-balance-protex-110g-3pk-10032117/p
 Supermercado,Suavizante Vainilla Suavitel 1.9 Litros,498.00 USD (x1),498.00 USD (x1),https://www.elmachetazo.com/suavizante-vainilla-suavitel-19-litros-10738661/p
 Supermercado,Azúcar Morena Doradita|800g,115.00 USD (x1),115.00 USD (x1),https://www.elmachetazo.com/azucar-morena-doradita-800g-10417531/p
 Supermercado,Detergente Líquido Poder Gel Rendidor|5 Litros,1444.00 USD (x1),1604.00 USD (x1),https://www.elmachetazo.com/detergente-liquido-poder-gel--rendidor5-litros-10472106/p
 Supermercado,Desinfectante Kangaru Lux 1 galón,748.00 USD (x1),748.00 USD (x1),https://www.elmachetazo.com/desinfectante-kangaru-lux-1-galon-10022302/p
 Supermercado,Aceite de Oliva La Española Extra Virgen|250ml,395.00 USD (x1),395.00 USD (x1),https://www.elmachetazo.com/aceite-oliva-extra-virgen-la-espanola250ml-10355530/p
+Supermercado,Vinagre Blanco Proluxsa 16oz,61.00 USD (x1),61.00 USD (x1),https://www.elmachetazo.com/vinagre-blanco-proluxsa-16oz-10025606/p
+Supermercado,Cereal Infantil Nestum Trigo Miel|200g,283.00 USD (x1),283.00 USD (x1),https://www.elmachetazo.com/cereal-infantil-nestum-trigo-miel200g-10254850/p
 Supermercado,Agua de Coco Nature's Heart|1000ml,398.00 USD (x1),398.00 USD (x1),https://www.elmachetazo.com/agua-de-coco-natures-heart1000ml-10587987/p
 Supermercado,Nido 5+ Advanced Lata 1.6kg,2340.00 USD (x1),2340.00 USD (x1),https://www.elmachetazo.com/nido-5-advanced-lata-16kg-10639211/p
 Supermercado,Cubito Ajo y Cebolla Sazonador Maggi|4g|25 Unidades,121.00 USD (x1),121.00 USD (x1),https://www.elmachetazo.com/cubito-ajo-y-cebolla-sazonador-maggi4g25-unidades-10013889/p
@@ -215,18 +207,13 @@ Supermercado,Brillo de Alambre,43.00 USD (x1),43.00 USD (x1),https://www.elmache
 Supermercado,Vaso Plástico Azul Smart Choice|9 oz|50 Unidades,189.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/vaso-plastico-azul-smart-choice9-oz50-unidades-10743718/p
 Supermercado,Arroz Especial Espiga Dorada|20 lb,1535.00 USD (x1),1535.00 USD (x1),https://www.elmachetazo.com/arroz-especial-espiga-dorada-20-lb-10023253-machetazo/p
 Supermercado,Guandú Coco Del Monte|15 oz,169.00 USD (x1),169.00 USD (x1),https://www.elmachetazo.com/guandu-coco-del-monte15-oz-10014712/p
-Supermercado,Harina Trigo Gold Mills|1 lb,88.00 USD (x1),88.00 USD (x1),https://www.elmachetazo.com/harina-trigo-gold-mills1-lb-10006045/p
 Supermercado,Vinagre Blanco Proluxsa Bot|32 oz,89.00 USD (x1),89.00 USD (x1),https://www.elmachetazo.com/vinagre-blanco-proluxsa-bot32-oz-10025757/p
 Supermercado,Pasta de Tomate Maggi Doypack|1 kg,410.00 USD (x1),459.00 USD (x1),https://www.elmachetazo.com/pasta-de-tomate-maggi-doypack1-kg-10342253/p
 Supermercado,Leche Evaporada Ideal Entera|167g,76.00 USD (x1),76.00 USD (x1),https://www.elmachetazo.com/leche-evaporada-ideal-entera167g-10002877/p
-Supermercado,Té de Canela Durán|20 Sobres,132.00 USD (x1),132.00 USD (x1),https://www.elmachetazo.com/te-de-canela-duran-20-sobres-10024780-machetazo/p
-Supermercado,Café Durán Tradicional Molido Extrafino|212g,408.00 USD (x1),408.00 USD (x1),https://www.elmachetazo.com/cafe-duran-tradicional-molido-extrafino-212g-10027313-machetazo/p
-Supermercado,Café Durán Tradicional Molido Regular|212g,417.00 USD (x1),417.00 USD (x1),https://www.elmachetazo.com/cafe-duran-tradicional-molido-regular-212g-10024935-machetazo/p
-Supermercado,Leche Semi Descremada Fit La Chiricana|946ml,182.00 USD (x1),182.00 USD (x1),https://www.elmachetazo.com/leche-semi-descremada-fit-la-chiricana946ml-10706120/p
 Supermercado,Cepillo Dental Colgate Twister Medio|3 Piezas,301.00 USD (x1),362.00 USD (x1),https://www.elmachetazo.com/cepillo-dental--colgate-twister-medio3-piezas-10031658/p
 Supermercado,Desinfectante Alternativa Al Cloro Fabuloso 900ml,250.00 USD (x1),250.00 USD (x1),https://www.elmachetazo.com/desinfectante-alternativa-al-cloro-fabuloso-900ml-10755323/p
+Supermercado,Papel Toalla Multi Corte H Doble Delux 2 Unidades,271.00 USD (x1),271.00 USD (x1),https://www.elmachetazo.com/papel-toalla-multi-corte-h-doble-delux-2-unidades-10741520/p
 Supermercado,Papel Desechable Scott Calorie Absorb 3|Rollo 90 Hojas,540.00 USD (x1),637.00 USD (x1),https://www.elmachetazo.com/papel-desechable-scott-calorie-absorb-3rollo-90-hojas-10708882/p
-Supermercado,Spray Crip Linen Lysol 19 oz,986.00 USD (x1),986.00 USD (x1),https://www.elmachetazo.com/spray-crip-linen-lysol-19-oz-10030566/p
 Supermercado,Limpiador Polvo Original Triclorín Ajax 400g,224.00 USD (x1),224.00 USD (x1),https://www.elmachetazo.com/limpiador-polvo-original-triclorin-ajax-400g-10034626/p
 Supermercado,Detergente Polvo Rendidor Fresca Lavanda 2.5kg,606.00 USD (x1),722.00 USD (x1),https://www.elmachetazo.com/detergente-polvo-rendidor-fresca-lavanda-25kg-10688704/p
 Supermercado,Papel Aluminio Reynolds 25 sq.ft,288.00 USD (x1),288.00 USD (x1),https://www.elmachetazo.com/papel-aluminio-reynolds-25-sqft-10030281/p
@@ -237,30 +224,25 @@ Supermercado,Bebida Energizante Sobe Adrenaline Rush 296ml,158.00 USD (x1),158.0
 Supermercado,Ketchup Heinz 20 oz,322.00 USD (x1),322.00 USD (x1),https://www.elmachetazo.com/ketchup-heinz-20-oz-10012382/p
 Supermercado,Cerezas Maraschino Country Barn 16oz,369.00 USD (x1),369.00 USD (x1),https://www.elmachetazo.com/cerezas-maraschino-country-barn-16oz-10744913/p
 Supermercado,Aderezo Italiano Country Barn 16oz,170.00 USD (x1),170.00 USD (x1),https://www.elmachetazo.com/aderezo-italiano-country-barn-16oz-10744906/p
-Supermercado,Arroz Especial Del Oro|5 lb,405.00 USD (x1),405.00 USD (x1),https://www.elmachetazo.com/arroz-especial-del-oro-5-lb-10254788-machetazo/p
 Supermercado,Melocotón en Almíbar Golden Selection|425g,110.00 USD (x1),110.00 USD (x1),https://www.elmachetazo.com/melocoton-en-almibar-golden-selection425g-10744924/p
 Supermercado,Papel Toalla Natural 70H Doble Delux 2 und,149.00 USD (x1),179.00 USD (x1),https://www.elmachetazo.com/papel-toalla-natural-70h-doble-delux-2-und-10421759/p
 Supermercado,Vaso Plástico 9 oz|Smart Choice|50 Unidades,179.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/vaso-plastico-9-ozsmart-choice50-unidades-10760799/p
 Supermercado,Limpiador Multiusos Trigger 409 16oz,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/limpiador-multiusos-trigger-409-16oz-10005574/p
 Supermercado,Bebida Naranja Fresh Del Valle 3 Litros|,193.00 USD (x1),193.00 USD (x1),https://www.elmachetazo.com/bebida-naranja-fresh-del-valle-3-litros-10357515/p
 Supermercado,Jabón Tocador Avena Protex|110g|3 Pack,289.00 USD (x1),345.00 USD (x1),https://www.elmachetazo.com/jabon-tocador-avena-protex110g3-pack-10029881/p
-Supermercado,Soda Coca Cola Zero 2.25 Litros,285.00 USD (x1),285.00 USD (x1),https://www.elmachetazo.com/soda-coca-cola-zero-225-litros-10552533/p
-Supermercado,Azúcar Morena La Estrella|4 lb,275.00 USD (x1),275.00 USD (x1),https://www.elmachetazo.com/azucar-morena-la-estrella-4lb-10582048/p
+Supermercado,Costilla Criolla Sazonador Maggi|10g|4 Unidades,61.00 USD (x1),61.00 USD (x1),https://www.elmachetazo.com/costilla-criolla-sazonador-maggi10g4-unidades-10023545/p
 Supermercado,Néctar Pera Del Monte 1L,140.00 USD (x1),140.00 USD (x1),https://www.elmachetazo.com/nectar-pera-del-monte-1l-10002143/p
 Supermercado,Tornillo con Vegetales Suprema 454g,145.00 USD (x1),145.00 USD (x1),https://www.elmachetazo.com/tornillo-con-vegetales-suprema-454g-10619486/p
 Supermercado,Salsa Agridulce Lee Kum Kee 240g,323.00 USD (x1),323.00 USD (x1),https://www.elmachetazo.com/salsa-agridulce-lee-kum-kee-240g-10007152/p
-Supermercado,Harina Trigo Gold Mills 5lb,352.00 USD (x1),352.00 USD (x1),https://www.elmachetazo.com/harina-trigo-gold-mills-5lb-10006157/p
 Supermercado,Panecillo Bun Rimith |615g|12 Unidades,195.00 USD (x1),195.00 USD (x1),https://www.elmachetazo.com/panecillo-bun-rimith-615g12-unidades-10633415/p
 Supermercado,Pan Molde Artesano Bimbo|535g,223.00 USD (x1),223.00 USD (x1),https://www.elmachetazo.com/pan-molde-artesano-bimbo-535g-10574216/p
 Supermercado,Margarina Cascade|1lb,223.00 USD (x1),318.00 USD (x1),https://www.elmachetazo.com/margarina-cascade1lb-10610667/p
-Supermercado,Margarina Pabo|1lb,220.00 USD (x1),220.00 USD (x1),https://www.elmachetazo.com/margarina-pabo1lb-10610666/p
-Supermercado,Huevos Medianos Del Día|12 Unidades,217.00 USD (x1),217.00 USD (x1),https://www.elmachetazo.com/huevos-medianos-del-dia12-unidades-10039911/p
 Supermercado,Huevos Medianos Toledano|12 Unidades,237.00 USD (x1),237.00 USD (x1),https://www.elmachetazo.com/huevos-medianos-toledano12-unidades-10037529/p
+Supermercado,Pan Molde Blanco Grande Bimbo|560g,190.00 USD (x1),190.00 USD (x1),https://www.elmachetazo.com/pan-molde-blanco-grande-bimbo560g-10039255/p
 Supermercado,Cereal Hojuelas Maíz Gran Día|620g,285.00 USD (x1),285.00 USD (x1),https://www.elmachetazo.com/cereal-hojuelas-maiz-gran-dia620g-10417146/p
 Supermercado,Gourmar Salmon Family|570g,1648.00 USD (x1),1648.00 USD (x1),https://www.elmachetazo.com/gourmar-salmon-family570g-10407633/p
-Supermercado,Yogurt Cereza Estrella Azul|125 g,78.00 USD (x1),82.00 USD (x1),https://www.elmachetazo.com/yogurt-cereza-estrella-azul125-g-10040028/p
-Supermercado,Yogurt Fresa Estrella Azul|125 g,78.00 USD (x1),82.00 USD (x1),https://www.elmachetazo.com/yogurt-fresa-estrella-azul125-g-10040013/p
 Supermercado,Queso Parmesado Rallado Zanetti|40g,135.00 USD (x1),135.00 USD (x1),https://www.elmachetazo.com/queso-parmesado-rallado-zanetti40g-10042679/p
+Supermercado,Queso Molido Joselito|250g,255.00 USD (x1),255.00 USD (x1),https://www.elmachetazo.com/queso-molido-joselito250g-10038638/p
 Supermercado,Papas Corte Ondulado Mc Cain|1kg,480.00 USD (x1),480.00 USD (x1),https://www.elmachetazo.com/papas-corte-ondulado-mc-cain1kg-10041191/p
 Supermercado,Yogurt Piña Bonlac|120g,75.00 USD (x1),80.00 USD (x1),https://www.elmachetazo.com/yogurt-pina-bonlac120g-10041955/p
 Supermercado,Salami Rimith|113g,131.00 USD (x1),146.00 USD (x1),https://www.elmachetazo.com/salami-rimith113g-10041715/p
@@ -338,7 +320,6 @@ Supermercado,Enguaje Bucal Therabreath Invigorating Icy Mint|16 oz,899.00 USD (x
 Supermercado,Rollitos Primavera de Vegetales|18 oz,365.00 USD (x1),365.00 USD (x1),https://www.elmachetazo.com/rollitos-primavera-de-vegetales18-oz-10586039/p
 Supermercado,Wantón de Camarones Chef Lee|140g,450.00 USD (x1),450.00 USD (x1),https://www.elmachetazo.com/wanton-de-camarones-chef-lee140g-10799051/p
 Supermercado,Caldo de Pollo Maggi|84g,82.00 USD (x1),125.00 USD (x1),https://www.elmachetazo.com/caldo-de-pollo-maggi84g-10834290/p
-Supermercado,Salchicha Frank Esencial Rimith|454 g,195.00 USD (x1),195.00 USD (x1),https://www.elmachetazo.com/salchicha-frank-esencial-rimith454-g-10868152/p
 Supermercado,Soda Coca Cola Botella 6 Pack |600ml,625.00 USD (x1),625.00 USD (x1),https://www.elmachetazo.com/soda-coca-cola-botella-6pack600ml-10930669/p
 Supermercado,Papas Wedge Picantes Aviko|2.5kg,920.00 USD (x1),920.00 USD (x1),https://www.elmachetazo.com/papas-wedge-picantes-aviko25kg-10863467/p
 Supermercado,Cerveza Extra Fina Cristal|12 Unidades|310 ml,835.00 USD (x1),835.00 USD (x1),https://www.elmachetazo.com/cerveza-extra-fina-cristal12-unidades310-ml-10972283/p
@@ -386,6 +367,7 @@ Supermercado,Alimento para Gato Fancy Feast|Casserole Atún|85g,121.00 USD (x1),
 Supermercado,Alimento para Gato Fancy Feast Goulash Tuna|85g,121.00 USD (x1),121.00 USD (x1),https://www.elmachetazo.com/alimento-para-gato-purina-fancy-feastpouch-goulash-tuna85-g3-oz-10893299/p
 Supermercado,Arena para Gato Purina Tidy Cats|14 lb,1312.00 USD (x1),1312.00 USD (x1),https://www.elmachetazo.com/arena-gato-purina-tidy-cats-14-lb/p
 Supermercado,Muslo Mantequilla y Ajo Melo|3 lb,860.00 USD (x1),860.00 USD (x1),https://www.elmachetazo.com/muslo-mantequilla-y-ajo-melo3-lb-10911926/p
+Supermercado,Repelente de Mosquitos Family Spray|177ml,505.00 USD (x1),505.00 USD (x1),https://www.elmachetazo.com/repelente-de-mosquitos-family-spray177ml-10852538/p
 Supermercado,"Pads de Entrenamiento para Mascota|21""x21""|14 Unidades",699.00 USD (x1),699.00 USD (x1),https://www.elmachetazo.com/pads-de-entrenamiento-para-mascota21x2114-unidades-10852553/p
 Supermercado,Alimento para Peces Tetramin|28g,412.00 USD (x1),412.00 USD (x1),https://www.elmachetazo.com/alimento-para-peces-tetramin28g-10852543/p
 Supermercado,Toallitas Húmedas para Mascota|50 Unidades,135.00 USD (x1),135.00 USD (x1),https://www.elmachetazo.com/toallitas-humedas-para-mascota50-unidades-10940053/p
@@ -407,6 +389,7 @@ Supermercado,Nuez con Cáscara Golden Selection|250g,299.00 USD (x1),299.00 USD 
 Supermercado,Champaña Manzana Sin Alcohol Tommy|750ml,299.00 USD (x1),319.00 USD (x1),https://www.elmachetazo.com/champana-manzana-sin-alcohol--tommy750ml-10864420/p
 Supermercado,Turrón Duro con Almendra San Andrés|Sin Azúcar|150g,349.00 USD (x1),349.00 USD (x1),https://www.elmachetazo.com/turron-duro-con-almendra-san-andressin-azucar150g-10922041/p
 Supermercado,Turrón Crema de Maní San Andrés|150g,249.00 USD (x1),249.00 USD (x1),https://www.elmachetazo.com/turron-crema-de-mani-san-andres150g-10922046/p
+Supermercado,Panettone de Frutas Deubel|400g,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/panettone-de-frutas-deubel400g-10971626/p
 Supermercado,Turrón Blando San Andrés|150g,319.00 USD (x1),319.00 USD (x1),https://www.elmachetazo.com/turron-blando-san-andres150g-10922044/p
 Supermercado,Jamonilla de Cerdo Hormel Black Label|2 Pack,555.00 USD (x1),555.00 USD (x1),https://www.elmachetazo.com/jamonilla-de-cerdo-hormel-black-label2-pack-10957177/p
 Supermercado,Bombones Chocolate Ferrero Rocher Collection|162g,1600.00 USD (x1),1600.00 USD (x1),https://www.elmachetazo.com/bombones-chocolate-ferrero-rocher-collection162g-10596188/p
@@ -452,6 +435,7 @@ Supermercado,Pancake Original Complete Pearl Milling Co.|800g,325.00 USD (x1),32
 Supermercado,Pancake Original Pearl Milling Co.|400g,194.00 USD (x1),194.00 USD (x1),https://www.elmachetazo.com/pancake-original-pearl-milling-co-400g-10957123-machetazo/p
 Supermercado,Arena para Gato Maxcotas|22 Libras,999.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/arena-para-gato-maxcotas22-libras-10964933/p
 Supermercado,Alimento para Gato Chunky|Pollo|1.5Kg,733.00 USD (x1),733.00 USD (x1),https://www.elmachetazo.com/alimento-para-gato-chunkypollo15kg-10910609/p
+Supermercado,Bolsa de Hielo Smart Choice|8 Libras,115.00 USD (x1),115.00 USD (x1),https://www.elmachetazo.com/bolsa-de-hielo-smart-choice-8-libras-10925464/p
 Supermercado,Bebida Energética Dark Blue|500 ml,145.00 USD (x1),145.00 USD (x1),https://www.elmachetazo.com/bebida-energizante-dark-blue-500-ml-10955342-machetazo_twc81h/p
 Supermercado,Starbust Caramelos Fun Size,659.00 USD (x1),659.00 USD (x1),https://www.elmachetazo.com/starbust-caramelos-fun-size-10963069/p
 Supermercado,Mentos Chicle Pure Fresh|Spearmint|20g,151.00 USD (x1),151.00 USD (x1),https://www.elmachetazo.com/mentos-chicle-pure-freshspearmint20g-10526769/p
@@ -512,7 +496,6 @@ Supermercado,Pañales Huggies Natural Care|XG|80 Unidades,2559.00 USD (x1),3074.
 Supermercado,Papel Higiénico Scott Cuidado Completo|18 Unidades,1274.00 USD (x1),1274.00 USD (x1),https://www.elmachetazo.com/papel-higienico-scott-cuidado-completo18-unidades-10936469/p
 Supermercado,Papel Higiénico Scott Cuidado Completo|6 Unidades,442.00 USD (x1),442.00 USD (x1),https://www.elmachetazo.com/papel-higienico-scott-cuidado-completo6-unidades-10942747/p
 Supermercado,Papel Higiénico Scott|1000 Hojas|6 Unidades,299.00 USD (x1),382.00 USD (x1),https://www.elmachetazo.com/papel-higienico-scott1000-hojas6-unidades-10256433/p
-Supermercado,Papel Higiénico Scott Rindemax|18 Unidades,1359.00 USD (x1),1359.00 USD (x1),https://www.elmachetazo.com/papel-higienico-scott-rindemax18-unidades-10628986/p
 Supermercado,Pañales Huggies Clásico Jumbo|Grande|50 Unidades,935.00 USD (x1),935.00 USD (x1),https://www.elmachetazo.com/panales-huggies-clasico-jumbogrande50-unidades-10713792/p
 Supermercado,Toallitas Húmedas Huggies Manitos y Caritas|48 Unidades,218.00 USD (x1),218.00 USD (x1),https://www.elmachetazo.com/toallitas-humedas-huggies-manitos-y-caritas48-unidades-10805345/p
 Supermercado,Pañales Huggies Clásico Jumbo|Mediano|50 Unidades,935.00 USD (x1),935.00 USD (x1),https://www.elmachetazo.com/panales-huggies-clasico-jumbomediano50-unidades-10832147/p
@@ -761,6 +744,7 @@ Supermercado,Papas Sazonadas Corte Recto Essential Everyday 32oz,345.00 USD (x1)
 Supermercado,Toallita Húmeda Pampers|Sensitive|52U,290.00 USD (x1),290.00 USD (x1),https://www.elmachetazo.com/toallita-humeda-pamperssensitive52u-10834451/p
 Supermercado,Whisky Ballantine´s 750ml,2209.00 USD (x1),2209.00 USD (x1),https://www.elmachetazo.com/whisky-ballantines-750ml-10008693/p
 Supermercado,Galletas Vainilla Malvinas 420g,199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/galletas-vainilla-malvinas-420g-10824513/p
+Supermercado,Miller Genuine Draft Lata 10oz,100.00 USD (x1),100.00 USD (x1),https://www.elmachetazo.com/miller-genuine-draft-lata-10oz-10834541/p
 Supermercado,Biscuit Vegano Salchicha Huevo y Queso 5oz,490.00 USD (x1),490.00 USD (x1),https://www.elmachetazo.com/biscuit-vegano-salchicha-huevo-y-queso-5oz-10830349/p
 Supermercado,Biscuit Vegano Chorizo Huevo y Queso|5 oz,490.00 USD (x1),490.00 USD (x1),https://www.elmachetazo.com/biscuit-vegano-chorizo-huevo-y-queso5-oz-10830348/p
 Supermercado,Pizza Vegana Clásica Mozarella Tomate 6oz,680.00 USD (x1),680.00 USD (x1),https://www.elmachetazo.com/pizza-vegana-clasica-mozarella-tomate-6oz-10830345/p
@@ -837,7 +821,6 @@ Supermercado,Sardina Ovalada Picante Blue Pacific 415g,245.00 USD (x1),245.00 US
 Supermercado,Jabón Baby Magic Mennen Lavanda |Hipoalergénico|90g,146.00 USD (x1),146.00 USD (x1),https://www.elmachetazo.com/jabon-barra-lavanda-mennen-90g-10850286/p
 Supermercado,Shampoo Elvive Hidra Hialurónico 680ml,999.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/shampoo-elvive-hidra-hialuronico-680ml-10849089/p
 Supermercado,Saba Buenas Noches Sin Alas|8S,282.00 USD (x1),282.00 USD (x1),https://www.elmachetazo.com/saba-buenas-noches-sin-alas8s-10845165/p
-Supermercado,Pants Adulto Slip Nocturno Tena|G|8 Unidades,1450.00 USD (x1),1450.00 USD (x1),https://www.elmachetazo.com/pants-adulto-slip-nocturno-tenag8-unidades-10762919/p
 Supermercado,Pants Adulto Slip Nocturno Tena|S-M|8 Unidades,1400.00 USD (x1),1400.00 USD (x1),https://www.elmachetazo.com/pants-adulto-slip-nocturno-tenas-m8-unidades-10762918/p
 Supermercado,Pants Adulto Tena Slip Medium|20 Unidades,2536.00 USD (x1),2536.00 USD (x1),https://www.elmachetazo.com/pants-adulto-tena-slip-medium20-unidades-10018441/p
 Supermercado,Granola Miel y Almendras Avelina| 350g,279.00 USD (x1),279.00 USD (x1),https://www.elmachetazo.com/granola-miel-y-almendras-avelina-350g-10812076/p
@@ -886,15 +869,12 @@ Supermercado,Shampoo Elvive Hidra Hialurónico 370 ml,984.00 USD (x1),984.00 USD
 Supermercado,Pañal Desechable Pampers Swaddlers|T-3|26U,1177.00 USD (x1),1588.00 USD (x1),https://www.elmachetazo.com/panal-desechable-pampers-swaddlerst-326u-10710224/p
 Supermercado,Aceite Vegetal Sarita|5 Litros,1125.00 USD (x1),1125.00 USD (x1),https://www.elmachetazo.com/aceite-vegetal-sarita-5-l-10833353/p
 Supermercado,Toalla Femenina Ultra Fina Suave con Alas Always|8 Unidades,273.00 USD (x1),273.00 USD (x1),https://www.elmachetazo.com/toalla-femenina-ultra-fina-suave-con-alas-always8-unidades-10830810/p
-Supermercado,Pika Mix 300g,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/pika-mix-300g-10835508/p
 Supermercado,Té de Canela Hindú|20 Unidades,176.00 USD (x1),176.00 USD (x1),https://www.elmachetazo.com/te-de-canela-hindu-20-unidades-10830608-machetazo/p
 Supermercado,Té de Jengibre Limón Hindú|20 Unidades,187.00 USD (x1),187.00 USD (x1),https://www.elmachetazo.com/te-de-jengibre-limon-hindu-20-unidades-10830607-machetazo/p
-Supermercado,Plátano Maduro Salado Pro 75g,98.00 USD (x1),98.00 USD (x1),https://www.elmachetazo.com/platano-maduro-salado-pro-75g-10831654/p
 Supermercado,Shampoo Acondicionador Proteína Mennen 700ml,457.00 USD (x1),457.00 USD (x1),https://www.elmachetazo.com/shampoo-acondicionador-proteina-mennen-700ml-10815701/p
 Supermercado,Shampoo Miel y Manzanilla Mennen 700ml,457.00 USD (x1),457.00 USD (x1),https://www.elmachetazo.com/shampoo-miel-y-manzanilla-mennen-700ml-10815700/p
 Supermercado,Almendras Horneadas Cashitas 350g,840.00 USD (x1),840.00 USD (x1),https://www.elmachetazo.com/almendras-horneadas-cashitas-350g-10830161/p
 Supermercado,Caramelos Roll Fresa Mentos 29g,68.00 USD (x1),68.00 USD (x1),https://www.elmachetazo.com/caramelos-roll-fresa-mentos-29g-10834537/p
-Supermercado,Yuquitas Rancheras Pro 45g,85.00 USD (x1),85.00 USD (x1),https://www.elmachetazo.com/yuquitas-rancheras-pro-45g-10831655/p
 Supermercado,Leche Condensada Del Paraíso 390g,184.00 USD (x1),184.00 USD (x1),https://www.elmachetazo.com/leche-condensada-del-paraiso-390g-10832417/p
 Supermercado,Alimento Perro Ganador|Adulto|Raza Mediana y Grande|2kg,785.00 USD (x1),785.00 USD (x1),https://www.elmachetazo.com/alimento-perro-ganadoradultoraza-mediana-y-grande2kg-10811722/p
 Supermercado,Alimento Perro Ganador|Adulto|Raza Pequeña|4kg,1286.00 USD (x1),1286.00 USD (x1),https://www.elmachetazo.com/alimento-perro-ganadoradultoraza-pequena4kg-10811726/p
@@ -940,13 +920,11 @@ Supermercado,Mezcla Pancake Completa|454g,149.00 USD (x1),169.00 USD (x1),https:
 Supermercado,Pad para Mascota PeePee|XL|14 Unidades,1199.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/pad-para-mascota-peepeexl14-unidades-10830367/p
 Supermercado,Alimento para Perro Dog Chow Little Bites|1.65 lb,2555.00 USD (x1),2555.00 USD (x1),https://www.elmachetazo.com/dog-chow-little-bites-165-lb-10526743/p
 Supermercado,Whisky Jameson Irlandés 750ml,2988.00 USD (x1),2988.00 USD (x1),https://www.elmachetazo.com/whisky-jameson-irlandes-750ml-10798819/p
-Supermercado,Chicharrones Criollos 87g,235.00 USD (x1),235.00 USD (x1),https://www.elmachetazo.com/chicharrones-criollos-87g-10822043/p
 Supermercado,Goicoechea Crema Arnica|1 Litro,1099.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/goicoechea-crema-arnica1-litro-10810297/p
 Supermercado,Cicatricure Mousse Micelar 150ml,930.00 USD (x1),930.00 USD (x1),https://www.elmachetazo.com/cicatricure-mousse-micelar-150ml-10767260/p
 Supermercado,Cicatricure Contorno Ojos 8.5g,1300.00 USD (x1),1300.00 USD (x1),https://www.elmachetazo.com/cicatricure-contorno-ojos-85g-10019485/p
 Supermercado,Roma Lasagña 400g,189.00 USD (x1),189.00 USD (x1),https://www.elmachetazo.com/roma-lasagna-400g-10812285/p
 Supermercado,Glade Spray Fantasía Pino 400ml,245.00 USD (x1),245.00 USD (x1),https://www.elmachetazo.com/glade-spray-fantasia-de-pino-400ml-10831435/p
-Supermercado,Pizza Horno de Piedra|Doble Pepperoni 365g,369.00 USD (x1),369.00 USD (x1),https://www.elmachetazo.com/pizza-horno-de-piedradoble-pepperoni-365g-10797122/p
 Supermercado,Mermelada Fresa Tricopilia Doypack 300gr,222.00 USD (x1),222.00 USD (x1),https://www.elmachetazo.com/mermelada-fresa-tricopilia-doypack-300gr-10006561/p
 Supermercado,Hueso Nylabone 2 Unidades Rojo|Verde,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/hueso-nylabone-2-unidades-rojoverde-10826330/p
 Supermercado,Ron Carta Vieja Añejo 1 Litro,1156.00 USD (x1),1156.00 USD (x1),https://www.elmachetazo.com/ron-carta-vieja-anejo-1-litro-10012024/p
@@ -999,6 +977,28 @@ Supermercado,Vodka Stanislav 1750 cc,1955.00 USD (x1),1955.00 USD (x1),https://w
 Supermercado,Crema para Café Non Dairy Creamer Kraft 16 oz,455.00 USD (x1),455.00 USD (x1),https://www.elmachetazo.com/crema-para-cafe-non-dairy-creamer-kraft-16-oz-10028509/p
 Supermercado,Aderezo Zesty Italian Kraft 16oz,487.00 USD (x1),487.00 USD (x1),https://www.elmachetazo.com/aderezo-zesty-italian-kraft-16oz-10000971/p
 Supermercado,Aderezo Thousand Island Sin Grasa Kraft 16oz,488.00 USD (x1),488.00 USD (x1),https://www.elmachetazo.com/aderezo-thousand-island-sin-grasa-kraft-16oz-10001109/p
+Supermercado,Vinagreta Balsámica Kraft 16oz,487.00 USD (x1),487.00 USD (x1),https://www.elmachetazo.com/vinagreta-balsamica-kraft-16oz-10017821/p
+Supermercado,Desinfectante Spum Lavanda 1 galón,515.00 USD (x1),693.00 USD (x1),https://www.elmachetazo.com/desinfectante-spum-lavanda-1-galon-10818297/p
+Supermercado,Desinfectante Multiuso Sanytol 750ml,330.00 USD (x1),330.00 USD (x1),https://www.elmachetazo.com/desinfectante-multiuso-sanytol-750ml-10827269/p
+Supermercado,Suavizante Elegance Downy 2600 ml,583.00 USD (x1),583.00 USD (x1),https://www.elmachetazo.com/suavizante-elegance-downy-2600-ml-10830454/p
+Supermercado,Flan Vainilla Royal|80g,120.00 USD (x1),120.00 USD (x1),https://www.elmachetazo.com/flan-vainilla-royal80g-10349690/p
+Supermercado,Flan Vainilla Caramelo Royal 85g,150.00 USD (x1),150.00 USD (x1),https://www.elmachetazo.com/flan-vainilla-caramelo-royal-85g-10404671/p
+Supermercado,Crema Facial Hidratante Gel Rosas Nivea 50ml,1334.00 USD (x1),1334.00 USD (x1),https://www.elmachetazo.com/crema-facial-hidratante-gel-rosas-nivea-50ml-10823030/p
+Supermercado,Toallitas Desmaquillantes MicellAIR Rosas Nivea 25 Unidades,934.00 USD (x1),934.00 USD (x1),https://www.elmachetazo.com/toallitas-desmaquillantes-micellair-rosas-nivea-25-unidades-10773163/p
+Supermercado,Jabón Canela Smart Choice Tripack 125g,109.00 USD (x1),139.00 USD (x1),https://www.elmachetazo.com/jabon-canela-smart-choice-tripack-125g-10804467/p
+Supermercado,Jabón Avena Smart Choice Tripack 125g,109.00 USD (x1),139.00 USD (x1),https://www.elmachetazo.com/jabon-avena-smart-choice-tripack-125g-10804468/p
+Supermercado,Jabón Almendra Smart Choice Tripack 125g,109.00 USD (x1),139.00 USD (x1),https://www.elmachetazo.com/jabon-almendra-smart-choice-tripack-125g-10804471/p
+Supermercado,Té Cero Azúcar Melocotón Tropical 500ml,78.00 USD (x1),78.00 USD (x1),https://www.elmachetazo.com/te-cero-azucar-melocoton-tropical-500ml-10795820/p
+Supermercado,Té Cero Azúcar Frutas Tropicales Topical 500ml,78.00 USD (x1),78.00 USD (x1),https://www.elmachetazo.com/te-cero-azucar-frutas-tropicales-topical-500ml-10795822/p
+Supermercado,Pañal Desechable Pampers Splashers|E4|11U,895.00 USD (x1),895.00 USD (x1),https://www.elmachetazo.com/panal-desechable-pampers-splasherse411u-10806548/p
+Supermercado,Repuesto Automático Cielo Brisa de Mar Glade 175g,949.00 USD (x1),949.00 USD (x1),https://www.elmachetazo.com/repuesto-automatico-cielo-brisa-de-mar-glade-175g-10820967/p
+Supermercado,Aromatizante Glade Repuesto Mora Radiante 63ml,1033.00 USD (x1),1033.00 USD (x1),https://www.elmachetazo.com/aromatizante-glade-repuesto-mora-radiante-63ml-10823509/p
+Supermercado,Aromatizante Mini Gel Mora Radiante Glade 70g,168.00 USD (x1),168.00 USD (x1),https://www.elmachetazo.com/aromatizante-mini-gel-mora-radiante-glade-70g-10823507/p
+Supermercado,Dinner Lasagna Chef Boyardee 14.5oz,159.00 USD (x1),159.00 USD (x1),https://www.elmachetazo.com/dinner-lasagna-chef-boyardee-145oz-10805332/p
+Supermercado,Galletas Salmas con Chía y Linaza 144g,324.00 USD (x1),324.00 USD (x1),https://www.elmachetazo.com/galletas-salmas-con-chia-y-linaza-144g-10797044/p
+Supermercado,Aromatizante Aerosol Glade Odisea Azul|275ml,231.00 USD (x1),231.00 USD (x1),https://www.elmachetazo.com/aerosol-aromatizante-odisea-azul-glade-275ml-10818420/p
+Supermercado,Aromatizante Aerosol Frutos Rojos Glade 275ml,231.00 USD (x1),231.00 USD (x1),https://www.elmachetazo.com/aromatizante-aerosol-frutos-rojos-glade-275ml-10818418/p
+Supermercado,Aerosol Aromatizante Glade Campos de Lavanda 275ml,231.00 USD (x1),231.00 USD (x1),https://www.elmachetazo.com/aerosol-aromatizante-glade-campos-de-lavanda-275ml-10818433/p
 Farmacia,Pedialyte Polvo Strawberry|3.5 g|5 Sobres,925.00 USD (x1),925.00 USD (x1),https://www.elmachetazo.com/pedialyte-polvo-strawberry35-g5-sobres-10969596/p
 Farmacia,Acetaminofen|500mg|20 Tabletas,175.00 USD (x1),233.00 USD (x1),https://www.elmachetazo.com/acetaminofen500mg20-tabletas-10895115/p
 Farmacia,Aspirina Infantil|100mg|20 Tabletas,277.00 USD (x1),370.00 USD (x1),https://www.elmachetazo.com/aspirina-infantil100mg20-tabletas-10253459/p
@@ -1159,7 +1159,6 @@ Farmacia,Pepto-Bismol|236ml,625.00 USD (x1),833.00 USD (x1),https://www.elmachet
 Farmacia,Parche KanTon|4 Unidades,430.00 USD (x1),573.00 USD (x1),https://www.elmachetazo.com/parche-kanton4-unidades-10307969/p
 Farmacia,Pepto-Bismol Suspensión Oral|118ml,341.00 USD (x1),455.00 USD (x1),https://www.elmachetazo.com/pepto-bismol-suspension-oral118ml-10249552/p
 Farmacia,Panadol Extra Fuerte|16 Tabletas|500mg,205.00 USD (x1),273.00 USD (x1),https://www.elmachetazo.com/panadol-extra-fuerte16-tabletas500mg-10428422/p
-Farmacia,Mixtura Ruibarbo y Soda|240ml,360.00 USD (x1),480.00 USD (x1),https://www.elmachetazo.com/mixtura-ruibarbo-y-soda240ml-10247687/p
 Farmacia,Dorival Liquid Gel 200mg|12 Cápsulas,563.00 USD (x1),751.00 USD (x1),https://www.elmachetazo.com/dorival-liquid-gel-200mg12-capsulas-10257366/p
 Farmacia,Leche de Magnesia Phillips|Original|360 ml,838.00 USD (x1),1118.00 USD (x1),https://www.elmachetazo.com/leche-de-magnesia-phillipsoriginal360-ml-10008620/p
 Farmacia,Fit Estrogen|90 Capsulas,1705.00 USD (x1),2274.00 USD (x1),https://www.elmachetazo.com/fit-estrogen90-capsulas-10252560/p
@@ -1248,7 +1247,6 @@ Farmacia,Preservativo Vive MÁS |Sensitivo,2132.00 USD (x1),2132.00 USD (x1),htt
 Farmacia,Preservativo Vive Original,2257.00 USD (x1),2257.00 USD (x1),https://www.elmachetazo.com/preservativo-vive-original-10251897/p
 Farmacia,Preservativo Vive Original|6 Pack,2962.00 USD (x1),2962.00 USD (x1),https://www.elmachetazo.com/preservativo-vive-original6-pack-10251896/p
 Farmacia,Preservativo Vive MÁS Colors|Menta,2132.00 USD (x1),2132.00 USD (x1),https://www.elmachetazo.com/preservativo-vive-mas-colorsmenta-10251891/p
-Farmacia,Tabcin Active Gripe Tos|12 GelCaps,482.00 USD (x1),643.00 USD (x1),https://www.elmachetazo.com/tabcin-active-gripe-tos12-gelcaps-10529266/p
 Farmacia,Emulsión Scott Naranja|200ml,374.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/emulsion-scott-naranja200ml-10252883/p
 Farmacia,Alcohol 70% con Atomizador A-Livia|16 oz,152.00 USD (x1),152.00 USD (x1),https://www.elmachetazo.com/alcohol-70-con-atomizador-a-livia16-oz-10804645/p
 Farmacia,Alcohol 70% A-Livia|8 oz,86.00 USD (x1),86.00 USD (x1),https://www.elmachetazo.com/alcohol-70-a-livia8-oz-10804643/p
@@ -1264,9 +1262,7 @@ Farmacia,Voltarén Emulgel|20g,556.00 USD (x1),741.00 USD (x1),https://www.elmac
 Farmacia,Lubricante Vive LUB|Sin Olor ni Sabor|120ml,570.00 USD (x1),570.00 USD (x1),https://www.elmachetazo.com/lubricante-vive-lubsin-olor-ni-sabor120ml-10308367/p
 Farmacia,Cureband Premium Gasa|10x10cm|24 Sobres,818.00 USD (x1),818.00 USD (x1),https://www.elmachetazo.com/cureband-premium-gasa10x10cm24-sobres-10670566/p
 Farmacia,Cureband Premium Gasa Estéril|24 Sobres,694.00 USD (x1),694.00 USD (x1),https://www.elmachetazo.com/cureband-premium-gasa-esteril24-sobres-10631957/p
-Farmacia,Cureband Premium Gasa Estéril|18 Sobres,206.00 USD (x1),206.00 USD (x1),https://www.elmachetazo.com/cureband-premium-gasa-esteril18-sobres-10631956/p
 Farmacia,Fleet Enema Adulto|4.5 oz,500.00 USD (x1),667.00 USD (x1),https://www.elmachetazo.com/fleet-enema-adulto45-oz-10249642/p
-Farmacia,Tylenol Paracetamol Extra Fuerte|50 Tabletas,1094.00 USD (x1),1459.00 USD (x1),https://www.elmachetazo.com/tylenol-paracetamol-extra-fuerte50-tabletas-10284908/p
 Farmacia,Cureband Premium Curita Impermeable|Surtida|30 Unidades,239.00 USD (x1),239.00 USD (x1),https://www.elmachetazo.com/cureband-premium-curita-impermeablesurtida30-unidades-10249423/p
 Farmacia,Arthri Flex|1500 mg|120 Tabletas,2890.00 USD (x1),3853.00 USD (x1),https://www.elmachetazo.com/arthri-flex1500-mg120-tabletas-10252563/p
 Farmacia,Cureband Premium Curita Impermeable|30 Unidades,239.00 USD (x1),239.00 USD (x1),https://www.elmachetazo.com/cureband-premium-curita-impermeable30-unidades-10249422/p
@@ -1274,8 +1270,6 @@ Farmacia,Cureband Premium Curita Transparente|20 Unidades,239.00 USD (x1),239.00
 Farmacia,Biotin|2500|90 Tabletas,1238.00 USD (x1),1651.00 USD (x1),https://www.elmachetazo.com/biotin250090-tabletas-10356106/p
 Farmacia,Metamucil Polvo Naranja|174g,1268.00 USD (x1),1691.00 USD (x1),https://www.elmachetazo.com/metamucil-polvo-naranja174g-10247692/p
 Farmacia,Vitamina D3 5000 Ui|100 Softgels,905.00 USD (x1),1207.00 USD (x1),https://www.elmachetazo.com/vitamina-d3-5000-ui100-softgels-10482131/p
-Farmacia,Antiflu-Des|100 Cápsulas,5500.00 USD (x1),7333.00 USD (x1),https://www.elmachetazo.com/antiflu-des100-capsulas-10350824/p
-Farmacia,Panadol Gripe Día|26 Sobres,967.00 USD (x1),1290.00 USD (x1),https://www.elmachetazo.com/panadol-gripe-dia26-sobres-10728226/p
 Farmacia,Jarabe Infantil Vick 44|120 ml|Sabor Cereza,756.00 USD (x1),1008.00 USD (x1),https://www.elmachetazo.com/jarabe-infantil-vick-44120-mlsabor-cereza-10249284/p
 Farmacia,Alcohol Acisa 70°|1 Galón,989.00 USD (x1),989.00 USD (x1),https://www.elmachetazo.com/alcohol-acisa--701-galon-10032601/p
 Farmacia,Alcohol 70° Acisa |16 oz,133.00 USD (x1),133.00 USD (x1),https://www.elmachetazo.com/alcohol-70-acisa-16-oz-10031246/p
@@ -1290,7 +1284,6 @@ Farmacia,Vick Vaporub Lata|12g,110.00 USD (x1),147.00 USD (x1),https://www.elmac
 Farmacia,Vick 44 EXP Jarabe 120ml Sabor Cereza,740.00 USD (x1),987.00 USD (x1),https://www.elmachetazo.com/vick-44-exp-jarabe-120ml-sabor-cereza-10249283/p
 Farmacia,Cremasten Crema Tópica|20g,376.00 USD (x1),501.00 USD (x1),https://www.elmachetazo.com/cremasten-crema-topica20g-10252810/p
 Farmacia,Eucerin Shampoo Corporal Para Bebe,3535.00 USD (x1),4713.00 USD (x1),https://www.elmachetazo.com/eucerin-shampoo-corporal-para-bebe-10615352/p
-Farmacia,Cremasten Solución|30ml,408.00 USD (x1),544.00 USD (x1),https://www.elmachetazo.com/cremasten-solucion30ml-10252821/p
 Farmacia,Trimetose Jarabe 120ml,545.00 USD (x1),727.00 USD (x1),https://www.elmachetazo.com/trimetose-jarabe-120ml-10251238/p
 Farmacia,Ungüento Muscular Zepol Deportista|120g,346.00 USD (x1),532.00 USD (x1),https://www.elmachetazo.com/ungento-muscular-zepol-deportista120g-10455237/p
 Farmacia,Tabcin Extra Fuerte Noche|12 Gelcaps,550.00 USD (x1),733.00 USD (x1),https://www.elmachetazo.com/tabcin-extra-fuerte-noche12-gelcaps-10728339/p
@@ -1329,7 +1322,7 @@ Tecnologia,Freidora Sankey|2.5 L,2995.00 USD (x1),2995.00 USD (x1),https://www.e
 Tecnologia,"Televisor Sankey WebOS 65"" |CLEDQ6",34995.00 USD (x1),41995.00 USD (x1),https://www.elmachetazo.com/televisor-sankey-webos-65-cledq6-11023799/p
 Tecnologia,Refrigeradora Samsung Inverter 12 Pies |RT35DG5124S9,39995.00 USD (x1),46995.00 USD (x1),https://www.elmachetazo.com/refrigeradora-samsung-inverter-12-pies-rt35dg5124s9-10958741/p
 Tecnologia,"Televisor Sankey HD Smart 43"" QuadCore| WhaleOS |CLED-43SDL7",15495.00 USD (x1),16995.00 USD (x1),https://www.elmachetazo.com/televisor-sankey-hd-smart-43-quadcore-whaleos-cled-43sdl7-11013007/p
-Tecnologia,Telescopio Galaxy Tracker 50mm |125,5999.00 USD (x1),7499.00 USD (x1),https://www.elmachetazo.com/telescopio-galaxy-tracker-50mm-125-11011484/p
+Tecnologia,Telescopio Galaxy Tracker 50mm |125,7499.00 USD (x1),7499.00 USD (x1),https://www.elmachetazo.com/telescopio-galaxy-tracker-50mm-125-11011484/p
 Tecnologia,Tablet Lenovo One Helio G8,15995.00 USD (x1),16995.00 USD (x1),https://www.elmachetazo.com/tablet-lenovo-one-helio-g8-11008310/p
 Tecnologia,Parrilla Antiadherente Hamilton Beach,3995.00 USD (x1),4695.00 USD (x1),https://www.elmachetazo.com/parrilla-antiadherente-hamilton-beach-10794151/p
 Tecnologia,Secador de Cabello Conair 1875W,2995.00 USD (x1),4995.00 USD (x1),https://www.elmachetazo.com/secador-de-cabello-conair-1875w-11003596/p
@@ -1493,7 +1486,6 @@ Tecnologia,Adaptador De Corriente Casio,1795.00 USD (x1),1795.00 USD (x1),https:
 Tecnologia,Piano Electrónico Casio S200|Blanco,14998.00 USD (x1),14998.00 USD (x1),https://www.elmachetazo.com/piano-electronico-casio-s200-blanco-10968013/p
 Tecnologia,Banquito para Piano Casio,1998.00 USD (x1),2995.00 USD (x1),https://www.elmachetazo.com/banquito-para-piano-casio-10968014/p
 Tecnologia,Piano Electrónico Casio|S100,14995.00 USD (x1),14995.00 USD (x1),https://www.elmachetazo.com/piano-electronico-casio-s100-10968073/p
-Tecnologia,Horno Microondas Whirpool|20L|WM1807W,4995.00 USD (x1),5995.00 USD (x1),https://www.elmachetazo.com/horno-microondas-whirpool20lwm1807w-10805868/p
 Tecnologia,Lavadora Mystic Automática|13kg|WM-A1305,24995.00 USD (x1),24995.00 USD (x1),https://www.elmachetazo.com/lavadora-mystic-automatica13kgwm-a1305-10976803/p
 Tecnologia,Aire Acondicionado Split Inverter Mystic|12000BTU,23995.00 USD (x1),30995.00 USD (x1),https://www.elmachetazo.com/aire-acondicionado-split-mystic12000btuinvert220v-60hzkitmy-inv1263-10778247/p
 Tecnologia,"Televisor Mystic 32""|GoogleTV|HD|HDR|MY-32107",9895.00 USD (x1),11995.00 USD (x1),https://www.elmachetazo.com/televisor-mystic-32googletvhdhdrmy-32107-10976797/p
@@ -2018,7 +2010,6 @@ Hogar,Juego de Adornos Navideños|12 Esferas|8cm,399.00 USD (x1),399.00 USD (x1)
 Hogar,Juego de Adornos Navideños|12 Esferas|8cm,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/juego-de-adornos-navidenos-12-esferas-8cm-11010458-machetazo/p
 Hogar,Juego de Adornos Navideños|12 Esferas|8cm,199.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/juego-de-adornos-navidenos-12-esferas-8cm-11010459-machetazo/p
 Hogar,Juego de Adornos Navideños|5 Pastillas|13cm,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/juego-de-adornos-navidenos-5-pastillas-13cm-11010461-machetazo/p
-Hogar,Juego de Adornos Navideños|4 Esferas|10cm,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/juego-de-adornos-navidenos-4-esferas-10cm-11010462-machetazo/p
 Hogar,Adorno Navideño Guirnalda de Esferas|180cm,399.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/adorno-navideno-guirnalda-de-esferas-180cm-11010465-machetazo/p
 Hogar,Juego de Adornos Navideños|12 Esferas|6cm,199.00 USD (x1),349.00 USD (x1),https://www.elmachetazo.com/juego-de-adornos-navidenos-12-esferas-6cm-11010470-machetazo/p
 Hogar,Juego de Adornos Navideños|4 Esferas|10cm,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/juego-de-adornos-navidenos-4-esferas-10cm-11010471-machetazo/p
@@ -2325,7 +2316,6 @@ Hogar,Copa Windsor|250 ml,169.00 USD (x1),169.00 USD (x1),https://www.elmachetaz
 Hogar,Copa Windsor|355 ml,199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/copa-windsor355-ml-10759989/p
 Hogar,Set De Bandejas Para Hornear|3 Piezas,999.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/set-de-bandejas-para-hornear3-piezas-10905460/p
 Hogar,Sarten Oster|Antiadherente,999.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/sarten-osterantiadherente-10923134/p
-Hogar,Cuchara de Madera con Ranuras Oster,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/cuchara-de-madera-con-ranuras-oster-10830114/p
 Hogar,Set de Cuchillo|2 Piezas,599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/set-de-cuchillo2-piezas-10770922/p
 Hogar,Botella Termica|38 Oz,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/botella-termica38-oz-10905461/p
 Hogar,Espátula de Madera con Ranuras Oster,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/espatula-de-madera-con-ranuras-oster-10830112/p
@@ -2366,6 +2356,7 @@ Hogar,Caldero con Tapa de Aluminio|24 cm,1999.00 USD (x1),1999.00 USD (x1),https
 Hogar,Caldero con Tapa de Aluminio|42 cm,5799.00 USD (x1),5799.00 USD (x1),https://www.elmachetazo.com/caldero-con-tapa-de-aluminio42-cm-10821146/p
 Hogar,Árbol Navideño Artificial con Luces |8 Pies,6999.00 USD (x1),11999.00 USD (x1),https://www.elmachetazo.com/arbolito-navideno-con-luces8-pies-10953540/p
 Hogar,Set de Cortina de Baño|Crema y Blanco,799.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/set-de-cortina-de-banocrema-y-blanco-10966064/p
+Hogar,Arreglo de Flores|25 cm,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/arreglo-de-flores25-cm-10927440/p
 Hogar,Arreglo de Flores|25 cm,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/arreglo-de-flores25-cm-10927445/p
 Hogar,Ramo de Rosas Artificiales|Surtido,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/ramo-de-rosas-artificialessurtido-10856891/p
 Hogar,Ramo de Flores Artificiales|32 cm,99.00 USD (x1),249.00 USD (x1),https://www.elmachetazo.com/ramo-de-flores-artificiales32-cm-10881622/p
@@ -2932,6 +2923,7 @@ Hogar,Cortina de Cocina Betty|4 Piezas|Beige|Taupe,1299.00 USD (x1),1299.00 USD 
 Hogar,"Riel para Cortina 16x19 mm 28""x48""",599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/riel-para-cortina-16x19-mm-28x48-10816688/p
 Hogar,Tazón Sándwich 3tz Océano,79.00 USD (x1),79.00 USD (x1),https://www.elmachetazo.com/tazon-sandwich-3tz-oceano-10801796/p
 Hogar,Lámpara Decorativa,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/lampara-decorativa-10805378/p
+Hogar,Caja Organizadora 12L,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/caja-organizadora-12l-10801811/p
 Escolar,Corbata Escolar|Azul,225.00 USD (x1),225.00 USD (x1),https://www.elmachetazo.com/corbata-escolarazul-10891625/p
 Escolar,Bata de Laboratorio|Manga Larga|Talla 8,1099.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/bata-de-laboratoriomanga-largatalla-8-10891615/p
 Escolar,Borrador de Escobilla,185.00 USD (x1),185.00 USD (x1),https://www.elmachetazo.com/borrador-de-escobilla-10739257/p
@@ -2941,7 +2933,6 @@ Escolar,Bata de Laboratorio|Manga Larga|Talla 14,1099.00 USD (x1),1099.00 USD (x
 Escolar,Mi Patria Panamá 5,2350.00 USD (x1),2350.00 USD (x1),https://www.elmachetazo.com/mi-patria-panama-5-10937892/p
 Escolar,Barra Silicona Gruesa Bolsa|3 Piezas,129.00 USD (x1),129.00 USD (x1),https://www.elmachetazo.com/barra-silicona-gruesa-bolsa3-piezas-10764554/p
 Escolar,Escalímetro,395.00 USD (x1),395.00 USD (x1),https://www.elmachetazo.com/escalimetro-10707579/p
-Escolar,Pizarrón Acrílico 80x120,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/pizarron-acrilico-80x120-10761420/p
 Escolar,Matemática 3,1800.00 USD (x1),1800.00 USD (x1),https://www.elmachetazo.com/matematica-3-10450144/p
 Escolar,Lonchera Peach Super Mario,1695.00 USD (x1),1695.00 USD (x1),https://www.elmachetazo.com/lonchera-peach-super-mario-10734743/p
 Escolar,Bandera de Panamá 60x90cm,695.00 USD (x1),695.00 USD (x1),https://www.elmachetazo.com/bandera-de-panama-60x90cm-11013447/p
@@ -3117,9 +3108,9 @@ Escolar,Plastilina|8 Piezas,65.00 USD (x1),65.00 USD (x1),https://www.elmachetaz
 Escolar,Tempera,149.00 USD (x1),149.00 USD (x1),https://www.elmachetazo.com/tempera-10746973/p
 Escolar,Tiza Blanca|12 Piezas,49.00 USD (x1),49.00 USD (x1),https://www.elmachetazo.com/tiza-blanca12-piezas-10897442/p
 Escolar,Cuadro para Pintar,199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/cuadro-para-pintar-10945365/p
-Escolar,Disfraz De Doctor,399.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/disfraz-de-doctor-10951347/p
-Escolar,Disfraz De Constructor con Accesorios,879.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/disfraz-de-constructor-con-accesorios-10951660/p
-Escolar,Disfraz de Chef con Gorro,719.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/disfraz-de-chef-con-gorro-10951662/p
+Escolar,Disfraz De Doctor,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/disfraz-de-doctor-10951347/p
+Escolar,Disfraz De Constructor con Accesorios,1099.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/disfraz-de-constructor-con-accesorios-10951660/p
+Escolar,Disfraz de Chef con Gorro,899.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/disfraz-de-chef-con-gorro-10951662/p
 Escolar,Pizarron de Corcho|60 x 90 cm,1295.00 USD (x1),1295.00 USD (x1),https://www.elmachetazo.com/pizarron-de-corcho60-x-90-cm-10761294/p
 Escolar,Ciencias Naturales 1|Activamente,2704.00 USD (x1),2704.00 USD (x1),https://www.elmachetazo.com/ciencias-naturales-1activamente-10982982/p
 Escolar,Ciencias Sociales 5|Activamente,2704.00 USD (x1),2704.00 USD (x1),https://www.elmachetazo.com/ciencias-sociales-5activamente-10982992/p
@@ -3329,6 +3320,7 @@ Escolar,"Tarjeta Rayada Corsario 4""x6""|Colores Mixtos|100 Piezas",275.00 USD (
 Escolar,"Guías Indices Águila|20 Divisiones|5""x8""|A-Z",289.00 USD (x1),289.00 USD (x1),https://www.elmachetazo.com/guias-indices-aguila20-divisiones5x8a-z-10080300/p
 Escolar,Cinta Doble Adhesiva Alfa|30mm x1M,195.00 USD (x1),195.00 USD (x1),https://www.elmachetazo.com/cinta-doble-adhesiva-alfa30mm-x1m-10850957/p
 Escolar,Cinta Adhesiva de Embalaje|48mm x 50M,199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/cinta-adhesiva-de-embalaje48mm-x-50m-10373058/p
+Escolar,"Cinta Adhesiva Arcom|3""",295.00 USD (x1),295.00 USD (x1),https://www.elmachetazo.com/cinta-adhesiva-arcom3-10106272/p
 Escolar,Colorin Coloreando 2 Jumbo,425.00 USD (x1),425.00 USD (x1),https://www.elmachetazo.com/colorin-coloreando-2-jumbo-10195295/p
 Escolar,Marcador Permanente Filgo|Colores Clásicos|4 Piezas,199.00 USD (x1),249.00 USD (x1),https://www.elmachetazo.com/marcador-permanente-filgocolores-clasicos4-piezas-10892517/p
 Escolar,Marcador Permanente|12 Piezas,449.00 USD (x1),449.00 USD (x1),https://www.elmachetazo.com/marcador-permanente12-piezas-10895600/p
@@ -3616,7 +3608,6 @@ Escolar,"Pad de notas 3x3"" 100 hojas de colores",349.00 USD (x1),349.00 USD (x1
 Escolar,"Pad de Notas Color Neón|3x3""",69.00 USD (x1),69.00 USD (x1),https://www.elmachetazo.com/pad-de-notas-color-neon3x3-10598657/p
 Escolar,Corrector Mini|Punta Fina|6ml,49.00 USD (x1),49.00 USD (x1),https://www.elmachetazo.com/corrector-minipunta-fina6ml-10598646/p
 Escolar,Masilla Jumbo Colores Pasteles,129.00 USD (x1),129.00 USD (x1),https://www.elmachetazo.com/masilla-jumbo-colores-pasteles-10857776/p
-Escolar,Notas Adhesivas Flechas|5 Colores,69.00 USD (x1),69.00 USD (x1),https://www.elmachetazo.com/notas-adhesivas-flechas5-colores-10857759/p
 Escolar,Sacapunta con Depósito|Set de 2 Piezas,79.00 USD (x1),79.00 USD (x1),https://www.elmachetazo.com/sacapunta-con-depositoset-de-2-piezas-10546469/p
 Escolar,Sacapunta Doble Depósito,99.00 USD (x1),99.00 USD (x1),https://www.elmachetazo.com/sacapunta-doble-deposito-10546466/p
 Escolar,Lápices 2HB Set de 5 Piezas,129.00 USD (x1),129.00 USD (x1),https://www.elmachetazo.com/lapices-2hb-set-de-5-piezas-10546438/p
@@ -3716,6 +3707,7 @@ Escolar,Cinta Adhesiva 200 Yardas,495.00 USD (x1),495.00 USD (x1),https://www.el
 Escolar,"Resma Papel Ecológico 8 1/2""x13""Tamaño Oficio",599.00 USD (x1),699.00 USD (x1),https://www.elmachetazo.com/resma-papel-ecologico-8-12x13tamano-oficio-10799300/p
 Escolar,Porta Carnet 10x8cm|Colores Surtidos,75.00 USD (x1),75.00 USD (x1),https://www.elmachetazo.com/porta-carnet-10x8cmcolores-surtidos-10801343/p
 Escolar,Porta Carnet 10x6cm|Colores Surtidos,45.00 USD (x1),45.00 USD (x1),https://www.elmachetazo.com/porta-carnet-10x6cmcolores-surtidos-10801553/p
+Escolar,Pizarrón Acrílico 80x120,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/pizarron-acrilico-80x120-10761420/p
 Escolar,Pizarrón 80x120cm,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/pizarron-80x120cm-10806573/p
 Escolar,"Bolígrafo Set 36 Piezas Azul, Rojo, Negro",395.00 USD (x1),495.00 USD (x1),https://www.elmachetazo.com/boligrafo-set-36-piezas-azul-rojo-negro-10792471/p
 Escolar,Cartapacio Verde 8.5X11 con Bolsillo,45.00 USD (x1),75.00 USD (x1),https://www.elmachetazo.com/cartapacio-verde-85x11-con-bolsillo-10804431/p
@@ -4144,7 +4136,6 @@ Ferreteria,Koraza Sol y Lluvia Pintuco|Blue Deep|1 Galón,3799.00 USD (x1),3799.
 Ferreteria,Super Cubrimiento Látex Mate Base Intermedia|1 gal,2699.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/super-cubrimiento-latex-mate-base-intermedia1-gal-10599310/p
 Ferreteria,Bombillo LED de Emergencia|7W|Luz Blanca,352.00 USD (x1),469.00 USD (x1),https://www.elmachetazo.com/bombillo-led-de-emergencia7wluz-blanca-10949562/p
 Ferreteria,Bestflame 70 Encendedores para BBQ|7 Piezas,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/bestflame-70-encendedores-para-bbq7-piezas-10950413/p
-Ferreteria,Carbón en Bolsa|5 lb,395.00 USD (x1),395.00 USD (x1),https://www.elmachetazo.com/carbon-en-bolsa5-lb-10781455/p
 Ferreteria,Clavo para Carpa|21cm|6 Piezas,349.00 USD (x1),349.00 USD (x1),https://www.elmachetazo.com/clavo-para-carpa21cm6-piezas-10947239/p
 Ferreteria,Linterna Plástica LED Recargable|80 Lumens,462.00 USD (x1),462.00 USD (x1),https://www.elmachetazo.com/linterna-plastica-led-recargable80-lumens-10750605/p
 Ferreteria,Lámpara Empotrada LED|12W,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/lampara-empotrada-led12w-10973126/p
@@ -4228,9 +4219,9 @@ Ferreteria,"Alicate Pro De Punta Larga|8""",1699.00 USD (x1),1699.00 USD (x1),ht
 Ferreteria,Pattex Cinta No Mas Clavos|120kg,949.00 USD (x1),949.00 USD (x1),https://www.elmachetazo.com/pattex-cinta-no-mas-clavos120kg-10898843/p
 Ferreteria,Pattex No Mas Clavos|113g,449.00 USD (x1),449.00 USD (x1),https://www.elmachetazo.com/pattex-no-mas-clavos113g-10735339/p
 Ferreteria,Loctite Epoximil|150g,749.00 USD (x1),749.00 USD (x1),https://www.elmachetazo.com/loctite-epoximil150g-10094643/p
+Ferreteria,Loctite Super Bonder Original|3g,279.00 USD (x1),279.00 USD (x1),https://www.elmachetazo.com/loctite-super-bonder-original3g-10089020/p
 Ferreteria,Loctite Super Bonder Pincel|5g,479.00 USD (x1),479.00 USD (x1),https://www.elmachetazo.com/loctite-super-bonder-pincel5g-10735337/p
 Ferreteria,Loctite Super Bonder Flex Gel|3g,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/loctite-super-bonder-flex-gel3g-10322539/p
-Ferreteria,Cordón de Yute Natural|100mts,249.00 USD (x1),249.00 USD (x1),https://www.elmachetazo.com/cordon-de-yute-natural100mts-10812397/p
 Ferreteria,Cordón de Yute 2mm|100mts,239.00 USD (x1),239.00 USD (x1),https://www.elmachetazo.com/cordon-de-yute-2mm100mts-10787973/p
 Ferreteria,BBQ Char-Broil|2000 BTU,14999.00 USD (x1),26599.00 USD (x1),https://www.elmachetazo.com/bbq-char-broil2000--btu-10868150/p
 Ferreteria,Limpiador para Tablero de Auto|500ml,669.00 USD (x1),669.00 USD (x1),https://www.elmachetazo.com/limpiador-para-tablero-de-auto500ml-10906541/p
@@ -4309,8 +4300,6 @@ Ferreteria,Ambientador Termo Clean Aroma de Piña Colada 4oz,299.00 USD (x1),299
 Ferreteria,Brillo UV con Fragancia 8 oz,379.00 USD (x1),379.00 USD (x1),https://www.elmachetazo.com/brillo-uv-con-fragancia-8-oz-10868165/p
 Ferreteria,Brillo UV con Fragancia 4 oz,249.00 USD (x1),249.00 USD (x1),https://www.elmachetazo.com/brillo-uv-con-fragancia-4-oz-10868163/p
 Ferreteria,Silicona para Interior 8oz,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/silicona-para-interior-8oz-10868170/p
-Ferreteria,Silicona para Interior 4oz,259.00 USD (x1),259.00 USD (x1),https://www.elmachetazo.com/silicona-para-interior-4oz-10868169/p
-Ferreteria,Gel de Silicona Doble UV 8oz,589.00 USD (x1),589.00 USD (x1),https://www.elmachetazo.com/gel-de-silicona-doble-uv-8oz-10868168/p
 Ferreteria,Limpiador Desengrasante Multiproposito 32 oz,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/limpiador-desengrasante-multiproposito-32-oz-10886265/p
 Ferreteria,Barbacoa de Mesa con Parrilla,1499.00 USD (x1),1799.00 USD (x1),https://www.elmachetazo.com/barbacoa-de-mesa-con-parrilla-10847991/p
 Ferreteria,Tienda para Acampar Pavillo|2 Personas|2.35x1.45x1M,3900.00 USD (x1),5999.00 USD (x1),https://www.elmachetazo.com/tienda-para-acampar-pavillo2-personas235x145x1m-10890416/p
@@ -4383,7 +4372,7 @@ Ferreteria,Destornillador de Precisión|7 Piezas,599.00 USD (x1),599.00 USD (x1)
 Ferreteria,"Alicate Articulado Extensión|12""",1399.00 USD (x1),1399.00 USD (x1),https://www.elmachetazo.com/alicate-articulado-extension12-10123310/p
 Ferreteria,Sierra de Copa|5 Piezas,1299.00 USD (x1),1299.00 USD (x1),https://www.elmachetazo.com/sierra-de-copa5-piezas-10127130/p
 Ferreteria,Destornillador Intercambiable 6 en 1,395.00 USD (x1),395.00 USD (x1),https://www.elmachetazo.com/destornillador-intercambiable-6-en-1-10815981/p
-Ferreteria,Colchón Inflable Intex Twin Dura-Beam Standard,1359.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/colchon-inflable-intex-twin-dura-beam-standard-10843536/p
+Ferreteria,Colchón Inflable Intex Twin Dura-Beam Standard,1699.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/colchon-inflable-intex-twin-dura-beam-standard-10843536/p
 Ferreteria,"Taladro de Rotación Stanley|⅜"" |550W",2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/taladro-de-rotacion-38-550wstdr5510b3-10829301/p
 Ferreteria,Lijadora Orbital ¼|240W,3995.00 USD (x1),3995.00 USD (x1),https://www.elmachetazo.com/lijadora-orbital--240w-10829299/p
 Ferreteria,"Barbacoa a Carbón|22""",2999.00 USD (x1),12279.00 USD (x1),https://www.elmachetazo.com/barbacoa-a-carbon22-10802638/p
@@ -4620,82 +4609,82 @@ Ferreteria,Bolso Goodyear para Herramientas,1099.00 USD (x1),1099.00 USD (x1),ht
 Ferreteria,Bolso Organizador Goodyear para Auto,999.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/bolso-organizador-goodyear-para-auto-10742604/p
 Jugueteria,Piscina De Tubo Redonda Intex|Rosada|2.44 M x 76 cm,5999.00 USD (x1),8999.00 USD (x1),https://www.elmachetazo.com/piscina-de-tubo-redonda-intexrosada244-m-x-76-cm-10955658/p
 Jugueteria,Casita Dolu Garden Playhouse,9999.00 USD (x1),14999.00 USD (x1),https://www.elmachetazo.com/casita-dolu-garden-playhouse-10992676/p
-Jugueteria,"Colchon Inflable con Bomba Intex|Queen| 60"" x 80"" x 10""",2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/colchon-inflable-con-bomba-intexqueen-60-x-80-x-10-10855359/p
+Jugueteria,"Colchon Inflable con Bomba Intex|Queen| 60"" x 80"" x 10""",2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/colchon-inflable-con-bomba-intexqueen-60-x-80-x-10-10855359/p
 Jugueteria,Nintendo Mini Coche de Carreras Antigravedad de Mario|Radio Control|PKC1-4L,2999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/nintendo-mini-coche-de-carreras-antigravedad-de-marioradio-controlpkc1-4l-10784315/p
 Jugueteria,Carrito de Compras,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/carrito-de-compras-10805922/p
 Jugueteria,Vehículo Montable Lamborghini RideOn |24V |Rojo,12999.00 USD (x1),16499.00 USD (x1),https://www.elmachetazo.com/coche-montable-lamborghini-rideon-24v-rojo-10994342/p
-Jugueteria,Vehículo Montable Eléctrico Patrullero 12V,13599.00 USD (x1),16999.00 USD (x1),https://www.elmachetazo.com/vehiculo-montable-electrico-patrullero-12v-10998343/p
-Jugueteria,Vehículo Montable PickUp Ram Police,19199.00 USD (x1),23999.00 USD (x1),https://www.elmachetazo.com/vehiculo-montable-pickup-ram-police-11010106/p
-Jugueteria,Vehiculo Montable Eléctrico PickUp UTV 12 V,22399.00 USD (x1),27999.00 USD (x1),https://www.elmachetazo.com/vehiculo-montable-electrico-pickup-utv-12-v-11011300/p
+Jugueteria,Vehículo Montable Eléctrico Patrullero 12V,16999.00 USD (x1),16999.00 USD (x1),https://www.elmachetazo.com/vehiculo-montable-electrico-patrullero-12v-10998343/p
+Jugueteria,Vehículo Montable PickUp Ram Police,23999.00 USD (x1),23999.00 USD (x1),https://www.elmachetazo.com/vehiculo-montable-pickup-ram-police-11010106/p
+Jugueteria,Vehiculo Montable Eléctrico PickUp UTV 12 V,27999.00 USD (x1),27999.00 USD (x1),https://www.elmachetazo.com/vehiculo-montable-electrico-pickup-utv-12-v-11011300/p
 Jugueteria,Vehículo Montable Eléctrico Racing Skid Fusion,9999.00 USD (x1),14999.00 USD (x1),https://www.elmachetazo.com/skid-fusion-10994350/p
-Jugueteria,Baby Alive Katie Kat Sweet Snacks,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/baby-alive-katie-kat-sweet-snacks-11003839/p
-Jugueteria,Baby Alive Sophia Sparkle Tea Party,2799.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/baby-alive-sophia-sparkle-tea-party-11003812/p
+Jugueteria,Baby Alive Katie Kat Sweet Snacks,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/baby-alive-katie-kat-sweet-snacks-11003839/p
+Jugueteria,Baby Alive Sophia Sparkle Tea Party,3499.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/baby-alive-sophia-sparkle-tea-party-11003812/p
 Jugueteria,Casita Dolu Playhouse,7999.00 USD (x1),11999.00 USD (x1),https://www.elmachetazo.com/casita-dolu-playhouse-10950397/p
 Jugueteria,Mini Parque Dolu 4 en 1,14999.00 USD (x1),19999.00 USD (x1),https://www.elmachetazo.com/mini-parque-dolu-4-en-1-10992701/p
-Jugueteria,Muñeca Baby Alive Harper Sweet Snacks,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/muneca-baby-alive-harper-sweet-snacks-11003838/p
-Jugueteria,Tobogán Infantil Dolu Big Splash,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/tobogan-infantil-dolu-big-splash-10950395/p
-Jugueteria,Tobogán Dolu Big Water,7199.00 USD (x1),8999.00 USD (x1),https://www.elmachetazo.com/mini-tobogan-dolu-big-water-10992684/p
-Jugueteria,Mesita Infantil Dolu con Sillas,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/mesita-infantil-dolu-con-sillas-10992685/p
-Jugueteria,Mesita Dolu de Actividades Acuáticas,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/mesita-dolu-de-actividades-acuaticas-10992675/p
-Jugueteria,Simon Clásico,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/simon-clasico-10803171/p
-Jugueteria,Operando,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/operando-11003826/p
-Jugueteria,Risk,3919.00 USD (x1),4899.00 USD (x1),https://www.elmachetazo.com/risk-10613035/p
-Jugueteria,Dolu Ride-On Steering Bike |Rojo,879.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/dolu-ride-on-steering-bike-rojo-11002692/p
-Jugueteria,Stitch Bop It!,1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/stitch-bop-it-11003813/p
-Jugueteria,Life,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/life-11003437/p
-Jugueteria,Monopoly Dados y Tragos,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/monopoly-dados-y-tragos-11003846/p
-Jugueteria,Monopoly Stitch,2799.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/monopoly-stitch-11003435/p
-Jugueteria,Monopoly GO!,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/monopoly-go-11003834/p
-Jugueteria,Monopoly Banco Virtual,2799.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/monopoly-banco-virtual-11003436/p
-Jugueteria,Peluche de Labubu |Surtido,2159.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/peluche-de-labubusurtido-11013314/p
-Jugueteria,Tractor de Juguete CAT Bruder,2159.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/tractor-cat-de-juguete-bruder-10977254/p
-Jugueteria,Monster High Draculaura Rockin Truck,7999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/monster-high-draculaura-rockin-truck-10969162/p
+Jugueteria,Muñeca Baby Alive Harper Sweet Snacks,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/muneca-baby-alive-harper-sweet-snacks-11003838/p
+Jugueteria,Tobogán Infantil Dolu Big Splash,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/tobogan-infantil-dolu-big-splash-10950395/p
+Jugueteria,Tobogán Dolu Big Water,8999.00 USD (x1),8999.00 USD (x1),https://www.elmachetazo.com/mini-tobogan-dolu-big-water-10992684/p
+Jugueteria,Mesita Infantil Dolu con Sillas,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/mesita-infantil-dolu-con-sillas-10992685/p
+Jugueteria,Mesita Dolu de Actividades Acuáticas,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/mesita-dolu-de-actividades-acuaticas-10992675/p
+Jugueteria,Simon Clásico,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/simon-clasico-10803171/p
+Jugueteria,Operando,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/operando-11003826/p
+Jugueteria,Risk,4899.00 USD (x1),4899.00 USD (x1),https://www.elmachetazo.com/risk-10613035/p
+Jugueteria,Dolu Ride-On Steering Bike |Rojo,1099.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/dolu-ride-on-steering-bike-rojo-11002692/p
+Jugueteria,Stitch Bop It!,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/stitch-bop-it-11003813/p
+Jugueteria,Life,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/life-11003437/p
+Jugueteria,Monopoly Dados y Tragos,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/monopoly-dados-y-tragos-11003846/p
+Jugueteria,Monopoly Stitch,3499.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/monopoly-stitch-11003435/p
+Jugueteria,Monopoly GO!,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/monopoly-go-11003834/p
+Jugueteria,Monopoly Banco Virtual,3499.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/monopoly-banco-virtual-11003436/p
+Jugueteria,Peluche de Labubu |Surtido,2699.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/peluche-de-labubusurtido-11013314/p
+Jugueteria,Tractor de Juguete CAT Bruder,2699.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/tractor-cat-de-juguete-bruder-10977254/p
+Jugueteria,Monster High Draculaura Rockin Truck,9999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/monster-high-draculaura-rockin-truck-10969162/p
 Jugueteria,Whisper Ride Cruiser Step2 |Rosado,6999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/whisper-ride-cruiser-step2-rosado-10619318/p
 Jugueteria,Whisper Ride Cruiser Step2 |Azul,6999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/whisper-ride-cruiser-step2-azul-10619321/p
-Jugueteria,Tractor Dolu con Pedales,4799.00 USD (x1),5999.00 USD (x1),https://www.elmachetazo.com/tractor-dolu-con-pedales-10518221/p
-Jugueteria,Motocicleta Armable Pull Back 183 Piezas,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/motocicleta-armable-183-piezas-11013421/p
-Jugueteria,Carrito Pull Back Armable 177 Piezas,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/carrito-pull-back-armable-177-piezas-11001215/p
-Jugueteria,Carrito Armable Pull Back Todoterreno 199 Piezas,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/carrito-armable-pull-back-todoterreno-199-piezas-11001216/p
-Jugueteria,Llavero de Capibara,159.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/llavero-de-capibara-11013313/p
-Jugueteria,Mochila peluche Labubu|Surtido,639.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/mochila-peluche-labubusurtido-11013304/p
-Jugueteria,Llavero Labubu Sorpresa|Surtido,639.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/llavero-labubu-sorpresasurtido-11013305/p
-Jugueteria,Llavero Labubu Edición Coca-Cola|Surtido,799.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/llavero-labubu-edicion-coca-colasurtido-11013308/p
-Jugueteria,Mochila de Labubu|Surtido,799.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/mochila-de-labubusurtido-11013315/p
-Jugueteria,Llavero Labubu Edición Especial|Surtido,639.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/llavero-labubu-edicion-especialsurtido-11013319/p
-Jugueteria,Juguete Llavero Labubu|Surtido,159.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/juguete-llavero-labubusurtido-11013320/p
-Jugueteria,Llavero Carita Labubu,399.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/llavero-carita-labubu-11013327/p
-Jugueteria,Filtro para Piscina Poliesferas Flowclear Bestway,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/filtro-para-piscina-poliesferas-flowclear-bestway-10911439/p
+Jugueteria,Tractor Dolu con Pedales,5999.00 USD (x1),5999.00 USD (x1),https://www.elmachetazo.com/tractor-dolu-con-pedales-10518221/p
+Jugueteria,Motocicleta Armable Pull Back 183 Piezas,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/motocicleta-armable-183-piezas-11013421/p
+Jugueteria,Carrito Pull Back Armable 177 Piezas,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/carrito-pull-back-armable-177-piezas-11001215/p
+Jugueteria,Carrito Armable Pull Back Todoterreno 199 Piezas,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/carrito-armable-pull-back-todoterreno-199-piezas-11001216/p
+Jugueteria,Llavero de Capibara,199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/llavero-de-capibara-11013313/p
+Jugueteria,Mochila peluche Labubu|Surtido,799.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/mochila-peluche-labubusurtido-11013304/p
+Jugueteria,Llavero Labubu Sorpresa|Surtido,799.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/llavero-labubu-sorpresasurtido-11013305/p
+Jugueteria,Llavero Labubu Edición Coca-Cola|Surtido,999.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/llavero-labubu-edicion-coca-colasurtido-11013308/p
+Jugueteria,Mochila de Labubu|Surtido,999.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/mochila-de-labubusurtido-11013315/p
+Jugueteria,Llavero Labubu Edición Especial|Surtido,799.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/llavero-labubu-edicion-especialsurtido-11013319/p
+Jugueteria,Juguete Llavero Labubu|Surtido,199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/juguete-llavero-labubusurtido-11013320/p
+Jugueteria,Llavero Carita Labubu,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/llavero-carita-labubu-11013327/p
+Jugueteria,Filtro para Piscina Poliesferas Flowclear Bestway,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/filtro-para-piscina-poliesferas-flowclear-bestway-10911439/p
 Jugueteria,Liga de Supermascotas Fisher Price|Krypto con Sonido,1999.00 USD (x1),7499.00 USD (x1),https://www.elmachetazo.com/liga-de-supermascotas-fisher-pricekrypto-con-sonido-10864004/p
 Jugueteria,Liga de Supermascotas Fisher Price|Krypto con Sonido,1299.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/liga-de-supermascotas-fisher-pricekrypto-con-sonido-10882161/p
-Jugueteria,Figuras de Accion de DC|6 Piezas,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/figuras-de-accion-de-dc6-piezas-10911653/p
-Jugueteria,Figuras de Accion de DC|3 Piezas,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/figuras-de-accion-de-dc3-piezas-10911659/p
-Jugueteria,Figura de Looney Tunes|Bugs Bunny,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/figura-de-looney-tunesbugs-bunny-10962962/p
-Jugueteria,Cascada Led Multicolor,7999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/cascada-led-multicolor-10855005/p
-Jugueteria,Alfombra Calentadora de Agua para Piscina,2639.00 USD (x1),3299.00 USD (x1),https://www.elmachetazo.com/alfombra-calentadora-de-agua-para-piscina-10892869/p
-Jugueteria,Bomba de Filtro para Piscina,3599.00 USD (x1),4499.00 USD (x1),https://www.elmachetazo.com/bomba-de-filtro-para-piscina-10792008/p
-Jugueteria,Bomba de Aire Electrica,719.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/bomba-de-aire-electrica-10792066/p
-Jugueteria,Bomba de Aire Recargable,2639.00 USD (x1),3299.00 USD (x1),https://www.elmachetazo.com/bomba-de-aire-recargable-10955672/p
-Jugueteria,Scooter de Aluminio de Stich|2 Ruedas,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/scooter-de-aluminio-de-stich2-ruedas-10975169/p
+Jugueteria,Figuras de Accion de DC|6 Piezas,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/figuras-de-accion-de-dc6-piezas-10911653/p
+Jugueteria,Figuras de Accion de DC|3 Piezas,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/figuras-de-accion-de-dc3-piezas-10911659/p
+Jugueteria,Figura de Looney Tunes|Bugs Bunny,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/figura-de-looney-tunesbugs-bunny-10962962/p
+Jugueteria,Cascada Led Multicolor,9999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/cascada-led-multicolor-10855005/p
+Jugueteria,Alfombra Calentadora de Agua para Piscina,3299.00 USD (x1),3299.00 USD (x1),https://www.elmachetazo.com/alfombra-calentadora-de-agua-para-piscina-10892869/p
+Jugueteria,Bomba de Filtro para Piscina,4499.00 USD (x1),4499.00 USD (x1),https://www.elmachetazo.com/bomba-de-filtro-para-piscina-10792008/p
+Jugueteria,Bomba de Aire Electrica,899.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/bomba-de-aire-electrica-10792066/p
+Jugueteria,Bomba de Aire Recargable,3299.00 USD (x1),3299.00 USD (x1),https://www.elmachetazo.com/bomba-de-aire-recargable-10955672/p
+Jugueteria,Scooter de Aluminio de Stich|2 Ruedas,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/scooter-de-aluminio-de-stich2-ruedas-10975169/p
 Jugueteria,Set de Carro de Lilo y Stich,559.00 USD (x1),699.00 USD (x1),https://www.elmachetazo.com/set-de-carro-de-lilo-y-stich-10975211/p
-Jugueteria,Scooter con Peluche de Stich|3 Ruedas,3199.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/scooter-3d-de-stich3-ruedas-10967148/p
-Jugueteria,Scooter de Stich|3 Ruedas,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/scooter-de-stich3-ruedas-10975166/p
-Jugueteria,Almohada de Viaje Stitch,639.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/peluche-de-stich-10991676/p
-Jugueteria,Mochila de Stitch,1359.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/mochila-de-stitch-10991681/p
-Jugueteria,Deslizador Stitch Racer Board,1839.00 USD (x1),2299.00 USD (x1),https://www.elmachetazo.com/deslizador-stitch-racer-board-10969298/p
-Jugueteria,Figura de Colección Looney Tunes|Marvin,239.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionmarvin-10962959/p
-Jugueteria,Figura de Colección Looney Tunes|Lola Bunny,239.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionlolabunny-10962957/p
-Jugueteria,Figura de Colección Looney Tunes|Sylvester,239.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionsylvester-10962958/p
-Jugueteria,Figura De Colección Looney Tunes|Tweety,239.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-colecciontweety-10962956/p
-Jugueteria,Figura de Colección Looney Tunes|Taz,239.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-colecciontaz-10962955/p
-Jugueteria,Figura De Colección|Bugs Bunny,239.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionbugs-bunny-10962954/p
-Jugueteria,Figura De Colección|Stitch|Surtido,239.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionstitchsurtido-10962939/p
-Jugueteria,Figura de Colección DC Comics|Flash,239.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionflash-10911649/p
-Jugueteria,Figura de Colección DC Comics|Superman|Mini,239.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionsuperman-10911648/p
-Jugueteria,Figura de Colección DC Comics|Joker|Mini,239.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionjoker-10911651/p
-Jugueteria,Figura de Colección DC Comics|Superman,399.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionsuperman-10911655/p
-Jugueteria,Figura de Colección DC Comics|Wonder Woman,399.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionwonder-women-10911657/p
-Jugueteria,Figura de Colección Harry Potter|Ron Weasly,479.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionron-weasly7-10962970/p
-Jugueteria,Figura de Colección Harry Potter|Hermione,479.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionhermione7-10962971/p
+Jugueteria,Scooter con Peluche de Stich|3 Ruedas,3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/scooter-3d-de-stich3-ruedas-10967148/p
+Jugueteria,Scooter de Stich|3 Ruedas,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/scooter-de-stich3-ruedas-10975166/p
+Jugueteria,Almohada de Viaje Stitch,799.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/peluche-de-stich-10991676/p
+Jugueteria,Mochila de Stitch,1699.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/mochila-de-stitch-10991681/p
+Jugueteria,Deslizador Stitch Racer Board,2299.00 USD (x1),2299.00 USD (x1),https://www.elmachetazo.com/deslizador-stitch-racer-board-10969298/p
+Jugueteria,Figura de Colección Looney Tunes|Marvin,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionmarvin-10962959/p
+Jugueteria,Figura de Colección Looney Tunes|Lola Bunny,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionlolabunny-10962957/p
+Jugueteria,Figura de Colección Looney Tunes|Sylvester,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionsylvester-10962958/p
+Jugueteria,Figura De Colección Looney Tunes|Tweety,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-colecciontweety-10962956/p
+Jugueteria,Figura de Colección Looney Tunes|Taz,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-colecciontaz-10962955/p
+Jugueteria,Figura De Colección|Bugs Bunny,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionbugs-bunny-10962954/p
+Jugueteria,Figura De Colección|Stitch|Surtido,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionstitchsurtido-10962939/p
+Jugueteria,Figura de Colección DC Comics|Flash,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionflash-10911649/p
+Jugueteria,Figura de Colección DC Comics|Superman|Mini,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionsuperman-10911648/p
+Jugueteria,Figura de Colección DC Comics|Joker|Mini,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionjoker-10911651/p
+Jugueteria,Figura de Colección DC Comics|Superman,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionsuperman-10911655/p
+Jugueteria,Figura de Colección DC Comics|Wonder Woman,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionwonder-women-10911657/p
+Jugueteria,Figura de Colección Harry Potter|Ron Weasly,599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionron-weasly7-10962970/p
+Jugueteria,Figura de Colección Harry Potter|Hermione,599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/figura-de-coleccionhermione7-10962971/p
 Jugueteria,Isla Inflable Intex Canopy,6999.00 USD (x1),17999.00 USD (x1),https://www.elmachetazo.com/isla-inflable-intex-canopy-10855018/p
 Jugueteria,"Patineta He Man con Luces|22""x 6""",999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/patineta-he-man-con-luces22x-6-10955688/p
 Jugueteria,"Patineta Spider Man|31"" x 8""",1299.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/patineta-spider-man31-x-8-10860150/p
@@ -4703,226 +4692,226 @@ Jugueteria,"Bicicleta XT Lila con Canasta|20""",9999.00 USD (x1),9999.00 USD (x1
 Jugueteria,"Bicicleta XT Azul con Canasta|20""",9999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/bicicleta-xt-azul-con-canasta20-10951789/p
 Jugueteria,"Bicicleta Eastern Fat Bike|Rines 20""|Roja",23999.00 USD (x1),23999.00 USD (x1),https://www.elmachetazo.com/bicicleta-eastern-fat-bikerines-20roja-10952395/p
 Jugueteria,"Bicicleta Eastern Fat Bike|Rines 24""|Gris",25999.00 USD (x1),25999.00 USD (x1),https://www.elmachetazo.com/bicicleta-eastern-fat-bikerines-24gris-10952394/p
-Jugueteria,Scooter de Stich|3 Ruedas,2959.00 USD (x1),3699.00 USD (x1),https://www.elmachetazo.com/scooter-de-stich3-ruedas-10975170/p
-Jugueteria,Scooter de Avengers|3 Ruedas,1839.00 USD (x1),2299.00 USD (x1),https://www.elmachetazo.com/scooter-de-avengers3-ruedas-10354795/p
-Jugueteria,Scooter de Spiderman 3D con Luces|3 Ruedas,3199.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/scooter-de-spiderman-3d-con-luces3-ruedas-10967147/p
-Jugueteria,Scooter de Stich|3 Ruedas,1839.00 USD (x1),2299.00 USD (x1),https://www.elmachetazo.com/scooter-de-stich3-ruedas-10975168/p
-Jugueteria,Carro Metal Machine,111.00 USD (x1),139.00 USD (x1),https://www.elmachetazo.com/carro-metal-machine-10957841/p
-Jugueteria,Pista Zuru Metal Machines|Ataque de T-Rex,1439.00 USD (x1),1799.00 USD (x1),https://www.elmachetazo.com/pista-zuru-metal-machinesataque-de-t-rex-10957843/p
-Jugueteria,Pista Zuru Metal Machines|Ataque de Tiburon,1279.00 USD (x1),1599.00 USD (x1),https://www.elmachetazo.com/pista-zuru-metal-machinesataque-de-tiburon-10957844/p
-Jugueteria,Pista Zuru Metal Machines|Construcción en Demolición,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/pista-zuru-metal-machinesconstruccion-en-demolicion-10957845/p
-Jugueteria,Pista Zuru Metal Machines|Spider,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/pista-zuru-metal-machinesspider-10957846/p
-Jugueteria,Pets Alive Smitten Kitten,1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/pets-alive-smitten-kitten-10957847/p
-Jugueteria,Pokemon Caterpie|Surtida,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/pokemon-caterpiesurtida-10957972/p
-Jugueteria,Peluche Pokemon Squirtle,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/peluche-pokemon-squirtle-10957976/p
-Jugueteria,Pets Alive Magical Unicorn,1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/pets-alive-magical-unicorn-10957848/p
-Jugueteria,Pets Alive The Twerking Pug,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/pets-alive-the-twerking-pug-10957849/p
-Jugueteria,Pets Alive The Walking Puppy,2799.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/pets-alive-the-walking-puppy-10957850/p
-Jugueteria,Peluche La Granja de Zenon|20 cm|Surtido,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/peluche-la-granja-de-zenon20-cmsurtido-10866124/p
-Jugueteria,Peluche La Granja de Zenon|20 cm|Surtido,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/peluche-la-granja-de-zenon20-cmsurtido-10866125/p
-Jugueteria,Peluche La Granja de Zenon|36 cm|Surtido,1759.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/peluche-la-granja-de-zenon36-cmsurtido-10866126/p
-Jugueteria,Peluche La Granja de Zenon|Lorito Pepe,2239.00 USD (x1),2799.00 USD (x1),https://www.elmachetazo.com/peluche-la-granja-de-zenonlorito-pepe-10866129/p
-Jugueteria,Peluche La Granja de Zenon|Abrazable,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/peluche-la-granja-de-zenonabrazable-10866132/p
-Jugueteria,Adopt Me Plush Surprise,1039.00 USD (x1),1299.00 USD (x1),https://www.elmachetazo.com/adopt-me-plush-surprise-10957917/p
+Jugueteria,Scooter de Stich|3 Ruedas,3699.00 USD (x1),3699.00 USD (x1),https://www.elmachetazo.com/scooter-de-stich3-ruedas-10975170/p
+Jugueteria,Scooter de Avengers|3 Ruedas,2299.00 USD (x1),2299.00 USD (x1),https://www.elmachetazo.com/scooter-de-avengers3-ruedas-10354795/p
+Jugueteria,Scooter de Spiderman 3D con Luces|3 Ruedas,3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/scooter-de-spiderman-3d-con-luces3-ruedas-10967147/p
+Jugueteria,Scooter de Stich|3 Ruedas,2299.00 USD (x1),2299.00 USD (x1),https://www.elmachetazo.com/scooter-de-stich3-ruedas-10975168/p
+Jugueteria,Carro Metal Machine,139.00 USD (x1),139.00 USD (x1),https://www.elmachetazo.com/carro-metal-machine-10957841/p
+Jugueteria,Pista Zuru Metal Machines|Ataque de T-Rex,1799.00 USD (x1),1799.00 USD (x1),https://www.elmachetazo.com/pista-zuru-metal-machinesataque-de-t-rex-10957843/p
+Jugueteria,Pista Zuru Metal Machines|Ataque de Tiburon,1599.00 USD (x1),1599.00 USD (x1),https://www.elmachetazo.com/pista-zuru-metal-machinesataque-de-tiburon-10957844/p
+Jugueteria,Pista Zuru Metal Machines|Construcción en Demolición,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/pista-zuru-metal-machinesconstruccion-en-demolicion-10957845/p
+Jugueteria,Pista Zuru Metal Machines|Spider,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/pista-zuru-metal-machinesspider-10957846/p
+Jugueteria,Pets Alive Smitten Kitten,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/pets-alive-smitten-kitten-10957847/p
+Jugueteria,Pokemon Caterpie|Surtida,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/pokemon-caterpiesurtida-10957972/p
+Jugueteria,Peluche Pokemon Squirtle,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/peluche-pokemon-squirtle-10957976/p
+Jugueteria,Pets Alive Magical Unicorn,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/pets-alive-magical-unicorn-10957848/p
+Jugueteria,Pets Alive The Twerking Pug,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/pets-alive-the-twerking-pug-10957849/p
+Jugueteria,Pets Alive The Walking Puppy,3499.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/pets-alive-the-walking-puppy-10957850/p
+Jugueteria,Peluche La Granja de Zenon|20 cm|Surtido,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/peluche-la-granja-de-zenon20-cmsurtido-10866124/p
+Jugueteria,Peluche La Granja de Zenon|20 cm|Surtido,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/peluche-la-granja-de-zenon20-cmsurtido-10866125/p
+Jugueteria,Peluche La Granja de Zenon|36 cm|Surtido,2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/peluche-la-granja-de-zenon36-cmsurtido-10866126/p
+Jugueteria,Peluche La Granja de Zenon|Lorito Pepe,2799.00 USD (x1),2799.00 USD (x1),https://www.elmachetazo.com/peluche-la-granja-de-zenonlorito-pepe-10866129/p
+Jugueteria,Peluche La Granja de Zenon|Abrazable,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/peluche-la-granja-de-zenonabrazable-10866132/p
+Jugueteria,Adopt Me Plush Surprise,1299.00 USD (x1),1299.00 USD (x1),https://www.elmachetazo.com/adopt-me-plush-surprise-10957917/p
 Jugueteria,Adopt Me Figura de Amigos|Surtido,999.00 USD (x1),1299.00 USD (x1),https://www.elmachetazo.com/adopt-me-figura-de-amigossurtido-10957918/p
-Jugueteria,Super Saiyan Broly,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/super-saiyan-broly-10866259/p
-Jugueteria,Figura Dragon Ball Z Super Saiyan Blue Gogeta,1759.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/figura-dragon-ball-z-super-saiyan-blue-gogeta-10866271/p
-Jugueteria,Adopt Me Plush,1359.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/adopt-me-plush-10957920/p
-Jugueteria,Multipack de Mascotas,2159.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/multipack-de-mascotas-10957926/p
-Jugueteria,Figura Cobra Kai,639.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/figura-cobra-kai-10957929/p
-Jugueteria,Figura Shark Bite 2,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/figura-shark-bite-2-10957930/p
-Jugueteria,Muñeca Gabby Doll House,879.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/muneca-gabby-doll-house-10957944/p
-Jugueteria,Maquina de Raspado Gabby Doll House,1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/maquina-de-raspado-gabby-doll-house-10957949/p
-Jugueteria,Figura Dragon Ball Gogeta|Azul,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/figura-dragon-ball-gogetaazul-10912570/p
-Jugueteria,Figura Dragon Ball Gogeta|Rojo,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/figura-dragon-ball-gogetarojo-10866244/p
+Jugueteria,Super Saiyan Broly,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/super-saiyan-broly-10866259/p
+Jugueteria,Figura Dragon Ball Z Super Saiyan Blue Gogeta,2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/figura-dragon-ball-z-super-saiyan-blue-gogeta-10866271/p
+Jugueteria,Adopt Me Plush,1699.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/adopt-me-plush-10957920/p
+Jugueteria,Multipack de Mascotas,2699.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/multipack-de-mascotas-10957926/p
+Jugueteria,Figura Cobra Kai,799.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/figura-cobra-kai-10957929/p
+Jugueteria,Figura Shark Bite 2,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/figura-shark-bite-2-10957930/p
+Jugueteria,Muñeca Gabby Doll House,1099.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/muneca-gabby-doll-house-10957944/p
+Jugueteria,Maquina de Raspado Gabby Doll House,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/maquina-de-raspado-gabby-doll-house-10957949/p
+Jugueteria,Figura Dragon Ball Gogeta|Azul,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/figura-dragon-ball-gogetaazul-10912570/p
+Jugueteria,Figura Dragon Ball Gogeta|Rojo,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/figura-dragon-ball-gogetarojo-10866244/p
 Jugueteria,Scooters de 3 Ruedas,2999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/scooters-de-3-ruedas-10951355/p
 Jugueteria,Carro Montable de Policía,9999.00 USD (x1),19999.00 USD (x1),https://www.elmachetazo.com/carro-montable-de-policia-10951359/p
-Jugueteria,Carro Montable|Azul,15999.00 USD (x1),19999.00 USD (x1),https://www.elmachetazo.com/carro-montableazul-10951360/p
-Jugueteria,Carro Montable|Rojo,15999.00 USD (x1),19999.00 USD (x1),https://www.elmachetazo.com/carro-montablerojo-10951361/p
+Jugueteria,Carro Montable|Azul,19999.00 USD (x1),19999.00 USD (x1),https://www.elmachetazo.com/carro-montableazul-10951360/p
+Jugueteria,Carro Montable|Rojo,19999.00 USD (x1),19999.00 USD (x1),https://www.elmachetazo.com/carro-montablerojo-10951361/p
 Jugueteria,Carro de Choque Montable|Púrpura,9999.00 USD (x1),17999.00 USD (x1),https://www.elmachetazo.com/carro-de-choque-montablepurpura-10951364/p
-Jugueteria,Piscina Rectangular Intex|Rosada|2.2 M x 1.5 M x 60 cm,7999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/piscina-rectangular-intexrosada22-m-x-15-m-x-60-cm-10955656/p
-Jugueteria,Flotador de Cactus Intex,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/flotador-de-cactus-intex-10955664/p
-Jugueteria,Flotador de Autobus Intex,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/flotador-de-autobus-intex-10955665/p
-Jugueteria,Flotador de Nubes Arcoiris Intex,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/flotador-de-nubes-arcoiris-intex-10955666/p
-Jugueteria,Flotador de Corazon Intex,1359.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/flotador-de-corazon-intex-10955667/p
-Jugueteria,Mascara de Natación Intex|Surtida,399.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/mascara-de--natacion-intexsurtida-10728646/p
-Jugueteria,Gorras de Natación Intex|Surtida,239.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/gorras-de-natacion-intexsurtida-10916497/p
-Jugueteria,"Chaleco de Natación para Niños Intex|16"" X 12""",319.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/chaleco-de-natacion-para-ninos-intex16-x-12-10955661/p
-Jugueteria,"Salvavida para Bebe Intex|Surtido|32""",479.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/salvavida-para-bebe-intexsurtido32-10626348/p
+Jugueteria,Piscina Rectangular Intex|Rosada|2.2 M x 1.5 M x 60 cm,9999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/piscina-rectangular-intexrosada22-m-x-15-m-x-60-cm-10955656/p
+Jugueteria,Flotador de Cactus Intex,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/flotador-de-cactus-intex-10955664/p
+Jugueteria,Flotador de Autobus Intex,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/flotador-de-autobus-intex-10955665/p
+Jugueteria,Flotador de Nubes Arcoiris Intex,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/flotador-de-nubes-arcoiris-intex-10955666/p
+Jugueteria,Flotador de Corazon Intex,1699.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/flotador-de-corazon-intex-10955667/p
+Jugueteria,Mascara de Natación Intex|Surtida,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/mascara-de--natacion-intexsurtida-10728646/p
+Jugueteria,Gorras de Natación Intex|Surtida,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/gorras-de-natacion-intexsurtida-10916497/p
+Jugueteria,"Chaleco de Natación para Niños Intex|16"" X 12""",399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/chaleco-de-natacion-para-ninos-intex16-x-12-10955661/p
+Jugueteria,"Salvavida para Bebe Intex|Surtido|32""",599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/salvavida-para-bebe-intexsurtido32-10626348/p
 Jugueteria,"Pelota Inflable de Playa Intex|42""",299.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/pelota-inflable-de-playa-intex42-10598052/p
 Jugueteria,Juego de Columpios de 2 Funciones,12999.00 USD (x1),16999.00 USD (x1),https://www.elmachetazo.com/juego-de-columpios-de-2-funciones-10955673/p
 Jugueteria,"Figura de Thanos|9.5""",999.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/figura-de-thanos95-10817641/p
-Jugueteria,Peppa Pig Vehiculo Mini Caravana,1192.00 USD (x1),1490.00 USD (x1),https://www.elmachetazo.com/peppa-pig-vehiculo-mini-caravana-10863900/p
-Jugueteria,Peppa Pig Pequeño Helicoptero,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/peppa-pig-pequeno-helicoptero-10863902/p
-Jugueteria,Peppa Pig Vehiculo Pequeño Rojo,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/peppa-pig-vehiculo-pequeno-rojo-10863901/p
+Jugueteria,Peppa Pig Vehiculo Mini Caravana,1490.00 USD (x1),1490.00 USD (x1),https://www.elmachetazo.com/peppa-pig-vehiculo-mini-caravana-10863900/p
+Jugueteria,Peppa Pig Pequeño Helicoptero,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/peppa-pig-pequeno-helicoptero-10863902/p
+Jugueteria,Peppa Pig Vehiculo Pequeño Rojo,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/peppa-pig-vehiculo-pequeno-rojo-10863901/p
 Jugueteria,Mini Cubeta Play Doh|Surtido,399.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/mini-cubeta-play-dohsurtido-10683222/p
-Jugueteria,Mesa Creativa Play Doh 2en1,6399.00 USD (x1),7999.00 USD (x1),https://www.elmachetazo.com/mesa-creativa-play-doh-2en1-10910129/p
+Jugueteria,Mesa Creativa Play Doh 2en1,7999.00 USD (x1),7999.00 USD (x1),https://www.elmachetazo.com/mesa-creativa-play-doh-2en1-10910129/p
 Jugueteria,Tobogán My First Slide Little Tikes,3999.00 USD (x1),6999.00 USD (x1),https://www.elmachetazo.com/tobogan-my-first-slide-little-tikes-10864231/p
 Jugueteria,LOL Muñeca Surprise Sunshine Makeover,1299.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/lol-muneca-surprise-sunshine-makeover-10911261/p
 Jugueteria,Kitty-Cat Camper de Na Na Na Surprise!,1999.00 USD (x1),16399.00 USD (x1),https://www.elmachetazo.com/kitty-cat-camper-de-na-na-na-surprise-10818061/p
 Jugueteria,L.O.L. ¡Sorpresa! Muñeca Baile con Accesorios,499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/lol-sorpresa-muneca-baile-con-accesorios-10838342/p
 Jugueteria,"Bicicleta de Frozen|20""",10999.00 USD (x1),10999.00 USD (x1),https://www.elmachetazo.com/bicicleta-de-frozen20-10922351/p
-Jugueteria,Lanzador X-Shot|8 Dardos|Surtido,399.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/lanzador-x-shot8-dardossurtido-10957835/p
-Jugueteria,Lanzador X-Shot Grafiti Ninja,1039.00 USD (x1),1299.00 USD (x1),https://www.elmachetazo.com/lanzador-x-shot-grafiti-ninja-10957838/p
-Jugueteria,Lanzador X-Shot Apocalypse|12 Dardos,1279.00 USD (x1),1599.00 USD (x1),https://www.elmachetazo.com/lanzador-x-shot-apocalypse12-dardos-10957839/p
-Jugueteria,Lanzador X-Shot Sonic|12 Dardos,1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/lanzador-x-shot-sonic12-dardos-10957840/p
-Jugueteria,"Peluche de Pikachu|10""",1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/peluche-de-pikachu10-10957983/p
-Jugueteria,Carro a Control Remoto Team Sonic Racing|Sonic,3199.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/carro-a-control-remoto-team-sonic-racingsonic-10957827/p
-Jugueteria,Carro a Control Remoto Team Sonic Racing|Sonic Shadow,3199.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/carro-a-control-remoto-team-sonic-racingsonic-shadow-10957828/p
-Jugueteria,Auto Pull Back Sonic|Azul,719.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/auto-pull-back-sonicazul-10957831/p
-Jugueteria,Auto Pull Back Sonic|Negro,719.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/auto-pull-back-sonicnegro-10957832/p
-Jugueteria,Auto Pull Back Knuckles|Amarillo,719.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/auto-pull-back-knucklesamarillo-10957833/p
-Jugueteria,Rummikub Portatil,716.00 USD (x1),895.00 USD (x1),https://www.elmachetazo.com/rummikub-portatil-10958757/p
-Jugueteria,Rummikub Portatil,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/rummikub-portatil-10958758/p
-Jugueteria,Rummikub Clasico,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/rummikub-clasico-10958759/p
-Jugueteria,Rummikub 6 Jugadores,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/rummikub-6-jugadores-10958760/p
-Jugueteria,Tableta 3 en 1 Gabby Doll House,2159.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/tableta-3-en-1-gabby-doll-house-10957951/p
-Jugueteria,Mochila Gabby Doll House,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/mochila-gabby-doll-house-10957953/p
-Jugueteria,Mochila Mensajera Gabby Doll House,1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/mochila-mensajera-gabby-doll-house-10957954/p
+Jugueteria,Lanzador X-Shot|8 Dardos|Surtido,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/lanzador-x-shot8-dardossurtido-10957835/p
+Jugueteria,Lanzador X-Shot Grafiti Ninja,1299.00 USD (x1),1299.00 USD (x1),https://www.elmachetazo.com/lanzador-x-shot-grafiti-ninja-10957838/p
+Jugueteria,Lanzador X-Shot Apocalypse|12 Dardos,1599.00 USD (x1),1599.00 USD (x1),https://www.elmachetazo.com/lanzador-x-shot-apocalypse12-dardos-10957839/p
+Jugueteria,Lanzador X-Shot Sonic|12 Dardos,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/lanzador-x-shot-sonic12-dardos-10957840/p
+Jugueteria,"Peluche de Pikachu|10""",1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/peluche-de-pikachu10-10957983/p
+Jugueteria,Carro a Control Remoto Team Sonic Racing|Sonic,3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/carro-a-control-remoto-team-sonic-racingsonic-10957827/p
+Jugueteria,Carro a Control Remoto Team Sonic Racing|Sonic Shadow,3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/carro-a-control-remoto-team-sonic-racingsonic-shadow-10957828/p
+Jugueteria,Auto Pull Back Sonic|Azul,899.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/auto-pull-back-sonicazul-10957831/p
+Jugueteria,Auto Pull Back Sonic|Negro,899.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/auto-pull-back-sonicnegro-10957832/p
+Jugueteria,Auto Pull Back Knuckles|Amarillo,899.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/auto-pull-back-knucklesamarillo-10957833/p
+Jugueteria,Rummikub Portatil,895.00 USD (x1),895.00 USD (x1),https://www.elmachetazo.com/rummikub-portatil-10958757/p
+Jugueteria,Rummikub Portatil,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/rummikub-portatil-10958758/p
+Jugueteria,Rummikub Clasico,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/rummikub-clasico-10958759/p
+Jugueteria,Rummikub 6 Jugadores,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/rummikub-6-jugadores-10958760/p
+Jugueteria,Tableta 3 en 1 Gabby Doll House,2699.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/tableta-3-en-1-gabby-doll-house-10957951/p
+Jugueteria,Mochila Gabby Doll House,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/mochila-gabby-doll-house-10957953/p
+Jugueteria,Mochila Mensajera Gabby Doll House,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/mochila-mensajera-gabby-doll-house-10957954/p
 Jugueteria,Barbie Edición Especial Zafiro,1499.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/barbie-edicion-especial-zafiro-10965008/p
-Jugueteria,Gabby's Dollhouse Set De Juego|Surtido,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/gabbys-dollhouse-set-de-juegosurtido-10927893/p
-Jugueteria,Gabby'S Dollhouse Camara De Gatito,1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/gabbys-dollhouse-camara-de-gatito-10960512/p
-Jugueteria,Go Glam Set Diseño Uñas Brillantes,959.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/go-glam-set-diseno-unas-brillantes-10965624/p
-Jugueteria,Tech Deck Tabla Basica 96Mm X 1 M52|Surtido,399.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/tech-deck-tabla-basica-96mm-x-1-m52surtido-10971273/p
-Jugueteria,Tech Deck Sk8 Crew Set De Inicio|Surtido,1439.00 USD (x1),1799.00 USD (x1),https://www.elmachetazo.com/tech-deck-sk8-crew-set-de-iniciosurtido-10971275/p
-Jugueteria,Unicorn Academy Unicornio Wildstar con Luces,3999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/unicorn-academy-unicornio-wildstar-con-luces-10965626/p
-Jugueteria,Unicorn Academy Baby Unicornios|Surtido,559.00 USD (x1),699.00 USD (x1),https://www.elmachetazo.com/unicorn-academy-baby-unicorniossurtido-10965627/p
-Jugueteria,Unicorn Academy Muñeca de Unicornio|Surtido,1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/unicorn-academy-muneca-de-unicorniosurtido-10971279/p
-Jugueteria,"Batman Batimoto|4""",2319.00 USD (x1),2899.00 USD (x1),https://www.elmachetazo.com/batman-batimoto4-10960505/p
-Jugueteria,Fingerlings Mono Interactivo 2.0|Surtido,2159.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/fingerlings-mono-interactivo-20surtido-10960520/p
-Jugueteria,Fingerlings Unicornio Interactivo 2.0 Gigi,2159.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/fingerlings-unicornio-interactivo-20-gigi-10960521/p
-Jugueteria,Little Live Pets Set Mama Sorpresa,1839.00 USD (x1),2299.00 USD (x1),https://www.elmachetazo.com/little-live-pets-mamma-sorpresa-set-juego-10927954/p
-Jugueteria,Gabby'S Dollhouse Muñeca de Viaje,1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/gabbys-dollhouse-muneca-de-viaje-10971262/p
-Jugueteria,Go Glam Set Foil Estampado de Uñas,959.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/go-glam-set-foil-estampado-de-unas-10971261/p
-Jugueteria,Monster Jam|Escala 1:64|2 Piezas|Surtido,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/monster-jamescala-1642-piezassurtido-10971267/p
-Jugueteria,"Set de Batman|8 Piezas|6""",3199.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/set-de-batman8-piezas6-10971257/p
-Jugueteria,Hatchimals Alive Rainbow Splash,639.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/hatchimals-alive-rainbow-splash-10971265/p
-Jugueteria,Hatchimals Alive Secret,479.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/hatchimals-alive-secret-10971266/p
-Jugueteria,Unicorn Academy Sophia & Wildstar con Luces,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/unicorn-academy-sophia--wildstar-con-luces-10971277/p
-Jugueteria,Unicorn Academy Muñeca Sophia Baile Mascaras,2799.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/unicorn-academy-muneca-sophia-baile-mascaras-10965629/p
-Jugueteria,"Unicorn Academy Muneca Fashion|9,5"" X 1""|Surtido",1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/unicorn-academy-muneca-fashion95-x-1surtido-10971278/p
-Jugueteria,"Batman Giant Series Figura|12""|Surtido",1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/batman-giant-series-figura12surtido-10971256/p
-Jugueteria,Cool Maker Popstyle Set Expansion,1039.00 USD (x1),1299.00 USD (x1),https://www.elmachetazo.com/cool-maker-popstyle-set-expansion-10971260/p
-Jugueteria,Little Live Pets Cerdito,2959.00 USD (x1),3699.00 USD (x1),https://www.elmachetazo.com/little-live-pets-cerdito-10918007/p
-Jugueteria,Paw Patrol Vehiculo Basico|Surtido,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/paw-patrol-vehiculo-basicosurtido-10971268/p
-Jugueteria,Polly Pocket Compacto de Jardín Conejo,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/polly-pocket-compacto-de-jardin-conejo-10969137/p
-Jugueteria,Jurassic World Set Camion Mission Mayhem,3599.00 USD (x1),4499.00 USD (x1),https://www.elmachetazo.com/jurassic-world-set-camion-mission-mayhem-10964982/p
-Jugueteria,Disney Frozen Elsa y Anna||Muñecas Surtidas,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/disney-frozen-elsa-y-annamunecas-surtidas-10969140/p
-Jugueteria,Polly Pocket Mini Mundo de Mascotas|Surtido,639.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/polly-pocket-mini-mundo-de-mascotassurtido-10964990/p
-Jugueteria,Hot Wheels City Némesis Cocodrilo,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/hot-wheels-city-nemesis-cocodrilo-10969138/p
+Jugueteria,Gabby's Dollhouse Set De Juego|Surtido,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/gabbys-dollhouse-set-de-juegosurtido-10927893/p
+Jugueteria,Gabby'S Dollhouse Camara De Gatito,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/gabbys-dollhouse-camara-de-gatito-10960512/p
+Jugueteria,Go Glam Set Diseño Uñas Brillantes,1199.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/go-glam-set-diseno-unas-brillantes-10965624/p
+Jugueteria,Tech Deck Tabla Basica 96Mm X 1 M52|Surtido,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/tech-deck-tabla-basica-96mm-x-1-m52surtido-10971273/p
+Jugueteria,Tech Deck Sk8 Crew Set De Inicio|Surtido,1799.00 USD (x1),1799.00 USD (x1),https://www.elmachetazo.com/tech-deck-sk8-crew-set-de-iniciosurtido-10971275/p
+Jugueteria,Unicorn Academy Unicornio Wildstar con Luces,4999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/unicorn-academy-unicornio-wildstar-con-luces-10965626/p
+Jugueteria,Unicorn Academy Baby Unicornios|Surtido,699.00 USD (x1),699.00 USD (x1),https://www.elmachetazo.com/unicorn-academy-baby-unicorniossurtido-10965627/p
+Jugueteria,Unicorn Academy Muñeca de Unicornio|Surtido,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/unicorn-academy-muneca-de-unicorniosurtido-10971279/p
+Jugueteria,"Batman Batimoto|4""",2899.00 USD (x1),2899.00 USD (x1),https://www.elmachetazo.com/batman-batimoto4-10960505/p
+Jugueteria,Fingerlings Mono Interactivo 2.0|Surtido,2699.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/fingerlings-mono-interactivo-20surtido-10960520/p
+Jugueteria,Fingerlings Unicornio Interactivo 2.0 Gigi,2699.00 USD (x1),2699.00 USD (x1),https://www.elmachetazo.com/fingerlings-unicornio-interactivo-20-gigi-10960521/p
+Jugueteria,Little Live Pets Set Mama Sorpresa,2299.00 USD (x1),2299.00 USD (x1),https://www.elmachetazo.com/little-live-pets-mamma-sorpresa-set-juego-10927954/p
+Jugueteria,Gabby'S Dollhouse Muñeca de Viaje,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/gabbys-dollhouse-muneca-de-viaje-10971262/p
+Jugueteria,Go Glam Set Foil Estampado de Uñas,1199.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/go-glam-set-foil-estampado-de-unas-10971261/p
+Jugueteria,Monster Jam|Escala 1:64|2 Piezas|Surtido,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/monster-jamescala-1642-piezassurtido-10971267/p
+Jugueteria,"Set de Batman|8 Piezas|6""",3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/set-de-batman8-piezas6-10971257/p
+Jugueteria,Hatchimals Alive Rainbow Splash,799.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/hatchimals-alive-rainbow-splash-10971265/p
+Jugueteria,Hatchimals Alive Secret,599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/hatchimals-alive-secret-10971266/p
+Jugueteria,Unicorn Academy Sophia & Wildstar con Luces,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/unicorn-academy-sophia--wildstar-con-luces-10971277/p
+Jugueteria,Unicorn Academy Muñeca Sophia Baile Mascaras,3499.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/unicorn-academy-muneca-sophia-baile-mascaras-10965629/p
+Jugueteria,"Unicorn Academy Muneca Fashion|9,5"" X 1""|Surtido",2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/unicorn-academy-muneca-fashion95-x-1surtido-10971278/p
+Jugueteria,"Batman Giant Series Figura|12""|Surtido",1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/batman-giant-series-figura12surtido-10971256/p
+Jugueteria,Cool Maker Popstyle Set Expansion,1299.00 USD (x1),1299.00 USD (x1),https://www.elmachetazo.com/cool-maker-popstyle-set-expansion-10971260/p
+Jugueteria,Little Live Pets Cerdito,3699.00 USD (x1),3699.00 USD (x1),https://www.elmachetazo.com/little-live-pets-cerdito-10918007/p
+Jugueteria,Paw Patrol Vehiculo Basico|Surtido,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/paw-patrol-vehiculo-basicosurtido-10971268/p
+Jugueteria,Polly Pocket Compacto de Jardín Conejo,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/polly-pocket-compacto-de-jardin-conejo-10969137/p
+Jugueteria,Jurassic World Set Camion Mission Mayhem,4499.00 USD (x1),4499.00 USD (x1),https://www.elmachetazo.com/jurassic-world-set-camion-mission-mayhem-10964982/p
+Jugueteria,Disney Frozen Elsa y Anna||Muñecas Surtidas,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/disney-frozen-elsa-y-annamunecas-surtidas-10969140/p
+Jugueteria,Polly Pocket Mini Mundo de Mascotas|Surtido,799.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/polly-pocket-mini-mundo-de-mascotassurtido-10964990/p
+Jugueteria,Hot Wheels City Némesis Cocodrilo,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/hot-wheels-city-nemesis-cocodrilo-10969138/p
 Jugueteria,Barbie Crucero de los Sueños,3999.00 USD (x1),10999.00 USD (x1),https://www.elmachetazo.com/barbie-crucero-de-los-suenos-10962472/p
 Jugueteria,Barbie Pop! Reveal,799.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/barbie-pop-reveal-10953339/p
-Jugueteria,Dino Pelotitas Divertidas,3599.00 USD (x1),4499.00 USD (x1),https://www.elmachetazo.com/dino-pelotitas-divertidas-10952949/p
-Jugueteria,Andadera de Dos Lados Primeros Pasos,5599.00 USD (x1),6999.00 USD (x1),https://www.elmachetazo.com/andadera-de-dos-lados-primeros-pasos-10953156/p
-Jugueteria,Jurassic World Rastreo y Ataque Indoraptor,3999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/jurassic-world-rastreo-y-ataque-indoraptor-10953289/p
-Jugueteria,Disney Frozen Palacio de Arendelle de Anna Apilable,3199.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/disney-frozen-palacio-de-arendelle-de-anna-apilable-10953311/p
-Jugueteria,Jurassic World Velociraptor Blue|12’’,1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/jurassic-world-velociraptor-blue12-10910784/p
-Jugueteria,Monster High Skulltimate Sustos NeónTwyla,3999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/monster-high-skulltimate-sustos-neontwyla-10953297/p
-Jugueteria,Polly Pocket Compacto de Poodle Glam,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/polly-pocket-compacto-de-poodle-glam-10953300/p
+Jugueteria,Dino Pelotitas Divertidas,4499.00 USD (x1),4499.00 USD (x1),https://www.elmachetazo.com/dino-pelotitas-divertidas-10952949/p
+Jugueteria,Andadera de Dos Lados Primeros Pasos,6999.00 USD (x1),6999.00 USD (x1),https://www.elmachetazo.com/andadera-de-dos-lados-primeros-pasos-10953156/p
+Jugueteria,Jurassic World Rastreo y Ataque Indoraptor,4999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/jurassic-world-rastreo-y-ataque-indoraptor-10953289/p
+Jugueteria,Disney Frozen Palacio de Arendelle de Anna Apilable,3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/disney-frozen-palacio-de-arendelle-de-anna-apilable-10953311/p
+Jugueteria,Jurassic World Velociraptor Blue|12’’,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/jurassic-world-velociraptor-blue12-10910784/p
+Jugueteria,Monster High Skulltimate Sustos NeónTwyla,4999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/monster-high-skulltimate-sustos-neontwyla-10953297/p
+Jugueteria,Polly Pocket Compacto de Poodle Glam,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/polly-pocket-compacto-de-poodle-glam-10953300/p
 Jugueteria,Hot Wheels City Súper Estación de Gasolina,1699.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/hot-wheels-city-super-estacion-de-gasolina-10953314/p
-Jugueteria,Hot Wheels City Ataque de Cobra vs Pizzería,3999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/hot-wheels-city-ataque-de-cobra-vs-pizzeria-10953315/p
-Jugueteria,Hot Wheels City Super Tienda de Llantas,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/hot-wheels-city-super-tienda-de-llantas-10962465/p
-Jugueteria,Hot Wheels Track Builder Paquete Básico,799.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/hot-wheels-track-builder-paquete-basico-10803668/p
+Jugueteria,Hot Wheels City Ataque de Cobra vs Pizzería,4999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/hot-wheels-city-ataque-de-cobra-vs-pizzeria-10953315/p
+Jugueteria,Hot Wheels City Super Tienda de Llantas,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/hot-wheels-city-super-tienda-de-llantas-10962465/p
+Jugueteria,Hot Wheels Track Builder Paquete Básico,999.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/hot-wheels-track-builder-paquete-basico-10803668/p
 Jugueteria,Barbie Cámper de los Sueños,7999.00 USD (x1),12999.00 USD (x1),https://www.elmachetazo.com/barbie-camper-de-los-suenos-10863817/p
 Jugueteria,Barbie Sirenas|Muñecas Surtidas,599.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/barbie-sirenasmunecas-surtidas-10953336/p
 Jugueteria,Barbie Cutie Reveal Set de Pijamada,2999.00 USD (x1),6999.00 USD (x1),https://www.elmachetazo.com/barbie-cutie-reveal-set-de-pijamada-10953340/p
 Jugueteria,Barbie Nueva Casa Glam con Muñeca,3999.00 USD (x1),7499.00 USD (x1),https://www.elmachetazo.com/barbie-nueva-casa-glam-con-muneca-10962479/p
-Jugueteria,Polly Pocket Compacto de Pijamada Búho,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/polly-pocket-compacto-de-pijamada-buho-10953301/p
-Jugueteria,Disney Princesas Falda con Brillos|Muñecas Surtidas,1359.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/disney-princesas-falda-con-brillosmunecas-surtidas-10953303/p
-Jugueteria,Xilófono Gigante,3999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/xilofono-gigante-10952950/p
-Jugueteria,Dj Bouncy Salta Y Aprende,7199.00 USD (x1),8999.00 USD (x1),https://www.elmachetazo.com/dj-bouncy-salta-y-aprende-10953158/p
-Jugueteria,Dj Belle Salta Y Aprende,7199.00 USD (x1),8999.00 USD (x1),https://www.elmachetazo.com/dj-belle-salta-y-aprende-10953159/p
-Jugueteria,Jurassic World Alboroto Despiadado|Allosaurus,3999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/jurassic-world-alboroto-despiadadoallosaurus-10953288/p
-Jugueteria,Disney Princesa Ariel Cabello Cambios Sorpresa,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/disney-princesa-ariel-cabello-cambios-sorpresa-10953304/p
-Jugueteria,Disney Princesas Bailarina|Muñecas Surtidas,879.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/disney-princesas-bailarinamunecas-surtidas-10953305/p
-Jugueteria,Disney Princesa Súper Castillo de Ariel Apilable,5999.00 USD (x1),7499.00 USD (x1),https://www.elmachetazo.com/disney-princesa-super-castillo-de-ariel-apilable-10964992/p
+Jugueteria,Polly Pocket Compacto de Pijamada Búho,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/polly-pocket-compacto-de-pijamada-buho-10953301/p
+Jugueteria,Disney Princesas Falda con Brillos|Muñecas Surtidas,1699.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/disney-princesas-falda-con-brillosmunecas-surtidas-10953303/p
+Jugueteria,Xilófono Gigante,4999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/xilofono-gigante-10952950/p
+Jugueteria,Dj Bouncy Salta Y Aprende,8999.00 USD (x1),8999.00 USD (x1),https://www.elmachetazo.com/dj-bouncy-salta-y-aprende-10953158/p
+Jugueteria,Dj Belle Salta Y Aprende,8999.00 USD (x1),8999.00 USD (x1),https://www.elmachetazo.com/dj-belle-salta-y-aprende-10953159/p
+Jugueteria,Jurassic World Alboroto Despiadado|Allosaurus,4999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/jurassic-world-alboroto-despiadadoallosaurus-10953288/p
+Jugueteria,Disney Princesa Ariel Cabello Cambios Sorpresa,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/disney-princesa-ariel-cabello-cambios-sorpresa-10953304/p
+Jugueteria,Disney Princesas Bailarina|Muñecas Surtidas,1099.00 USD (x1),1099.00 USD (x1),https://www.elmachetazo.com/disney-princesas-bailarinamunecas-surtidas-10953305/p
+Jugueteria,Disney Princesa Súper Castillo de Ariel Apilable,7499.00 USD (x1),7499.00 USD (x1),https://www.elmachetazo.com/disney-princesa-super-castillo-de-ariel-apilable-10964992/p
 Jugueteria,Disney Collector Rapunzel Celebración,1999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/disney-collector-rapunzel-celebracion-10964955/p
-Jugueteria,Monster High Skulltimate Neon Frankie,3999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/monster-high-skulltimate-sustos-neon-frankie-monster-high-10953294-machetazo-10953294/p
-Jugueteria,Monster High Skulltimate Sustos Neón Ghoulia,3599.00 USD (x1),4499.00 USD (x1),https://www.elmachetazo.com/monster-high-skulltimate-sustos-neon-ghoulia-10953295/p
-Jugueteria,Polly Pocket Compacto de Bolsita Gatito,3199.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/polly-pocket-compacto-de-bolsita-gatito-10964989/p
-Jugueteria,HW City Paquete de Pistas,1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/hw-city-paquete-de-pistas-10953316/p
-Jugueteria,HW Action Need Speeders,1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/hw-action-need-speeders-10953318/p
+Jugueteria,Monster High Skulltimate Neon Frankie,4999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/monster-high-skulltimate-sustos-neon-frankie-monster-high-10953294-machetazo-10953294/p
+Jugueteria,Monster High Skulltimate Sustos Neón Ghoulia,4499.00 USD (x1),4499.00 USD (x1),https://www.elmachetazo.com/monster-high-skulltimate-sustos-neon-ghoulia-10953295/p
+Jugueteria,Polly Pocket Compacto de Bolsita Gatito,3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/polly-pocket-compacto-de-bolsita-gatito-10964989/p
+Jugueteria,HW City Paquete de Pistas,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/hw-city-paquete-de-pistas-10953316/p
+Jugueteria,HW Action Need Speeders,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/hw-action-need-speeders-10953318/p
 Jugueteria,Barbie Piscina Glam con Muñeca,999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/barbie-piscina-glam-con-muneca-10964943/p
 Jugueteria,Barbie Sirenas Sorpresa,799.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/barbie-sirenas-sorpresa-10953335/p
-Jugueteria,Disney Princesa Ariel Fiesta en la Piscina,3199.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/disney-princesa-ariel-fiesta-en-la-piscina-10969157/p
-Jugueteria,Disney Frozen Elsa y Anna||Muñecas Surtidas,1359.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/disney-frozen-elsa-y-annamunecas-surtidas-10969139/p
-Jugueteria,Polly Pocket Compacto de Bolsita Mama Mono,3199.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/polly-pocket-compacto-de-bolsita-chango-10969159/p
-Jugueteria,HW City Color Shifters Laboratorio Científico,3199.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/hw-city-color-shifters-laboratorio-cientifico-10522482/p
-Jugueteria,HW Action Circuito Giro Veloz,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/hw-action-circuito-giro-veloz-10969150/p
-Jugueteria,HW Action Pista Competencia Super Loop,3599.00 USD (x1),4499.00 USD (x1),https://www.elmachetazo.com/hw-action-pista-competencia-super-loop-10965013/p
+Jugueteria,Disney Princesa Ariel Fiesta en la Piscina,3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/disney-princesa-ariel-fiesta-en-la-piscina-10969157/p
+Jugueteria,Disney Frozen Elsa y Anna||Muñecas Surtidas,1699.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/disney-frozen-elsa-y-annamunecas-surtidas-10969139/p
+Jugueteria,Polly Pocket Compacto de Bolsita Mama Mono,3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/polly-pocket-compacto-de-bolsita-chango-10969159/p
+Jugueteria,HW City Color Shifters Laboratorio Científico,3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/hw-city-color-shifters-laboratorio-cientifico-10522482/p
+Jugueteria,HW Action Circuito Giro Veloz,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/hw-action-circuito-giro-veloz-10969150/p
+Jugueteria,HW Action Pista Competencia Super Loop,4499.00 USD (x1),4499.00 USD (x1),https://www.elmachetazo.com/hw-action-pista-competencia-super-loop-10965013/p
 Jugueteria,"Bicicleta de Niño|20""",7999.00 USD (x1),7999.00 USD (x1),https://www.elmachetazo.com/bicicleta-de-nino20-10851078/p
 Jugueteria,"Bicicleta de Niña|20""",7999.00 USD (x1),7999.00 USD (x1),https://www.elmachetazo.com/bicicleta-de-nina20-10851081/p
 Jugueteria,"Bicicleta De Niña|20""",9999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/bicicleta-de-nina20-10851084/p
-Jugueteria,Lente para Natación Aqua Burst|Surtido,159.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/lente-para-natacion-aqua-burstsurtido-10911414/p
-Jugueteria,Máscara para Bucear Dominator|Surtido,399.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/mascara-para-bucear-dominatorsurtido-10860410/p
-Jugueteria,Tablita De Natación ABC|Surtido,479.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/tablita-de-natacion-abcsurtido-10955962/p
-Jugueteria,Chaleco Salvavidas ABC con Mangas|Surtido,1359.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/chaleco-salvavidas-abc-con-mangassurtido-10955963/p
-Jugueteria,Chaleco Salvavidas ABC|Mediano|Surtido,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/chaleco-salvavidas-abcmedianosurtido-10955965/p
-Jugueteria,Flotador Inflable Tabla de Surf|Surtido,559.00 USD (x1),699.00 USD (x1),https://www.elmachetazo.com/flotador-inflable-tabla-de-surfsurtido-10955972/p
-Jugueteria,Colchón Inflable de Colores,799.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/colchon-inflable-de-colores-10955975/p
-Jugueteria,Tobogán Doble H2O GO,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/tobogan-doble-h2o-go-10955976/p
-Jugueteria,Piscina Inflable Acuario Fantástico,4399.00 USD (x1),5499.00 USD (x1),https://www.elmachetazo.com/piscina-inflable-acuario-fantastico-10955978/p
-Jugueteria,Piscina Inflable Polar,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/piscina-inflable-polar-10955979/p
-Jugueteria,Piscina Inflable Splash Jurásico,4399.00 USD (x1),5499.00 USD (x1),https://www.elmachetazo.com/piscina-inflable-splash-jurasico-10955980/p
+Jugueteria,Lente para Natación Aqua Burst|Surtido,199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/lente-para-natacion-aqua-burstsurtido-10911414/p
+Jugueteria,Máscara para Bucear Dominator|Surtido,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/mascara-para-bucear-dominatorsurtido-10860410/p
+Jugueteria,Tablita De Natación ABC|Surtido,599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/tablita-de-natacion-abcsurtido-10955962/p
+Jugueteria,Chaleco Salvavidas ABC con Mangas|Surtido,1699.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/chaleco-salvavidas-abc-con-mangassurtido-10955963/p
+Jugueteria,Chaleco Salvavidas ABC|Mediano|Surtido,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/chaleco-salvavidas-abcmedianosurtido-10955965/p
+Jugueteria,Flotador Inflable Tabla de Surf|Surtido,699.00 USD (x1),699.00 USD (x1),https://www.elmachetazo.com/flotador-inflable-tabla-de-surfsurtido-10955972/p
+Jugueteria,Colchón Inflable de Colores,999.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/colchon-inflable-de-colores-10955975/p
+Jugueteria,Tobogán Doble H2O GO,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/tobogan-doble-h2o-go-10955976/p
+Jugueteria,Piscina Inflable Acuario Fantástico,5499.00 USD (x1),5499.00 USD (x1),https://www.elmachetazo.com/piscina-inflable-acuario-fantastico-10955978/p
+Jugueteria,Piscina Inflable Polar,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/piscina-inflable-polar-10955979/p
+Jugueteria,Piscina Inflable Splash Jurásico,5499.00 USD (x1),5499.00 USD (x1),https://www.elmachetazo.com/piscina-inflable-splash-jurasico-10955980/p
 Jugueteria,"Piscina Redonda|10 X 26""|57457",5999.00 USD (x1),8499.00 USD (x1),https://www.elmachetazo.com/piscina-redonda10-x-2657457-10955981/p
-Jugueteria,Silla Inflable Cozy Critters,1039.00 USD (x1),1299.00 USD (x1),https://www.elmachetazo.com/silla-inflable-cozy-critters-10911461/p
-Jugueteria,Silla Inflable Astro Glow,1439.00 USD (x1),1799.00 USD (x1),https://www.elmachetazo.com/silla-inflable-astro-glow-10955987/p
-Jugueteria,Silla Inflable Mighty Mushroom,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/silla-inflable-mighty-mushroom-10955988/p
-Jugueteria,Chaleco Salvavidas de Minnie,1359.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/chaleco-salvavidas-de-minnie-10955990/p
-Jugueteria,Chaleco Salvavidas Mickey con Mangas,1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/chaleco-salvavidas-mickey--con-mangas-10947109/p
-Jugueteria,Chaleco Salvavidas de Mickey,1359.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/chaleco-salvavidas-de-mickey-10947111/p
-Jugueteria,Flotador Redondo de Mickey,319.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/flotador-redondo-de-mickey-10955991/p
-Jugueteria,Lente para natación Disney Princesas,319.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/lente-para-natacion-disney-princesas-10949384/p
-Jugueteria,Lente para natación Disney Princesas,479.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/lente-para-natacion-disney-princesas-10949390/p
+Jugueteria,Silla Inflable Cozy Critters,1299.00 USD (x1),1299.00 USD (x1),https://www.elmachetazo.com/silla-inflable-cozy-critters-10911461/p
+Jugueteria,Silla Inflable Astro Glow,1799.00 USD (x1),1799.00 USD (x1),https://www.elmachetazo.com/silla-inflable-astro-glow-10955987/p
+Jugueteria,Silla Inflable Mighty Mushroom,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/silla-inflable-mighty-mushroom-10955988/p
+Jugueteria,Chaleco Salvavidas de Minnie,1699.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/chaleco-salvavidas-de-minnie-10955990/p
+Jugueteria,Chaleco Salvavidas Mickey con Mangas,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/chaleco-salvavidas-mickey--con-mangas-10947109/p
+Jugueteria,Chaleco Salvavidas de Mickey,1699.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/chaleco-salvavidas-de-mickey-10947111/p
+Jugueteria,Flotador Redondo de Mickey,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/flotador-redondo-de-mickey-10955991/p
+Jugueteria,Lente para natación Disney Princesas,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/lente-para-natacion-disney-princesas-10949384/p
+Jugueteria,Lente para natación Disney Princesas,599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/lente-para-natacion-disney-princesas-10949390/p
 Jugueteria,Cocina de Juguete Mediana Step2|Rosada,3999.00 USD (x1),11999.00 USD (x1),https://www.elmachetazo.com/cocina-de-juguete-mediana-step2rosada-10953267/p
-Jugueteria,Trencito|Set con Accesorios|58 Piezas,1359.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/trencitoset-con-accesorios58-piezas-10614346/p
-Jugueteria,Mario Karts Carrito Luigi,6399.00 USD (x1),7999.00 USD (x1),https://www.elmachetazo.com/mario-karts-carrito-luigi-10914457/p
-Jugueteria,Juego de Mesa Clue Escape Midnight Hotel,1999.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-clue-escape-midnight-hotel-10910085/p
-Jugueteria,Juego de Mesa Clue Conspiracy,2799.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-clue-conspiracy-10910086/p
+Jugueteria,Trencito|Set con Accesorios|58 Piezas,1699.00 USD (x1),1699.00 USD (x1),https://www.elmachetazo.com/trencitoset-con-accesorios58-piezas-10614346/p
+Jugueteria,Mario Karts Carrito Luigi,7999.00 USD (x1),7999.00 USD (x1),https://www.elmachetazo.com/mario-karts-carrito-luigi-10914457/p
+Jugueteria,Juego de Mesa Clue Escape Midnight Hotel,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-clue-escape-midnight-hotel-10910085/p
+Jugueteria,Juego de Mesa Clue Conspiracy,3499.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-clue-conspiracy-10910086/p
 Jugueteria,Monopoly Star Wars Mandalorian,1999.00 USD (x1),5999.00 USD (x1),https://www.elmachetazo.com/monopoly-star-wars-mandalorian-10863930/p
-Jugueteria,Monopoly Junior 2 en 1,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/monopoly-junior-2-en-1-10909925/p
-Jugueteria,Monopoly Super Mario La Película,2799.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/monopoly-super-mario-la-pelicula-10909926/p
+Jugueteria,Monopoly Junior 2 en 1,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/monopoly-junior-2-en-1-10909925/p
+Jugueteria,Monopoly Super Mario La Película,3499.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/monopoly-super-mario-la-pelicula-10909926/p
 Jugueteria,Monopoly Chance,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/monopoly-chance-10910179/p
 Jugueteria,Camión Motor Rush|Luces y Sonido|Surtido,699.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/camion-motor-rushluces-y-sonidosurtido-10853211/p
-Jugueteria,Nintendo Super Mario Set Figuras Diorama,3199.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/nintendo-super-mario-set-figuras-diorama-10918021/p
-Jugueteria,Cubo Rubik´S Mini 2x2,719.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/cubo-rubiks-mini-2x2-10927890/p
-Jugueteria,Juego de Mesa Jumanji,1759.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-jumanji-10927940/p
-Jugueteria,Nintendo Super Mario Figura|Surtido,959.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/nintendo-super-mario-figurasurtido-10918023/p
-Jugueteria,Juego de Mesa Twister Junior,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-twister-junior-10910382/p
+Jugueteria,Nintendo Super Mario Set Figuras Diorama,3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/nintendo-super-mario-set-figuras-diorama-10918021/p
+Jugueteria,Cubo Rubik´S Mini 2x2,899.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/cubo-rubiks-mini-2x2-10927890/p
+Jugueteria,Juego de Mesa Jumanji,2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-jumanji-10927940/p
+Jugueteria,Nintendo Super Mario Figura|Surtido,1199.00 USD (x1),1199.00 USD (x1),https://www.elmachetazo.com/nintendo-super-mario-figurasurtido-10918023/p
+Jugueteria,Juego de Mesa Twister Junior,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-twister-junior-10910382/p
 Jugueteria,Juego de Mesa Connect 4 Spin,1299.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-connect-4-spin-10869679/p
 Jugueteria,Juego de Mesa Battleship Clásico,1699.00 USD (x1),2599.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-battleship-clasico-10863934/p
-Jugueteria,Paw Patrol Chase Vehiculo Transformable,5599.00 USD (x1),6999.00 USD (x1),https://www.elmachetazo.com/paw-patrol-chase-vehiculo-transformable-10927945/p
-Jugueteria,Paw Patrol Movie Peluche Básico|Surtido,1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/paw-patrol-movie-peluche-basicosurtido-10927946/p
-Jugueteria,Hot Wheels Camión con Herramientas|Luz y Sonido,1759.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/hot-wheels-camion-con-herramientasluz-y-sonido-10912764/p
-Jugueteria,Hot Wheels Fast Racer PullBack|Surtido,399.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/hot-wheels-fast-racer-pullbacksurtido-10912750/p
+Jugueteria,Paw Patrol Chase Vehiculo Transformable,6999.00 USD (x1),6999.00 USD (x1),https://www.elmachetazo.com/paw-patrol-chase-vehiculo-transformable-10927945/p
+Jugueteria,Paw Patrol Movie Peluche Básico|Surtido,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/paw-patrol-movie-peluche-basicosurtido-10927946/p
+Jugueteria,Hot Wheels Camión con Herramientas|Luz y Sonido,2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/hot-wheels-camion-con-herramientasluz-y-sonido-10912764/p
+Jugueteria,Hot Wheels Fast Racer PullBack|Surtido,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/hot-wheels-fast-racer-pullbacksurtido-10912750/p
 Jugueteria,Cubo Educativo Dolu 2 en 1,1499.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/cubo-educativo-dolu-2-en-1-10901840/p
-Jugueteria,Sonic Figura de Acción|Set 3 Piezas,799.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/sonic-figura-de-accionset-3-piezas-10912548/p
+Jugueteria,Sonic Figura de Acción|Set 3 Piezas,999.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/sonic-figura-de-accionset-3-piezas-10912548/p
 Jugueteria,Carro Montable Sahara|Radio-Mp3|12V,9999.00 USD (x1),29999.00 USD (x1),https://www.elmachetazo.com/carro-montable-sahararadio-mp312v-10901868/p
-Jugueteria,Carro Deportivo Dolu con Pedales,2799.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/carro-deportivo-dolu-con-pedales-10518220/p
-Jugueteria,Set de Cocina con Accesorios,1599.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/set-de-cocina-con-accesorios-10901858/p
+Jugueteria,Carro Deportivo Dolu con Pedales,3499.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/carro-deportivo-dolu-con-pedales-10518220/p
+Jugueteria,Set de Cocina con Accesorios,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/set-de-cocina-con-accesorios-10901858/p
 Jugueteria,Tobogán Dolu Junior,3999.00 USD (x1),5999.00 USD (x1),https://www.elmachetazo.com/tobogan-dolu-junior-10901854/p
-Jugueteria,Camión Volquete y Cargador|Set de 2 Piezas,559.00 USD (x1),699.00 USD (x1),https://www.elmachetazo.com/camion-volquete-y-cargadorset-de-2-piezas-10614356/p
-Jugueteria,Set de Boliche Infantil,799.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/set-de-boliche-infantil-10805921/p
-Jugueteria,Garaje de Juegos Dolu|4 Niveles|Accesorios,3199.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/garaje-de-juegos-dolu4-nivelesaccesorios-10901864/p
-Jugueteria,Garaje de Juegos Dolu|3 Niveles|Accesorios,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/garaje-de-juegos-dolu3-nivelesaccesorios-10901862/p
-Jugueteria,Bloques de Construcción Dolu Unicorn|100 Piezas,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/bloques-de-construccion-dolu-unicorn100-piezas-10901846/p
-Jugueteria,Bloques de Construcción|100 Piezas,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/bloques-de-construccion100-piezas-10901860/p
+Jugueteria,Camión Volquete y Cargador|Set de 2 Piezas,699.00 USD (x1),699.00 USD (x1),https://www.elmachetazo.com/camion-volquete-y-cargadorset-de-2-piezas-10614356/p
+Jugueteria,Set de Boliche Infantil,999.00 USD (x1),999.00 USD (x1),https://www.elmachetazo.com/set-de-boliche-infantil-10805921/p
+Jugueteria,Garaje de Juegos Dolu|4 Niveles|Accesorios,3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/garaje-de-juegos-dolu4-nivelesaccesorios-10901864/p
+Jugueteria,Garaje de Juegos Dolu|3 Niveles|Accesorios,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/garaje-de-juegos-dolu3-nivelesaccesorios-10901862/p
+Jugueteria,Bloques de Construcción Dolu Unicorn|100 Piezas,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/bloques-de-construccion-dolu-unicorn100-piezas-10901846/p
+Jugueteria,Bloques de Construcción|100 Piezas,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/bloques-de-construccion100-piezas-10901860/p
 Jugueteria,Carro Pick-Up Dolu,699.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/carro-pick-up-dolu-10455333/p
-Jugueteria,Naruto|Figura de Acción|Articulada 17 cm,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/narutofigura-de-accionarticulada-17-cm-10912573/p
-Jugueteria,"Kakashi|Figura de Acción|Articulada 12""",2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/kakashifigura-de-accionarticulada-12-10866227/p
-Jugueteria,"Dragon Ball Vegito Super Saiyan Blue|Figura Articulada|12""",1759.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-vegito-super-saiyan-blue-figura-articulada-12-10912565/p
-Jugueteria,"Dragon Ball Goku Ultra Instinto -SIGN-|Figura Articulada|12""",1759.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-ultra-instinto-sign-figura-articulada-12-10912563/p
-Jugueteria,"Dragon Ball Gohan Super Saiyan 2|Figura Articulada|12""",1759.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-gohan-super-saiyan-2-figura-articulada-12-10912585/p
-Jugueteria,"Dragon Ball Gohan|Figura Articulada|12""",1759.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-gohan-figura-articulada-12-10912562/p
-Jugueteria,"Dragon Ball Goku Saiyajin4 Limit Breaker|Figura de Acción|Articulada 12""",1759.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-saiyajin4-limit-breakerfigura-de-accionarticulada-12-10866222/p
-Jugueteria,"Dragon Ball Goku Black Limit Breaker|Figura de Acción|Articulada 12""",1759.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-black-limit-breakerfigura-de-accionarticulada-12-10912561/p
-Jugueteria,"Dragon Ball Goku Ultra Instint Limit Breaker|Figura de Acción|Articulada 12""",1759.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-ultra-instint-limit-breakerfigura-de-accionarticulada-12-10912584/p
-Jugueteria,"Dragon Ball Goku Ultra Instinto|Figura Articulada|5""",1199.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-ultra-instinto-figura-articulada-5-10866268/p
-Jugueteria,"DBZ Goku Super Saiyan|Figura 4""",559.00 USD (x1),699.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-super-saiyan-blue-figura-articulada-4-10912557/p
-Jugueteria,Piscina DuraPlus Bestway,2399.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/piscina-duraplus-bestway-10911429/p
-Jugueteria,Flotador Inflable Colchoneta Bestway Floral Fantasy|Surtido,479.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/flotador-inflable-colchoneta-bestway-floral-fantasysurtido-10911421/p
-Jugueteria,Flotador Inflable Colchoneta Bestway Fashion|Surtido,399.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/flotador-inflable-colchoneta--bestway-fashionsurtido-10911420/p
-Jugueteria,Flotador Inflable Colchoneta Bestway|Surtido,319.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/flotador-inflable-colchoneta-bestwaysurtido-10212788/p
+Jugueteria,Naruto|Figura de Acción|Articulada 17 cm,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/narutofigura-de-accionarticulada-17-cm-10912573/p
+Jugueteria,"Kakashi|Figura de Acción|Articulada 12""",2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/kakashifigura-de-accionarticulada-12-10866227/p
+Jugueteria,"Dragon Ball Vegito Super Saiyan Blue|Figura Articulada|12""",2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-vegito-super-saiyan-blue-figura-articulada-12-10912565/p
+Jugueteria,"Dragon Ball Goku Ultra Instinto -SIGN-|Figura Articulada|12""",2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-ultra-instinto-sign-figura-articulada-12-10912563/p
+Jugueteria,"Dragon Ball Gohan Super Saiyan 2|Figura Articulada|12""",2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-gohan-super-saiyan-2-figura-articulada-12-10912585/p
+Jugueteria,"Dragon Ball Gohan|Figura Articulada|12""",2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-gohan-figura-articulada-12-10912562/p
+Jugueteria,"Dragon Ball Goku Saiyajin4 Limit Breaker|Figura de Acción|Articulada 12""",2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-saiyajin4-limit-breakerfigura-de-accionarticulada-12-10866222/p
+Jugueteria,"Dragon Ball Goku Black Limit Breaker|Figura de Acción|Articulada 12""",2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-black-limit-breakerfigura-de-accionarticulada-12-10912561/p
+Jugueteria,"Dragon Ball Goku Ultra Instint Limit Breaker|Figura de Acción|Articulada 12""",2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-ultra-instint-limit-breakerfigura-de-accionarticulada-12-10912584/p
+Jugueteria,"Dragon Ball Goku Ultra Instinto|Figura Articulada|5""",1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-ultra-instinto-figura-articulada-5-10866268/p
+Jugueteria,"DBZ Goku Super Saiyan|Figura 4""",699.00 USD (x1),699.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-super-saiyan-blue-figura-articulada-4-10912557/p
+Jugueteria,Piscina DuraPlus Bestway,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/piscina-duraplus-bestway-10911429/p
+Jugueteria,Flotador Inflable Colchoneta Bestway Floral Fantasy|Surtido,599.00 USD (x1),599.00 USD (x1),https://www.elmachetazo.com/flotador-inflable-colchoneta-bestway-floral-fantasysurtido-10911421/p
+Jugueteria,Flotador Inflable Colchoneta Bestway Fashion|Surtido,499.00 USD (x1),499.00 USD (x1),https://www.elmachetazo.com/flotador-inflable-colchoneta--bestway-fashionsurtido-10911420/p
+Jugueteria,Flotador Inflable Colchoneta Bestway|Surtido,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/flotador-inflable-colchoneta-bestwaysurtido-10212788/p
 Jugueteria,Patineta Barbie Ruedas con Luces,799.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/patineta-barbie-ruedas-con-luces-10917464/p
 Jugueteria,Partines en Línea Barbie Talla Ajustable,1999.00 USD (x1),4999.00 USD (x1),https://www.elmachetazo.com/partines-en-linea-barbie-talla-ajustable-10917461/p
 Jugueteria,Mario Kart Circuito Set de Juego de Lanzador Bullet Bill,499.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/mario-kart-circuito-set-de-juego-de-lanzador-bullet-bill-10776314/p
@@ -5221,7 +5210,7 @@ Jugueteria,Hot Wheels Monster Trucks Escala 1:64,799.00 USD (x1),799.00 USD (x1)
 Jugueteria,Hot Wheels Desafío de Vueltas,7499.00 USD (x1),7499.00 USD (x1),https://www.elmachetazo.com/hot-wheels-desafio-de-vueltas-10830451/p
 Jugueteria,Polly Pocket Lila y su Conejito,899.00 USD (x1),899.00 USD (x1),https://www.elmachetazo.com/polly-pocket-lila-y-su-conejito-10803538/p
 Jugueteria,Dc Modern Batman Multiverse,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/dc-modern-batman-multiverse-10784321/p
-Jugueteria,"Dragon Ball Goku Super Saiyan|Figura Articulada|12""",1759.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-super-saiyan-figura-articulada-12-10821910/p
+Jugueteria,"Dragon Ball Goku Super Saiyan|Figura Articulada|12""",2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dragon-ball-goku-super-saiyan-figura-articulada-12-10821910/p
 Jugueteria,Teclado de Frozen,3999.00 USD (x1),3999.00 USD (x1),https://www.elmachetazo.com/teclado-de-frozen-10805955/p
 Jugueteria,Micrófono Frozen,1499.00 USD (x1),1499.00 USD (x1),https://www.elmachetazo.com/microfono-frozen-10805952/p
 Jugueteria,Dino Mat Kids Carrito con Sonido,2199.00 USD (x1),2199.00 USD (x1),https://www.elmachetazo.com/dino-mat-kids-carrito-con-sonido-10769938/p
@@ -5321,7 +5310,7 @@ Jugueteria,Scooter Paw Patrol de 3 Ruedas,2499.00 USD (x1),2499.00 USD (x1),http
 Jugueteria,Muñeca Frozen Elsa,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/muneca-frozen-elsa-10738439/p
 Jugueteria,Barbie Princesa|Muñeca Surtida,799.00 USD (x1),799.00 USD (x1),https://www.elmachetazo.com/barbie-princesamuneca-surtida-10583189/p
 Jugueteria,Juego de Mesa Operation Pet Scan,2999.00 USD (x1),2999.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-operation-pet-scan-10782279/p
-Jugueteria,Tractor Dolu Pedales con Remolque |Verde,6399.00 USD (x1),7999.00 USD (x1),https://www.elmachetazo.com/tractor-ranchero-de-pedales-con-remolqueverde-10518224/p
+Jugueteria,Tractor Dolu Pedales con Remolque |Verde,7999.00 USD (x1),7999.00 USD (x1),https://www.elmachetazo.com/tractor-ranchero-de-pedales-con-remolqueverde-10518224/p
 Jugueteria,Basketball Hoop|Aro Infantil,3499.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/basketball-hooparo-infantil-10728101/p
 Jugueteria,Trampolín Infantil|4.6 Pies,9999.00 USD (x1),9999.00 USD (x1),https://www.elmachetazo.com/trampolin-infantil46-pies-10787205/p
 Jugueteria,Hairdorables Hairmazing Muñeca de Moda,3799.00 USD (x1),3799.00 USD (x1),https://www.elmachetazo.com/hairdorables-hairmazing-muneca-de-moda-10782288/p
@@ -5362,6 +5351,7 @@ Jugueteria,Colchoneta Inflable Intex|Diseños Surtidos,199.00 USD (x1),499.00 US
 Jugueteria,"Piscina Rígida Intex Océano|6'X10""",1299.00 USD (x1),1299.00 USD (x1),https://www.elmachetazo.com/piscina-rigida-intex-oceano6x10-10070229/p
 Jugueteria,Juego de Mesa Speak Out Show Down,3499.00 USD (x1),3499.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-speak-out-show-down-10683514/p
 Jugueteria,Juego de Mesa ¿Qué Dijooo?,2899.00 USD (x1),2899.00 USD (x1),https://www.elmachetazo.com/juego-de-mesa-que-dijooo-10613038/p
+Jugueteria,Carrito Hot Wheels Línea Básica|Surtido,199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/carrito-hot-wheels-linea-basicasurtido-10304744/p
 Deportes,Polly Pocket Set Surtido de Deportes,2499.00 USD (x1),2499.00 USD (x1),https://www.elmachetazo.com/polly-pocket-set-surtido-de-deportes-10863979/p
 Deportes,Cars Set de Casco Rodilleras y Coderas,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/cars-set-de-casco-rodilleras-y-coderas-10229338/p
 Deportes,Princesas Set de Casco Rodilleras y Coderas,1999.00 USD (x1),1999.00 USD (x1),https://www.elmachetazo.com/princesas-set-de-casco-rodilleras-y-coderas-10229334/p
@@ -5527,7 +5517,6 @@ Sederia,Sticker para Mini Tablero,79.00 USD (x1),149.00 USD (x1),https://www.elm
 Sederia,Alambre De Bisutería|Dorado|12 mts,169.00 USD (x1),169.00 USD (x1),https://www.elmachetazo.com/alambre-de-bisuteriadorado12-mts-10875263/p
 Sederia,Sticker de Perlas|Dorada|6 mm,169.00 USD (x1),169.00 USD (x1),https://www.elmachetazo.com/sticker-de-perlasdorada6-mm-10901333/p
 Sederia,Cordón de Macramé|3 mm,299.00 USD (x1),299.00 USD (x1),https://www.elmachetazo.com/cordon-de-macrame3-mm-10923516/p
-Sederia,Accesorio de Bisutería|40 Piezas,169.00 USD (x1),169.00 USD (x1),https://www.elmachetazo.com/accesorio-de-bisuteria40-piezas-10886188/p
 Sederia,Flores de Papel Rosada|12 Piezas,169.00 USD (x1),169.00 USD (x1),https://www.elmachetazo.com/flores-de-papel-rosada12-piezas-10901298/p
 Sederia,Cordon de Yute,149.00 USD (x1),149.00 USD (x1),https://www.elmachetazo.com/cordon-de-yute-10857317/p
 Sederia,Alambre De Bisutería|Plateado,125.00 USD (x1),125.00 USD (x1),https://www.elmachetazo.com/alambre-de-bisuteriaplateado-10901241/p
@@ -5625,7 +5614,6 @@ Sederia,"Tijera Polka|3.75""",399.00 USD (x1),399.00 USD (x1),https://www.elmach
 Sederia,"Tijera Todo Uso|8""",179.00 USD (x1),179.00 USD (x1),https://www.elmachetazo.com/tijera-todo-uso8-10855251/p
 Sederia,Marcadores para Tela|Color Neon,179.00 USD (x1),179.00 USD (x1),https://www.elmachetazo.com/marcadores-para-telacolor-neon-10874000/p
 Sederia,Set de Hilos|45 Piezas,179.00 USD (x1),179.00 USD (x1),https://www.elmachetazo.com/set-de-hilos45-piezas-10855397/p
-Sederia,Imperdibles Dorados|175 Piezas,169.00 USD (x1),169.00 USD (x1),https://www.elmachetazo.com/imperdibles-dorados175-piezas-10930157/p
 Sederia,"Cinta Métrica|60""",169.00 USD (x1),169.00 USD (x1),https://www.elmachetazo.com/cinta-metrica60-10949903/p
 Sederia,Aguja de Mano|19 Piezas,149.00 USD (x1),149.00 USD (x1),https://www.elmachetazo.com/aguja-de-mano19-piezas-10855448/p
 Sederia,Cordones de Colores,179.00 USD (x1),179.00 USD (x1),https://www.elmachetazo.com/cordones-de-colores-10855535/p
@@ -5786,6 +5774,7 @@ Sederia,Pintura Pitaya,99.00 USD (x1),99.00 USD (x1),https://www.elmachetazo.com
 Sederia,Pintura Vermelo Profundo,99.00 USD (x1),99.00 USD (x1),https://www.elmachetazo.com/pintura-vermelo-profundo-10634500/p
 Sederia,Pintura Amarillo Oro,99.00 USD (x1),99.00 USD (x1),https://www.elmachetazo.com/pintura-amarillo-oro-10146157/p
 Sederia,Pintura Azul Celeste,99.00 USD (x1),99.00 USD (x1),https://www.elmachetazo.com/pintura-azul-celeste-10146155/p
+Fiestas,Adorno para Fiestas Patrias,99.00 USD (x1),99.00 USD (x1),https://www.elmachetazo.com/adorno-para-fiestas-patrias-11020155/p
 Fiestas,Adorno para Fiestas Patrias,99.00 USD (x1),99.00 USD (x1),https://www.elmachetazo.com/adorno-para-fiestas-patrias-11020154/p
 Fiestas,Adorno para Fiestas Patrias 60 cm,159.00 USD (x1),159.00 USD (x1),https://www.elmachetazo.com/adorno-para-fiestas-patrias-60-cm-11020157/p
 Fiestas,Adorno para Fiestas Patrias,99.00 USD (x1),99.00 USD (x1),https://www.elmachetazo.com/adorno-para-fiestas-patrias-11020159/p
@@ -5863,9 +5852,9 @@ Fiestas,Bolsa de Regalo|Azul Royal|S,79.00 USD (x1),79.00 USD (x1),https://www.e
 Fiestas,Bolsa de Regalo|Azul|L,149.00 USD (x1),149.00 USD (x1),https://www.elmachetazo.com/bolsa-de-regaloazull-10887962/p
 Fiestas,Bolsa de Regalo|Azul|M,99.00 USD (x1),99.00 USD (x1),https://www.elmachetazo.com/bolsa-de-regaloazulm-10887961/p
 Fiestas,Bolsa de Regalo|Azul|S,79.00 USD (x1),79.00 USD (x1),https://www.elmachetazo.com/bolsa-de-regaloazuls-10887960/p
-Fiestas,Casco de Bombero para Disfraz Infantil|Rojo,159.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/casco-de-bombero-para-disfraz-infantilrojo-10982428/p
-Fiestas,Casco de Bombero para Disfraz Infantil|Amarillo,159.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/casco-de-bombero-para-disfraz-infantilamarillo-10982432/p
-Fiestas,Casco de Bombero para Disfraz Infantil|Amarillo,159.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/casco-de-bombero-para-disfraz-infantilamarillo-10982429/p
+Fiestas,Casco de Bombero para Disfraz Infantil|Rojo,199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/casco-de-bombero-para-disfraz-infantilrojo-10982428/p
+Fiestas,Casco de Bombero para Disfraz Infantil|Amarillo,199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/casco-de-bombero-para-disfraz-infantilamarillo-10982432/p
+Fiestas,Casco de Bombero para Disfraz Infantil|Amarillo,199.00 USD (x1),199.00 USD (x1),https://www.elmachetazo.com/casco-de-bombero-para-disfraz-infantilamarillo-10982429/p
 Fiestas,Canasta De Pascua,399.00 USD (x1),399.00 USD (x1),https://www.elmachetazo.com/canasta-de-pascua-10987840/p
 Fiestas,Botella Plástica Princesa Disney,349.00 USD (x1),349.00 USD (x1),https://www.elmachetazo.com/botella-plastica-princesa-disney-10884467/p
 Fiestas,Botella con Carrizo Mickey|500ml,349.00 USD (x1),349.00 USD (x1),https://www.elmachetazo.com/botella-con-carrizo-de-mickey-500-ml-10884624-machetazo/p
